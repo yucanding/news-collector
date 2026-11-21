@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-21T13:56:55.972445Z",
+  "updated_utc": "2026-11-21T15:01:23.853074Z",
   "window_hours": 12,
   "sources_ok": [
     "terminal",
@@ -10,11 +10,24 @@
   "errors": [],
   "stale": false,
   "counts": {
-    "fetched": 999,
-    "inbox": 42,
-    "new": 0
+    "fetched": 640,
+    "inbox": 32,
+    "new": 1
   },
   "items": [
+    {
+      "id": "u:ec34d422d4bf3beb",
+      "title": "每日空头追踪：英特尔(INTC.US)卖空量激增2,692.72万，卖空成交比例达17%",
+      "summary": "",
+      "link": "https://news.futunn.com/post/1005270457?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-21T14:00:01Z",
+      "fetched_utc": "2026-11-21T15:01:23.853074Z",
+      "tickers": [
+        "INTC"
+      ],
+      "cats": []
+    },
     {
       "id": "u:7bcd8645e393000d",
       "title": "ANT、NVDA、PANW等：本周投资者热议的5只股票",
@@ -22,7 +35,7 @@
       "link": "https://news.futunn.com/post/1005269540?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-21T13:12:02Z",
-      "fetched_utc": "2026-11-21T13:56:55.972445Z",
+      "fetched_utc": "2026-11-21T15:01:23.853074Z",
       "tickers": [
         "NVDA"
       ],
@@ -35,7 +48,7 @@
       "link": "https://www.nytimes.com/2026/11/21/business/dealbook/elon-musk-dealbook-summit.html",
       "source": "NYT",
       "published_utc": "2026-11-21T13:00:06Z",
-      "fetched_utc": "2026-11-21T13:56:55.972445Z",
+      "fetched_utc": "2026-11-21T15:01:23.853074Z",
       "tickers": [
         "TSLA"
       ],
@@ -50,7 +63,7 @@
       "link": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
       "source": "CNBC",
       "published_utc": "2026-11-21T13:00:01Z",
-      "fetched_utc": "2026-11-21T13:56:55.972445Z",
+      "fetched_utc": "2026-11-21T15:01:23.853074Z",
       "tickers": [
         "NVDA"
       ],
@@ -63,7 +76,7 @@
       "link": "https://www.bloomberg.com/opinion/newsletters/2026-11-21/nike-s-investor-pitch-should-have-been-kardashian-free",
       "source": "BBG",
       "published_utc": "2026-11-21T13:00:01Z",
-      "fetched_utc": "2026-11-21T13:56:55.972445Z",
+      "fetched_utc": "2026-11-21T15:01:23.853074Z",
       "tickers": [
         "NKE"
       ],
@@ -76,7 +89,7 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-21/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout",
       "source": "BBG",
       "published_utc": "2026-11-21T13:00:00Z",
-      "fetched_utc": "2026-11-21T13:56:55.972445Z",
+      "fetched_utc": "2026-11-21T15:01:23.853074Z",
       "tickers": [
         "NVDA"
       ],
@@ -89,7 +102,7 @@
       "link": "https://news.futunn.com/post/1005267593?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-21T11:47:38Z",
-      "fetched_utc": "2026-11-21T13:56:55.972445Z",
+      "fetched_utc": "2026-11-21T15:01:23.853074Z",
       "tickers": [
         "AVGO",
         "GOOGL"
@@ -116,13 +129,27 @@
       "link_is_redirect": true
     },
     {
+      "id": "u:dd35096085a68abd",
+      "title": "英特尔放大招了，想在代工业务追上台积电",
+      "summary": "",
+      "link": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?futusource=news_search_searchnews&src=39#/index?id=nesSN2026112118471898c4ca20&s=b",
+      "source": "futu",
+      "published_utc": "2026-11-21T10:41:44Z",
+      "fetched_utc": "2026-11-21T15:01:23.853074Z",
+      "tickers": [
+        "INTC",
+        "TSM"
+      ],
+      "cats": []
+    },
+    {
       "id": "u:f5a61591a33c3918",
       "title": "The Danger of Jensen Huang’s Handshake Deals at Nvidia",
       "summary": "The ousted CEO once celebrated his no-contract deals but now they look like red flags.",
       "link": "https://www.wsj.com/business/nvidia-jensen-huang-deals-8750daf4?mod=pls_whats_news_us_business_f",
       "source": "WSJ",
       "published_utc": "2026-11-21T10:30:00Z",
-      "fetched_utc": "2026-11-21T13:56:55.972445Z",
+      "fetched_utc": "2026-11-21T15:01:23.853074Z",
       "tickers": [
         "NVDA"
       ],
@@ -135,7 +162,7 @@
       "link": "https://news.futunn.com/post/1005263731?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-21T09:44:57Z",
-      "fetched_utc": "2026-11-21T13:56:55.972445Z",
+      "fetched_utc": "2026-11-21T15:01:23.853074Z",
       "tickers": [
         "NVDA"
       ],
@@ -168,7 +195,7 @@
       "link": "https://www.ft.com/content/4ee4411d-3159-4f36-9b03-86f006ee0f1b?syn-25a6b1a6=1",
       "source": "FT",
       "published_utc": "2026-11-21T09:00:06Z",
-      "fetched_utc": "2026-11-21T13:56:55.972445Z",
+      "fetched_utc": "2026-11-21T15:01:23.853074Z",
       "tickers": [
         "NKE"
       ],
@@ -181,7 +208,7 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-21/italy-s-webuild-completes-takeover-of-construction-group-trevi",
       "source": "BBG",
       "published_utc": "2026-11-21T08:42:34Z",
-      "fetched_utc": "2026-11-21T13:56:55.972445Z",
+      "fetched_utc": "2026-11-21T15:01:23.853074Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -211,7 +238,7 @@
       "link": "https://news.futunn.com/post/1005260379?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-21T08:00:00Z",
-      "fetched_utc": "2026-11-21T13:56:55.972445Z",
+      "fetched_utc": "2026-11-21T15:01:23.853074Z",
       "tickers": [
         "NVDA"
       ],
@@ -237,7 +264,7 @@
       "link": "https://news.futunn.com/post/1005258898?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-21T07:31:28Z",
-      "fetched_utc": "2026-11-21T13:56:55.972445Z",
+      "fetched_utc": "2026-11-21T15:01:23.853074Z",
       "tickers": [
         "NVDA"
       ],
@@ -250,7 +277,7 @@
       "link": "https://news.futunn.com/post/1005256482?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-21T06:28:18Z",
-      "fetched_utc": "2026-11-21T13:56:55.972445Z",
+      "fetched_utc": "2026-11-21T15:01:23.853074Z",
       "tickers": [
         "AMZN",
         "NVDA"
@@ -281,7 +308,7 @@
       "link": "https://news.futunn.com/post/1005151437?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-21T06:00:03Z",
-      "fetched_utc": "2026-11-21T13:56:55.972445Z",
+      "fetched_utc": "2026-11-21T15:01:23.853074Z",
       "tickers": [
         "NVDA"
       ],
@@ -294,7 +321,7 @@
       "link": "https://news.futunn.com/post/1005254532?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-21T05:32:41Z",
-      "fetched_utc": "2026-11-21T13:56:55.972445Z",
+      "fetched_utc": "2026-11-21T15:01:23.853074Z",
       "tickers": [
         "AAPL"
       ],
@@ -321,7 +348,7 @@
       "link": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
       "source": "NYT",
       "published_utc": "2026-11-21T05:13:03Z",
-      "fetched_utc": "2026-11-21T13:56:55.972445Z",
+      "fetched_utc": "2026-11-21T15:01:23.853074Z",
       "tickers": [
         "NVDA"
       ],
@@ -348,7 +375,7 @@
       "link": "https://www.ft.com/content/a8a45cf2-f096-4f33-8df5-46a689bde104?syn-25a6b1a6=1",
       "source": "FT",
       "published_utc": "2026-11-21T05:00:35Z",
-      "fetched_utc": "2026-11-21T13:56:55.972445Z",
+      "fetched_utc": "2026-11-21T15:01:23.853074Z",
       "tickers": [],
       "cats": [
         "fed"
@@ -361,7 +388,7 @@
       "link": "https://www.ft.com/content/6f807d57-f0ea-4251-9f4d-75a6edc8d49a?syn-25a6b1a6=1",
       "source": "FT",
       "published_utc": "2026-11-21T05:00:26Z",
-      "fetched_utc": "2026-11-21T13:56:55.972445Z",
+      "fetched_utc": "2026-11-21T15:01:23.853074Z",
       "tickers": [
         "GOOGL"
       ],
@@ -374,7 +401,7 @@
       "link": "https://news.futunn.com/post/1005252998?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-21T04:51:30Z",
-      "fetched_utc": "2026-11-21T13:56:55.972445Z",
+      "fetched_utc": "2026-11-21T15:01:23.853074Z",
       "tickers": [
         "NVDA"
       ],
@@ -387,7 +414,7 @@
       "link": "https://news.futunn.com/post/1005252379?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-21T04:33:00Z",
-      "fetched_utc": "2026-11-21T13:56:55.972445Z",
+      "fetched_utc": "2026-11-21T15:01:23.853074Z",
       "tickers": [
         "NVDA"
       ],
@@ -400,7 +427,7 @@
       "link": "https://www.ft.com/content/77a283dd-b7af-4e72-8d83-9b53ab86f3e0?syn-25a6b1a6=1",
       "source": "FT",
       "published_utc": "2026-11-21T03:58:46Z",
-      "fetched_utc": "2026-11-21T13:56:55.972445Z",
+      "fetched_utc": "2026-11-21T15:01:23.853074Z",
       "tickers": [
         "NVDA"
       ],
@@ -413,7 +440,7 @@
       "link": "https://news.futunn.com/post/1005251704?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-21T03:52:34Z",
-      "fetched_utc": "2026-11-21T13:56:55.972445Z",
+      "fetched_utc": "2026-11-21T15:01:23.853074Z",
       "tickers": [
         "AMZN"
       ],
@@ -435,175 +462,6 @@
         "mna"
       ],
       "link_is_redirect": true
-    },
-    {
-      "id": "u:6f02001b20e2a1ce",
-      "title": "CrowdStrike in talks to buy Zscaler, Reuters reports - Digg",
-      "summary": "CrowdStrike in talks to buy Zscaler, Reuters reports Digg",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12VE9RNW5ENHVSU0lSaHhUSm10UVBqOWJ4ejJjMk5VcGltb0pKb0JuVE1CU3BEbTFZaGpscW1VV0lkS2Z2RzYxN3ZWZllXNjFxMnc?oc=5",
-      "source": "google-news:Digg",
-      "published_utc": "2026-11-21T02:43:42Z",
-      "fetched_utc": "2026-11-21T13:56:55.972445Z",
-      "tickers": [
-        "CRWD",
-        "ZS"
-      ],
-      "cats": [
-        "mna"
-      ],
-      "link_is_redirect": true
-    },
-    {
-      "id": "u:1d7ac39c5b3bfb87",
-      "title": "孙正义被曝拟豪赌存储芯片市场，曾考虑斥资 1 万亿美元收购 SK 海力士",
-      "summary": "深潮 TechFlow 消息，11 月 21 日，据 The Information 援引知情人士的话报道，软银 CEO 孙正义近期曾与华尔街机构接洽，探讨为可能以 1 万亿美元收购 SK 海力士融资。但软银发言人表示，孙正义已不再积极考虑该交易。 软银发言人表示：“软银一直在探索各种机会，目前已不再积极考虑这一方案。”报道指出，若软银推进这笔收购，将成为这家 OpenAI 投资方迄今最为大胆的一次布局，使孙正义得以进入具有重要战略价值的存储芯片市场。 孙正义甚至考虑过如此大胆、看似难以实现的交易，也足以体现其宏大的投资野心。鉴于软银的资产负债表已经因对 OpenAI 的投资而捉襟见肘，目前尚",
-      "link": "https://www.techflowpost.com/newsletter/146081",
-      "source": "TechFlow",
-      "published_utc": "2026-11-21T02:43:39Z",
-      "fetched_utc": "2026-11-21T13:56:55.972445Z",
-      "tickers": [],
-      "cats": [
-        "mna"
-      ]
-    },
-    {
-      "id": "u:f5cd0c2593d6cc00",
-      "title": "Who is George Kurtz? The CrowdStrike CEO reportedly in talks to buy Zscaler - Nacionale",
-      "summary": "Who is George Kurtz? The CrowdStrike CEO reportedly in talks to buy Zscaler Nacionale",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQlhoUzBKa0NDUk1tOVNJcnVyVnl2ZzRJZ1ZWZklURWVHdGkzTGdQR2FHUE11UFBSMDk4Y0tRcWEtVmxlLTh6QlR0blFwZzFuUjlTQTZobkFoWnpha2h6QnR2RTZXRUt5ZUVSMkxFRV9Lci16Ump5RTN6TFozYnlzeEl4ZDNpYjI1eFVMdWVCWHFQY09IT2hwOUdzWUxqRzZmYVRPTy03M2p1eWRnbHc?oc=5",
-      "source": "google-news:Nacionale",
-      "published_utc": "2026-11-21T02:42:00Z",
-      "fetched_utc": "2026-11-21T13:56:55.972445Z",
-      "tickers": [
-        "CRWD",
-        "ZS"
-      ],
-      "cats": [
-        "mna"
-      ],
-      "link_is_redirect": true
-    },
-    {
-      "id": "u:b1c0d55210f40782",
-      "title": "特朗普再度呼吁黄仁勋回归英伟达：希望他能获得第二次机会",
-      "summary": "深潮 TechFlow 消息，11 月 21 日，据 Politico 报道，美国总统特朗普周五在白宫新闻发布会上公开呼吁英伟达董事会重新任命前首席执行官黄仁勋，认为其领导能力对美国在人工智能领域保持领先优势至关重要。 特朗普表示：「我非常希望黄仁勋能够获得第二次机会。美国是一个愿意给予人们第二次机会的国家。」他强调，英伟达对美国至关重要，而黄仁勋的领导使美国在相关技术领域领先其他企业约 10 年。 特朗普还对英伟达现任领导层表达担忧，并特别提及 Blackwell 芯片的研发与发布，称英伟达内部只有极少数人具备黄仁勋这样的能力。",
-      "link": "https://www.techflowpost.com/newsletter/146079",
-      "source": "TechFlow",
-      "published_utc": "2026-11-21T02:39:40Z",
-      "fetched_utc": "2026-11-21T13:56:55.972445Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:0a623cec6d2e0f47",
-      "title": "Trump inks executive order on safeguarding executive privileges, boosting efficiency in federal contracting - White House",
-      "summary": "Trump inks executive order on safeguarding executive privileges, boosting efficiency in federal contracting - White House",
-      "link": "http://nitter.mizuki.st/movesurge/status/2123969263543480522#m",
-      "source": "X",
-      "published_utc": "2026-11-21T02:38:28Z",
-      "fetched_utc": "2026-11-21T13:56:55.972445Z",
-      "tickers": [],
-      "cats": [
-        "fed"
-      ]
-    },
-    {
-      "id": "u:a79f9d071b98a860",
-      "title": "Trump signs executive order on safeguarding executive privileges, boosting efficiency in federal contracting - White House",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9862779/Trump-signs-executive-order-on-safeguarding-executive-privileges-boosting-efficiency-in-federal-contracting---White-House.aspx?xy=rss",
-      "source": "FinancialJuice",
-      "published_utc": "2026-11-21T02:35:46Z",
-      "fetched_utc": "2026-11-21T13:56:55.972445Z",
-      "tickers": [],
-      "cats": [
-        "fed"
-      ]
-    },
-    {
-      "id": "u:ee62c7fbe4ebc26d",
-      "title": "SOFTBANK CEO MASAYOSHI SON EXPLORED A $1 TRILLION BUYOUT OF SK HYNIX: THE INFORMATION",
-      "summary": "*SOFTBANK CEO MASAYOSHI SON EXPLORED A $1 TRILLION BUYOUT OF SK HYNIX: THE INFORMATION *SOFTBANK SPOKESPERSON SAYS SK HYNIX TAKEOVER NO LONGER UNDER ACTIVE CONSIDERATION *SON SOUNDED OUT WALL STREET ON FINANCING MEGA-DEAL FOR MEMORY CHIP GIANT: REPORT $SKHY",
-      "link": "https://t.me/trad_fin/4968",
-      "source": "X",
-      "published_utc": "2026-11-21T02:31:24Z",
-      "fetched_utc": "2026-11-21T13:56:55.972445Z",
-      "tickers": [],
-      "cats": [
-        "mna"
-      ]
-    },
-    {
-      "id": "u:cdb631b0539d5da9",
-      "title": "传英特尔全球IT部门裁员！",
-      "summary": "",
-      "link": "https://news.futunn.com/post/1005248374?futusource=news_search_searchnews&src=39",
-      "source": "futu",
-      "published_utc": "2026-11-21T02:30:47Z",
-      "fetched_utc": "2026-11-21T13:56:55.972445Z",
-      "tickers": [
-        "INTC"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:e32d18881f57afda",
-      "title": "2.3万亿美元“灰飞烟灭”！美国芯片股上一次跌这么惨，还是2001年，英伟达已经“跌掉一个亚马逊”",
-      "summary": "",
-      "link": "https://news.futunn.com/post/1005247064?futusource=news_search_searchnews&src=39",
-      "source": "futu",
-      "published_utc": "2026-11-21T02:27:20Z",
-      "fetched_utc": "2026-11-21T13:56:55.972445Z",
-      "tickers": [
-        "AMZN",
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:fcc29296db4df1ac",
-      "title": "CrowdStrike in talks to acquire Zscaler, Reuters reports - qz.com",
-      "summary": "CrowdStrike in talks to acquire Zscaler, Reuters reports qz.com",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jN0NZLTRUUkxIblp6N012VmdsZTBwUHlFN1d1c3JZTDBlWWItRlVYUUVsaVlfeFpmZ2hHdzVLY2puZ2tzUEJHU2xCejdiWW4zZkF1bGlKREVCamFlWTAxR3JQcHBwWjZqZldYNHhaQVIzOWZ5b2dpMTJha0dRLTQ?oc=5",
-      "source": "google-news:qz.com",
-      "published_utc": "2026-11-21T02:22:11Z",
-      "fetched_utc": "2026-11-21T13:56:55.972445Z",
-      "tickers": [
-        "CRWD",
-        "ZS"
-      ],
-      "cats": [
-        "mna"
-      ],
-      "link_is_redirect": true
-    },
-    {
-      "id": "u:d5146c109ae459dd",
-      "title": "“大空头”投资者迈克尔·伯里减持英伟达看跌期权，锁定部分收益",
-      "summary": "",
-      "link": "https://news.futunn.com/post/1005246002?futusource=news_search_searchnews&src=39",
-      "source": "futu",
-      "published_utc": "2026-11-21T02:06:00Z",
-      "fetched_utc": "2026-11-21T13:56:55.972445Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:dd35096085a68abd",
-      "title": "英特尔中国今年两度变更董事长",
-      "summary": "",
-      "link": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?futusource=news_search_searchnews&src=39#/index?id=nesSN20261121104550974071f8&s=b",
-      "source": "futu",
-      "published_utc": "2026-11-21T02:00:55Z",
-      "fetched_utc": "2026-11-21T13:56:55.972445Z",
-      "tickers": [
-        "INTC"
-      ],
-      "cats": []
     }
   ]
 }
