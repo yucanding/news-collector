@@ -1,0 +1,49 @@
+name: News collector
+
+# 美股突发新闻采集器：每 5-10 分钟拉一次源，机械预筛后写 inbox.json，
+# 供 Muse 的推送轮次（实时快讯 / 凌晨扫描 / 盘前简报 / 盘后汇总）读。
+# 判断（市值、2 小时硬线、实质性、链接溯源）全部留给 Muse，本 Action 不推送、不判断。
+#
+# 排期（UTC；美东 = UTC-5，11 月为 EST）：
+#   5 分钟：美东 09:00-16:00（盘中忙时）
+#   10 分钟：美东 04:00-09:00、16:00-21:00；周日 18:00 起
+# 每月约 1,500-1,600 分钟（免费档 2,000 分钟），只跑标准库 Python，不装依赖。
+on:
+  schedule:
+    - cron: "*/5 14-20 * * 1-5"
+    - cron: "*/10 9-13,21-23 * * 1-5"
+    - cron: "*/10 0-1 * * 1-6"
+    - cron: "*/10 23 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news-collector
+  cancel-in-progress: true
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: 拉取代码
+        uses: actions/checkout@v4
+
+      - name: 采集并更新 inbox
+        run: python3 collector.py
+
+      - name: 看一眼 inbox
+        run: |
+          python3 -c "import json; d=json.load(open('inbox.json')); print('inbox:', d['counts'], 'sources_ok:', d['sources_ok'], 'errors:', d['errors'])"
+
+      # 有变化才提交；提交失败不报错，下次运行会重试（seen 未落盘时下轮会重捞同一批，不丢不重）
+      - name: 提交 inbox / seen
+        run: |
+          git config user.name "news-collector-bot"
+          git config user.email "news-collector-bot@users.noreply.github.com"
+          git pull --rebase || true
+          git add inbox.json seen.json
+          git diff --cached --quiet || git commit -m "collector: update inbox [skip ci]"
+          git push || echo "push 失败，下次运行重试"
