@@ -1,0 +1,361 @@
+{
+"AAOI": [
+"Applied Optoelectronics"
+],
+"AAON": [
+"AAON"
+],
+"AAPL": [
+"Apple",
+"苹果"
+],
+"ABBV": [
+"AbbVie"
+],
+"ABNB": [
+"Airbnb"
+],
+"ABVX": [
+"Abivax"
+],
+"ADBE": [
+"Adobe"
+],
+"AMAT": [
+"Applied Materials",
+"应用材料"
+],
+"AMD": [
+"Advanced Micro Devices"
+],
+"AMGN": [
+"Amgen"
+],
+"AMZN": [
+"Amazon",
+"亚马逊"
+],
+"ANET": [
+"Arista"
+],
+"ARM": [
+"Arm Holdings"
+],
+"ASML": [
+"ASML"
+],
+"AVGO": [
+"Broadcom",
+"博通"
+],
+"BA": [
+"Boeing",
+"波音"
+],
+"BABA": [
+"Alibaba",
+"阿里巴巴"
+],
+"BAC": [
+"Bank of America",
+"美国银行"
+],
+"BILI": [
+"Bilibili",
+"哔哩哔哩"
+],
+"BILL": [
+"Bill Holdings"
+],
+"CAT": [
+"Caterpillar",
+"卡特彼勒"
+],
+"CNC": [
+"Centene"
+],
+"COHR": [],
+"COIN": [
+"Coinbase"
+],
+"COST": [
+"Costco",
+"好市多"
+],
+"CRM": [
+"Salesforce"
+],
+"CRWD": [
+"CrowdStrike"
+],
+"CVS": [
+"CVS Health"
+],
+"DASH": [
+"DoorDash"
+],
+"DELL": [
+"Dell",
+"戴尔"
+],
+"DIS": [
+"Disney",
+"迪士尼"
+],
+"ELV": [
+"Elevance",
+"Elevance Health"
+],
+"F": [
+"Ford",
+"福特"
+],
+"FTNT": [
+"Fortinet"
+],
+"GAP": [],
+"GE": [
+"GE Aerospace",
+"General Electric"
+],
+"GILD": [
+"Gilead"
+],
+"GM": [
+"General Motors",
+"通用汽车"
+],
+"GOOGL": [
+"Google",
+"谷歌",
+"Alphabet"
+],
+"GPN": [
+"Global Payments"
+],
+"GS": [
+"Goldman Sachs",
+"高盛"
+],
+"HD": [
+"Home Depot",
+"家得宝"
+],
+"HON": [
+"Honeywell",
+"霍尼韦尔"
+],
+"HOOD": [
+"Robinhood"
+],
+"HPE": [
+"Hewlett Packard Enterprise"
+],
+"HUM": [
+"Humana"
+],
+"INTC": [
+"Intel",
+"英特尔"
+],
+"INTU": [
+"Intuit"
+],
+"JD": [
+"JD.com",
+"京东"
+],
+"JNJ": [
+"Johnson & Johnson",
+"强生"
+],
+"JPM": [
+"JPMorgan",
+"摩根大通"
+],
+"KLAC": [
+"KLA"
+],
+"LHX": [
+"L3Harris"
+],
+"LI": [
+"Li Auto",
+"理想汽车"
+],
+"LITE": [
+"Lumentum"
+],
+"LLY": [
+"Eli Lilly",
+"礼来"
+],
+"LMT": [
+"Lockheed Martin",
+"洛克希德"
+],
+"LRCX": [
+"Lam Research"
+],
+"MARA": [
+"MARA Holdings",
+"Marathon Digital"
+],
+"MCD": [
+"McDonald's",
+"麦当劳"
+],
+"META": [
+"Meta",
+"Facebook"
+],
+"MOH": [
+"Molina"
+],
+"MRK": [
+"Merck",
+"默克"
+],
+"MRVL": [
+"Marvell",
+"美满"
+],
+"MS": [
+"Morgan Stanley",
+"摩根士丹利"
+],
+"MSFT": [
+"Microsoft",
+"微软"
+],
+"MSTR": [
+"MicroStrategy"
+],
+"MU": [
+"Micron",
+"美光"
+],
+"NBIS": [
+"Nebius"
+],
+"NET": [
+"Cloudflare"
+],
+"NFLX": [
+"Netflix",
+"奈飞"
+],
+"NIO": [
+"NIO",
+"蔚来"
+],
+"NKE": [
+"Nike",
+"耐克"
+],
+"NOC": [
+"Northrop Grumman"
+],
+"NOW": [
+"ServiceNow"
+],
+"NVDA": [
+"NVIDIA",
+"英伟达"
+],
+"NVO": [
+"Novo Nordisk",
+"诺和诺德"
+],
+"ORCL": [
+"Oracle",
+"甲骨文"
+],
+"PANW": [
+"Palo Alto Networks"
+],
+"PDD": [
+"PDD Holdings",
+"拼多多"
+],
+"PFE": [
+"Pfizer",
+"辉瑞"
+],
+"PLTR": [
+"Palantir"
+],
+"QCOM": [
+"Qualcomm",
+"高通"
+],
+"RIVN": [
+"Rivian"
+],
+"RTX": [
+"RTX",
+"Raytheon",
+"雷神"
+],
+"SBUX": [
+"Starbucks",
+"星巴克"
+],
+"SHOP": [
+"Shopify"
+],
+"SMCI": [
+"Super Micro",
+"超微"
+],
+"SNDK": [
+"Sandisk",
+"SanDisk",
+"闪迪"
+],
+"SNOW": [
+"Snowflake"
+],
+"TGT": [],
+"TME": [
+"Tencent Music",
+"腾讯音乐"
+],
+"TSLA": [
+"Tesla",
+"特斯拉"
+],
+"TSM": [
+"Taiwan Semiconductor",
+"台积电"
+],
+"TTWO": [
+"Take-Two"
+],
+"TU": [
+"TELUS"
+],
+"UBER": [
+"Uber",
+"优步"
+],
+"UNH": [
+"UnitedHealth",
+"联合健康"
+],
+"WFC": [
+"Wells Fargo",
+"富国银行"
+],
+"WMT": [
+"Walmart",
+"沃尔玛"
+],
+"XPEV": [
+"XPeng",
+"小鹏"
+],
+"ZS": [
+"Zscaler"
+]
+}
