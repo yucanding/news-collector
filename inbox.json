@@ -1,1 +1,609 @@
-{"counts":{"fetched":0,"inbox":0,"new":0},"errors":[],"items":[],"sources_ok":[],"stale":false,"updated_utc":null,"window_hours":12}
+{
+  "updated_utc": "2026-11-21T13:56:03.397085Z",
+  "window_hours": 12,
+  "sources_ok": [
+    "terminal",
+    "futu",
+    "google-news",
+    "cms"
+  ],
+  "errors": [],
+  "stale": false,
+  "counts": {
+    "fetched": 994,
+    "inbox": 42,
+    "new": 42
+  },
+  "items": [
+    {
+      "id": "u:7bcd8645e393000d",
+      "title": "ANT、NVDA、PANW等：本周投资者热议的5只股票",
+      "summary": "",
+      "link": "https://news.futunn.com/post/1005269540?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-21T13:12:02Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:05e95e473993342e",
+      "title": "Elon Musk on His Politics, a Potential Merger and Ukraine",
+      "summary": "The chief executive of Tesla and SpaceX spoke with Andrew Ross Sorkin at the DealBook Summit.",
+      "link": "https://www.nytimes.com/2026/11/21/business/dealbook/elon-musk-dealbook-summit.html",
+      "source": "NYT",
+      "published_utc": "2026-11-21T13:00:06Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [
+        "TSLA"
+      ],
+      "cats": [
+        "mna"
+      ]
+    },
+    {
+      "id": "u:4418009a549f052f",
+      "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
+      "summary": "Anthropic held its historic Nasdaq debut a day before Nvidia's stock closed out its longest weekly losing streak since 2008.",
+      "link": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+      "source": "CNBC",
+      "published_utc": "2026-11-21T13:00:01Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:a2a9a53ff50c8650",
+      "title": "Nike’s Investor Pitch Should Have Been Kardashian-Free",
+      "summary": "Doubling down on the collab with Kim Kardashian comes just as tastes are moving in a different direction.",
+      "link": "https://www.bloomberg.com/opinion/newsletters/2026-11-21/nike-s-investor-pitch-should-have-been-kardashian-free",
+      "source": "BBG",
+      "published_utc": "2026-11-21T13:00:01Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [
+        "NKE"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:69cdb1d208c58023",
+      "title": "Wall Street Asks What Can Save AI Trade After Anthropic Wipeout",
+      "summary": "It’s been a tough month for the stock market, rocked by back-to-back punches from the stunning ouster of Jensen Huang from Nvidia Corp. and the Democrats’ decisive victory in the midterm elections.",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-21/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout",
+      "source": "BBG",
+      "published_utc": "2026-11-21T13:00:00Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:b98975d9b3fc37a2",
+      "title": "郭明錤：谷歌将明年博通设计TPU出货量下调20%，计划增加联发科份额",
+      "summary": "",
+      "link": "https://news.futunn.com/post/1005267593?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-21T11:47:38Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [
+        "AVGO",
+        "GOOGL"
+      ],
+      "cats": [
+        "kuo"
+      ]
+    },
+    {
+      "id": "u:b5f5561cef8984dc",
+      "title": "郭明錤：谷歌将明年博通设计TPU出货量下调20%，计划增加联发科份额 - 华尔街见闻",
+      "summary": "郭明錤：谷歌将明年博通设计TPU出货量下调20%，计划增加联发科份额 华尔街见闻",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IeHlsSGpzRDNjUkhSNUlsekI2ZVU5OXVxaXFDSDlVZUw0SURHVUJaT1RQMzR6enNYeWdiVWMyV094aG1pZklzb01QbTVPLUFSZWJV?oc=5",
+      "source": "google-news:华尔街见闻",
+      "published_utc": "2026-11-21T11:47:38Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [
+        "AVGO",
+        "GOOGL"
+      ],
+      "cats": [
+        "kuo"
+      ],
+      "link_is_redirect": true
+    },
+    {
+      "id": "u:f5a61591a33c3918",
+      "title": "The Danger of Jensen Huang’s Handshake Deals at Nvidia",
+      "summary": "The ousted CEO once celebrated his no-contract deals but now they look like red flags.",
+      "link": "https://www.wsj.com/business/nvidia-jensen-huang-deals-8750daf4?mod=pls_whats_news_us_business_f",
+      "source": "WSJ",
+      "published_utc": "2026-11-21T10:30:00Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:3f2e7440fdf4638d",
+      "title": "AI做空交易开始获利了结？“大空头”Burry称英伟达、半导体ETF看跌期权均减半",
+      "summary": "",
+      "link": "https://news.futunn.com/post/1005263731?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-21T09:44:57Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": [
+        "short",
+        "chip"
+      ]
+    },
+    {
+      "id": "u:ee632f4aa1beb754",
+      "title": "CrowdStrike crash 5% after Is in Talks to Buy Cybersecurity Firm Zscaler - FXLeaders",
+      "summary": "CrowdStrike crash 5% after Is in Talks to Buy Cybersecurity Firm Zscaler FXLeaders",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQmRYUEoyN0k3dk1WSllwakxmS3pfS3pUc2FKbXNWLThGRzNlZUdlc2xfanRGeUNJdUNfUk9Ma21kM1lubHdkaENhUnowc2stcG9CWjFGYkJfVDVybEtiMHdoSGR5UlNRWDBRaUJ5ZEsxdzY4ZFVOUkZudTExRUNqb2dKU0pTV1FEbkVyV0RVbGZXRXNVTjVTeWp5bzJXQ1JiRmE2dnljbTA2dGltTWRvMUl4ZlU?oc=5",
+      "source": "google-news:FXLeaders",
+      "published_utc": "2026-11-21T09:31:23Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [
+        "CRWD",
+        "ZS"
+      ],
+      "cats": [
+        "mna"
+      ],
+      "link_is_redirect": true
+    },
+    {
+      "id": "u:e57d9090bd356197",
+      "title": "Behind Manchester City’s Apollo talks",
+      "summary": "Also in today’s newsletter: Nike and Formula 1, Premier League club valuations and more",
+      "link": "https://www.ft.com/content/4ee4411d-3159-4f36-9b03-86f006ee0f1b?syn-25a6b1a6=1",
+      "source": "FT",
+      "published_utc": "2026-11-21T09:00:06Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [
+        "NKE"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:8575d137e8bed295",
+      "title": "Italy’s Webuild Completes Takeover of Construction Group Trevi",
+      "summary": "Webuild SpA, Italy’s biggest construction company, completed its tender offer for smaller competitor Trevi, adding to a string of acquisitions.",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-21/italy-s-webuild-completes-takeover-of-construction-group-trevi",
+      "source": "BBG",
+      "published_utc": "2026-11-21T08:42:34Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [],
+      "cats": [
+        "mna"
+      ]
+    },
+    {
+      "id": "u:d5c1c3e24eaa427c",
+      "title": "CrowdStrike reportedly in talks to buy Zscaler, valued at $32 billion - Pasquale Pillitteri",
+      "summary": "CrowdStrike reportedly in talks to buy Zscaler, valued at $32 billion Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY3c5Ml91cDFCOWlTdDQzWUI3NGd6Szh0c3lacHhIWTllX0lDNXBXSHdpZ040OEN0b1VyS2oxOWFSTW1zb3pnZTUyZmk0VFJ6YXVJdzJVT3VDMGdWM1psYy1DaXRyUzlhNkphLVVMSlpiaDVwaEdOcG82dWg0cjVtcVdoWHJlazg4X0RHT29jQ2k2ZmRtaUJOcExtb1JJcWFDS2c?oc=5",
+      "source": "google-news:Pasquale Pillitteri",
+      "published_utc": "2026-11-21T08:04:13Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [
+        "CRWD",
+        "ZS"
+      ],
+      "cats": [
+        "mna"
+      ],
+      "link_is_redirect": true
+    },
+    {
+      "id": "u:074cfa9bb7971ff2",
+      "title": "最新曝光！特朗普，买入英伟达、SpaceX",
+      "summary": "",
+      "link": "https://news.futunn.com/post/1005260379?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-21T08:00:00Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:8552bc6518ffa2f9",
+      "title": "马斯克：特斯拉 FSD V15 将于 12 月广泛发布",
+      "summary": "深潮 TechFlow 消息，11 月 21 日，特斯拉首席执行官马斯克发文表示，FSD V15 将于下个月广泛发布。 他认为，监督微调（SFT）应被纳入主要训练过程，AI 的默认行为应当合理，而不是依赖系统提示词。他称，特斯拉 AI 已采用上述方式，并表示其效率领先。",
+      "link": "https://www.techflowpost.com/newsletter/146112",
+      "source": "TechFlow",
+      "published_utc": "2026-11-21T07:32:22Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [
+        "TSLA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:fd69e82aefe9f443",
+      "title": "英伟达单日暴跌14%，但斌回应“清盘线”：部分基金只能被动减仓",
+      "summary": "",
+      "link": "https://news.futunn.com/post/1005258898?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-21T07:31:28Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:a29f01b2a4b8590a",
+      "title": "英伟达市值跌掉一个亚马逊",
+      "summary": "",
+      "link": "https://news.futunn.com/post/1005256482?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-21T06:28:18Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [
+        "AMZN",
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:4ec5d1376545040b",
+      "title": "CrowdStrike in Talks to Acquire Zscaler, a Deal That Would Rank Among Cybersecurity's Biggest Consolidations - BigGo Finance",
+      "summary": "CrowdStrike in Talks to Acquire Zscaler, a Deal That Would Rank Among Cybersecurity's Biggest Consolidations BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96WHg4dTJlTWVkeldDa0ZTM0ZPLTF2Q3lVV0RBTzJUZFk4aHJoaThOdTFBdXdKTS0zUzRPaGhNdGV3X3g3eXJWZndqTHFwQWszaE1NUGRHRmpnWGFrMjNQZFhRcFo1dTY3Ylh2NU4wLTJVRTJHOFE?oc=5",
+      "source": "google-news:BigGo Finance",
+      "published_utc": "2026-11-21T06:05:00Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [
+        "CRWD",
+        "ZS"
+      ],
+      "cats": [
+        "mna"
+      ],
+      "link_is_redirect": true
+    },
+    {
+      "id": "u:6ff18b272dbc24f8",
+      "title": "周末读物 | 脆弱地基上的超级帝国：黄仁勋靠什么控制英伟达33年",
+      "summary": "",
+      "link": "https://news.futunn.com/post/1005151437?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-21T06:00:03Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:ccfab304055ff2f9",
+      "title": "美国创企GG在印度起诉苹果 指控NameDrop功能侵权",
+      "summary": "",
+      "link": "https://news.futunn.com/post/1005254532?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-21T05:32:41Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [
+        "AAPL"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:3a5334450d82e45a",
+      "title": "KKR's Helix in talks to buy a majority of EdgeCore from Partners Group at an $8B to $10B valuation - Dealroom",
+      "summary": "KKR's Helix in talks to buy a majority of EdgeCore from Partners Group at an $8B to $10B valuation Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOW1uNmNqWG5ZOHlNeXkwRDhKMjJYUUhIUnZLUkVlMTMtU1htNjZJTi12MUFuV1B0LUwzc1Nqdng5czdILTR2bXVoTWNhZEszQVA2WTA1cU1XNWtxZ0ZlLTVnb3VPWUU1Sk81NG9XdlNEdEY3b3g1Y09UUl9lV0pDRUpFWTdNX005VW45ckRISV9CQXJrSEZpUlFPazhzWHQ5TFlnOVJvcUExSzRlUUItc3B5MnV2THViMTBWWGp5elFMRTBrNmJWOEdB?oc=5",
+      "source": "google-news:Dealroom",
+      "published_utc": "2026-11-21T05:32:30Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [],
+      "cats": [
+        "mna"
+      ],
+      "link_is_redirect": true
+    },
+    {
+      "id": "u:d19c235a281c785f",
+      "title": "Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military",
+      "summary": "Companies linked to Alice Huang, the woman at the heart of the Nvidia scandal, are part of a network of Chinese tech firms and defense contractors that need advanced computing power.",
+      "link": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
+      "source": "NYT",
+      "published_utc": "2026-11-21T05:13:03Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:e3621068cebda667",
+      "title": "NFL legend Tom Brady in talks to buy minority Chelsea stake - London Evening Standard",
+      "summary": "NFL legend Tom Brady in talks to buy minority Chelsea stake London Evening Standard",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSmI5ZGFydjYxeDlndXlsVksyVXVvNGx4bzN2Q014amVEMVAxVDBqLWM5ajFWRnM3TWNNTlZaNm9WUzF6dEM2Nm9QcXZCWWF0QnlSNE5ESm1GTklWQXZDT2FpdndoUzJZYnVkbXlabFJGeHBXX0p4azgzcF96eG54R3VRTjRQMHpCc0xPUTVGbGZKS0g0bmpTZXhmWEtwYUdPd2lj?oc=5",
+      "source": "google-news:London Evening Standard",
+      "published_utc": "2026-11-21T05:08:06Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [],
+      "cats": [
+        "mna"
+      ],
+      "link_is_redirect": true
+    },
+    {
+      "id": "u:a81be5013106de8b",
+      "title": "US watchdogs pick a bad time to cut disclosure on executive pay",
+      "summary": "The Securities and Exchange Commission has decided a more ‘principles-based’ regime is needed",
+      "link": "https://www.ft.com/content/a8a45cf2-f096-4f33-8df5-46a689bde104?syn-25a6b1a6=1",
+      "source": "FT",
+      "published_utc": "2026-11-21T05:00:35Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [],
+      "cats": [
+        "fed"
+      ]
+    },
+    {
+      "id": "u:a9a4a34500ee7f98",
+      "title": "Google DeepMind’s Henry Shevlin: ‘This is the most important part of being human’",
+      "summary": "The in-house philosopher on the problem of consciousness and what it might feel like to be an AI agent",
+      "link": "https://www.ft.com/content/6f807d57-f0ea-4251-9f4d-75a6edc8d49a?syn-25a6b1a6=1",
+      "source": "FT",
+      "published_utc": "2026-11-21T05:00:26Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [
+        "GOOGL"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:eb9a9f66a903e0f7",
+      "title": "英伟达、SK海力士暗盘大跌",
+      "summary": "",
+      "link": "https://news.futunn.com/post/1005252998?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-21T04:51:30Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:e80472ed3a49aea8",
+      "title": "风波不断，SEC查到英伟达会计，特朗普施压董事会",
+      "summary": "",
+      "link": "https://news.futunn.com/post/1005252379?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-21T04:33:00Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:ea1cc7479b08f0ff",
+      "title": "Nvidia affair puts Chinese spies in spotlight",
+      "summary": "Western officials and analysts say China’s Ministry of State Security is formidable in scale and technological capability",
+      "link": "https://www.ft.com/content/77a283dd-b7af-4e72-8d83-9b53ab86f3e0?syn-25a6b1a6=1",
+      "source": "FT",
+      "published_utc": "2026-11-21T03:58:46Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:1990079d40c4ab45",
+      "title": "马斯克：也许该给亚马逊添个对手，网友连名字都起好了",
+      "summary": "",
+      "link": "https://news.futunn.com/post/1005251704?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-21T03:52:34Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [
+        "AMZN"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:4029d22e0bf9105e",
+      "title": "CrowdStrike in talks to acquire cybersecurity firm Zscaler - Tech in Asia",
+      "summary": "CrowdStrike in talks to acquire cybersecurity firm Zscaler Tech in Asia",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc19NTmdGeVNQY2FKOGtyeGhMc2lJOFZQVkNodjhFQTRCbVh5UFZieFh4UGR4dHRfSzlQbk5jRzhHVnI4NHF3UkVzQUVYWU9tQXJpTUVmMHc1aWc4NHFTcXRudXRhV1F6TG9fNmlrU2Z3UGlmeUxJZ0tQS0hZVm0zX2ZrM1R4QWN5VEg3LQ?oc=5",
+      "source": "google-news:Tech in Asia",
+      "published_utc": "2026-11-21T03:19:00Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [
+        "CRWD",
+        "ZS"
+      ],
+      "cats": [
+        "mna"
+      ],
+      "link_is_redirect": true
+    },
+    {
+      "id": "u:6f02001b20e2a1ce",
+      "title": "CrowdStrike in talks to buy Zscaler, Reuters reports - Digg",
+      "summary": "CrowdStrike in talks to buy Zscaler, Reuters reports Digg",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12VE9RNW5ENHVSU0lSaHhUSm10UVBqOWJ4ejJjMk5VcGltb0pKb0JuVE1CU3BEbTFZaGpscW1VV0lkS2Z2RzYxN3ZWZllXNjFxMnc?oc=5",
+      "source": "google-news:Digg",
+      "published_utc": "2026-11-21T02:43:42Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [
+        "CRWD",
+        "ZS"
+      ],
+      "cats": [
+        "mna"
+      ],
+      "link_is_redirect": true
+    },
+    {
+      "id": "u:1d7ac39c5b3bfb87",
+      "title": "孙正义被曝拟豪赌存储芯片市场，曾考虑斥资 1 万亿美元收购 SK 海力士",
+      "summary": "深潮 TechFlow 消息，11 月 21 日，据 The Information 援引知情人士的话报道，软银 CEO 孙正义近期曾与华尔街机构接洽，探讨为可能以 1 万亿美元收购 SK 海力士融资。但软银发言人表示，孙正义已不再积极考虑该交易。 软银发言人表示：“软银一直在探索各种机会，目前已不再积极考虑这一方案。”报道指出，若软银推进这笔收购，将成为这家 OpenAI 投资方迄今最为大胆的一次布局，使孙正义得以进入具有重要战略价值的存储芯片市场。 孙正义甚至考虑过如此大胆、看似难以实现的交易，也足以体现其宏大的投资野心。鉴于软银的资产负债表已经因对 OpenAI 的投资而捉襟见肘，目前尚",
+      "link": "https://www.techflowpost.com/newsletter/146081",
+      "source": "TechFlow",
+      "published_utc": "2026-11-21T02:43:39Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [],
+      "cats": [
+        "mna"
+      ]
+    },
+    {
+      "id": "u:f5cd0c2593d6cc00",
+      "title": "Who is George Kurtz? The CrowdStrike CEO reportedly in talks to buy Zscaler - Nacionale",
+      "summary": "Who is George Kurtz? The CrowdStrike CEO reportedly in talks to buy Zscaler Nacionale",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQlhoUzBKa0NDUk1tOVNJcnVyVnl2ZzRJZ1ZWZklURWVHdGkzTGdQR2FHUE11UFBSMDk4Y0tRcWEtVmxlLTh6QlR0blFwZzFuUjlTQTZobkFoWnpha2h6QnR2RTZXRUt5ZUVSMkxFRV9Lci16Ump5RTN6TFozYnlzeEl4ZDNpYjI1eFVMdWVCWHFQY09IT2hwOUdzWUxqRzZmYVRPTy03M2p1eWRnbHc?oc=5",
+      "source": "google-news:Nacionale",
+      "published_utc": "2026-11-21T02:42:00Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [
+        "CRWD",
+        "ZS"
+      ],
+      "cats": [
+        "mna"
+      ],
+      "link_is_redirect": true
+    },
+    {
+      "id": "u:b1c0d55210f40782",
+      "title": "特朗普再度呼吁黄仁勋回归英伟达：希望他能获得第二次机会",
+      "summary": "深潮 TechFlow 消息，11 月 21 日，据 Politico 报道，美国总统特朗普周五在白宫新闻发布会上公开呼吁英伟达董事会重新任命前首席执行官黄仁勋，认为其领导能力对美国在人工智能领域保持领先优势至关重要。 特朗普表示：「我非常希望黄仁勋能够获得第二次机会。美国是一个愿意给予人们第二次机会的国家。」他强调，英伟达对美国至关重要，而黄仁勋的领导使美国在相关技术领域领先其他企业约 10 年。 特朗普还对英伟达现任领导层表达担忧，并特别提及 Blackwell 芯片的研发与发布，称英伟达内部只有极少数人具备黄仁勋这样的能力。",
+      "link": "https://www.techflowpost.com/newsletter/146079",
+      "source": "TechFlow",
+      "published_utc": "2026-11-21T02:39:40Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:0a623cec6d2e0f47",
+      "title": "Trump inks executive order on safeguarding executive privileges, boosting efficiency in federal contracting - White House",
+      "summary": "Trump inks executive order on safeguarding executive privileges, boosting efficiency in federal contracting - White House",
+      "link": "http://nitter.mizuki.st/movesurge/status/2123969263543480522#m",
+      "source": "X",
+      "published_utc": "2026-11-21T02:38:28Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [],
+      "cats": [
+        "fed"
+      ]
+    },
+    {
+      "id": "u:a79f9d071b98a860",
+      "title": "Trump signs executive order on safeguarding executive privileges, boosting efficiency in federal contracting - White House",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9862779/Trump-signs-executive-order-on-safeguarding-executive-privileges-boosting-efficiency-in-federal-contracting---White-House.aspx?xy=rss",
+      "source": "FinancialJuice",
+      "published_utc": "2026-11-21T02:35:46Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [],
+      "cats": [
+        "fed"
+      ]
+    },
+    {
+      "id": "u:ee62c7fbe4ebc26d",
+      "title": "SOFTBANK CEO MASAYOSHI SON EXPLORED A $1 TRILLION BUYOUT OF SK HYNIX: THE INFORMATION",
+      "summary": "*SOFTBANK CEO MASAYOSHI SON EXPLORED A $1 TRILLION BUYOUT OF SK HYNIX: THE INFORMATION *SOFTBANK SPOKESPERSON SAYS SK HYNIX TAKEOVER NO LONGER UNDER ACTIVE CONSIDERATION *SON SOUNDED OUT WALL STREET ON FINANCING MEGA-DEAL FOR MEMORY CHIP GIANT: REPORT $SKHY",
+      "link": "https://t.me/trad_fin/4968",
+      "source": "X",
+      "published_utc": "2026-11-21T02:31:24Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [],
+      "cats": [
+        "mna"
+      ]
+    },
+    {
+      "id": "u:cdb631b0539d5da9",
+      "title": "传英特尔全球IT部门裁员！",
+      "summary": "",
+      "link": "https://news.futunn.com/post/1005248374?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-21T02:30:47Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [
+        "INTC"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:e32d18881f57afda",
+      "title": "2.3万亿美元“灰飞烟灭”！美国芯片股上一次跌这么惨，还是2001年，英伟达已经“跌掉一个亚马逊”",
+      "summary": "",
+      "link": "https://news.futunn.com/post/1005247064?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-21T02:27:20Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [
+        "AMZN",
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:fcc29296db4df1ac",
+      "title": "CrowdStrike in talks to acquire Zscaler, Reuters reports - qz.com",
+      "summary": "CrowdStrike in talks to acquire Zscaler, Reuters reports qz.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jN0NZLTRUUkxIblp6N012VmdsZTBwUHlFN1d1c3JZTDBlWWItRlVYUUVsaVlfeFpmZ2hHdzVLY2puZ2tzUEJHU2xCejdiWW4zZkF1bGlKREVCamFlWTAxR3JQcHBwWjZqZldYNHhaQVIzOWZ5b2dpMTJha0dRLTQ?oc=5",
+      "source": "google-news:qz.com",
+      "published_utc": "2026-11-21T02:22:11Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [
+        "CRWD",
+        "ZS"
+      ],
+      "cats": [
+        "mna"
+      ],
+      "link_is_redirect": true
+    },
+    {
+      "id": "u:d5146c109ae459dd",
+      "title": "“大空头”投资者迈克尔·伯里减持英伟达看跌期权，锁定部分收益",
+      "summary": "",
+      "link": "https://news.futunn.com/post/1005246002?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-21T02:06:00Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:dd35096085a68abd",
+      "title": "英特尔中国今年两度变更董事长",
+      "summary": "",
+      "link": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?futusource=news_search_searchnews&src=39#/index?id=nesSN20261121104550974071f8&s=b",
+      "source": "futu",
+      "published_utc": "2026-11-21T02:00:55Z",
+      "fetched_utc": "2026-11-21T13:56:03.397085Z",
+      "tickers": [
+        "INTC"
+      ],
+      "cats": []
+    }
+  ]
+}
