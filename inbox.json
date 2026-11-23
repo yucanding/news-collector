@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-23T01:58:59.305527Z",
+  "updated_utc": "2026-11-23T04:58:47.439362Z",
   "window_hours": 12,
   "sources_ok": [
     "terminal",
@@ -9,24 +9,364 @@
   "errors": [],
   "stale": false,
   "counts": {
-    "fetched": 905,
-    "inbox": 49,
-    "new": 24
+    "fetched": 912,
+    "inbox": 60,
+    "new": 28
   },
   "items": [
     {
-      "id": "u:a47a9745cb494606",
-      "title": "Clariant, CD&R in talks to acquire Ashland, Bloomberg reports By Investing.com - Investing.com Canada",
-      "summary": "Clariant, CD&R in talks to acquire Ashland, Bloomberg reports By Investing.com Investing.com Canada",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaGV1SHVUVk9TYzRnWVEyVGxocEdSUDAxVGJBQVRkZTRQUWF1czR0clBGUktRcThNbFVHZWRuSkFld19WWVZkdEswdkdOLWtYXy1mTnZSWXd1b2xNeGgwcjlxNjlobEVQYzJOeDFXZzRUVkZLdGx6dkczVUstdHB2T0lGZVUxdGdLa0xXSE4xc3FhcXBqT05BUHFaU09KbzJOcHNyZmpOMGJHVUlQUGNRaHc0NnQ?oc=5",
-      "source": "google-news:Investing.com Canada",
-      "published_utc": "2026-11-23T01:49:08Z",
-      "fetched_utc": "2026-11-23T01:58:59.305527Z",
+      "id": "u:54c3fad431fa7895",
+      "title": "朝鲜展示首款 AI 聊天机器人「智慧之泉」，界面类似 ChatGPT",
+      "summary": "深潮 TechFlow 消息，11 月 23 日，据朝鲜问题研究机构 38 North 分析朝鲜官方电视台画面，朝鲜已展示一款名为「人工智能服务系统 1.0《智慧之泉》」的 AI 聊天机器人，由金日成综合大学人工智能技术研究所与平壤软件企业 Phurunhanul 贸易公司开发。 该系统亮相于 10 月 19 日至 30 日在平壤举办的全国 IT 成果展，并于 11 月 17 日在龙南山电视台节目中播出。展台横幅写有「开发我们式的生成式人工智能模型」。 画面显示，其界面与 ChatGPT 类似，可用朝鲜语或英语回答科学技术问题并提供翻译。屏幕底部提示仅可提问科技相关问题，不得提问社会政治内容。",
+      "link": "https://www.techflowpost.com/newsletter/146295",
+      "source": "TechFlow",
+      "published_utc": "2026-11-23T04:26:02Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
+      "tickers": [
+        "GOOGL"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:607f322483085a20",
+      "title": "Shares of Tata Steel fall nearly 5% as it plans to acquire a $1.67 billion stake in India’s largest steel pipe maker - CNBC",
+      "summary": "Shares of Tata Steel fall nearly 5% as it plans to acquire a $1.67 billion stake in India’s largest steel pipe maker - CNBC",
+      "link": "http://nitter.mizuki.st/movesurge/status/2124719547081212029#m",
+      "source": "X",
+      "published_utc": "2026-11-23T04:19:50Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
+      "tickers": [],
+      "cats": [
+        "mna"
+      ]
+    },
+    {
+      "id": "u:07a21747506e009e",
+      "title": "Dollar Likely to Trade Around Y160.00 Next Year",
+      "summary": "The dollar was likely to trade around 160.00 yen throughout 2027, Morgan Stanley said.",
+      "link": "https://www.wsj.com/finance/currencies/yen-may-strengthen-vs-dollar-on-diminished-risk-appetite-6434fe7e?mod=rss_markets_main",
+      "source": "WSJ",
+      "published_utc": "2026-11-23T04:16:00Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
+      "tickers": [
+        "MS"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:f0f196e68a5bc0d6",
+      "title": "马斯克称车用AI4芯片成本翻番 下一代AI5芯片不会应用于特斯拉车辆",
+      "summary": "",
+      "link": "https://news.futunn.com/post/1005307398?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-23T03:59:38Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
+      "tickers": [
+        "TSLA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:998168e84d72e410",
+      "title": "黄仁勋重返英伟达 CEO 预测概率升至约 19%，跃居第二",
+      "summary": "深潮 TechFlow 消息，11 月 23 日，据 Polymarket 数据，在美国总统特朗普发文呼吁英伟达董事会重新聘用黄仁勋后，黄仁勋留任/重返英伟达 CEO 的预测概率升至约 18.9%，仅次于 Arm CEO Rene Haas 的 19.1%，位列第二。 Polymarket 价格历史显示，该概率今日凌晨约为 9.4%，此后持续走高。Kalshi 同类市场中，黄仁勋概率约 18%，Rene Haas 约 21%。 其他候选人方面，Polymarket 上 Ian Buck 约 12.5%，现任临时 CEO Colette Kress 约 8.3%。英伟达董事长 Harvey Jo",
+      "link": "https://www.techflowpost.com/newsletter/146292",
+      "source": "TechFlow",
+      "published_utc": "2026-11-23T03:59:27Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:b7e06275d66d45a8",
+      "title": "高盛存储行业展望：下调三星与海力士目标价，极端下行风险已计入股价",
+      "summary": "深潮 TechFlow 消息，11 月 23 日，据潮向研究，高盛发布的全球半导体存储行业报告中指出，AI 算力需求将继续支撑 2027 年存储芯片维持严重供不应求，但受消费电子疲软及中国厂商扩产影响，2028 年供需将趋于缓和。 高盛分析师 Giuni Lee 等下调了 2028 年传统 DRAM与 NAND 价格预测，并将三星电子目标价从 50 万韩元下调至 35 万韩元，SK 海力士目标价从 350 万韩元下调至 200 万韩元。不过高盛通过三项压力测试指出，两家公司当前股价已提前反映了 2028年 AI 资本开支零增长及存储价格再跌 40%的悲观预期，叠加 2027至 2028 年高达",
+      "link": "https://www.techflowpost.com/newsletter/146291",
+      "source": "TechFlow",
+      "published_utc": "2026-11-23T03:54:52Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
+      "tickers": [
+        "GS"
+      ],
+      "cats": [
+        "chip"
+      ]
+    },
+    {
+      "id": "u:95bfab1b82cb60df",
+      "title": "追踪木头姐：逆势加码Anthropic与AI算力，减持加密资产及英伟达",
+      "summary": "",
+      "link": "https://q.futunn.com/feed/117663730761732?futusource=news_search_searchnews",
+      "source": "futu",
+      "published_utc": "2026-11-23T03:54:08Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:849bbbeaca51a293",
+      "title": "美股异动丨英伟达夜盘涨超7%",
+      "summary": "",
+      "link": "https://news.futunn.com/post/1005306740?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-23T03:45:31Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:1eea46a522e65c93",
+      "title": "特朗普“再次施压”：我希望英伟达董事会重新聘用黄仁勋",
+      "summary": "",
+      "link": "https://news.futunn.com/post/1005305506?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-23T03:29:00Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:a06fef4acea58676",
+      "title": "亚马逊筹谋",
+      "summary": "",
+      "link": "https://news.futunn.com/post/1005306618?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-23T03:22:00Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
+      "tickers": [
+        "AMZN"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:6d14189e3b492f07",
+      "title": "韩国因文件不足拒绝特斯拉FSD豁免申请",
+      "summary": "",
+      "link": "https://news.futunn.com/post/1005305318?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-23T03:20:26Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
+      "tickers": [
+        "TSLA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:0faf5686e2405f58",
+      "title": "美媒：微软总裁警告，未来数月或将出现更多技术宕机风险",
+      "summary": "",
+      "link": "https://news.futunn.com/post/1005306039?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-23T03:04:21Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
+      "tickers": [
+        "MSFT"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:7975ed7186cdcd60",
+      "title": "特朗普：希望英伟达董事会重新聘用黄仁勋",
+      "summary": "深潮 TechFlow 消息，11 月 23 日，美国总统特朗普在 Truth Social 发文称：“我希望英伟达董事会能重新聘用黄仁勋。这对公司而言是最好的安排，对美国来说也是如此。” 据 Politico 报道，特朗普此前已于 11 月 20 日在白宫对记者表示，希望黄仁勋能获得“第二次机会”，并称其带领英伟达让美国在 AI 领域领先其他公司 10 年。 不过，英伟达董事长 Harvey Jones 此前在财报电话会上表示，董事会一致接受黄仁勋辞职，不打算恢复其 CEO 职务。",
+      "link": "https://www.techflowpost.com/newsletter/146285",
+      "source": "TechFlow",
+      "published_utc": "2026-11-23T02:59:08Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:9337e2e45aff6a8c",
+      "title": "US President Trump Via Truth Social: I hope the Board of Nvidia rehires Jensen Huang. It would be the best thing for the Company, and also, for the U.S.A. President DONALD J. TRUMP",
+      "summary": "US President Trump Via Truth Social: I hope the Board of Nvidia rehires Jensen Huang. It would be the best thing for the Company, and also, for the U.S.A. President DONALD J. TRUMP",
+      "link": "http://nitter.mizuki.st/movesurge/status/2124698263018201159#m",
+      "source": "X",
+      "published_utc": "2026-11-23T02:55:15Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:a19abe5eab4a3725",
+      "title": "美国总统特朗普：希望英伟达董事会能重新聘用黄仁勋",
+      "summary": "",
+      "link": "https://news.futunn.com/flash/1005303365?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-23T02:55:00Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:33785611784373d9",
+      "title": "I hope the Board of Nvidia rehires Jensen Huang. It would be the best thing for the Company, and also, for the U.S.A. President DONALD J. TRUMP",
+      "summary": "I hope the Board of Nvidia rehires Jensen Huang. It would be the best thing for the Company, and also, for the U.S.A. President DONALD J. TRUMP",
+      "link": "https://www.trumpstruth.org/statuses/43709",
+      "source": "TRUMP-TS",
+      "published_utc": "2026-11-23T02:54:45Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:ca04b7bdfffc6114",
+      "title": "AI泡沫的第一层已经破了？英伟达回撤48%、CoreWeave跌破发行价，但更大的考验还在后面",
+      "summary": "",
+      "link": "https://news.futunn.com/post/1005304605?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-23T02:54:34Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:d10a630f2e52463c",
+      "title": "ETF异动 | 南方两倍做多英伟达(07788)跌近20% 英伟达再遭SEC调查 新加坡业务与会计变更受到重点关注",
+      "summary": "",
+      "link": "https://news.futunn.com/post/1005302819?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-23T02:47:03Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:eec6bc74517d350a",
+      "title": "马斯克：特斯拉全系车型有望 2027 年底前内置星链，中国除外",
+      "summary": "深潮 TechFlow 消息，11 月 23 日，Lightspark 联合创始人 David Marcus 在 X 上表示，期待特斯拉在 Cybercab 之外的所有车型中提供内置星链（Starlink）选项。 马斯克回复称，该功能“有望在明年年底前推出”，这对无监督 FSD 很重要，可让乘客在任何地方都有高带宽网络用于工作和娱乐。 此外，针对特斯拉全系车型或将在 2027 年底前内置星链的说法，马斯克补充称“中国除外，因为星链在中国是违法的”。 据 X 用户 Sawyer Merritt 称，达拉斯的 Cybercab 已配备星链，但乘客目前似乎还无法连接使用。",
+      "link": "https://www.techflowpost.com/newsletter/146283",
+      "source": "TechFlow",
+      "published_utc": "2026-11-23T02:38:30Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
+      "tickers": [
+        "TSLA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:62df805d16d907b4",
+      "title": "Tata Steel to Acquire 26.4% in APL Apollo Tubes for $1.7 Billion",
+      "summary": "Tata Steel Ltd. has agreed to acquire a 26.4% stake in APL Apollo Tubes Ltd. for as much as 155.1 billion rupees ($1.7 billion), deepening its presence in India’s structural steel products market.",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-23/tata-steel-to-acquire-26-4-in-apl-apollo-tubes-for-1-7-billion",
+      "source": "BBG",
+      "published_utc": "2026-11-23T02:30:05Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
+      "tickers": [],
+      "cats": [
+        "mna"
+      ]
+    },
+    {
+      "id": "u:b49ea1d54a636500",
+      "title": "US President Donald Trump is scheduled to speak on US families at the Department of Justice on Monday at 16:30 EST/21:30 GMT.",
+      "summary": "US President Donald Trump is scheduled to speak on US families at the Department of Justice on Monday at 16:30 EST/21:30 GMT.",
+      "link": "http://nitter.mizuki.st/movesurge/status/2124691426181288300#m",
+      "source": "X",
+      "published_utc": "2026-11-23T02:28:05Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
+      "tickers": [],
+      "cats": [
+        "fed"
+      ]
+    },
+    {
+      "id": "u:4c94fae871713ff6",
+      "title": "The New York Times, citing US intelligence, reported that Alice Huang had contact with an officer of China’s spy agency during the Nvidia (NVDA) affair. $NVDA",
+      "summary": "The New York Times, citing US intelligence, reported that Alice Huang had contact with an officer of China’s spy agency during the Nvidia (NVDA) affair. $NVDA",
+      "link": "http://nitter.mizuki.st/movesurge/status/2124691064128786841#m",
+      "source": "X",
+      "published_utc": "2026-11-23T02:26:39Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:8065081fe2829477",
+      "title": "Clariant, CD&R in talks to acquire Ashland, Bloomberg reports By Investing.com - Investing.com India",
+      "summary": "Clariant, CD&R in talks to acquire Ashland, Bloomberg reports By Investing.com Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZTlfRHUxMktWUHF6ZGtZd0V1aklZWlNjeDRyNGlzZXMwZ0M3MUVFT3BkenBDWlZ5RllUZE9zd29ob21lWW90eXQtZlNvaEZtbktjbXBLcVpMU2h6Sy04VGdQU21NMUZTMFZzMzVGTkF0T3E5ZDU5MUpSNklyQVhCSy1xX2VfVU5UbWFRWTBCd25jM1dvUnRDZVl4WHdReE93b2RydTk5S0N6WnJyYXU0cVRya2U?oc=5",
+      "source": "google-news:Investing.com India",
+      "published_utc": "2026-11-23T02:06:58Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
       "tickers": [],
       "cats": [
         "mna"
       ],
       "link_is_redirect": true
+    },
+    {
+      "id": "u:714e4b2aa0c5fd1c",
+      "title": "英伟达大跌叠加Anthropic上市，AI行情走到分水岭？",
+      "summary": "",
+      "link": "https://news.futunn.com/post/1005299463?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-23T02:06:56Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:fdba17eff8288f12",
+      "title": "共享数据飞轮！特斯拉FSD v15统一“汽车与机器人视觉”",
+      "summary": "",
+      "link": "https://news.futunn.com/post/1005298722?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-23T02:06:07Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
+      "tickers": [
+        "TSLA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:b1a004f298004208",
+      "title": "马斯克的AI雄心驶入下一程! 特斯拉(TSLA.US)FSD升级视觉感知与驾驶界面，能否赢得车主们长期订阅?",
+      "summary": "",
+      "link": "https://news.futunn.com/post/1005299280?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-23T02:05:25Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
+      "tickers": [
+        "TSLA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:1a8a144d98a67e37",
+      "title": "Jensen and Lori Huang Have Amassed a Vast Fortune. We Break Down Their Wealth.",
+      "summary": "The Nvidia founder and his wife have control over 870 million Nvidia shares, including through trusts and other entities.",
+      "link": "https://www.wsj.com/finance/investing/jensen-and-lori-huang-have-amassed-a-vast-fortune-we-break-down-their-wealth-3d2287b1?mod=rss_markets_main",
+      "source": "WSJ",
+      "published_utc": "2026-11-23T02:00:00Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
     },
     {
       "id": "u:413bb8e031a246a6",
@@ -35,7 +375,7 @@
       "link": "https://news.futunn.com/post/1005295676?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T01:47:58Z",
-      "fetched_utc": "2026-11-23T01:58:59.305527Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
       "tickers": [
         "INTC"
       ],
@@ -47,8 +387,8 @@
       "summary": "Clariant, CD&R in talks to acquire Ashland, Bloomberg reports Investing.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMnZTQ0NlZEtGYmhMbWtCbGF6X25EekZ2Mlp1Yy1oYnIzazhBRi0tdmlSa25zWUpOM3hnMXgyU2FpcW9uOENYRDg0N1ZRTWlTUWdrSDkwQXZjYUpDblhzc214akhiajhNMUZIUnk5UlhrR1Y3SEpjbGhiMDVWSTZKcC0yUDdMTmVhSk5fRWFCVzlXUFoxNGl0Mk9EX1hkcDRxTUNOT3ZFSlJKRVhYdkVLaUdvcG9fQQ?oc=5",
       "source": "google-news:Investing.com",
-      "published_utc": "2026-11-23T01:44:46Z",
-      "fetched_utc": "2026-11-23T01:58:59.305527Z",
+      "published_utc": "2026-11-23T01:46:58Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -70,13 +410,27 @@
       "link_is_redirect": true
     },
     {
+      "id": "u:1c5a4dc90aff318a",
+      "title": "Top SA company in talks to buy rival’s assets - InDaily South Australia",
+      "summary": "Top SA company in talks to buy rival’s assets InDaily South Australia",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdzY2Q1JiT21TRGlUdmRoT0Zxci1abHFtalRtOFFQeVVXTHdhSmhabGFVSGNJeTdqbHNSeVhYbExyN2hyWG5neEFjNi13NnNNRUY2bjFET3F5d3lPcDNyaEpSWXpQWkUwZkZsZXVLV2tVR0NZZ21jQzZTVEpmSG0wMWFWa0VxSF8xc3F3Mmg2MFNXclloTjlJd3paWUpJeDg?oc=5",
+      "source": "google-news:InDaily South Australia",
+      "published_utc": "2026-11-23T01:42:35Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
+      "tickers": [],
+      "cats": [
+        "mna"
+      ],
+      "link_is_redirect": true
+    },
+    {
       "id": "u:71522c2aad08bb87",
       "title": "Also on the tape, to 8:18 ET Ukrainian one-way attack drones hit the Novoshakhtinsk oil refinery in Russia's Rostov Oblast. Suleyman says Microsoft (MSFT) will back OpenAI's transparency initiative an",
       "summary": "Also on the tape, to 8:18 ET Ukrainian one-way attack drones hit the Novoshakhtinsk oil refinery in Russia's Rostov Oblast. Suleyman says Microsoft (MSFT) will back OpenAI's transparency initiative and share common evaluation sets for the pre‑training process; they is EVP and CEO of the Consumer AI ",
       "link": "http://nitter.mizuki.st/movesurge/status/2124674039432224792#m",
       "source": "X",
       "published_utc": "2026-11-23T01:19:00Z",
-      "fetched_utc": "2026-11-23T01:58:59.305527Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
       "tickers": [
         "MSFT"
       ],
@@ -89,7 +443,7 @@
       "link": "https://news.futunn.com/post/1005292531?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T01:17:04Z",
-      "fetched_utc": "2026-11-23T01:58:59.305527Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
       "tickers": [
         "TSLA"
       ],
@@ -102,7 +456,7 @@
       "link": "https://news.futunn.com/post/1005292022?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T01:11:24Z",
-      "fetched_utc": "2026-11-23T01:58:59.305527Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
       "tickers": [
         "TSLA"
       ],
@@ -115,7 +469,7 @@
       "link": "https://news.futunn.com/post/1005291684?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T01:04:00Z",
-      "fetched_utc": "2026-11-23T01:58:59.305527Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
       "tickers": [
         "AMZN",
         "NVDA"
@@ -131,7 +485,7 @@
       "link": "https://news.futunn.com/post/1005291204?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T00:59:40Z",
-      "fetched_utc": "2026-11-23T01:58:59.305527Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
       "tickers": [
         "NVDA"
       ],
@@ -139,12 +493,12 @@
     },
     {
       "id": "u:d642a3956615048d",
-      "title": "谷歌广告放缓，苹果也受伤",
+      "title": "谷歌广告放缓，苹果、Reddit也受伤",
       "summary": "",
       "link": "https://news.futunn.com/post/1005291078?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T00:50:00Z",
-      "fetched_utc": "2026-11-23T01:58:59.305527Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
       "tickers": [
         "AAPL",
         "GOOGL"
@@ -158,7 +512,7 @@
       "link": "https://www.techflowpost.com/newsletter/146267",
       "source": "TechFlow",
       "published_utc": "2026-11-23T00:47:22Z",
-      "fetched_utc": "2026-11-23T01:58:59.305527Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
       "tickers": [
         "NVDA"
       ],
@@ -171,7 +525,7 @@
       "link": "https://www.techflowpost.com/newsletter/146265",
       "source": "TechFlow",
       "published_utc": "2026-11-23T00:43:30Z",
-      "fetched_utc": "2026-11-23T01:58:59.305527Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
       "tickers": [
         "GS"
       ],
@@ -184,7 +538,7 @@
       "link": "https://www.techflowpost.com/newsletter/146264",
       "source": "TechFlow",
       "published_utc": "2026-11-23T00:41:13Z",
-      "fetched_utc": "2026-11-23T01:58:59.305527Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
       "tickers": [
         "JPM",
         "NVDA"
@@ -198,7 +552,7 @@
       "link": "https://news.futunn.com/post/1005277568?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T00:08:26Z",
-      "fetched_utc": "2026-11-23T01:58:59.305527Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
       "tickers": [
         "INTC"
       ],
@@ -211,7 +565,7 @@
       "link": "https://www.financialjuice.com/News/9863606/Libyas-NOC-valve-closure-on-Sharara-oil-pipeline-by-unlawful-group-to-cut-about-350000-bpd-of-output.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-22T23:57:48Z",
-      "fetched_utc": "2026-11-23T01:58:59.305527Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
       "tickers": [
         "NOC"
       ],
@@ -224,7 +578,7 @@
       "link": "https://news.futunn.com/post/1005289769?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-22T23:54:28Z",
-      "fetched_utc": "2026-11-23T01:58:59.305527Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
       "tickers": [
         "AAPL"
       ],
@@ -237,7 +591,7 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ0d5Umhab1VhMExWT0FfbFNmV0R6OTV3LXFwc3RYeDVHeWhsUHJfY0NDdHhmd19PWjNPT0FlZDdVMTBTcE82eHFNS3lhdktEVEFjazhMQmU3aGRGR1lFbEFjS2J4ZTktMWJyS1JBaG5qX3BZUDhYN0Q1TWUwOU9jWjh6N0ZsSDRpUTVOeEQzUUg5aWpVWnFZOGpiQ1dxS3N5TEFVWlNMUnNKbURC?oc=5",
       "source": "google-news:Seeking Alpha",
       "published_utc": "2026-11-22T23:53:16Z",
-      "fetched_utc": "2026-11-23T01:58:59.305527Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -251,12 +605,25 @@
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRmtfemxJbDhjaXczYkphY1IzTXNYV1ZmZmJCTERQOTNpaVFnSUhUallyX1lva2d4RFlxanpxSHZ5XzR3cEk5RE4tLTdyZkxza1NEWFd2LUYySWJUZXFyNkFaMjkxWnpENzlrbHdYTFpobHZaM2ZQNkJOc2xIZGxnSVR6VkZjR1c3NTZ4Y2hJREpkeWdPdUlyZ1RldXlOS1VyWWlQbXBjMzlOY1JydmlOOFJjNG92UmFxYlBtLUMtT1FsTEJtd0psVg?oc=5",
       "source": "google-news:TradingView",
       "published_utc": "2026-11-22T23:53:16Z",
-      "fetched_utc": "2026-11-23T01:58:59.305527Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
       "tickers": [],
       "cats": [
         "mna"
       ],
       "link_is_redirect": true
+    },
+    {
+      "id": "u:dd35096085a68abd",
+      "title": "黄仁勋加入英特尔任CEO？",
+      "summary": "",
+      "link": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?futusource=news_search_searchnews&src=39#/index?id=nesSN20261123070633a70a06ad&s=b",
+      "source": "futu",
+      "published_utc": "2026-11-22T23:00:00Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
+      "tickers": [
+        "INTC"
+      ],
+      "cats": []
     },
     {
       "id": "u:8f37db3bd60fa1fa",
@@ -265,7 +632,7 @@
       "link": "https://www.ft.com/content/67014244-a737-4be5-ac81-97b77a6912ff?syn-25a6b1a6=1",
       "source": "FT",
       "published_utc": "2026-11-22T22:07:25Z",
-      "fetched_utc": "2026-11-23T01:58:59.305527Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
       "tickers": [
         "NVDA"
       ],
@@ -278,7 +645,7 @@
       "link": "https://www.bloomberg.com/news/features/2026-11-22/trump-s-ai-chip-crackdown-on-china-after-nvidia-crisis-squeezes-southeast-asia",
       "source": "BBG",
       "published_utc": "2026-11-22T22:00:13Z",
-      "fetched_utc": "2026-11-23T01:58:59.305527Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
       "tickers": [
         "NVDA"
       ],
@@ -291,7 +658,7 @@
       "link": "https://www.techflowpost.com/newsletter/146252",
       "source": "TechFlow",
       "published_utc": "2026-11-22T21:04:17Z",
-      "fetched_utc": "2026-11-23T01:58:59.305527Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
       "tickers": [
         "TSLA"
       ],
@@ -304,7 +671,7 @@
       "link": "https://www.bloomberg.com/news/newsletters/2026-11-22/as-wall-street-questions-ai-cfos-put-it-to-work-cvx-luv-tgt-ant",
       "source": "BBG",
       "published_utc": "2026-11-22T21:00:01Z",
-      "fetched_utc": "2026-11-23T01:58:59.305527Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
       "tickers": [
         "TGT"
       ],
@@ -316,8 +683,8 @@
       "summary": "Clariant, CD&R in Talks to Acquire Ashland in $3.39B All-Cash Deal Global Banking & Finance Review",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNEFfVFFCTkJ3OGdQa2NWYlpDOVM2M1BjLUdhcWlSNmoweWlvUkR0ZGFQY19OLXlXZGYtVkFQMkRDaEIxNEVkQUE5OVZlWHlCMEY2OXB4U0l0N2tYNGpRRDM0aWRNeWxIQXF5a2dRYk1RMHpNZmpMRjVidFkzVXE5T2xiRFQ2QlU1NUdEaVFFY1M2NGZFczZFeTNnd0FQQQ?oc=5",
       "source": "google-news:Global Banking & Finance Review",
-      "published_utc": "2026-11-22T20:50:39Z",
-      "fetched_utc": "2026-11-22T21:38:44.409490Z",
+      "published_utc": "2026-11-22T20:51:49Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -345,7 +712,7 @@
       "link": "https://news.futunn.com/post/1005291256?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-22T19:15:55Z",
-      "fetched_utc": "2026-11-23T01:58:59.305527Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
       "tickers": [
         "AMZN"
       ],
@@ -372,7 +739,7 @@
       "link": "https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346?syn-25a6b1a6=1",
       "source": "FT",
       "published_utc": "2026-11-22T19:08:31Z",
-      "fetched_utc": "2026-11-23T01:58:59.305527Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
       "tickers": [
         "NVDA"
       ],
@@ -424,7 +791,7 @@
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSW01cFdCRlNJOVh1QmxZMXJSX08tU0lCcTg0UzB3TVpCb1YzVVVYSWZySGoyc1VRdF9RcHZxOWRSdGh3NTJMT001MDd5NE9pbUxvN3ZzVU1JTE1WWThpMURHS1N4amRic3JiaFRhblhGTmtRTjZPbE95TUo2RWoxWWpUWlZFWkd4a1BZX3AzX2laaC1ycmo1OVBLOFJBRExidFM4cUlSb2ZoamV5VERXWld5QUMzcTBTbmJPYS1XWmhCeFdleFNua2ZsT1E5SDRjeG8zX0dyUGJFN1M5bUZGeXdPRDd3cGxfZ3RKZGRtbWRXa1hE?oc=5",
       "source": "google-news:TradingView",
       "published_utc": "2026-11-22T19:02:10Z",
-      "fetched_utc": "2026-11-23T01:58:59.305527Z",
+      "fetched_utc": "2026-11-23T04:58:47.439362Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -445,229 +812,6 @@
       "cats": [
         "mna"
       ]
-    },
-    {
-      "id": "u:79cf555fb71bfb2b",
-      "title": "Clariant and CD&R Are in Talks to Buy Chemicals Firm Ashland",
-      "summary": "Clariant AG and CD&R are in talks to acquire chemicals maker Ashland Inc., according to people familiar with the matter.",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-22/clariant-and-cd-r-are-in-talks-to-buy-chemicals-firm-ashland",
-      "source": "BBG",
-      "published_utc": "2026-11-22T18:42:27Z",
-      "fetched_utc": "2026-11-22T21:38:44.409490Z",
-      "tickers": [],
-      "cats": [
-        "mna"
-      ]
-    },
-    {
-      "id": "u:ccf5f4191270659a",
-      "title": "Clariant and CD&R Are in Talks to Buy Chemicals Firm Ashland - Bloomberg.com",
-      "summary": "Clariant and CD&R Are in Talks to Buy Chemicals Firm Ashland Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS1Jkb0laczJEZFkwcFZlOUpOVHhVMjhBSlNqd2NSN3hzMWIyNXIyYmMzRXZTUXlJd2xwX1JkaVcyZU1adTl4RTNCMERaR2J4MkhrODhWVjQ5Y1ctdHQ2ejZCVVEtN3pNVEYxc3h1TXAzamdwc2owQ29BeUJqSWU0aDdVQUR5MG1iZGhFc2tjSXp0ekw0cmZkNU5QSjgtRG83QkhfUV9XYWxmOHZXSXQ3dA?oc=5",
-      "source": "google-news:Bloomberg.com",
-      "published_utc": "2026-11-22T18:42:27Z",
-      "fetched_utc": "2026-11-23T01:58:59.305527Z",
-      "tickers": [],
-      "cats": [
-        "mna"
-      ],
-      "link_is_redirect": true
-    },
-    {
-      "id": "u:06609f9578e3de3b",
-      "title": "Scott Bessent Calls on Nvidia to Provide Answers on Chip Sales to China",
-      "summary": "The treasury secretary said on CBS that it was too soon to say if Jensen Huang should return as the company’s chief executive.",
-      "link": "https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html",
-      "source": "NYT",
-      "published_utc": "2026-11-22T17:55:31Z",
-      "fetched_utc": "2026-11-23T01:58:59.305527Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:47737815ded9e4de",
-      "title": "Bessent says US is seeking answers from Nvidia about chip sales to China and will identify who oversaw compliance $NVDA",
-      "summary": "Bessent says US is seeking answers from Nvidia about chip sales to China and will identify who oversaw compliance $NVDA",
-      "link": "http://nitter.mizuki.st/movesurge/status/2124560824715051093#m",
-      "source": "X",
-      "published_utc": "2026-11-22T17:49:07Z",
-      "fetched_utc": "2026-11-22T21:38:44.409490Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:5be267207623181c",
-      "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
-      "summary": "Clayton’s warning comes ahead of Thanksgiving travel, after separate outages disrupted air travel, Microsoft 365 and some bank transactions.",
-      "link": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
-      "source": "CNBC",
-      "published_utc": "2026-11-22T17:14:03Z",
-      "fetched_utc": "2026-11-23T01:58:59.305527Z",
-      "tickers": [
-        "MSFT"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:7cd7564f07310ecf",
-      "title": "Clariant, CD&R in talks to buy Ashland - Briefs Finance",
-      "summary": "Clariant, CD&R in talks to buy Ashland Briefs Finance",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYkNQSlVFTEJZX3l0LXRlUVFmcHVLWm9jNDg5X3VVMUFmMFlvNjlkMmNjTk9WNkNOc2ZsTFRzeVc5ZkswdkFTTS1XUl9jLVV1YjR0LU9FYzZUc2pTTW9WdTM5TFpzOTBsOE5MTF81NktHQl8wNjRXb3MwVVNPX3l2aDB0Zlg?oc=5",
-      "source": "google-news:Briefs Finance",
-      "published_utc": "2026-11-22T17:00:00Z",
-      "fetched_utc": "2026-11-23T01:58:59.305527Z",
-      "tickers": [],
-      "cats": [
-        "mna"
-      ],
-      "link_is_redirect": true
-    },
-    {
-      "id": "u:035da50a2399537b",
-      "title": "财政部长贝森特在哥伦比亚广播公司（CBS）的《面对国家》节目中表示，我们尚未就英伟达向中国出售芯片一事得出明确结论，需要查明合规工作的负责人以及英伟达业务部门中哪一层级知情。",
-      "summary": "",
-      "link": "https://news.futunn.com/post/1005284860?futusource=news_search_searchnews&src=39",
-      "source": "futu",
-      "published_utc": "2026-11-22T15:59:23Z",
-      "fetched_utc": "2026-11-23T01:58:59.305527Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:8721c72f125fbe8b",
-      "title": "What Comes Next After Anthropic’s Historic IPO",
-      "summary": "Plus, the best tech gifts of 2026, New York City’s new high-tech public restrooms, the culture inside Jensen Huang’s Nvidia and more.",
-      "link": "https://www.wsj.com/tech/ai/what-comes-next-after-anthropics-historic-ipo-464368c1?mod=rss_Technology",
-      "source": "WSJ",
-      "published_utc": "2026-11-22T15:55:00Z",
-      "fetched_utc": "2026-11-23T01:58:59.305527Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:557f68047baf79c8",
-      "title": "Also on the tape, to 10:43 ET US Treasury Secretary Bessent: what level of Nvidia business we need to see US Treasury Secretary Bessent: need to identify who led compliance at Nvidia - CBS",
-      "summary": "Also on the tape, to 10:43 ET US Treasury Secretary Bessent: what level of Nvidia business we need to see US Treasury Secretary Bessent: need to identify who led compliance at Nvidia - CBS",
-      "link": "http://nitter.mizuki.st/movesurge/status/2124529165017706576#m",
-      "source": "X",
-      "published_utc": "2026-11-22T15:43:19Z",
-      "fetched_utc": "2026-11-22T21:38:44.409490Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:cd5e79bbbe9638d0",
-      "title": "US Treasury Secretary Bessent: no answers yet on Nvidia chip sales to China, we need clarity $NVDA",
-      "summary": "US Treasury Secretary Bessent: no answers yet on Nvidia chip sales to China, we need clarity $NVDA",
-      "link": "http://nitter.mizuki.st/movesurge/status/2124528887975624803#m",
-      "source": "X",
-      "published_utc": "2026-11-22T15:42:13Z",
-      "fetched_utc": "2026-11-22T21:38:44.409490Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:7a85c05127d57f92",
-      "title": "US Treasury Secretary Bessent: need to determine which level of Nvidia business was aware, confident committees are swiftly seeking answers - CBS",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9863475/US-Treasury-Secretary-Bessent-need-to-determine-which-level-of-Nvidia-business-was-aware-confident-committees-are-swiftly-seeking-answers---CBS.aspx?xy=rss",
-      "source": "FinancialJuice",
-      "published_utc": "2026-11-22T15:41:28Z",
-      "fetched_utc": "2026-11-23T01:58:59.305527Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:ce9cbc5f3a70d153",
-      "title": "US Treasury Secretary Bessent: need to identify who led compliance at Nvidia - CBS",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9863473/US-Treasury-Secretary-Bessent-need-to-identify-who-led-compliance-at-Nvidia---CBS.aspx?xy=rss",
-      "source": "FinancialJuice",
-      "published_utc": "2026-11-22T15:41:04Z",
-      "fetched_utc": "2026-11-23T01:58:59.305527Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:60a97c9428475def",
-      "title": "US Treasury Secretary Bessent: what level of Nvidia business we need to see",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9863472/US-Treasury-Secretary-Bessent-what-level-of-Nvidia-business-we-need-to-see.aspx?xy=rss",
-      "source": "FinancialJuice",
-      "published_utc": "2026-11-22T15:41:04Z",
-      "fetched_utc": "2026-11-23T01:58:59.305527Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:dd14a92d8e27a1dd",
-      "title": "US Probing Alleged Spy Tied to Ex-Nvidia CEO, Spy Chief Says",
-      "summary": "Director of National Intelligence Jay Clayton said Nvidia Corp. is a perpetual target for people trying to illegally obtain its high-end chips and the US is investigating an alleged Chinese spy who had an affair with the company’s former chief executive.",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-22/spy-chief-says-us-probing-alleged-spy-tied-to-former-nvidia-ceo",
-      "source": "BBG",
-      "published_utc": "2026-11-22T15:26:50Z",
-      "fetched_utc": "2026-11-22T21:38:44.409490Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:a2f8a005a44ef139",
-      "title": "Apple’s AI Agent War, Early 2027 Product Plans and iPhone Duo Face Unlock Review",
-      "summary": "Also: The company prepares a slew of new iPhones, iPads and Macs for early 2027.",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-11-22/apple-s-ai-agent-war-early-2027-product-plans-and-iphone-duo-face-unlock-review",
-      "source": "BBG",
-      "published_utc": "2026-11-22T15:00:01Z",
-      "fetched_utc": "2026-11-23T01:58:59.305527Z",
-      "tickers": [
-        "AAPL"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:dd35096085a68abd",
-      "title": "研华 ASR-A505 单板计算机曝光，搭载英特尔 \"Nova Lake H\" 处理器",
-      "summary": "",
-      "link": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?futusource=news_search_searchnews&src=39#/index?id=nesSN20261122224627a709aa40&s=b",
-      "source": "futu",
-      "published_utc": "2026-11-22T14:45:34Z",
-      "fetched_utc": "2026-11-23T01:58:59.305527Z",
-      "tickers": [
-        "INTC"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:34aabe0a2a6bf17d",
-      "title": "26-year-old Google worker earns $323,000 a year—but lives on less than minimum wage",
-      "summary": "Charles Broomfield set a post-college goal of reaching $750,000 in investments by age 30. Now 26, he expects to get there within the next year.",
-      "link": "https://www.cnbc.com/make-it/2026/11/22/google-worker-earns-323000-a-yearbut-he-lives-on-minimum-wage.html",
-      "source": "CNBC",
-      "published_utc": "2026-11-22T14:00:01Z",
-      "fetched_utc": "2026-11-23T01:58:59.305527Z",
-      "tickers": [
-        "GOOGL"
-      ],
-      "cats": []
     }
   ]
 }
