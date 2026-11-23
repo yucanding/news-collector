@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-23T16:01:52.691612Z",
+  "updated_utc": "2026-11-23T16:05:45.213058Z",
   "window_hours": 12,
   "sources_ok": [
     "terminal",
@@ -11,9 +11,48 @@
   "counts": {
     "fetched": 910,
     "inbox": 60,
-    "new": 8
+    "new": 3
   },
   "items": [
+    {
+      "id": "u:e885858411c9b959",
+      "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 35%",
+      "summary": "The Nvidia board said it had input from senior levels of the U.S. government.",
+      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "source": "CNBC",
+      "published_utc": "2026-11-23T16:03:48Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:ef359dc50ca69649",
+      "title": "纽约时报中文网过去 24 小时 7 条 X 帖子中 5 条涉及黄仁勋及英伟达丑闻",
+      "summary": "深潮 TechFlow 消息，11 月 24 日，据深潮统计，纽约时报中文网官方 X 账号（@nytchinese）过去 24 小时共发布 7 条内容，其中 5 条涉及黄仁勋及英伟达相关负面报道，另 2 条为中国经济话题。 上述 5 条中，2 条聚焦黄仁勋的管理风格，援引法庭记录和前任及现任员工的说法，称其长期将斥责和羞辱作为管理工具；2 条涉及黄乐与情报部门接触的时间线；另 1 条报道中国情报机构多年前已将目标瞄准 AI 芯片。 截至发稿，该账号尚未发布英伟达宣布恢复黄仁勋 CEO 职务的相关内容。",
+      "link": "https://www.techflowpost.com/newsletter/146400",
+      "source": "TechFlow",
+      "published_utc": "2026-11-23T16:03:02Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:956a0fc6279f6181",
+      "title": "Stocks Surge After Jensen Huang Is Reinstated as Nvidia CEO",
+      "summary": "The S&P 500 was already set to rise on Monday, bouncing back from a sharp fall last week, before the news that Nvidia’s board had reinstated Mr. Huang sent shares soaring.",
+      "link": "https://www.nytimes.com/2026/11/22/business/nvidia-stock-huang-ai-sp500-markets.html",
+      "source": "NYT",
+      "published_utc": "2026-11-23T16:02:24Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
     {
       "id": "u:93f27df33b67a8a3",
       "title": "Dow Jones Top Markets Headlines at 11 AM ET: Nasdaq Jumps, Nvidia Surges After Huang Returns as CEO | Gold ...",
@@ -21,7 +60,7 @@
       "link": "https://news.futunn.com/post/1005368224?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T16:00:00Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "NVDA"
       ],
@@ -34,7 +73,7 @@
       "link": "https://news.futunn.com/post/1005368220?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T16:00:00Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "CRWD",
         "NVDA"
@@ -48,7 +87,7 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQR2VKVVlxUzBhZnFxTjRqRFFIUEplMG84Q21LRGJnTzJUMnZtMEt1TWN0QUJ4RUQ1ZWtJZ0Q1NU5BVU9YYm5PVVhPT0o0M01RX2RGTXFMQzJkSVNybUI0cUR4OHprSVFrQUtGUlI0Z3h3YWtqT0lTZGQtV1hRd0F5azdZb1pXT0h6SkVHYndjQWJPTU1fMzNxWkxudWNscFZmbnVxM1pZZWVadGlUMnpMZFJDbnFMNlQ4bUFPalpSOHBUb0NxWGNrZlBGZmY?oc=5",
       "source": "google-news:TipRanks",
       "published_utc": "2026-11-23T15:58:32Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "AMD"
       ],
@@ -64,7 +103,7 @@
       "link": "https://www.financialjuice.com/News/9864673/Trump-Think-China-will-buy-another-250-Boeings-BA.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T15:57:02Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "BA"
       ],
@@ -77,9 +116,35 @@
       "link": "https://www.wsj.com/articles/five-urgent-questions-in-dc-about-jensen-huangs-return-as-nvidia-ceo-5d35aee6?mod=pls_whats_news_us_business_f",
       "source": "WSJ",
       "published_utc": "2026-11-23T15:57:00Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:eb4496109b63e4f4",
+      "title": "Credit Heads ‘Swivel’ as Huang Return Ignites Tech Debt Rally",
+      "summary": "Corporate-debt markets rallied globally on Monday, with US fear gauges improving the most in months and technology firms’ bonds rebounding, after Nvidia Corp.’s board reinstated Jensen Huang as chief executive officer.",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-23/credit-heads-swivel-as-huang-return-ignites-tech-debt-rally",
+      "source": "BBG",
+      "published_utc": "2026-11-23T15:56:17Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:c5d343415b683bc6",
+      "title": "Ford Invests in Satellite Startup in Push Beyond Auto Business",
+      "summary": "Ford Motor Co. is taking a minority stake in Revolution Space, an upstart maker of satellite parts, as it seeks to diversify beyond the traditional auto business that generates the bulk of its profit.",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-23/ford-invests-in-satellite-startup-in-push-beyond-auto-business",
+      "source": "BBG",
+      "published_utc": "2026-11-23T15:55:29Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
+      "tickers": [
+        "F"
       ],
       "cats": []
     },
@@ -90,7 +155,7 @@
       "link": "https://news.futunn.com/post/1005368093?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T15:55:23Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "NVDA"
       ],
@@ -103,7 +168,7 @@
       "link": "https://news.futunn.com/post/1005367995?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T15:55:14Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -116,7 +181,7 @@
       "link": "https://static.cdsb.com/micropub/Articles/202611/e6267fbbd64d8bc5f25909e74e7ce460.html?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T15:54:27Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "NVDA"
       ],
@@ -129,7 +194,7 @@
       "link": "https://t.me/trad_fin/4971",
       "source": "X",
       "published_utc": "2026-11-23T15:54:17Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "NVDA"
       ],
@@ -142,7 +207,7 @@
       "link": "https://news.futunn.com/post/1005367884?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T15:53:00Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "NVDA"
       ],
@@ -155,7 +220,7 @@
       "link": "https://www.financialjuice.com/News/9864672/Nvidia-short-sellers-set-to-clock-about-122-bln-in-paper-losses-as-shares-rise-to-1685-biggest-one-day-loss-since-at-least-2019---Ortex-NVDA.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T15:52:43Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "NVDA"
       ],
@@ -170,7 +235,7 @@
       "link": "https://www.nytimes.com/live/2026/11/23/technology/nvidia-jensen-huang-reinstated/nvidia-jensen-huang",
       "source": "NYT",
       "published_utc": "2026-11-23T15:52:19Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "NVDA"
       ],
@@ -183,7 +248,7 @@
       "link": "https://www.financialjuice.com/News/9864671/Trump-Xi-is-probably-not-thrilled-at-the-NVIDIA-news-NVDA.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T15:51:56Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "NVDA"
       ],
@@ -196,7 +261,7 @@
       "link": "https://news.futunn.com/post/1005367830?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T15:51:54Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "NVDA"
       ],
@@ -209,7 +274,7 @@
       "link": "https://www.financialjuice.com/News/9864670/Trump-I-didnt-discuss-if-Alice-Huang-were-a-spy-with-Xi-NVDA.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T15:51:31Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "NVDA"
       ],
@@ -222,7 +287,7 @@
       "link": "https://www.techflowpost.com/newsletter/146398",
       "source": "TechFlow",
       "published_utc": "2026-11-23T15:51:23Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "AAPL",
         "AMZN",
@@ -244,7 +309,7 @@
       "link": "https://news.futunn.com/post/1005368263?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T15:51:10Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "NVDA"
       ],
@@ -257,7 +322,7 @@
       "link": "https://www.financialjuice.com/News/9864669/Nvidia-gets-bullish-fresh-pick-designation-at-Baird-NVDA.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T15:50:16Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "NVDA"
       ],
@@ -270,7 +335,7 @@
       "link": "https://news.futunn.com/flash/1005367481?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T15:48:45Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "NVDA"
       ],
@@ -285,7 +350,7 @@
       "link": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
       "source": "CNBC",
       "published_utc": "2026-11-23T15:48:01Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "NVDA"
       ],
@@ -298,7 +363,7 @@
       "link": "https://www.techflowpost.com/newsletter/146397",
       "source": "TechFlow",
       "published_utc": "2026-11-23T15:47:04Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "NVDA"
       ],
@@ -311,7 +376,7 @@
       "link": "https://news.futunn.com/post/1005367334?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T15:46:00Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "CAT",
         "NVDA"
@@ -325,7 +390,7 @@
       "link": "https://www.techflowpost.com/newsletter/146396",
       "source": "TechFlow",
       "published_utc": "2026-11-23T15:43:31Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "NVDA"
       ],
@@ -338,7 +403,7 @@
       "link": "https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss",
       "source": "FT",
       "published_utc": "2026-11-23T15:43:06Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "NVDA"
       ],
@@ -364,7 +429,7 @@
       "link": "https://news.futunn.com/post/1005367184?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T15:43:00Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "CRWD",
         "ZS"
@@ -378,7 +443,7 @@
       "link": "https://www.financialjuice.com/News/9864647/Trump-on-intervening-in-public-company-Doing-it-for-the-US-NVDA.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T15:41:10Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "NVDA"
       ],
@@ -391,7 +456,7 @@
       "link": "https://www.financialjuice.com/News/9864646/Bernstein-raises-Nvidia-to-Outperform-from-Market-Perform-NVDA.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T15:40:51Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "NVDA"
       ],
@@ -417,7 +482,7 @@
       "link": "https://www.ft.com/content/20d2ebe3-e945-4659-a122-31bf85a4e4e5?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss",
       "source": "FT",
       "published_utc": "2026-11-23T15:36:15Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "NVDA"
       ],
@@ -430,7 +495,7 @@
       "link": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
       "source": "CNBC",
       "published_utc": "2026-11-23T15:36:12Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "NVDA"
       ],
@@ -456,7 +521,7 @@
       "link": "https://www.financialjuice.com/News/9864634/Trump-Huang-is-already-thinking-three-chips-into-the-future-NVDA.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T15:32:08Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "NVDA"
       ],
@@ -469,7 +534,7 @@
       "link": "https://news.futunn.com/post/1005366145?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T15:31:00Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "TSM"
       ],
@@ -495,7 +560,7 @@
       "link": "https://www.financialjuice.com/News/9864620/House-Foreign-Affairs-plans-for-Huang-hearing-unchanged-Huang-to-attend-closed-door-briefing-NVDA.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T15:30:05Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "NVDA"
       ],
@@ -547,7 +612,7 @@
       "link": "https://www.financialjuice.com/News/9864619/Trump-If-Huang-was-angry-enough-he-couldve-worked-for-China-NVDA.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T15:29:02Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "NVDA"
       ],
@@ -560,7 +625,7 @@
       "link": "https://www.financialjuice.com/News/9864618/Trump-We-could-have-seen-China-paying-Huang-to-flip-sides-We-wouldnt-want-China-to-poach-Huang-NVDA.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T15:28:55Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "NVDA"
       ],
@@ -573,20 +638,7 @@
       "link": "https://www.financialjuice.com/News/9864616/Trump-US-VP-Vance-was-involved-in-the-NVIDIA-decision-NVDA.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T15:24:46Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:e885858411c9b959",
-      "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 35%",
-      "summary": "The Nvidia board said it had input from senior levels of the U.S. government.",
-      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-      "source": "CNBC",
-      "published_utc": "2026-11-23T15:24:42Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "NVDA"
       ],
@@ -612,7 +664,7 @@
       "link": "https://t.me/trad_fin/4970",
       "source": "X",
       "published_utc": "2026-11-23T15:22:38Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "NOW"
       ],
@@ -625,7 +677,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2124886150254907486#m",
       "source": "X",
       "published_utc": "2026-11-23T15:21:51Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "NVDA"
       ],
@@ -638,7 +690,7 @@
       "link": "https://www.financialjuice.com/News/9864613/Trump-We-want-Huang-on-our-side-NVDA.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T15:21:38Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "NVDA"
       ],
@@ -651,7 +703,7 @@
       "link": "https://www.financialjuice.com/News/9864612/Trump-Investors-should-be-very-happy-NVDA.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T15:21:28Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "NVDA"
       ],
@@ -664,7 +716,7 @@
       "link": "https://www.financialjuice.com/News/9864611/Trump-Huang-said-hell-work-harder-than-ever-NVDA.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T15:21:15Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "NVDA"
       ],
@@ -677,7 +729,7 @@
       "link": "https://www.financialjuice.com/News/9864609/Trump-Spoke-to-Huang-last-night-NVDA.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T15:20:55Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "NVDA"
       ],
@@ -690,7 +742,7 @@
       "link": "https://www.financialjuice.com/News/9864608/Trump-on-Nvidia-Was-a-rocket-ship-going-in-wrong-direction-NVDA.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T15:20:42Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "NVDA"
       ],
@@ -716,7 +768,7 @@
       "link": "https://www.techflowpost.com/newsletter/146391",
       "source": "TechFlow",
       "published_utc": "2026-11-23T15:19:09Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "NVDA"
       ],
@@ -729,7 +781,7 @@
       "link": "https://www.cnbc.com/2026/11/23/netflix-the-altruists-crypto-ftx-collapse.html",
       "source": "CNBC",
       "published_utc": "2026-11-23T15:18:51Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "NFLX"
       ],
@@ -742,7 +794,7 @@
       "link": "https://news.futunn.com/post/1005364981?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T15:18:00Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "TSLA"
       ],
@@ -755,59 +807,7 @@
       "link": "https://www.financialjuice.com/News/9864597/Trump-Huang-scandal-could-be-a-net-positive-NVDA.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T15:16:25Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:5caa00741f755ea2",
-      "title": "Also on the tape, to 10:15 ET A text called \"Climate change and monetary policy\" is published by ECB's Lane German Chancellor Merz states that Europe is prepared to engage in negotiations with Russia ",
-      "summary": "Also on the tape, to 10:15 ET A text called \"Climate change and monetary policy\" is published by ECB's Lane German Chancellor Merz states that Europe is prepared to engage in negotiations with Russia US S&P Composite PMI Flash came in at 54.6, below the 55.6 expected. Prior: 55.9. US S&P Manufacturi",
-      "link": "http://nitter.mizuki.st/movesurge/status/2124884697939362140#m",
-      "source": "X",
-      "published_utc": "2026-11-23T15:16:05Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:baffe0a14b4d6d1f",
-      "title": "Trump: Huang will start NVIDIA return at a higher level. $NVDA",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9864595/Trump-Huang-will-start-NVIDIA-return-at-a-higher-level-NVDA.aspx?xy=rss",
-      "source": "FinancialJuice",
-      "published_utc": "2026-11-23T15:15:34Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:8587d9aba158b973",
-      "title": "NVIDIA Up Over 32%, on Pace for Largest Percent Increase Since May 2003 -- Data Talk",
-      "summary": "",
-      "link": "https://news.futunn.com/post/1005364803?futusource=news_search_searchnews&src=39",
-      "source": "futu",
-      "published_utc": "2026-11-23T15:15:00Z",
-      "fetched_utc": "2026-11-23T15:35:45.923417Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:d653ee6709ab826c",
-      "title": "Trump: Huang has chips in mind far beyond Blackwell. $NVDA",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9864591/Trump-Huang-has-chips-in-mind-far-beyond-Blackwell-NVDA.aspx?xy=rss",
-      "source": "FinancialJuice",
-      "published_utc": "2026-11-23T15:14:36Z",
-      "fetched_utc": "2026-11-23T16:01:52.691612Z",
+      "fetched_utc": "2026-11-23T16:05:45.213058Z",
       "tickers": [
         "NVDA"
       ],
