@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-23T14:01:37.610093Z",
+  "updated_utc": "2026-11-23T14:06:03.794646Z",
   "window_hours": 12,
   "sources_ok": [
     "terminal",
@@ -9,11 +9,50 @@
   "errors": [],
   "stale": false,
   "counts": {
-    "fetched": 576,
+    "fetched": 564,
     "inbox": 60,
-    "new": 16
+    "new": 4
   },
   "items": [
+    {
+      "id": "u:e885858411c9b959",
+      "title": "Nvidia reinstates Jensen Huang as CEO",
+      "summary": "",
+      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "source": "CNBC",
+      "published_utc": "2026-11-23T14:03:50Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:b2fd81ae9c676c49",
+      "title": "NVIDIA: Harvey C. Jones to stay as board chair. $NVDA",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9864475/NVIDIA-Harvey-C-Jones-to-stay-as-board-chair-NVDA.aspx",
+      "source": "FinancialJuice",
+      "published_utc": "2026-11-23T14:03:03Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:c9a5ba5a86365048",
+      "title": "英伟达：将设立首席合规官职位，并继续配合相关调查",
+      "summary": "",
+      "link": "https://news.futunn.com/flash/1005357077?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-23T14:01:20Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
     {
       "id": "u:6e7d021d5da2e707",
       "title": "如果你10年前投资了$100的台积电股票，今天将拥有这么多",
@@ -21,7 +60,7 @@
       "link": "https://news.futunn.com/post/1005356706?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T14:00:31Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "TSM"
       ],
@@ -34,7 +73,7 @@
       "link": "https://www.scmp.com/economy/policy/article/3375468/nothing-came-through-why-boeing-failed-land-firm-orders-during-trumps-shenzhen-trip",
       "source": "SCMP",
       "published_utc": "2026-11-23T14:00:11Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "BA"
       ],
@@ -47,7 +86,20 @@
       "link": "https://www.techflowpost.com/newsletter/146365",
       "source": "TechFlow",
       "published_utc": "2026-11-23T14:00:10Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:5bdcf9cc68f884cb",
+      "title": "英伟达董事会：在决策过程中听取了美国政府高层的意见",
+      "summary": "深潮 TechFlow 消息，11 月 23 日，据英伟达官方公告，英伟达董事会一致投票恢复黄仁勋（Jensen Huang）总裁、首席执行官及董事会成员职务，即刻生效。 公告称，董事会在与黄仁勋进行一系列讨论和会面后，对其坦诚度和领导能力感到满意；董事会在决策过程中听取了美国政府高层的意见，并据此确信黄仁勋复职不会构成国家安全风险。 董事会主席 Harvey Jones 表示，董事会认为黄仁勋是领导英伟达的合适人选，并感谢 Colette Kress 担任临时 CEO 期间的工作，Kress 将继续担任 CFO，Harvey Jones 仍任董事会主席。 黄仁勋表示，很荣幸重返英伟达，将以最",
+      "link": "https://www.techflowpost.com/newsletter/146363",
+      "source": "TechFlow",
+      "published_utc": "2026-11-23T13:59:35Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "NVDA"
       ],
@@ -57,10 +109,10 @@
       "id": "u:a5067f543aa2e849",
       "title": "NVIDIA's CEO Huang: I can’t wait to get back to work.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9864453/NVIDIAs-CEO-Huang-I-cant-wait-to-get-back-to-work.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9864453/NVIDIAs-CEO-Huang-I-cant-wait-to-get-back-to-work.aspx",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T13:58:41Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "NVDA"
       ],
@@ -73,7 +125,7 @@
       "link": "https://www.techflowpost.com/newsletter/146362",
       "source": "TechFlow",
       "published_utc": "2026-11-23T13:58:15Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "NVDA"
       ],
@@ -83,10 +135,10 @@
       "id": "u:0283bd0813a99fbf",
       "title": "Nvidia Corporation - Board confirms no national security risk in Jensen Huang's reinstatement $NVDA",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9864452/Nvidia-Corporation---Board-confirms-no-national-security-risk-in-Jensen-Huangs-reinstatement-NVDA.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9864452/Nvidia-Corporation---Board-confirms-no-national-security-risk-in-Jensen-Huangs-reinstatement-NVDA.aspx",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T13:57:56Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "NVDA"
       ],
@@ -96,10 +148,10 @@
       "id": "u:757a9a0fe00d84b3",
       "title": "NVIDIA: Huang probe to continue after reinstatement.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9864451/NVIDIA-Huang-probe-to-continue-after-reinstatement.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9864451/NVIDIA-Huang-probe-to-continue-after-reinstatement.aspx",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T13:57:17Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "NVDA"
       ],
@@ -109,10 +161,10 @@
       "id": "u:cddce1f640d894ca",
       "title": "NVIDIA has formed national security & export control committee.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9864449/NVIDIA-has-formed-national-security--export-control-committee.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9864449/NVIDIA-has-formed-national-security--export-control-committee.aspx",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T13:57:02Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "NVDA"
       ],
@@ -124,10 +176,10 @@
       "id": "u:ae99504c9dc05f86",
       "title": "Nvidia: Board received input from senior levels of the US government $NVDA",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9864448/Nvidia-Board-received-input-from-senior-levels-of-the-US-government-NVDA.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9864448/Nvidia-Board-received-input-from-senior-levels-of-the-US-government-NVDA.aspx",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T13:56:48Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "NVDA"
       ],
@@ -137,10 +189,10 @@
       "id": "u:2cf232523a22052b",
       "title": "NVIDIA to name and hire Chief Compliance Officer.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9864446/NVIDIA-to-name-and-hire-Chief-Compliance-Officer.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9864446/NVIDIA-to-name-and-hire-Chief-Compliance-Officer.aspx",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T13:56:37Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "NVDA"
       ],
@@ -153,7 +205,7 @@
       "link": "https://t.me/PhoenixNewsImportant/1059",
       "source": "X",
       "published_utc": "2026-11-23T13:56:09Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "NVDA"
       ],
@@ -163,10 +215,10 @@
       "id": "u:355887d5b7feec07",
       "title": "NVIDIA Board reinstates Huang as President CEO. $NVDA",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9864445/NVIDIA-Board-reinstates-Huang-as-President-CEO-NVDA.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9864445/NVIDIA-Board-reinstates-Huang-as-President-CEO-NVDA.aspx",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T13:56:03Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "NVDA"
       ],
@@ -179,7 +231,7 @@
       "link": "https://news.futunn.com/flash/1005356477?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T13:56:00Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "NVDA"
       ],
@@ -192,7 +244,7 @@
       "link": "https://news.futunn.com/flash/1005356340?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T13:56:00Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "NVDA"
       ],
@@ -243,10 +295,10 @@
       "id": "u:d6b87594db3cc9c4",
       "title": "Amazon to purchase Decart's AI optimization technology to advance chip and model innovation for customers $AMZN",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9864444/Amazon-to-purchase-Decarts-AI-optimization-technology-to-advance-chip-and-model-innovation-for-customers-AMZN.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9864444/Amazon-to-purchase-Decarts-AI-optimization-technology-to-advance-chip-and-model-innovation-for-customers-AMZN.aspx",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T13:49:20Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "AMZN"
       ],
@@ -256,10 +308,10 @@
       "id": "u:659e3a04534c892a",
       "title": "Amazon is said to pay $7.5 billion for AI startup Decart’s tech. $AMZN",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9864443/Amazon-is-said-to-pay-75-billion-for-AI-startup-Decarts-tech-AMZN.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9864443/Amazon-is-said-to-pay-75-billion-for-AI-startup-Decarts-tech-AMZN.aspx",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T13:49:14Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "AMZN"
       ],
@@ -272,7 +324,7 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-23/amazon-is-said-to-pay-7-5-billion-for-ai-startup-decart-s-tech",
       "source": "BBG",
       "published_utc": "2026-11-23T13:48:51Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "AMZN"
       ],
@@ -287,7 +339,7 @@
       "link": "https://news.futunn.com/post/1005355693?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T13:48:00Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "CRWD",
         "ZS"
@@ -301,7 +353,7 @@
       "link": "https://www.techflowpost.com/newsletter/146355",
       "source": "TechFlow",
       "published_utc": "2026-11-23T13:44:26Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "NVDA"
       ],
@@ -331,7 +383,7 @@
       "link": "https://news.futunn.com/post/1005355122?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T13:38:12Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "AAPL"
       ],
@@ -344,7 +396,7 @@
       "link": "https://news.futunn.com/post/1005354942?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T13:36:00Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "MSFT"
       ],
@@ -357,7 +409,7 @@
       "link": "https://news.futunn.com/post/1005354856?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T13:35:00Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "CVS",
         "HUM",
@@ -372,7 +424,7 @@
       "link": "https://news.futunn.com/post/1005354834?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T13:34:14Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "CRWD"
       ],
@@ -384,10 +436,10 @@
       "id": "u:33ce4f71f4252e38",
       "title": "Trump: I hope Huang will be back at NVIDIA soon - PBS. $NVDA",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9864411/Trump-I-hope-Huang-will-be-back-at-NVIDIA-soon---PBS-NVDA.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9864411/Trump-I-hope-Huang-will-be-back-at-NVIDIA-soon---PBS-NVDA.aspx",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T13:31:22Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "NVDA"
       ],
@@ -400,7 +452,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2124857521923907965#m",
       "source": "X",
       "published_utc": "2026-11-23T13:28:05Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [],
       "cats": [
         "fed"
@@ -413,7 +465,7 @@
       "link": "https://news.futunn.com/post/1005353749?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T13:24:52Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "SMCI"
       ],
@@ -426,7 +478,7 @@
       "link": "https://news.futunn.com/post/1005353588?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T13:21:37Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -439,7 +491,7 @@
       "link": "https://news.futunn.com/post/1005349089?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T13:21:00Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "NVDA"
       ],
@@ -452,7 +504,7 @@
       "link": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
       "source": "CNBC",
       "published_utc": "2026-11-23T13:11:04Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "NVDA"
       ],
@@ -465,7 +517,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2124852990955729011#m",
       "source": "X",
       "published_utc": "2026-11-23T13:10:05Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "LLY"
       ],
@@ -480,7 +532,7 @@
       "link": "https://news.futunn.com/post/1005352610?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T13:09:36Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "NVDA"
       ],
@@ -493,7 +545,7 @@
       "link": "https://www.nytimes.com/2026/11/23/business/crowdstrike-zscaler-cybersecurity.html",
       "source": "NYT",
       "published_utc": "2026-11-23T13:08:05Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "CRWD",
         "ZS"
@@ -509,7 +561,7 @@
       "link": "https://www.techflowpost.com/newsletter/146350",
       "source": "TechFlow",
       "published_utc": "2026-11-23T13:04:22Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [],
       "cats": [
         "fed"
@@ -522,7 +574,7 @@
       "link": "https://news.futunn.com/post/1005352469?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T13:04:00Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "MSFT"
       ],
@@ -535,7 +587,7 @@
       "link": "https://news.futunn.com/post/1005352041?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T13:01:06Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "CRWD"
       ],
@@ -548,7 +600,7 @@
       "link": "https://news.futunn.com/post/1005351569?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T12:58:00Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "CRWD",
         "ZS"
@@ -562,7 +614,7 @@
       "link": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
       "source": "FT",
       "published_utc": "2026-11-23T12:54:22Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "NVDA",
         "SNDK"
@@ -576,7 +628,7 @@
       "link": "https://news.futunn.com/post/1005351454?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T12:54:12Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "NVDA"
       ],
@@ -603,7 +655,7 @@
       "link": "https://news.futunn.com/post/1005351429?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T12:50:44Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "ARM",
         "NVDA"
@@ -617,7 +669,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2124848014585995752#m",
       "source": "X",
       "published_utc": "2026-11-23T12:50:19Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "ARM"
       ],
@@ -643,7 +695,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2124843349043818698#m",
       "source": "X",
       "published_utc": "2026-11-23T12:31:46Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "ARM"
       ],
@@ -656,7 +708,7 @@
       "link": "https://news.futunn.com/post/1005349318?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T12:29:00Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "CRWD",
         "ZS"
@@ -670,7 +722,7 @@
       "link": "https://www.ft.com/content/6f3e2cbe-9ce4-47e7-be69-a2e765da8f9c",
       "source": "FT",
       "published_utc": "2026-11-23T12:28:53Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "NVDA"
       ],
@@ -683,7 +735,7 @@
       "link": "https://news.futunn.com/post/1005349184?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T12:26:00Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "CRWD",
         "ZS"
@@ -697,7 +749,7 @@
       "link": "https://news.futunn.com/post/1005349257?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T12:25:23Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "NVDA"
       ],
@@ -749,7 +801,7 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-23/arm-ceo-extends-contract-through-2033-after-nvidia-approach",
       "source": "BBG",
       "published_utc": "2026-11-23T12:19:06Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
+      "fetched_utc": "2026-11-23T14:06:03.794646Z",
       "tickers": [
         "ARM",
         "NVDA"
@@ -769,59 +821,6 @@
       ],
       "cats": [
         "mna"
-      ]
-    },
-    {
-      "id": "u:1b81146c0234d464",
-      "title": "Arm 首席执行官雷内·哈斯将于 12月 1 日起出任软银集团副董事长",
-      "summary": "深潮 TechFlow 消息，11 月 23 日，Arm 首席执行官雷内·哈斯（Rene Haas）将于 12月 1 日起出任软银集团副董事长。或受此消息影响，Arm(ARM.O) 美股盘前涨幅扩大至 10%。",
-      "link": "https://www.techflowpost.com/newsletter/146341",
-      "source": "TechFlow",
-      "published_utc": "2026-11-23T12:06:55Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
-      "tickers": [
-        "ARM"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:d52da4b12e17b222",
-      "title": "智通港股解盘 | 拉动英伟达盘活整盘棋 新纳入恒生科指个股遭爆炒",
-      "summary": "",
-      "link": "https://news.futunn.com/post/1005348978?futusource=news_search_searchnews&src=39",
-      "source": "futu",
-      "published_utc": "2026-11-23T12:00:04Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:86d81f6dcabe9593",
-      "title": "GM Eyes Ex-Tesla Self-Driving Executive Sterling Anderson as Next CEO",
-      "summary": "The carmaker’s product chief Sterling Anderson is among candidates to succeed Mary Barra.",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-11-23/gm-eyes-ex-tesla-self-driving-executive-sterling-anderson-as-next-ceo",
-      "source": "BBG",
-      "published_utc": "2026-11-23T12:00:01Z",
-      "fetched_utc": "2026-11-23T14:01:37.610093Z",
-      "tickers": [
-        "GM",
-        "TSLA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:f816891337afc901",
-      "title": "AI Slump, Export Controls and Economic Security",
-      "summary": "What if the Trump administration’s priority on national security hurts economic security?",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-11-23/ai-slump-export-controls-and-economic-security",
-      "source": "BBG",
-      "published_utc": "2026-11-23T12:00:01Z",
-      "fetched_utc": "2026-11-23T12:31:16.196929Z",
-      "tickers": [],
-      "cats": [
-        "fed"
       ]
     }
   ]
