@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-23T09:35:44.516910Z",
+  "updated_utc": "2026-11-23T09:41:03.821975Z",
   "window_hours": 12,
   "sources_ok": [
     "terminal",
@@ -9,24 +9,103 @@
   "errors": [],
   "stale": false,
   "counts": {
-    "fetched": 783,
+    "fetched": 889,
     "inbox": 60,
-    "new": 3
+    "new": 6
   },
   "items": [
     {
+      "id": "u:ad4f22a5e2fc6a7c",
+      "title": "技术超卖触发反弹！美股盘前科技股集体反弹，英伟达大涨近10%；纳指期货涨近4%",
+      "summary": "",
+      "link": "https://news.futunn.com/post/1005335407?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-23T09:40:25Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:0e8dbf2022ff5c09",
+      "title": "美股AI芯片概念盘前全线反弹，英伟达涨超9%，英特尔、AMD涨超7%",
+      "summary": "",
+      "link": "https://news.futunn.com/post/1005335199?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-23T09:37:12Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
+      "tickers": [
+        "INTC",
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:a10138e1df21f2de",
+      "title": "埃隆·马斯克希望所有特斯拉汽车都能接入SpaceX的星链网络——但在中国除外，因为在那里这“不合法”：他表示，这将是实现无人监管的自动驾驶的关键。",
+      "summary": "",
+      "link": "https://news.futunn.com/post/1005335129?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-23T09:36:38Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
+      "tickers": [
+        "TSLA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:d51fd9b5cc8bed5b",
+      "title": "After 11 minutes, $IREN ($6.1B) had lost 0.77%, in pre-market trading. Applied Digital gains 9.8%, Core Scientific rises 8%, Hut 8 advances 8.9%; CoreWeave climbs 10.1%, IREN 10.2% and Nebius 11.1%",
+      "summary": "After 11 minutes, $IREN ($6.1B) had lost 0.77%, in pre-market trading. Applied Digital gains 9.8%, Core Scientific rises 8%, Hut 8 advances 8.9%; CoreWeave climbs 10.1%, IREN 10.2% and Nebius 11.1%",
+      "link": "http://nitter.mizuki.st/movesurge/status/2124799024712872191#m",
+      "source": "X",
+      "published_utc": "2026-11-23T09:35:39Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
+      "tickers": [
+        "NBIS"
+      ],
+      "cats": []
+    },
+    {
       "id": "u:c74881c5e716ec9a",
-      "title": "高盛研报：AWS 2027、2028 年增速预计超 40%，维持亚马逊买入评级及 370 美元目标价",
-      "summary": "深潮 TechFlow 消息，11 月 23 日，据潮向研究，高盛分析师 Eric Sheridan 团队在 11 月 20 日发布的研报中维持对亚马逊（AMZN）的「买入」评级并保留在美洲确信名单中，给出 12 个月目标价 370 美元。报告指出，亚马逊 AI 购物助手 Alexa for Shopping 2026 年用户预计达 4 亿人，贡献增量营收 160 亿美元，同比增长 33%；零售端虽受日百生鲜占比升至 50%拖累单件收入，但超过 100 万台机器人有望在 2030 年前将单件履约成本压低 13%，带动北美与国际营业利润率升至 21%。 云计算方面，AWS 预计 2027 与 2",
+      "title": "高盛研报：维持亚马逊 370 美元目标价，AWS 的 AI 服务营收占比 2028 年将达 40.7%",
+      "summary": "深潮 TechFlow 消息，11 月 23 日，据潮向研究，高盛分析师 Eric Sheridan 团队在 11 月 20 日发布的研报中维持对亚马逊（AMZN）的「买入」评级并保留在美洲确信名单中，给出 12 个月目标价 370 美元。报告指出，亚马逊 AI 购物助手 Alexa for Shopping 2026 年用户预计达 4 亿人，贡献增量营收 160 亿美元，同比增长 33%；零售端虽受日百生鲜占比升至 50%拖累单件收入，但超过 100 万台机器人有望在 2030 年前将单件履约成本压低 13%，带动北美与国际营业利润率升至 21%。 云计算方面，亚马逊管理层指引 AWS 20",
       "link": "https://www.techflowpost.com/newsletter/146325",
       "source": "TechFlow",
       "published_utc": "2026-11-23T09:34:05Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
       "tickers": [
         "AMZN",
         "GS"
       ],
       "cats": []
+    },
+    {
+      "id": "u:07163abebcc52bb9",
+      "title": "Also on the tape, to 4:33 ET Bloomberg reports that Firmus, an AI company backed by NVIDIA (NVDA), is weighing a bond offering of USD 1.5bln. 2Y government yields: US 4.702%, Australia 4.615%, Belgium",
+      "summary": "Also on the tape, to 4:33 ET Bloomberg reports that Firmus, an AI company backed by NVIDIA (NVDA), is weighing a bond offering of USD 1.5bln. 2Y government yields: US 4.702%, Australia 4.615%, Belgium 3.502%, Canada 3.204%.",
+      "link": "http://nitter.mizuki.st/movesurge/status/2124798550399971752#m",
+      "source": "X",
+      "published_utc": "2026-11-23T09:33:45Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:f8b252660bafc023",
+      "title": "FDA declines approval for Capricor Therapeutics’ Duchenne treatment $CAPR",
+      "summary": "FDA declines approval for Capricor Therapeutics’ Duchenne treatment $CAPR",
+      "link": "http://nitter.mizuki.st/movesurge/status/2124797084545266133#m",
+      "source": "X",
+      "published_utc": "2026-11-23T09:27:56Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
+      "tickers": [],
+      "cats": [
+        "fed"
+      ]
     },
     {
       "id": "u:a6346a266301db06",
@@ -35,7 +114,7 @@
       "link": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
       "source": "CNBC",
       "published_utc": "2026-11-23T09:24:21Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
       "tickers": [
         "NVDA"
       ],
@@ -48,7 +127,7 @@
       "link": "https://news.futunn.com/post/1005333933?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T09:22:25Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
       "tickers": [
         "NVDA"
       ],
@@ -61,7 +140,7 @@
       "link": "https://news.futunn.com/flash/1005333931?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T09:20:07Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
       "tickers": [
         "NVDA"
       ],
@@ -74,7 +153,7 @@
       "link": "https://news.futunn.com/post/1005333227?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T09:12:55Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
       "tickers": [
         "TSLA"
       ],
@@ -87,7 +166,7 @@
       "link": "https://www.techflowpost.com/newsletter/146321",
       "source": "TechFlow",
       "published_utc": "2026-11-23T09:07:30Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
       "tickers": [
         "ARM",
         "INTC",
@@ -100,13 +179,29 @@
       ]
     },
     {
+      "id": "u:a94cec549c7bf391",
+      "title": "Zscaler shares rise premarket after reports say CrowdStrike is in talks to acquire the company $ZS $CRWD",
+      "summary": "Zscaler shares rise premarket after reports say CrowdStrike is in talks to acquire the company $ZS $CRWD",
+      "link": "http://nitter.mizuki.st/movesurge/status/2124791871276802241#m",
+      "source": "X",
+      "published_utc": "2026-11-23T09:07:13Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
+      "tickers": [
+        "CRWD",
+        "ZS"
+      ],
+      "cats": [
+        "mna"
+      ]
+    },
+    {
       "id": "u:af5c7af6de6cb606",
       "title": "美股异动丨英伟达盘前大涨超8%，特朗普再发文力挺、美财长态度大转弯，超20万人请愿黄仁勋",
       "summary": "",
       "link": "https://news.futunn.com/post/1005332225?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T09:03:36Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
       "tickers": [
         "NVDA"
       ],
@@ -119,7 +214,7 @@
       "link": "https://www.bloomberg.com/opinion/articles/2026-11-23/nvidia-ai-stocks-wall-street-needs-to-get-honest-on-forecasts",
       "source": "BBG",
       "published_utc": "2026-11-23T09:01:08Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
       "tickers": [
         "NVDA"
       ],
@@ -132,7 +227,7 @@
       "link": "https://news.futunn.com/post/1005331510?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T08:58:16Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
       "tickers": [
         "NVDA"
       ],
@@ -145,7 +240,7 @@
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQM1JTSUIyenFuZGt1WTVQaXU3eXpfUHRqOF9HUDNjbENUaFlCSFY5VWVUb2ZWNkt1eU5tOTJ5RzBvQjZZNXhiSWxCUE1aLWFwU205NVBLdHVhdEVmV0ZJYWxfQTlkSUVrczBOU3dlSm03ZlkwcFZJWHJCMzRlcVBTMk9EMXBzbjZYOWZ3WEUya3N5aHNvc0I1eFVNdHlETzN6Q0lHUmhud1pfb1B1aDRZazlOM0hBTFlJQ09wNFNBMVdIR2FDZUNqT0Z2NGpzN1k1Z3k3R3dDbkp3dU8xWnQyRkZpdGZTdzQ?oc=5",
       "source": "google-news:TradingKey",
       "published_utc": "2026-11-23T08:56:47Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
       "tickers": [
         "AVGO",
         "GOOGL"
@@ -162,7 +257,7 @@
       "link": "https://www.financialjuice.com/News/9864056/NVIDIA-backed-AI-company-Firmus-mulls-15-billion-bond-sale.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T08:50:47Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
       "tickers": [
         "NVDA"
       ],
@@ -175,7 +270,7 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-backed-ai-company-firmus-mulls-1-5-billion-bond-offering",
       "source": "BBG",
       "published_utc": "2026-11-23T08:49:27Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
       "tickers": [
         "NVDA"
       ],
@@ -214,7 +309,7 @@
       "link": "https://news.futunn.com/post/1005327397?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T08:37:42Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
       "tickers": [
         "NVDA"
       ],
@@ -227,7 +322,7 @@
       "link": "https://news.futunn.com/post/1005325875?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T08:28:04Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
       "tickers": [
         "TSLA"
       ],
@@ -253,7 +348,7 @@
       "link": "https://www.techflowpost.com/newsletter/146314",
       "source": "TechFlow",
       "published_utc": "2026-11-23T07:50:29Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
       "tickers": [
         "GS"
       ],
@@ -266,7 +361,7 @@
       "link": "https://www.wsj.com/business/deals/monte-dei-paschis-board-sends-mixed-signals-over-intesas-37-billion-offer-e2e40d9a?mod=pls_whats_news_us_business_f",
       "source": "WSJ",
       "published_utc": "2026-11-23T07:50:00Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -279,7 +374,7 @@
       "link": "https://www.techflowpost.com/newsletter/146313",
       "source": "TechFlow",
       "published_utc": "2026-11-23T07:31:31Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
       "tickers": [
         "COIN",
         "NVDA"
@@ -306,7 +401,7 @@
       "link": "https://news.futunn.com/post/1005318453?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T07:19:00Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
       "tickers": [
         "NVDA"
       ],
@@ -319,7 +414,7 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-23/coca-cola-hbc-rises-in-jse-debut-ahead-of-2-6-billion-deal",
       "source": "BBG",
       "published_utc": "2026-11-23T07:17:43Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -345,7 +440,7 @@
       "link": "https://news.futunn.com/post/1005316874?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T07:00:44Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
       "tickers": [
         "NVDA"
       ],
@@ -358,7 +453,7 @@
       "link": "https://news.futunn.com/post/1005316629?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T06:56:30Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
       "tickers": [
         "TSLA"
       ],
@@ -371,7 +466,7 @@
       "link": "https://news.futunn.com/post/1005316308?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T06:44:01Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
       "tickers": [
         "GS",
         "MSFT",
@@ -412,7 +507,7 @@
       "link": "https://www.techflowpost.com/newsletter/146307",
       "source": "TechFlow",
       "published_utc": "2026-11-23T06:34:01Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
       "tickers": [
         "GS"
       ],
@@ -451,7 +546,7 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdERkOVN2aGhFVzBJTmlWcTVQSlYwOHRzalptTkczeVM5VGt0UktqVmVvMHk1a3lzV0piQ3haOXJXUUhKTzVDdmpXejVjQzJxX1VhNmFlRFM4N1dyTXlFVndKSGRicmJoMFNQSHV1cGljelZ4cFJPQWpNM0pOb2QwcHdPOW91NDAxZW5KcA?oc=5",
       "source": "google-news:Football Finance Data",
       "published_utc": "2026-11-23T05:30:29Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -465,7 +560,7 @@
       "link": "https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html",
       "source": "CNBC",
       "published_utc": "2026-11-23T05:08:03Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
       "tickers": [
         "NVDA"
       ],
@@ -478,7 +573,7 @@
       "link": "https://www.techflowpost.com/newsletter/146297",
       "source": "TechFlow",
       "published_utc": "2026-11-23T05:03:03Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
       "tickers": [
         "GS"
       ],
@@ -504,7 +599,7 @@
       "link": "https://www.ft.com/content/e49add11-3cc8-4edd-8daa-db8daaf994dd?syn-25a6b1a6=1",
       "source": "FT",
       "published_utc": "2026-11-23T05:00:13Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
       "tickers": [
         "NVDA"
       ],
@@ -517,7 +612,7 @@
       "link": "https://www.ft.com/content/a216892d-190c-41dd-8473-03643a8c5350?syn-25a6b1a6=1",
       "source": "FT",
       "published_utc": "2026-11-23T05:00:13Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -530,7 +625,7 @@
       "link": "https://www.techflowpost.com/newsletter/146296",
       "source": "TechFlow",
       "published_utc": "2026-11-23T05:00:08Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
       "tickers": [
         "NVDA"
       ],
@@ -543,7 +638,7 @@
       "link": "https://www.scmp.com/business/china-business/article/3375430/major-japanese-firms-still-rely-heavily-china-revenue-amid-beijing-tokyo-rift-report",
       "source": "SCMP",
       "published_utc": "2026-11-23T05:00:05Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
       "tickers": [
         "GS"
       ],
@@ -556,25 +651,11 @@
       "link": "https://www.ft.com/content/78b01bf4-3550-41cb-ac52-2f3426b58232?syn-25a6b1a6=1",
       "source": "FT",
       "published_utc": "2026-11-23T05:00:04Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
       "tickers": [],
       "cats": [
         "mna"
       ]
-    },
-    {
-      "id": "u:dd35096085a68abd",
-      "title": "SC26 超级计算大会：英伟达、AMD、Penguin、Lambda 展示了什么？",
-      "summary": "",
-      "link": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?futusource=news_search_searchnews&src=39#/index?id=nesSN2026112312460298c6ec9a&s=b",
-      "source": "futu",
-      "published_utc": "2026-11-23T04:37:27Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
-      "tickers": [
-        "AMD",
-        "NVDA"
-      ],
-      "cats": []
     },
     {
       "id": "u:54c3fad431fa7895",
@@ -583,7 +664,7 @@
       "link": "https://www.techflowpost.com/newsletter/146295",
       "source": "TechFlow",
       "published_utc": "2026-11-23T04:26:02Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
       "tickers": [
         "GOOGL"
       ],
@@ -622,7 +703,7 @@
       "link": "https://news.futunn.com/post/1005307398?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T03:59:38Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
       "tickers": [
         "TSLA"
       ],
@@ -635,7 +716,7 @@
       "link": "https://www.techflowpost.com/newsletter/146292",
       "source": "TechFlow",
       "published_utc": "2026-11-23T03:59:27Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
       "tickers": [
         "NVDA"
       ],
@@ -648,7 +729,7 @@
       "link": "https://www.techflowpost.com/newsletter/146291",
       "source": "TechFlow",
       "published_utc": "2026-11-23T03:54:52Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
       "tickers": [
         "GS"
       ],
@@ -676,7 +757,7 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMnZTQ0NlZEtGYmhMbWtCbGF6X25EekZ2Mlp1Yy1oYnIzazhBRi0tdmlSa25zWUpOM3hnMXgyU2FpcW9uOENYRDg0N1ZRTWlTUWdrSDkwQXZjYUpDblhzc214akhiajhNMUZIUnk5UlhrR1Y3SEpjbGhiMDVWSTZKcC0yUDdMTmVhSk5fRWFCVzlXUFoxNGl0Mk9EX1hkcDRxTUNOT3ZFSlJKRVhYdkVLaUdvcG9fQQ?oc=5",
       "source": "google-news:Investing.com",
       "published_utc": "2026-11-23T03:52:17Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -716,7 +797,7 @@
       "link": "https://news.futunn.com/post/1005306618?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T03:22:00Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
       "tickers": [
         "AMZN"
       ],
@@ -729,87 +810,9 @@
       "link": "https://news.futunn.com/post/1005305318?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T03:20:26Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
+      "fetched_utc": "2026-11-23T09:41:03.821975Z",
       "tickers": [
         "TSLA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:0faf5686e2405f58",
-      "title": "美媒：微软总裁警告，未来数月或将出现更多技术宕机风险",
-      "summary": "",
-      "link": "https://news.futunn.com/post/1005306039?futusource=news_search_searchnews&src=39",
-      "source": "futu",
-      "published_utc": "2026-11-23T03:04:21Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
-      "tickers": [
-        "MSFT"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:7975ed7186cdcd60",
-      "title": "特朗普：希望英伟达董事会重新聘用黄仁勋",
-      "summary": "深潮 TechFlow 消息，11 月 23 日，美国总统特朗普在 Truth Social 发文称：“我希望英伟达董事会能重新聘用黄仁勋。这对公司而言是最好的安排，对美国来说也是如此。” 据 Politico 报道，特朗普此前已于 11 月 20 日在白宫对记者表示，希望黄仁勋能获得“第二次机会”，并称其带领英伟达让美国在 AI 领域领先其他公司 10 年。 不过，英伟达董事长 Harvey Jones 此前在财报电话会上表示，董事会一致接受黄仁勋辞职，不打算恢复其 CEO 职务。",
-      "link": "https://www.techflowpost.com/newsletter/146285",
-      "source": "TechFlow",
-      "published_utc": "2026-11-23T02:59:08Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:9337e2e45aff6a8c",
-      "title": "US President Trump Via Truth Social: I hope the Board of Nvidia rehires Jensen Huang. It would be the best thing for the Company, and also, for the U.S.A. President DONALD J. TRUMP",
-      "summary": "US President Trump Via Truth Social: I hope the Board of Nvidia rehires Jensen Huang. It would be the best thing for the Company, and also, for the U.S.A. President DONALD J. TRUMP",
-      "link": "http://nitter.mizuki.st/movesurge/status/2124698263018201159#m",
-      "source": "X",
-      "published_utc": "2026-11-23T02:55:15Z",
-      "fetched_utc": "2026-11-23T07:01:38.125830Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:a19abe5eab4a3725",
-      "title": "美国总统特朗普：希望英伟达董事会能重新聘用黄仁勋",
-      "summary": "",
-      "link": "https://news.futunn.com/flash/1005303365?futusource=news_search_searchnews&src=39",
-      "source": "futu",
-      "published_utc": "2026-11-23T02:55:00Z",
-      "fetched_utc": "2026-11-23T09:21:07.171830Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:33785611784373d9",
-      "title": "I hope the Board of Nvidia rehires Jensen Huang. It would be the best thing for the Company, and also, for the U.S.A. President DONALD J. TRUMP",
-      "summary": "I hope the Board of Nvidia rehires Jensen Huang. It would be the best thing for the Company, and also, for the U.S.A. President DONALD J. TRUMP",
-      "link": "https://www.trumpstruth.org/statuses/43709",
-      "source": "TRUMP-TS",
-      "published_utc": "2026-11-23T02:54:45Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:ca04b7bdfffc6114",
-      "title": "AI泡沫的第一层已经破了？英伟达回撤48%、CoreWeave跌破发行价，但更大的考验还在后面",
-      "summary": "",
-      "link": "https://news.futunn.com/post/1005304605?futusource=news_search_searchnews&src=39",
-      "source": "futu",
-      "published_utc": "2026-11-23T02:54:34Z",
-      "fetched_utc": "2026-11-23T09:01:30.135325Z",
-      "tickers": [
-        "NVDA"
       ],
       "cats": []
     }
