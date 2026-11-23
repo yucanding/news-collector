@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-23T10:31:18.157174Z",
+  "updated_utc": "2026-11-23T10:35:44.654861Z",
   "window_hours": 12,
   "sources_ok": [
     "terminal",
@@ -9,11 +9,27 @@
   "errors": [],
   "stale": false,
   "counts": {
-    "fetched": 953,
+    "fetched": 890,
     "inbox": 60,
-    "new": 5
+    "new": 3
   },
   "items": [
+    {
+      "id": "u:572f4c2e75e779b0",
+      "title": "Press Release: CrowdStrike to Acquire Zscaler, Bringing Network Security and Zero Trust to the Falcon Platform",
+      "summary": "",
+      "link": "https://news.futunn.com/post/1005340031?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-23T10:32:00Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
+      "tickers": [
+        "CRWD",
+        "ZS"
+      ],
+      "cats": [
+        "mna"
+      ]
+    },
     {
       "id": "u:5cbf4eebd77cc0e7",
       "title": "期权收租｜费半重挫近11%、芯片股触底仍需利率见顶?台积电IV飙至一年高位",
@@ -21,7 +37,7 @@
       "link": "https://news.futunn.com/post/1005338436?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T10:30:00Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [
         "TSM"
       ],
@@ -34,7 +50,7 @@
       "link": "https://news.futunn.com/post/1005339786?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T10:30:00Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [
         "CRWD"
       ],
@@ -47,7 +63,7 @@
       "link": "https://news.futunn.com/post/1005339785?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T10:30:00Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [
         "CRWD"
       ],
@@ -60,9 +76,22 @@
       "link": "https://news.futunn.com/post/1005339821?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T10:30:00Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [
         "CRWD"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:21137428e4d72b9a",
+      "title": "Disney Bets Big on Streaming. Just Don’t Ask What It Costs.",
+      "summary": "More content, sports and maybe a free tier aim to make streaming a growth engine.",
+      "link": "https://www.wsj.com/finance/disney-bets-big-on-streaming-just-dont-ask-what-it-costs-4b33553a?mod=rss_markets_main",
+      "source": "WSJ",
+      "published_utc": "2026-11-23T10:30:00Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
+      "tickers": [
+        "DIS"
       ],
       "cats": []
     },
@@ -73,7 +102,7 @@
       "link": "https://news.futunn.com/post/1005339718?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T10:27:11Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [
         "AAPL",
         "WMT"
@@ -87,7 +116,7 @@
       "link": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
       "source": "CNBC",
       "published_utc": "2026-11-23T10:24:25Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [
         "NVDA"
       ],
@@ -100,7 +129,7 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRmNOWGNVT25jeDNJMDl0THpQQk9LazZZWmliamhhWEJsOU8yUDd5V1pXVTFiS1pCLWZzRjdKVGZlOVYxMmFRSFdxTGExdG93T1ZPaThLc2x5NjhUMnltbE9iS1dtbTBZNnFmSjRMY09TNWZzdERoRkpDN3FPSlY1R0xuZWxlWXBWSHB5SlVNQ3hiWjhqSktreW05QVg5dw?oc=5",
       "source": "google-news:Private Equity Wire",
       "published_utc": "2026-11-23T10:21:22Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -114,7 +143,7 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVFAxZEVVZzVIWnhzZzhGeGYzNmJfWGg5V2NBZnRUR2syNFJCenhyVVFWWVZYY3pJbmpPR3dCclVtY1FNMk5rXzVYTkpKUWFlTEp4MXMxbFgzMGNXN3pIQ1RPc0tQWlU1U28zbGEyWGQ0NzFjeWZZb2hSV0owMjljcFBjRk9fV2M?oc=5",
       "source": "google-news:Private Equity Wire",
       "published_utc": "2026-11-23T10:21:21Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -128,7 +157,7 @@
       "link": "https://q.futunn.com/feed/117665242874660?futusource=news_search_searchnews",
       "source": "futu",
       "published_utc": "2026-11-23T10:18:41Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [
         "NVDA"
       ],
@@ -141,7 +170,7 @@
       "link": "https://www.wsj.com/finance/investing/jensen-and-lori-huang-have-amassed-a-vast-fortune-we-break-down-their-wealth-3d2287b1?mod=rss_markets_main",
       "source": "WSJ",
       "published_utc": "2026-11-23T10:17:00Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [
         "NVDA"
       ],
@@ -154,7 +183,7 @@
       "link": "https://news.futunn.com/post/1005338688?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T10:15:46Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [
         "TSLA"
       ],
@@ -167,7 +196,7 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-23/emirati-royal-s-mining-firm-outlines-464-million-titanium-deal",
       "source": "BBG",
       "published_utc": "2026-11-23T10:13:02Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -180,7 +209,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2124806303658713215#m",
       "source": "X",
       "published_utc": "2026-11-23T10:04:34Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [
         "MS"
       ],
@@ -193,7 +222,7 @@
       "link": "https://www.nytimes.com/2026/11/23/business/thanksgiving-grocery-prices.html",
       "source": "NYT",
       "published_utc": "2026-11-23T10:03:46Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [
         "WMT"
       ],
@@ -206,7 +235,7 @@
       "link": "https://www.nytimes.com/2026/11/23/business/cvs-pharmacy-health-federal-investigations-antitrust.html",
       "source": "NYT",
       "published_utc": "2026-11-23T10:03:26Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [
         "CVS"
       ],
@@ -219,7 +248,7 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-23/morgan-stanley-s-wilson-says-buying-opportunity-too-good-to-miss",
       "source": "BBG",
       "published_utc": "2026-11-23T10:02:24Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [
         "MS"
       ],
@@ -232,7 +261,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2124804511067709794#m",
       "source": "X",
       "published_utc": "2026-11-23T09:57:27Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [
         "TSM"
       ],
@@ -245,7 +274,7 @@
       "link": "https://news.futunn.com/post/1005336769?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T09:55:34Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [
         "NVDA"
       ],
@@ -258,7 +287,7 @@
       "link": "https://www.cnbc.com/2026/11/23/abivax-scorpion-capital-obefazimod.html",
       "source": "CNBC",
       "published_utc": "2026-11-23T09:45:42Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [
         "ABVX"
       ],
@@ -267,13 +296,26 @@
       ]
     },
     {
+      "id": "u:eb590fc5b265d5d3",
+      "title": "Wall Street set to rebound after AI stock sell-off",
+      "summary": "Battered tech shares including Nvidia and Anthropic rise sharply pre-market",
+      "link": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
+      "source": "FT",
+      "published_utc": "2026-11-23T09:41:36Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
       "id": "u:697efbe734a98b19",
       "title": "$TSM ($1.8T) was up 0.23% 1 minute after the news, in pre-market trading. About $4.2B of market value added. TSMC's Hou states the AI trend continues without change.",
       "summary": "$TSM ($1.8T) was up 0.23% 1 minute after the news, in pre-market trading. About $4.2B of market value added. TSMC's Hou states the AI trend continues without change.",
       "link": "http://nitter.mizuki.st/movesurge/status/2124800409311097007#m",
       "source": "X",
       "published_utc": "2026-11-23T09:41:09Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [
         "TSM"
       ],
@@ -286,7 +328,7 @@
       "link": "https://news.futunn.com/post/1005335407?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T09:40:00Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [
         "NVDA"
       ],
@@ -299,7 +341,7 @@
       "link": "https://news.futunn.com/post/1005335199?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T09:37:12Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [
         "INTC",
         "NVDA"
@@ -313,7 +355,7 @@
       "link": "https://news.futunn.com/post/1005335129?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T09:36:38Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [
         "TSLA"
       ],
@@ -326,7 +368,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2124799024712872191#m",
       "source": "X",
       "published_utc": "2026-11-23T09:35:39Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [
         "NBIS"
       ],
@@ -339,7 +381,7 @@
       "link": "https://www.techflowpost.com/newsletter/146325",
       "source": "TechFlow",
       "published_utc": "2026-11-23T09:34:05Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [
         "AMZN",
         "GS"
@@ -353,7 +395,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2124798550399971752#m",
       "source": "X",
       "published_utc": "2026-11-23T09:33:45Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [
         "NVDA"
       ],
@@ -366,7 +408,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2124797084545266133#m",
       "source": "X",
       "published_utc": "2026-11-23T09:27:56Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [],
       "cats": [
         "fed"
@@ -379,7 +421,7 @@
       "link": "https://news.futunn.com/post/1005333933?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T09:22:25Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [
         "NVDA"
       ],
@@ -392,7 +434,7 @@
       "link": "https://news.futunn.com/flash/1005333931?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T09:20:07Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [
         "NVDA"
       ],
@@ -405,7 +447,7 @@
       "link": "https://news.futunn.com/post/1005333227?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T09:12:55Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [
         "TSLA"
       ],
@@ -418,7 +460,7 @@
       "link": "https://www.techflowpost.com/newsletter/146321",
       "source": "TechFlow",
       "published_utc": "2026-11-23T09:07:30Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [
         "ARM",
         "INTC",
@@ -437,7 +479,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2124791871276802241#m",
       "source": "X",
       "published_utc": "2026-11-23T09:07:13Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [
         "CRWD",
         "ZS"
@@ -453,7 +495,7 @@
       "link": "https://news.futunn.com/post/1005332225?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T09:03:36Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [
         "NVDA"
       ],
@@ -492,7 +534,7 @@
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQM1JTSUIyenFuZGt1WTVQaXU3eXpfUHRqOF9HUDNjbENUaFlCSFY5VWVUb2ZWNkt1eU5tOTJ5RzBvQjZZNXhiSWxCUE1aLWFwU205NVBLdHVhdEVmV0ZJYWxfQTlkSUVrczBOU3dlSm03ZlkwcFZJWHJCMzRlcVBTMk9EMXBzbjZYOWZ3WEUya3N5aHNvc0I1eFVNdHlETzN6Q0lHUmhud1pfb1B1aDRZazlOM0hBTFlJQ09wNFNBMVdIR2FDZUNqT0Z2NGpzN1k1Z3k3R3dDbkp3dU8xWnQyRkZpdGZTdzQ?oc=5",
       "source": "google-news:TradingKey",
       "published_utc": "2026-11-23T08:56:47Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [
         "AVGO",
         "GOOGL"
@@ -509,7 +551,7 @@
       "link": "https://www.financialjuice.com/News/9864056/NVIDIA-backed-AI-company-Firmus-mulls-15-billion-bond-sale.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T08:50:47Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [
         "NVDA"
       ],
@@ -522,7 +564,7 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-backed-ai-company-firmus-mulls-1-5-billion-bond-offering",
       "source": "BBG",
       "published_utc": "2026-11-23T08:49:27Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [
         "NVDA"
       ],
@@ -574,7 +616,7 @@
       "link": "https://news.futunn.com/post/1005325875?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T08:28:04Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [
         "TSLA"
       ],
@@ -600,7 +642,7 @@
       "link": "https://www.techflowpost.com/newsletter/146314",
       "source": "TechFlow",
       "published_utc": "2026-11-23T07:50:29Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [
         "GS"
       ],
@@ -613,7 +655,7 @@
       "link": "https://www.wsj.com/business/deals/monte-dei-paschis-board-sends-mixed-signals-over-intesas-37-billion-offer-e2e40d9a?mod=pls_whats_news_us_business_f",
       "source": "WSJ",
       "published_utc": "2026-11-23T07:50:00Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -626,7 +668,7 @@
       "link": "https://www.techflowpost.com/newsletter/146313",
       "source": "TechFlow",
       "published_utc": "2026-11-23T07:31:31Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [
         "COIN",
         "NVDA"
@@ -705,7 +747,7 @@
       "link": "https://news.futunn.com/post/1005316629?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T06:56:30Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [
         "TSLA"
       ],
@@ -718,7 +760,7 @@
       "link": "https://news.futunn.com/post/1005316308?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T06:44:01Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [
         "GS",
         "MSFT",
@@ -733,7 +775,7 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-23/var-energi-agrees-to-buy-conocophillips-assets-in-norway-and-uk",
       "source": "BBG",
       "published_utc": "2026-11-23T06:43:52Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -759,7 +801,7 @@
       "link": "https://www.techflowpost.com/newsletter/146307",
       "source": "TechFlow",
       "published_utc": "2026-11-23T06:34:01Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
+      "fetched_utc": "2026-11-23T10:35:44.654861Z",
       "tickers": [
         "GS"
       ],
@@ -777,46 +819,6 @@
       "cats": [
         "mna"
       ]
-    },
-    {
-      "id": "u:0069caad7cc19bab",
-      "title": "分析师：马斯克2027年将成英伟达(NVDA.US)最大客户，或凭一己之力推动黄仁勋回归",
-      "summary": "",
-      "link": "https://news.futunn.com/post/1005315784?futusource=news_search_searchnews&src=39",
-      "source": "futu",
-      "published_utc": "2026-11-23T06:30:02Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:996cd96ae9957317",
-      "title": "Monday briefing: Tom Brady in talks to buy minority stake in Chelsea - Football Finance Data",
-      "summary": "Monday briefing: Tom Brady in talks to buy minority stake in Chelsea Football Finance Data",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdERkOVN2aGhFVzBJTmlWcTVQSlYwOHRzalptTkczeVM5VGt0UktqVmVvMHk1a3lzV0piQ3haOXJXUUhKTzVDdmpXejVjQzJxX1VhNmFlRFM4N1dyTXlFVndKSGRicmJoMFNQSHV1cGljelZ4cFJPQWpNM0pOb2QwcHdPOW91NDAxZW5KcA?oc=5",
-      "source": "google-news:Football Finance Data",
-      "published_utc": "2026-11-23T05:30:29Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
-      "tickers": [],
-      "cats": [
-        "mna"
-      ],
-      "link_is_redirect": true
-    },
-    {
-      "id": "u:afa015cc4fe0ce79",
-      "title": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case",
-      "summary": "The U.S. is investigating Megaspeed and Alice Huang after it emerged a former associate of hers was reportedly \"deeply involved\" in the firm's activities",
-      "link": "https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html",
-      "source": "CNBC",
-      "published_utc": "2026-11-23T05:08:03Z",
-      "fetched_utc": "2026-11-23T10:31:18.157174Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
     }
   ]
 }
