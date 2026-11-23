@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-23T11:05:46.046313Z",
+  "updated_utc": "2026-11-23T11:11:00.667972Z",
   "window_hours": 12,
   "sources_ok": [
     "terminal",
@@ -9,11 +9,37 @@
   "errors": [],
   "stale": false,
   "counts": {
-    "fetched": 917,
+    "fetched": 890,
     "inbox": 60,
-    "new": 1
+    "new": 6
   },
   "items": [
+    {
+      "id": "u:9c2662940a5e588e",
+      "title": "CrowdStrike | 8-K：CrowdStrike公布2027财年第三季度财务业绩",
+      "summary": "",
+      "link": "https://news.futunn.com/notice/1005342662?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-23T11:06:23Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
+      "tickers": [
+        "CRWD"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:23e8d18c4767add1",
+      "title": "Texas Pacific Land will acquire EagleRock in a deal valuing its equity at about $3 billion; Class A holders would receive 0.0831 TPL shares per share. $TPL",
+      "summary": "Texas Pacific Land will acquire EagleRock in a deal valuing its equity at about $3 billion; Class A holders would receive 0.0831 TPL shares per share. $TPL",
+      "link": "http://nitter.mizuki.st/movesurge/status/2124820801295733158#m",
+      "source": "X",
+      "published_utc": "2026-11-23T11:02:10Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
+      "tickers": [],
+      "cats": [
+        "mna"
+      ]
+    },
     {
       "id": "u:e01b2cc1985fbe37",
       "title": "Family Behind Google Suit Speaks Out on Dangers of Classroom AI",
@@ -21,7 +47,7 @@
       "link": "https://www.bloomberg.com/features/2026-google-classroom-ai-safety/",
       "source": "BBG",
       "published_utc": "2026-11-23T11:00:20Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [
         "GOOGL"
       ],
@@ -34,9 +60,22 @@
       "link": "https://news.futunn.com/post/1005342035?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T11:00:01Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [
         "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:8ae699c1a70fafc5",
+      "title": "R to @movesurge: $CRWD fell 5.08% in the 14 minutes after this headline.",
+      "summary": "$CRWD fell 5.08% in the 14 minutes after this headline.",
+      "link": "http://nitter.mizuki.st/movesurge/status/2124820179293282437#m",
+      "source": "X",
+      "published_utc": "2026-11-23T10:59:42Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
+      "tickers": [
+        "CRWD"
       ],
       "cats": []
     },
@@ -47,7 +86,7 @@
       "link": "https://news.futunn.com/post/1005341853?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T10:56:09Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [
         "NVDA"
       ],
@@ -56,11 +95,11 @@
     {
       "id": "u:d2627c1bb7741db9",
       "title": "CrowdStrike to Buy Zscaler in $43.9 Billion Stock Swap",
-      "summary": "CrowdStrike shareholders would own about 84.1% of the combined company upon completion of the deal.",
-      "link": "https://www.wsj.com/business/deals/crowdstrike-to-buy-zscaler-in-43-9-billion-stock-swap-4c926031?mod=pls_whats_news_us_business_f",
+      "summary": "Shares in Zscaler jumped in premarket trading, while those in CrowdStrike fell.",
+      "link": "https://www.wsj.com/business/deals/crowdstrike-to-buy-zscaler-in-43-9-billion-stock-swap-4c926031?mod=rss_markets_main",
       "source": "WSJ",
       "published_utc": "2026-11-23T10:54:00Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [
         "CRWD",
         "ZS"
@@ -74,7 +113,7 @@
       "link": "https://www.techflowpost.com/newsletter/146333",
       "source": "TechFlow",
       "published_utc": "2026-11-23T10:47:21Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [
         "CRWD",
         "ZS"
@@ -90,33 +129,20 @@
       "link": "https://www.techflowpost.com/newsletter/146332",
       "source": "TechFlow",
       "published_utc": "2026-11-23T10:47:16Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [
         "META"
       ],
       "cats": []
     },
     {
-      "id": "u:a866f427bccdb734",
-      "title": "纳斯达克上市公司 FFR 清空 1025 万美元加密财库，仅剩 2 美元，转型机器人业务",
-      "summary": "深潮 TechFlow 消息，11 月 23 日，据 TheStreet 报道，贾跃亭旗下法拉第未来（FFAI）关联的纳斯达克上市公司 FF EAI Robotics Ecosystem（FFR，原 AIxCrypto）最新提交的 10-Q 文件显示，截至 2026 年 9 月 30 日，公司持有的数字资产仅剩 2 美元，而 2025 年底为 1025 万美元。今年前九个月，公司累计出售约 900 万美元加密资产，同期仅买入约 33.8 万美元，数字资产净亏损 125 万美元。 该公司前身为生物科技公司 Qualigen（QLGN），2025 年 9 月获法拉第未来等投资者认购 4070 万美",
-      "link": "https://www.techflowpost.com/newsletter/146330",
-      "source": "TechFlow",
-      "published_utc": "2026-11-23T10:40:16Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
-      "tickers": [],
-      "cats": [
-        "mna"
-      ]
-    },
-    {
-      "id": "u:acc1e8f4697cb11c",
-      "title": "CrowdStrike Reaches $44 Billion CyberSecurity Deal for Zscaler",
-      "summary": "CrowdStrike Holdings Inc. has agreed to acquire cybersecurity provider Zscaler Inc. in one of the largest-ever deals in the sector.",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-23/crowdstrike-reaches-44-billion-cybersecurity-deal-for-zscaler",
-      "source": "BBG",
-      "published_utc": "2026-11-23T10:38:04Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "id": "u:8d68229de1491922",
+      "title": "CrowdStrike to acquire Zscaler in an all-stock deal valuing the company at about $43.9 billion, expanding its network security and zero-trust push $CRWD $ZS",
+      "summary": "CrowdStrike to acquire Zscaler in an all-stock deal valuing the company at about $43.9 billion, expanding its network security and zero-trust push $CRWD $ZS",
+      "link": "http://nitter.mizuki.st/movesurge/status/2124815642024935766#m",
+      "source": "X",
+      "published_utc": "2026-11-23T10:41:40Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [
         "CRWD",
         "ZS"
@@ -126,13 +152,55 @@
       ]
     },
     {
+      "id": "u:a866f427bccdb734",
+      "title": "纳斯达克上市公司 FFR 清空 1025 万美元加密财库，仅剩 2 美元，转型机器人业务",
+      "summary": "深潮 TechFlow 消息，11 月 23 日，据 TheStreet 报道，贾跃亭旗下法拉第未来（FFAI）关联的纳斯达克上市公司 FF EAI Robotics Ecosystem（FFR，原 AIxCrypto）最新提交的 10-Q 文件显示，截至 2026 年 9 月 30 日，公司持有的数字资产仅剩 2 美元，而 2025 年底为 1025 万美元。今年前九个月，公司累计出售约 900 万美元加密资产，同期仅买入约 33.8 万美元，数字资产净亏损 125 万美元。 该公司前身为生物科技公司 Qualigen（QLGN），2025 年 9 月获法拉第未来等投资者认购 4070 万美",
+      "link": "https://www.techflowpost.com/newsletter/146330",
+      "source": "TechFlow",
+      "published_utc": "2026-11-23T10:40:16Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
+      "tickers": [],
+      "cats": [
+        "mna"
+      ]
+    },
+    {
+      "id": "u:acc1e8f4697cb11c",
+      "title": "CrowdStrike Reaches $44 Billion Cyber Deal for Zscaler",
+      "summary": "CrowdStrike Holdings Inc. has agreed to acquire cybersecurity provider Zscaler Inc. in one of the largest-ever deals in the sector.",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-23/crowdstrike-reaches-44-billion-cybersecurity-deal-for-zscaler",
+      "source": "BBG",
+      "published_utc": "2026-11-23T10:38:04Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
+      "tickers": [
+        "CRWD",
+        "ZS"
+      ],
+      "cats": [
+        "mna"
+      ]
+    },
+    {
+      "id": "u:aa6dadbdf70e5eb9",
+      "title": "Business Insider reports that AWS (AMZN) is assessing a possible agreement with Jabil (JBL) that could deliver annual savings of USD 300mln. $AMZN $JBL",
+      "summary": "Business Insider reports that AWS (AMZN) is assessing a possible agreement with Jabil (JBL) that could deliver annual savings of USD 300mln. $AMZN $JBL",
+      "link": "http://nitter.mizuki.st/movesurge/status/2124814604140491160#m",
+      "source": "X",
+      "published_utc": "2026-11-23T10:37:33Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
+      "tickers": [
+        "AMZN"
+      ],
+      "cats": []
+    },
+    {
       "id": "u:54cb6bacce749645",
       "title": "盈利速报 (CRWD) CrowdStrike公布第三财季调整后每股收益$0.34，FactSet预期为$0.31",
       "summary": "",
       "link": "https://news.futunn.com/post/1005340375?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T10:35:32Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [
         "CRWD"
       ],
@@ -145,28 +213,12 @@
       "link": "https://news.futunn.com/post/1005340340?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T10:35:00Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [
         "CRWD",
         "ZS"
       ],
       "cats": []
-    },
-    {
-      "id": "u:f46f8c4d7819ffc1",
-      "title": "CrowdStrike to acquire Zscaler in an all-stock deal valuing the company at about $43.9 billion $CRWD $ZS",
-      "summary": "CrowdStrike to acquire Zscaler in an all-stock deal valuing the company at about $43.9 billion $CRWD $ZS",
-      "link": "http://nitter.mizuki.st/movesurge/status/2124813808879141083#m",
-      "source": "X",
-      "published_utc": "2026-11-23T10:34:23Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
-      "tickers": [
-        "CRWD",
-        "ZS"
-      ],
-      "cats": [
-        "mna"
-      ]
     },
     {
       "id": "u:5a238f5004f4b8dc",
@@ -175,7 +227,7 @@
       "link": "https://news.futunn.com/flash/1005340227?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T10:34:00Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -188,7 +240,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2124813538002927884#m",
       "source": "X",
       "published_utc": "2026-11-23T10:33:19Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [
         "CRWD",
         "ZS"
@@ -204,7 +256,7 @@
       "link": "https://news.futunn.com/post/1005340031?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T10:32:00Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [
         "CRWD",
         "ZS"
@@ -220,7 +272,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2124812759850233959#m",
       "source": "X",
       "published_utc": "2026-11-23T10:30:13Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -233,7 +285,7 @@
       "link": "https://news.futunn.com/post/1005338436?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T10:30:00Z",
-      "fetched_utc": "2026-11-23T11:01:33.237321Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [
         "TSM"
       ],
@@ -285,7 +337,7 @@
       "link": "https://www.wsj.com/finance/disney-bets-big-on-streaming-just-dont-ask-what-it-costs-4b33553a?mod=rss_markets_main",
       "source": "WSJ",
       "published_utc": "2026-11-23T10:30:00Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [
         "DIS"
       ],
@@ -298,7 +350,7 @@
       "link": "https://news.futunn.com/post/1005339718?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T10:27:11Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [
         "AAPL",
         "WMT"
@@ -312,7 +364,7 @@
       "link": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
       "source": "CNBC",
       "published_utc": "2026-11-23T10:24:25Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [
         "NVDA"
       ],
@@ -325,7 +377,7 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRmNOWGNVT25jeDNJMDl0THpQQk9LazZZWmliamhhWEJsOU8yUDd5V1pXVTFiS1pCLWZzRjdKVGZlOVYxMmFRSFdxTGExdG93T1ZPaThLc2x5NjhUMnltbE9iS1dtbTBZNnFmSjRMY09TNWZzdERoRkpDN3FPSlY1R0xuZWxlWXBWSHB5SlVNQ3hiWjhqSktreW05QVg5dw?oc=5",
       "source": "google-news:Private Equity Wire",
       "published_utc": "2026-11-23T10:21:22Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -339,7 +391,7 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVFAxZEVVZzVIWnhzZzhGeGYzNmJfWGg5V2NBZnRUR2syNFJCenhyVVFWWVZYY3pJbmpPR3dCclVtY1FNMk5rXzVYTkpKUWFlTEp4MXMxbFgzMGNXN3pIQ1RPc0tQWlU1U28zbGEyWGQ0NzFjeWZZb2hSV0owMjljcFBjRk9fV2M?oc=5",
       "source": "google-news:Private Equity Wire",
       "published_utc": "2026-11-23T10:21:21Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -353,7 +405,7 @@
       "link": "https://q.futunn.com/feed/117665242874660?futusource=news_search_searchnews",
       "source": "futu",
       "published_utc": "2026-11-23T10:18:41Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [
         "NVDA"
       ],
@@ -366,7 +418,7 @@
       "link": "https://www.wsj.com/finance/investing/jensen-and-lori-huang-have-amassed-a-vast-fortune-we-break-down-their-wealth-3d2287b1?mod=rss_markets_main",
       "source": "WSJ",
       "published_utc": "2026-11-23T10:17:00Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [
         "NVDA"
       ],
@@ -379,7 +431,7 @@
       "link": "https://news.futunn.com/post/1005338688?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T10:15:46Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [
         "TSLA"
       ],
@@ -405,7 +457,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2124806303658713215#m",
       "source": "X",
       "published_utc": "2026-11-23T10:04:34Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [
         "MS"
       ],
@@ -418,7 +470,7 @@
       "link": "https://www.nytimes.com/2026/11/23/business/thanksgiving-grocery-prices.html",
       "source": "NYT",
       "published_utc": "2026-11-23T10:03:46Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [
         "WMT"
       ],
@@ -431,7 +483,7 @@
       "link": "https://www.nytimes.com/2026/11/23/business/cvs-pharmacy-health-federal-investigations-antitrust.html",
       "source": "NYT",
       "published_utc": "2026-11-23T10:03:26Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [
         "CVS"
       ],
@@ -444,7 +496,7 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-23/morgan-stanley-s-wilson-says-buying-opportunity-too-good-to-miss",
       "source": "BBG",
       "published_utc": "2026-11-23T10:02:24Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [
         "MS"
       ],
@@ -457,7 +509,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2124804511067709794#m",
       "source": "X",
       "published_utc": "2026-11-23T09:57:27Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [
         "TSM"
       ],
@@ -470,7 +522,7 @@
       "link": "https://news.futunn.com/post/1005336769?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T09:55:34Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [
         "NVDA"
       ],
@@ -483,7 +535,7 @@
       "link": "https://www.cnbc.com/2026/11/23/abivax-scorpion-capital-obefazimod.html",
       "source": "CNBC",
       "published_utc": "2026-11-23T09:45:42Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [
         "ABVX"
       ],
@@ -498,7 +550,7 @@
       "link": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
       "source": "FT",
       "published_utc": "2026-11-23T09:41:36Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [
         "NVDA"
       ],
@@ -511,7 +563,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2124800409311097007#m",
       "source": "X",
       "published_utc": "2026-11-23T09:41:09Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [
         "TSM"
       ],
@@ -524,7 +576,7 @@
       "link": "https://news.futunn.com/post/1005335407?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T09:40:00Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [
         "NVDA"
       ],
@@ -537,7 +589,7 @@
       "link": "https://news.futunn.com/post/1005335199?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T09:37:12Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [
         "INTC",
         "NVDA"
@@ -551,7 +603,7 @@
       "link": "https://news.futunn.com/post/1005335129?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T09:36:38Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [
         "TSLA"
       ],
@@ -577,7 +629,7 @@
       "link": "https://www.techflowpost.com/newsletter/146325",
       "source": "TechFlow",
       "published_utc": "2026-11-23T09:34:05Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [
         "AMZN",
         "GS"
@@ -604,7 +656,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2124797084545266133#m",
       "source": "X",
       "published_utc": "2026-11-23T09:27:56Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [],
       "cats": [
         "fed"
@@ -617,7 +669,7 @@
       "link": "https://news.futunn.com/post/1005333933?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T09:22:25Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [
         "NVDA"
       ],
@@ -643,7 +695,7 @@
       "link": "https://news.futunn.com/post/1005333227?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T09:12:55Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [
         "TSLA"
       ],
@@ -656,7 +708,7 @@
       "link": "https://www.techflowpost.com/newsletter/146321",
       "source": "TechFlow",
       "published_utc": "2026-11-23T09:07:30Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [
         "ARM",
         "INTC",
@@ -730,7 +782,7 @@
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQM1JTSUIyenFuZGt1WTVQaXU3eXpfUHRqOF9HUDNjbENUaFlCSFY5VWVUb2ZWNkt1eU5tOTJ5RzBvQjZZNXhiSWxCUE1aLWFwU205NVBLdHVhdEVmV0ZJYWxfQTlkSUVrczBOU3dlSm03ZlkwcFZJWHJCMzRlcVBTMk9EMXBzbjZYOWZ3WEUya3N5aHNvc0I1eFVNdHlETzN6Q0lHUmhud1pfb1B1aDRZazlOM0hBTFlJQ09wNFNBMVdIR2FDZUNqT0Z2NGpzN1k1Z3k3R3dDbkp3dU8xWnQyRkZpdGZTdzQ?oc=5",
       "source": "google-news:TradingKey",
       "published_utc": "2026-11-23T08:56:47Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [
         "AVGO",
         "GOOGL"
@@ -744,10 +796,10 @@
       "id": "u:f4c0a67acffbe5ed",
       "title": "NVIDIA-backed AI company Firmus mulls $1.5 billion bond sale.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9864056/NVIDIA-backed-AI-company-Firmus-mulls-15-billion-bond-sale.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9864056/NVIDIA-backed-AI-company-Firmus-mulls-15-billion-bond-sale.aspx",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T08:50:47Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [
         "NVDA"
       ],
@@ -760,7 +812,7 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-backed-ai-company-firmus-mulls-1-5-billion-bond-offering",
       "source": "BBG",
       "published_utc": "2026-11-23T08:49:27Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
+      "fetched_utc": "2026-11-23T11:11:00.667972Z",
       "tickers": [
         "NVDA"
       ],
@@ -778,58 +830,6 @@
         "TSLA"
       ],
       "cats": []
-    },
-    {
-      "id": "u:d5cc04853221c5ef",
-      "title": "JPMorgan AM Says AI Borrowing Binge Is Holding Back Bond Rally",
-      "summary": "Sovereign bond yields are unlikely to fall much from current levels until the AI-related debt binge starts to fade, according to the head of global rates at JPMorgan Asset Management.",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-23/jpmorgan-am-says-ai-borrowing-binge-is-holding-back-bond-rally",
-      "source": "BBG",
-      "published_utc": "2026-11-23T08:41:39Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
-      "tickers": [
-        "JPM"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:56344688addbc795",
-      "title": "英伟达B300 GPU将在钦奈数据中心投入使用",
-      "summary": "",
-      "link": "https://news.futunn.com/post/1005327397?futusource=news_search_searchnews&src=39",
-      "source": "futu",
-      "published_utc": "2026-11-23T08:37:42Z",
-      "fetched_utc": "2026-11-23T10:20:57.978543Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:1ad00174f62bfd45",
-      "title": "“特斯拉如何与Waymo竞争？”Gary Black质疑特斯拉的Robotaxi战略，预测Waymo将在行驶里程和出行次数方面领先",
-      "summary": "",
-      "link": "https://news.futunn.com/post/1005325875?futusource=news_search_searchnews&src=39",
-      "source": "futu",
-      "published_utc": "2026-11-23T08:28:04Z",
-      "fetched_utc": "2026-11-23T11:05:46.046313Z",
-      "tickers": [
-        "TSLA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:37ad8d16a055c2a8",
-      "title": "South Africa’s Shoprite to acquire 40% of DN Invest for about 3.6 billion rand ($206.2 million) and add Investec as an investor in its financial services unit",
-      "summary": "South Africa’s Shoprite to acquire 40% of DN Invest for about 3.6 billion rand ($206.2 million) and add Investec as an investor in its financial services unit",
-      "link": "http://nitter.mizuki.st/movesurge/status/2124781659560063123#m",
-      "source": "X",
-      "published_utc": "2026-11-23T08:26:38Z",
-      "fetched_utc": "2026-11-23T09:35:44.516910Z",
-      "tickers": [],
-      "cats": [
-        "mna"
-      ]
     }
   ]
 }
