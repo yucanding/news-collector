@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-23T13:15:56.196843Z",
+  "updated_utc": "2026-11-23T13:20:59.797373Z",
   "window_hours": 12,
   "sources_ok": [
     "terminal",
@@ -9,9 +9,9 @@
   "errors": [],
   "stale": false,
   "counts": {
-    "fetched": 890,
+    "fetched": 869,
     "inbox": 60,
-    "new": 1
+    "new": 0
   },
   "items": [
     {
@@ -21,7 +21,7 @@
       "link": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
       "source": "CNBC",
       "published_utc": "2026-11-23T13:11:04Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [
         "NVDA"
       ],
@@ -34,7 +34,7 @@
       "link": "https://news.futunn.com/post/1005352610?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T13:09:36Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [
         "NVDA"
       ],
@@ -47,7 +47,7 @@
       "link": "https://www.nytimes.com/2026/11/23/business/crowdstrike-zscaler-cybersecurity.html",
       "source": "NYT",
       "published_utc": "2026-11-23T13:08:05Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [
         "CRWD",
         "ZS"
@@ -63,7 +63,7 @@
       "link": "https://news.futunn.com/post/1005352469?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T13:04:31Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [
         "MSFT"
       ],
@@ -76,7 +76,7 @@
       "link": "https://www.techflowpost.com/newsletter/146350",
       "source": "TechFlow",
       "published_utc": "2026-11-23T13:04:22Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [],
       "cats": [
         "fed"
@@ -89,7 +89,7 @@
       "link": "https://news.futunn.com/post/1005352041?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T13:01:06Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [
         "CRWD"
       ],
@@ -102,7 +102,7 @@
       "link": "https://news.futunn.com/post/1005351569?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T12:58:00Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [
         "CRWD",
         "ZS"
@@ -116,7 +116,7 @@
       "link": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
       "source": "FT",
       "published_utc": "2026-11-23T12:54:22Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [
         "NVDA",
         "SNDK"
@@ -130,7 +130,7 @@
       "link": "https://news.futunn.com/post/1005351454?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T12:54:12Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [
         "NVDA"
       ],
@@ -143,7 +143,7 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYzBISXpIT05XNmFhZXR5TzhzRkpyTlNlUUEzZWE2ZXFPZGY3N3lFVUQ5VFJwTGtGTGZBcE9DN3BEVFAwTzhjZi1NNHFuSWZwbVlzSDl4QWpoX3k3cHlFbFREck5JNlExTjczM2w5bWZVazlxb251V21zZXJIRHVpazRkTkxvMnlEbmxDS1pla0JLOHkxYUc4am5fMEhTUWs?oc=5",
       "source": "google-news:Venture Intelligence News",
       "published_utc": "2026-11-23T12:53:56Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -157,7 +157,7 @@
       "link": "https://news.futunn.com/post/1005351429?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T12:50:44Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [
         "ARM",
         "NVDA"
@@ -171,7 +171,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2124848014585995752#m",
       "source": "X",
       "published_utc": "2026-11-23T12:50:19Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [
         "ARM"
       ],
@@ -197,7 +197,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2124843349043818698#m",
       "source": "X",
       "published_utc": "2026-11-23T12:31:46Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [
         "ARM"
       ],
@@ -210,7 +210,7 @@
       "link": "https://news.futunn.com/post/1005349318?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T12:29:00Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [
         "CRWD",
         "ZS"
@@ -224,7 +224,7 @@
       "link": "https://news.futunn.com/post/1005349184?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T12:26:00Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [
         "CRWD",
         "ZS"
@@ -238,7 +238,7 @@
       "link": "https://news.futunn.com/post/1005349257?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T12:25:23Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [
         "NVDA"
       ],
@@ -251,7 +251,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2124841397828145167#m",
       "source": "X",
       "published_utc": "2026-11-23T12:24:01Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [],
       "cats": [
         "fed"
@@ -264,7 +264,7 @@
       "link": "https://news.futunn.com/post/1005348916?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T12:21:36Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [
         "AMZN"
       ],
@@ -277,7 +277,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2124840653846962215#m",
       "source": "X",
       "published_utc": "2026-11-23T12:21:04Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -290,7 +290,7 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-23/arm-ceo-extends-contract-through-2033-after-nvidia-approach",
       "source": "BBG",
       "published_utc": "2026-11-23T12:19:06Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [
         "ARM",
         "NVDA"
@@ -304,7 +304,7 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-23/european-banks-set-to-fire-up-m-a-talks-morgan-stanley-says",
       "source": "BBG",
       "published_utc": "2026-11-23T12:12:17Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [
         "MS"
       ],
@@ -319,7 +319,7 @@
       "link": "https://www.techflowpost.com/newsletter/146341",
       "source": "TechFlow",
       "published_utc": "2026-11-23T12:06:55Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [
         "ARM"
       ],
@@ -332,7 +332,7 @@
       "link": "https://news.futunn.com/post/1005348978?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T12:00:04Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [
         "NVDA"
       ],
@@ -345,7 +345,7 @@
       "link": "https://www.bloomberg.com/news/newsletters/2026-11-23/gm-eyes-ex-tesla-self-driving-executive-sterling-anderson-as-next-ceo",
       "source": "BBG",
       "published_utc": "2026-11-23T12:00:01Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [
         "GM",
         "TSLA"
@@ -372,7 +372,7 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-23/marlowe-raises-277-million-to-bolster-alternatives-to-nvidia-chips",
       "source": "BBG",
       "published_utc": "2026-11-23T12:00:00Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [
         "MSFT",
         "NVDA"
@@ -386,7 +386,7 @@
       "link": "https://news.futunn.com/post/1005347012?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T12:00:00Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [
         "CRWD",
         "ZS"
@@ -400,7 +400,7 @@
       "link": "https://news.futunn.com/post/1005346653?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T11:55:36Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [
         "NVDA"
       ],
@@ -413,7 +413,7 @@
       "link": "https://www.wsj.com/logistics-report/labor-deal-fends-off-strike-threat-at-ports-of-l-a-long-beach-5d578a35?mod=pls_whats_news_us_business_f",
       "source": "WSJ",
       "published_utc": "2026-11-23T11:55:00Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -426,7 +426,7 @@
       "link": "https://news.futunn.com/post/1005346540?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T11:54:07Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -439,7 +439,7 @@
       "link": "https://www.wsj.com/business/energy-oil/texas-pacific-land-to-buy-eaglerock-land-in-3-billion-all-stock-deal-643be79c?mod=pls_whats_news_us_business_f",
       "source": "WSJ",
       "published_utc": "2026-11-23T11:54:00Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -452,7 +452,7 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-23/wall-street-surges-toward-m-a-record-as-megadeals-defy-selloff",
       "source": "BBG",
       "published_utc": "2026-11-23T11:53:44Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -465,7 +465,7 @@
       "link": "https://www.techflowpost.com/newsletter/146339",
       "source": "TechFlow",
       "published_utc": "2026-11-23T11:49:16Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [
         "GS"
       ],
@@ -478,7 +478,7 @@
       "link": "https://www.bloomberg.com/news/newsletters/2026-11-23/wall-street-sees-buying-opportunities-for-the-brave",
       "source": "BBG",
       "published_utc": "2026-11-23T11:48:51Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [
         "MS"
       ],
@@ -491,7 +491,7 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-23/jpmorgan-traders-drop-bullish-view-on-stocks-after-selloff",
       "source": "BBG",
       "published_utc": "2026-11-23T11:47:04Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [
         "JPM"
       ],
@@ -517,7 +517,7 @@
       "link": "https://www.wsj.com/business/deals/crowdstrike-to-buy-zscaler-in-43-9-billion-stock-swap-4c926031?mod=pls_whats_news_us_business_f",
       "source": "WSJ",
       "published_utc": "2026-11-23T11:36:00Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [
         "CRWD",
         "ZS"
@@ -531,7 +531,7 @@
       "link": "https://news.futunn.com/post/1005345233?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T11:36:00Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [
         "CRWD"
       ],
@@ -544,7 +544,7 @@
       "link": "https://news.futunn.com/post/1005345232?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T11:36:00Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [
         "CRWD"
       ],
@@ -557,7 +557,7 @@
       "link": "https://news.futunn.com/post/1005345213?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T11:34:07Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [
         "NBIS",
         "NVDA"
@@ -571,7 +571,7 @@
       "link": "https://news.futunn.com/post/1005345018?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T11:32:39Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [
         "CRWD",
         "ZS"
@@ -641,7 +641,7 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMmQ3dE9YNlVkSnJLR0JQSkYteXhIdXA3SjlHVnNBSFU5N1B5dS1DUlJPUzlYbzYyanhhTU0xNnVmZy1vWExPS2NjTmlSdlA1NFlYRVpNZkVnMzRUQnVBY21tcnhhV3MzV2U0WVhReEVuWktLSWh2dHJ1Q19fMFBkbWQtbUhYTS10cms0YXYzN3QwUQ?oc=5",
       "source": "google-news:Traders Union",
       "published_utc": "2026-11-23T11:25:31Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -655,7 +655,7 @@
       "link": "https://news.futunn.com/post/1005343623?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T11:17:59Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [
         "NVDA"
       ],
@@ -681,7 +681,7 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUjBDRmhsTER2LVdjTm9KSXRzMEMydjJVMVhmaWNLSlRZVUhfdHpNOXM0S0ZtSDhEMklBSDZSb05aaGhrQ3lndVltQTAtUi0wTm9TOGFBN0dNWmtIZVpOUkR5bmhGRG5seExDVUNWblBMbkJVRy0xNTNUZXA1Y2lrWEhwenRKSXVxLXllTXk0N1F5SDgwSWRmdTdId2c3Q1kyMW5ja3JOQnFzQzJ3TjRoQ1VfTVNWMTQ?oc=5",
       "source": "google-news:www.marketscreener.com",
       "published_utc": "2026-11-23T11:12:11Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -695,7 +695,7 @@
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSWw0bjN5TWg4cmlqSWVuNVdNVkZheHBpYWdmMnJhanV4UVM5QThiSjRCYWFwSkV3bmVmN3otY2VjNTBsOElMQVpraVZmY1FrRDFfSmNuUEdTd1RGd1F6RXlhaW10VEJ1MEVGTUFIM2tuUmIwZWFCMnh5MUR0OUowcG5sN0R1WThVMG5yc3Rud1Q3Q3kzalQ4OF84Yk9NXzZlY18wWnhfRS16SEtvbmF3VkFDUVVpeUluTC15a25xRG1jNHhmY2RUQ1RQMXlVcm83UC1MZQ?oc=5",
       "source": "google-news:marketscreener.com",
       "published_utc": "2026-11-23T11:11:25Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -709,7 +709,7 @@
       "link": "https://news.futunn.com/post/1005343095?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T11:10:22Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [
         "MSFT"
       ],
@@ -763,7 +763,7 @@
       "link": "https://www.ft.com/content/762bd05d-8e20-4abf-9bc5-4e6f9bf628cb?syn-25a6b1a6=1",
       "source": "FT",
       "published_utc": "2026-11-23T11:02:10Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [
         "CRWD",
         "ZS"
@@ -792,7 +792,7 @@
       "link": "https://news.futunn.com/post/1005342035?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T11:00:01Z",
-      "fetched_utc": "2026-11-23T13:15:56.196843Z",
+      "fetched_utc": "2026-11-23T13:20:59.797373Z",
       "tickers": [
         "NVDA"
       ],
