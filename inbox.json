@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-23T14:25:56.361482Z",
+  "updated_utc": "2026-11-23T14:31:20.509239Z",
   "window_hours": 12,
   "sources_ok": [
     "terminal",
@@ -9,11 +9,24 @@
   "errors": [],
   "stale": false,
   "counts": {
-    "fetched": 878,
+    "fetched": 648,
     "inbox": 60,
-    "new": 5
+    "new": 2
   },
   "items": [
+    {
+      "id": "u:e885858411c9b959",
+      "title": "Nvidia reinstates Jensen Huang as CEO. Stock skyrockets 31%",
+      "summary": "The Nvidia board said it had input from senior levels of the U.S. government.",
+      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "source": "CNBC",
+      "published_utc": "2026-11-23T14:25:31Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
     {
       "id": "u:a6346a266301db06",
       "title": "Tech stocks rally after Nvidia board approves Jensen Huang's return as CEO",
@@ -21,7 +34,7 @@
       "link": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
       "source": "CNBC",
       "published_utc": "2026-11-23T14:24:03Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -41,13 +54,13 @@
       "cats": []
     },
     {
-      "id": "u:e885858411c9b959",
-      "title": "Nvidia reinstates Jensen Huang as CEO. Stock skyrockets 27%",
-      "summary": "The Nvidia board said it had input from senior levels of the U.S. government.",
-      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-      "source": "CNBC",
-      "published_utc": "2026-11-23T14:22:52Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "id": "u:bd698e571dd0ae10",
+      "title": "Nasdaq Futures Jump, Nvidia Surges After Huang Returns as CEO",
+      "summary": "Nasdaq futures jumped and Nvidia stock surged premarket after the company at the center of the artificial-intelligence trade said it was reinstating Jensen Huang as chief executive.",
+      "link": "https://www.wsj.com/finance/stocks/stock-futures-rally-as-dust-settles-after-ai-driven-selloff-705ff2c4?mod=rss_markets_main",
+      "source": "WSJ",
+      "published_utc": "2026-11-23T14:24:00Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -60,7 +73,7 @@
       "link": "https://www.nytimes.com/live/2026/11/23/technology/nvidia-jensen-huang-reinstated/nvidia-jensen-huang",
       "source": "NYT",
       "published_utc": "2026-11-23T14:22:44Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -73,7 +86,7 @@
       "link": "https://news.futunn.com/post/1005358588?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T14:22:00Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -86,7 +99,7 @@
       "link": "https://www.techflowpost.com/newsletter/146370",
       "source": "TechFlow",
       "published_utc": "2026-11-23T14:18:09Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -95,11 +108,11 @@
     {
       "id": "u:0e82a510224faed1",
       "title": "Nvidia reinstates Jensen Huang as chief executive",
-      "summary": "Startling reversal of board’s position on disgraced co-founder sends AI giant’s share price soaring",
-      "link": "https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6?syn-25a6b1a6=1",
+      "summary": "Startling reversal of board’s position on disgraced co-founder sends AI giant’s share price soaring Donald Trump",
+      "link": "https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss",
       "source": "FT",
       "published_utc": "2026-11-23T14:17:58Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -112,7 +125,7 @@
       "link": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
       "source": "FT",
       "published_utc": "2026-11-23T14:17:27Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -125,7 +138,7 @@
       "link": "https://www.wsj.com/finance/stocks/some-underperforming-japan-stocks-may-start-rising-after-strong-results-e6e3f434?mod=rss_markets_main",
       "source": "WSJ",
       "published_utc": "2026-11-23T14:17:00Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -138,7 +151,7 @@
       "link": "https://www.wsj.com/finance/currencies/yen-may-strengthen-vs-dollar-on-diminished-risk-appetite-6434fe7e?mod=rss_markets_main",
       "source": "WSJ",
       "published_utc": "2026-11-23T14:16:00Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -151,9 +164,22 @@
       "link": "https://news.futunn.com/post/1005358072?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T14:16:00Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:ce4f7aad1bf40113",
+      "title": "Trump hosts crypto gala as his meme coin falls below $1",
+      "summary": "Donald Trump hosted a dinner for top holders of his meme coin that has fallen to under $1. Bitcoin rebounded after falling to lowest level since September 2024.",
+      "link": "https://www.cnbc.com/2026/11/23/trump-meme-coin-gala.html",
+      "source": "CNBC",
+      "published_utc": "2026-11-23T14:15:42Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
+      "tickers": [
+        "COIN"
       ],
       "cats": []
     },
@@ -164,7 +190,7 @@
       "link": "https://www.wsj.com/articles/nvidia-board-reinstates-jensen-huang-as-ceo-a6b49914?mod=pls_whats_news_us_business_f",
       "source": "WSJ",
       "published_utc": "2026-11-23T14:15:00Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -177,7 +203,7 @@
       "link": "https://news.futunn.com/post/1005358074?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T14:15:00Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -190,7 +216,7 @@
       "link": "https://www.bloomberg.com/news/live-blog/2026-11-23/nvidia-reinstates-jensen-huang-as-ceo-live-updates",
       "source": "BBG",
       "published_utc": "2026-11-23T14:14:49Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -203,7 +229,7 @@
       "link": "https://news.futunn.com/post/1005357928?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T14:14:00Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -216,7 +242,7 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-23/trump-praises-nvidia-s-decision-to-reinstate-huang-as-ceo",
       "source": "BBG",
       "published_utc": "2026-11-23T14:11:39Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -229,7 +255,7 @@
       "link": "https://www.techflowpost.com/newsletter/146368",
       "source": "TechFlow",
       "published_utc": "2026-11-23T14:11:21Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -242,7 +268,7 @@
       "link": "https://news.futunn.com/flash/1005357473?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T14:09:00Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -255,7 +281,7 @@
       "link": "https://www.financialjuice.com/News/9864481/Trump-The-US-has-no-reason-to-believe-Jensens-return-poses-a-risk-The-Attorney-General-of-the-United-States-has-confirmed-that-the-US-government-does-not-possess-evidence-that-he-has-engaged-in-any-unlawful-conduct-NVDA.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T14:08:40Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -268,7 +294,7 @@
       "link": "https://news.futunn.com/flash/1005357658?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T14:08:33Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -281,7 +307,7 @@
       "link": "https://www.techflowpost.com/newsletter/146367",
       "source": "TechFlow",
       "published_utc": "2026-11-23T14:08:23Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "ARM",
         "ASML",
@@ -298,11 +324,11 @@
     {
       "id": "u:b29dc265e8d8d4d7",
       "title": "Nvidia Reinstates Jensen Huang as CEO With Government Input",
-      "summary": "Nvidia Corp.’s board reinstated Jensen Huang as president and chief executive officer, effective immediately. Nvidia gained more than 27% on the news.",
+      "summary": "Nvidia Corp.’s board reinstated Jensen Huang as president and chief executive officer, less than two weeks after his remarkable ouster, after US government intervention. Nvidia shares gained more than 31%.",
       "link": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-reinstates-jensen-huang-as-ceo-with-government-input",
       "source": "BBG",
       "published_utc": "2026-11-23T14:08:01Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -315,7 +341,7 @@
       "link": "https://www.financialjuice.com/News/9864479/Trump-Nvidia-should-continue-internal-probe-NVDA.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T14:07:59Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -328,7 +354,7 @@
       "link": "https://www.financialjuice.com/News/9864478/Trump-NVIDIA-should-continue-internal-investigation.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T14:07:58Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -341,7 +367,7 @@
       "link": "https://www.financialjuice.com/News/9864477/Trump-Nvidias-board-of-directors-has-made-the-proper-decision-NVDA.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T14:07:46Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -354,7 +380,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2124867498671472755#m",
       "source": "X",
       "published_utc": "2026-11-23T14:07:44Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -367,7 +393,7 @@
       "link": "https://www.trumpstruth.org/statuses/43714",
       "source": "TRUMP-TS",
       "published_utc": "2026-11-23T14:07:17Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -382,7 +408,7 @@
       "link": "https://news.futunn.com/post/1005357370?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T14:07:00Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -395,7 +421,7 @@
       "link": "https://www.financialjuice.com/News/9864476/Traders-add-to-ECB-and-BoE-rate-hike-bets-after-Nvidia-news.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T14:06:20Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -408,7 +434,7 @@
       "link": "https://news.futunn.com/post/1005357945?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T14:05:34Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -421,7 +447,7 @@
       "link": "https://www.techflowpost.com/newsletter/146366",
       "source": "TechFlow",
       "published_utc": "2026-11-23T14:05:04Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NBIS",
         "NVDA"
@@ -435,7 +461,7 @@
       "link": "https://www.financialjuice.com/News/9864475/NVIDIA-Harvey-C-Jones-to-stay-as-board-chair-NVDA.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T14:03:03Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -448,7 +474,7 @@
       "link": "https://news.futunn.com/flash/1005357077?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T14:01:20Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -461,7 +487,7 @@
       "link": "https://news.futunn.com/post/1005356706?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T14:00:31Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "TSM"
       ],
@@ -474,7 +500,7 @@
       "link": "https://news.futunn.com/post/1005356974?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T14:00:14Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "AMZN"
       ],
@@ -489,7 +515,7 @@
       "link": "https://www.scmp.com/economy/policy/article/3375468/nothing-came-through-why-boeing-failed-land-firm-orders-during-trumps-shenzhen-trip",
       "source": "SCMP",
       "published_utc": "2026-11-23T14:00:11Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "BA"
       ],
@@ -502,7 +528,7 @@
       "link": "https://www.techflowpost.com/newsletter/146365",
       "source": "TechFlow",
       "published_utc": "2026-11-23T14:00:10Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -515,7 +541,7 @@
       "link": "https://www.ft.com/content/28cb9178-ac22-44b9-99f5-d5f25a86d366?syn-25a6b1a6=1",
       "source": "FT",
       "published_utc": "2026-11-23T14:00:03Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -528,7 +554,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2124865543786361184#m",
       "source": "X",
       "published_utc": "2026-11-23T13:59:58Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -537,11 +563,11 @@
     {
       "id": "u:5bdcf9cc68f884cb",
       "title": "英伟达董事会：在决策过程中听取了美国政府高层的意见",
-      "summary": "深潮 TechFlow 消息，11 月 23 日，据英伟达官方公告，英伟达董事会一致投票恢复黄仁勋（Jensen Huang）总裁、首席执行官及董事会成员职务，即刻生效。 公告称，董事会在与黄仁勋进行一系列讨论和会面后，对其坦诚度和领导能力感到满意；董事会在决策过程中听取了美国政府高层的意见，并据此确信黄仁勋复职不会构成国家安全风险。 董事会主席 Harvey Jones 表示，董事会认为黄仁勋是领导英伟达的合适人选，并感谢 Colette Kress 担任临时 CEO 期间的工作，Kress 将继续担任 CFO，Harvey Jones 仍任董事会主席。 黄仁勋表示，很荣幸重返英伟达，将以最",
+      "summary": "深潮 TechFlow 消息，11 月 23 日，据英伟达官方公告，英伟达董事会一致投票恢复黄仁勋（Jensen Huang）总裁、首席执行官及董事会成员职务，即刻生效。 公告称，董事会在与黄仁勋进行一系列讨论和会面后，对其坦诚度和领导能力感到满意；董事会在决策过程中听取了美国政府高层的意见，并据此确信黄仁勋复职不会构成国家安全风险。 董事会主席 Harvey Jones 表示，董事会认为黄仁勋是领导英伟达的合适人选，并感谢 Colette Kress 担任临时 CEO 期间的工作，Kress 将继续担任 CFO，Harvey Jones 仍任董事会主席。 黄仁勋发表声明称，很荣幸重返英伟达，",
       "link": "https://www.techflowpost.com/newsletter/146363",
       "source": "TechFlow",
       "published_utc": "2026-11-23T13:59:35Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -554,7 +580,7 @@
       "link": "https://www.financialjuice.com/News/9864453/NVIDIAs-CEO-Huang-I-cant-wait-to-get-back-to-work.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T13:58:41Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -567,7 +593,7 @@
       "link": "https://www.techflowpost.com/newsletter/146362",
       "source": "TechFlow",
       "published_utc": "2026-11-23T13:58:15Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -580,7 +606,7 @@
       "link": "https://www.financialjuice.com/News/9864452/Nvidia-Corporation---Board-confirms-no-national-security-risk-in-Jensen-Huangs-reinstatement-NVDA.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T13:57:56Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -593,7 +619,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2124864886450876469#m",
       "source": "X",
       "published_utc": "2026-11-23T13:57:21Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -606,7 +632,7 @@
       "link": "https://www.financialjuice.com/News/9864451/NVIDIA-Huang-probe-to-continue-after-reinstatement.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T13:57:17Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -619,7 +645,7 @@
       "link": "https://www.financialjuice.com/News/9864449/NVIDIA-has-formed-national-security--export-control-committee.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T13:57:02Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -634,7 +660,7 @@
       "link": "https://www.financialjuice.com/News/9864448/Nvidia-Board-received-input-from-senior-levels-of-the-US-government-NVDA.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T13:56:48Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -647,7 +673,7 @@
       "link": "https://www.financialjuice.com/News/9864446/NVIDIA-to-name-and-hire-Chief-Compliance-Officer.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T13:56:37Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -660,7 +686,7 @@
       "link": "https://t.me/PhoenixNewsImportant/1059",
       "source": "X",
       "published_utc": "2026-11-23T13:56:09Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -673,7 +699,7 @@
       "link": "https://news.futunn.com/flash/1005356477?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-23T13:56:00Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -699,7 +725,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2124864540215050314#m",
       "source": "X",
       "published_utc": "2026-11-23T13:55:59Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "AMZN"
       ],
@@ -714,7 +740,7 @@
       "link": "https://www.financialjuice.com/News/9864445/NVIDIA-Board-reinstates-Huang-as-President-CEO-NVDA.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T13:55:03Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "NVDA"
       ],
@@ -768,7 +794,7 @@
       "link": "https://www.financialjuice.com/News/9864444/Amazon-to-purchase-Decarts-AI-optimization-technology-to-advance-chip-and-model-innovation-for-customers-AMZN.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T13:49:20Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "AMZN"
       ],
@@ -781,38 +807,9 @@
       "link": "https://www.financialjuice.com/News/9864443/Amazon-is-said-to-pay-75-billion-for-AI-startup-Decarts-tech-AMZN.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-23T13:49:14Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
+      "fetched_utc": "2026-11-23T14:31:20.509239Z",
       "tickers": [
         "AMZN"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:333352f18a42fc1d",
-      "title": "Amazon Is Said to Pay $7.5 Billion for AI Startup Decart’s Tech",
-      "summary": "Amazon.com Inc. has agreed to acquire much of startup Decart AI, buying tools to bolster the cloud-computing company’s artificial intelligence infrastructure.",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-23/amazon-is-said-to-pay-7-5-billion-for-ai-startup-decart-s-tech",
-      "source": "BBG",
-      "published_utc": "2026-11-23T13:48:51Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
-      "tickers": [
-        "AMZN"
-      ],
-      "cats": [
-        "mna"
-      ]
-    },
-    {
-      "id": "u:b8114ccc79958ef3",
-      "title": "Cybersecurity Stocks Have Been Hot - and Now CrowdStrike Inks Deal to Buy Zscaler",
-      "summary": "",
-      "link": "https://news.futunn.com/post/1005355693?futusource=news_search_searchnews&src=39",
-      "source": "futu",
-      "published_utc": "2026-11-23T13:48:00Z",
-      "fetched_utc": "2026-11-23T14:25:56.361482Z",
-      "tickers": [
-        "CRWD",
-        "ZS"
       ],
       "cats": []
     }
