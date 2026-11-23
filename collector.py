@@ -1,11 +1,12 @@
 # -*- coding: utf-8 -*-
 """
-美股突发新闻采集器（GitHub Actions 版，v1）
+美股突发新闻采集器（GitHub Actions 版，v2）
 
 每 5-10 分钟跑一次，做三件机械的事，不做判断：
   1. 拉源：Market Terminal /api/news（聚合 24 个源）、富途 news_search
-     （重点 ticker，中文）、Google News RSS（郭明錤 / 并购 / 做空）、
-     CMS 官网新闻列表（尽力而为）。
+     （重点 ticker，中文）、Google News RSS（郭明錤 / 并购 / 做空）。
+     v2（2026-11-21）：去掉 CMS 源——用户另有 CMS 定期监控（cms-news-monitor），
+     本采集器不再重复查。
   2. 机械预筛：标题+摘要命中 watchlist 里的代码/公司名，或命中高信号
      关键词桶（并购、做空、联邦机构、郭明錤、芯片管制），且在 12 小时
      窗口内、且未见过，才进 inbox。
@@ -36,7 +37,6 @@ from html.parser import HTMLParser
 TERMINAL_API = "https://yucanding-market-terminal.hf.space/api/news"
 TERMINAL_REFRESH = "https://yucanding-market-terminal.hf.space/refresh"
 FUTU_BASE = "https://ai-news-search.futunn.com"
-CMS_LIST_URL = "https://www.cms.gov/newsroom/articles"
 
 WINDOW_HOURS = 12          # inbox 保留窗口
 INBOX_MAX = 60             # inbox 最多条目
@@ -261,86 +261,6 @@ def fetch_google_news():
     return out
 
 
-class _CMSParser(HTMLParser):
-    """cms.gov/newsroom/articles 列表页：time[datetime] + h3 a[href] 配对。"""
-
-    def __init__(self):
-        super().__init__()
-        self.items = []
-        self._last_date = None
-        self._in_h3 = False
-        self._cur_href = None
-        self._cur_text = []
-
-    def handle_starttag(self, tag, attrs):
-        d = dict(attrs)
-        if tag == "time" and d.get("datetime"):
-            self._last_date = d["datetime"]
-        elif tag == "h3":
-            self._in_h3 = True
-        elif tag == "a" and self._in_h3 and d.get("href"):
-            self._cur_href = d["href"]
-            self._cur_text = []
-
-    def handle_endtag(self, tag):
-        if tag == "h3":
-            self._in_h3 = False
-        elif tag == "a" and self._cur_href:
-            title = clean("".join(self._cur_text))
-            if title and self._last_date:
-                self.items.append({
-                    "title": title,
-                    "link": "https://www.cms.gov" + self._cur_href,
-                    "date_raw": self._last_date,
-                })
-            self._cur_href = None
-            self._cur_text = []
-
-    def handle_data(self, data):
-        if self._cur_href is not None:
-            self._cur_text.append(data)
-
-
-def fetch_cms():
-    """只看第 0 页、只取美东今天/昨天的条目；解析失败就跳过整个源。"""
-    try:
-        page = fetch_text(CMS_LIST_URL, timeout=20)
-    except Exception as e:  # noqa: BLE001
-        print(f"[CMS] 列表页抓取失败: {e}")
-        return []
-    try:
-        from zoneinfo import ZoneInfo
-        et_today = datetime.now(ZoneInfo("America/New_York")).date()
-    except Exception:  # noqa: BLE001
-        et_today = (now_utc() - timedelta(hours=5)).date()
-    parser = _CMSParser()
-    try:
-        parser.feed(page)
-    except Exception as e:  # noqa: BLE001
-        print(f"[CMS] 解析失败: {e}")
-        return []
-    out = []
-    for it in parser.items:
-        dt = to_dt(it["date_raw"])
-        if not dt:
-            continue
-        try:
-            from zoneinfo import ZoneInfo
-            et_date = dt.astimezone(ZoneInfo("America/New_York")).date()
-        except Exception:  # noqa: BLE001
-            et_date = dt.date()
-        if (et_today - et_date).days > 1:
-            continue
-        out.append({
-            "title": it["title"],
-            "summary": "",
-            "link": it["link"],
-            "source": "cms.gov",
-            "published": dt,
-        })
-    return out
-
-
 # ---------------------------------------------------------------- 匹配
 def load_watchlist():
     try:
@@ -423,10 +343,9 @@ def main():
         ("terminal", fetch_terminal),
         ("futu", fetch_futu),
         ("google-news", fetch_google_news),
-        ("cms", fetch_cms),
     ]
     raw, errors, sources_ok = [], [], []
-    # 四个源互相独立，并行拉（富途内部仍串行，带 0.3 秒间隔防限流）
+    # 三个源互相独立，并行拉（富途内部仍串行，带 0.3 秒间隔防限流）
     from concurrent.futures import ThreadPoolExecutor
     with ThreadPoolExecutor(max_workers=4) as pool:
         futures = {pool.submit(fn): name for name, fn in sources}
