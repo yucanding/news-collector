@@ -4,17 +4,18 @@ name: News collector
 # 供 Muse 的推送轮次（实时快讯 / 凌晨扫描 / 盘前简报 / 盘后汇总）读。
 # 判断（市值、2 小时硬线、实质性、链接溯源）全部留给 Muse，本 Action 不推送、不判断。
 #
-# 排期（UTC；美东 = UTC-5，11 月为 EST）：
-#   5 分钟：美东 03:00-11:00（北京时间 16:00-24:00，Muse 热档）
-#   10 分钟：其余时段；周六美东 10:00-13:00 另加（喂周末轮次）
+# 触发方式（2026-11-23 改为 cron-job.org，GitHub 原生 schedule 已移除）：
+#   cron-job.org 上 4 个任务 POST dispatches 触发本 workflow（workflow_dispatch），
+#   分档与原 schedule 一致（UTC；美东 = UTC-5，11 月为 EST）：
+#     News Collector Hot：  */5  8-16 * * 1-5   美东 03:00-11:00（北京时间 16:00-24:00，Muse 热档）
+#     News Collector Day：  */10 16-23 * * 0-5   其余白天时段
+#     News Collector Night：*/10 0-7  * * 1-6   凌晨时段
+#     News Collector Sat：  */10 15-17 * * 6     周六美东 10:00-13:00（喂周末轮次）
+#   GitHub 原生 schedule 已证实不可靠（2026-11-23 查 Actions 历史：7 次运行全 Success，
+#   但 #5→#6 间空 4 小时 20 分、#6→#7 间空 3 小时，定时触发本身没触发），故改走 cron-job.org。
 # 分钟：仓库公开时标准 runner 免费不限量；若改回私有，每周约 1,134 次运行、每次至少计 1 分钟，
 # 每月约 4,900 分钟（超免费档 2,000）。只跑标准库 Python，不装依赖。
 on:
-  schedule:
-    - cron: "*/5 8-16 * * 1-5"
-    - cron: "*/10 16-23 * * 0-5"
-    - cron: "*/10 0-7 * * 1-6"
-    - cron: "*/10 15-17 * * 6"
   workflow_dispatch:
 
 permissions:
