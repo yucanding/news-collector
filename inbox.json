@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-24T19:01:27.625853Z",
+  "updated_utc": "2026-11-24T19:10:58.455884Z",
   "window_hours": 12,
   "sources_ok": [
     "terminal",
@@ -9,11 +9,63 @@
   "errors": [],
   "stale": false,
   "counts": {
-    "fetched": 729,
+    "fetched": 937,
     "inbox": 60,
-    "new": 1
+    "new": 3
   },
   "items": [
+    {
+      "id": "u:552021265f1c06d5",
+      "title": "Huang Tells Staff He Is in Therapy, Apologizes in Nvidia Town Hall",
+      "summary": "The Nvidia co-founder thanked the Trump administration while addressing staff the day after he was reinstated as CEO.",
+      "link": "https://www.wsj.com/tech/huang-tells-staff-he-is-in-therapy-apologizes-in-nvidia-town-hall-b79647f0?mod=pls_whats_news_us_business_f",
+      "source": "WSJ",
+      "published_utc": "2026-11-24T19:05:00Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:198fc11c836125c0",
+      "title": "From Chinese Factory Town to the Nvidia Scandal: The Rise of Alice Huang",
+      "summary": "The woman whose role has become a focus of the Nvidia spying saga grew up in a small town built around a weapons factory. Her jump to finance and the tech world paralleled China’s own.",
+      "link": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html",
+      "source": "NYT",
+      "published_utc": "2026-11-24T19:03:33Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:907fb60ef0ed5d53",
+      "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
+      "summary": "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering.",
+      "link": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
+      "source": "NYT",
+      "published_utc": "2026-11-24T19:03:24Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:973abc1a7bef1414",
+      "title": "CoreWeave Bonds Hit All-Time Lows, Erasing Nvidia-Fueled Gains",
+      "summary": "Bonds backing cloud computing provider CoreWeave Inc. fell to record lows Tuesday, among the day’s biggest corporate bond losses, amid renewed concerns about the durability of the AI trade.",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-24/coreweave-bonds-hit-all-time-lows-erasing-nvidia-fueled-gains",
+      "source": "BBG",
+      "published_utc": "2026-11-24T18:55:27Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
     {
       "id": "u:31643e2d7b283aff",
       "title": "Gold Futures Give Back Gains Following Nvidia-Driven Rally",
@@ -21,7 +73,20 @@
       "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-amid-risk-on-sentiment-across-markets-ae66946a?mod=rss_markets_main",
       "source": "WSJ",
       "published_utc": "2026-11-24T18:52:00Z",
-      "fetched_utc": "2026-11-24T19:01:27.625853Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:70e270d28e6e61dc",
+      "title": "更新：受英伟达带动的涨势消退，股市日内多数走低",
+      "summary": "",
+      "link": "https://news.futunn.com/post/1005509746?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-24T18:50:17Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "NVDA"
       ],
@@ -34,7 +99,7 @@
       "link": "https://news.futunn.com/flash/1005509208?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-24T18:41:00Z",
-      "fetched_utc": "2026-11-24T18:50:57.537017Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "NVDA"
       ],
@@ -47,7 +112,7 @@
       "link": "https://news.futunn.com/post/1005508964?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-24T18:37:01Z",
-      "fetched_utc": "2026-11-24T18:50:57.537017Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "NVDA"
       ],
@@ -60,7 +125,7 @@
       "link": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html",
       "source": "NYT",
       "published_utc": "2026-11-24T18:34:38Z",
-      "fetched_utc": "2026-11-24T19:01:27.625853Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "NVDA"
       ],
@@ -73,7 +138,7 @@
       "link": "https://news.futunn.com/post/1005508736?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-24T18:32:06Z",
-      "fetched_utc": "2026-11-24T18:50:57.537017Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "NVDA"
       ],
@@ -86,7 +151,7 @@
       "link": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
       "source": "CNBC",
       "published_utc": "2026-11-24T18:30:58Z",
-      "fetched_utc": "2026-11-24T19:01:27.625853Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "NVDA"
       ],
@@ -99,7 +164,7 @@
       "link": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html",
       "source": "CNBC",
       "published_utc": "2026-11-24T18:30:06Z",
-      "fetched_utc": "2026-11-24T19:01:27.625853Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "NVDA"
       ],
@@ -112,7 +177,7 @@
       "link": "http://nitter.mizuki.st/OracleNYSE/status/2125295713420791923#m",
       "source": "X",
       "published_utc": "2026-11-24T18:29:18Z",
-      "fetched_utc": "2026-11-24T19:01:27.625853Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "DASH"
       ],
@@ -125,7 +190,7 @@
       "link": "https://news.futunn.com/post/1005508520?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-24T18:28:00Z",
-      "fetched_utc": "2026-11-24T19:01:27.625853Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "TSLA"
       ],
@@ -138,7 +203,7 @@
       "link": "https://news.futunn.com/post/1005507998?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-24T18:17:00Z",
-      "fetched_utc": "2026-11-24T19:01:27.625853Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "MSFT"
       ],
@@ -151,7 +216,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2125292405469417928#m",
       "source": "X",
       "published_utc": "2026-11-24T18:16:10Z",
-      "fetched_utc": "2026-11-24T19:01:27.625853Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "NVDA"
       ],
@@ -166,7 +231,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2125290467214721501#m",
       "source": "X",
       "published_utc": "2026-11-24T18:08:28Z",
-      "fetched_utc": "2026-11-24T19:01:27.625853Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "GPN"
       ],
@@ -194,7 +259,7 @@
       "link": "http://nitter.mizuki.st/OracleNYSE/status/2125288191338959125#m",
       "source": "X",
       "published_utc": "2026-11-24T17:59:25Z",
-      "fetched_utc": "2026-11-24T19:01:27.625853Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [],
       "cats": [
         "fed"
@@ -220,7 +285,7 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVG54VzFhV2RaSVZzb2RVRE5xTFlldmNybU14dmNvSnZVcGZwaWtBemhVUmN4Y1hmNlFBNlBUVkpsOV9pNWxyR3JTNWNSZVJPZGZ3WVY0RnlpbVhwUzhFRWZnTGdvZnQwUHFDaWVJQ3Y2cVliZ0JfNGQ1TFhNaVhVSkg5Zw?oc=5",
       "source": "google-news:Electrek",
       "published_utc": "2026-11-24T17:58:00Z",
-      "fetched_utc": "2026-11-24T18:50:57.537017Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -234,7 +299,7 @@
       "link": "https://news.futunn.com/post/1005506914?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-24T17:55:36Z",
-      "fetched_utc": "2026-11-24T18:50:57.537017Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "NVDA"
       ],
@@ -247,7 +312,7 @@
       "link": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
       "source": "FT",
       "published_utc": "2026-11-24T17:52:14Z",
-      "fetched_utc": "2026-11-24T19:01:27.625853Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "NVDA"
       ],
@@ -260,20 +325,7 @@
       "link": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
       "source": "CNBC",
       "published_utc": "2026-11-24T17:51:45Z",
-      "fetched_utc": "2026-11-24T19:01:27.625853Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:907fb60ef0ed5d53",
-      "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
-      "summary": "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering.",
-      "link": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
-      "source": "NYT",
-      "published_utc": "2026-11-24T17:51:26Z",
-      "fetched_utc": "2026-11-24T19:01:27.625853Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "NVDA"
       ],
@@ -286,7 +338,7 @@
       "link": "https://www.techflowpost.com/newsletter/146607",
       "source": "TechFlow",
       "published_utc": "2026-11-24T17:48:46Z",
-      "fetched_utc": "2026-11-24T19:01:27.625853Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "NVDA"
       ],
@@ -299,7 +351,7 @@
       "link": "https://news.futunn.com/post/1005506016?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-24T17:40:01Z",
-      "fetched_utc": "2026-11-24T19:01:27.625853Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "AAPL",
         "MU"
@@ -313,7 +365,7 @@
       "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPblpmeG9mZEYtYk5zUHN0eDA1QnJ6WkpFZ2E5NU1MWnZzTUN6UzBLZ1AyZ19oTjdZS1loejVodUQwR2hwZzdPU21pZEV1cUllZ0lKMWpyZmFWc2lMSWszM0N3Vm15S0Y1TklmdEJGbzhRdGNmSUlGYnFfMFN6UWlJV3pQNWt0Vm5BRUdvNkE5ek9SU2wwSldvNGY1Z0tNcUtzTGVpVWl5OFowVXFhZF9qOWRiREw5M3NEOEh0dXZPYUJHNWNPeXJHZnJBMWZVNUtYVVplQTJzRWRBa2dvZWxFZ3R3OTlBbmlyeFB4VVdEdllWcFhJZ1ZoTkVzdm83aWxOQ0xGcEttckdfZDk2QmdMY1lxN1RnQTJtdVB3WU1pSmRMY1pkMlExZjRaNmktMGdzMEpQWml1Yl8?oc=5",
       "source": "google-news:GuruFocus",
       "published_utc": "2026-11-24T17:38:37Z",
-      "fetched_utc": "2026-11-24T18:50:57.537017Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "AMD"
       ],
@@ -329,7 +381,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2125282162077524411#m",
       "source": "X",
       "published_utc": "2026-11-24T17:35:27Z",
-      "fetched_utc": "2026-11-24T19:01:27.625853Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "HPE"
       ],
@@ -342,7 +394,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2125282065411129688#m",
       "source": "X",
       "published_utc": "2026-11-24T17:35:04Z",
-      "fetched_utc": "2026-11-24T19:01:27.625853Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "HPE"
       ],
@@ -355,7 +407,7 @@
       "link": "https://news.futunn.com/post/1005505874?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-24T17:34:53Z",
-      "fetched_utc": "2026-11-24T18:50:57.537017Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "NVDA"
       ],
@@ -368,7 +420,7 @@
       "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71?mod=rss_markets_main",
       "source": "WSJ",
       "published_utc": "2026-11-24T17:34:00Z",
-      "fetched_utc": "2026-11-24T19:01:27.625853Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "NVDA"
       ],
@@ -381,7 +433,7 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVVRSaDB6SlhtVmpEeHpqR2FVODhKb2VVRl9XUFQzZ3c3OHd1VWNDSmRWNEVnQnBhTlJMRHdsWS1OVHNfUHRqZlhRcS1DTGJyR0ZOS1FWM000VVFtYkZVMnBXRlMwXzZwQ0hOSHk4RnlScS1ISl9ZVGxHZU5mT1FGSmhWamZpV0s1MEpxb1RqRW5fTjAtRTBjMEJzT04?oc=5",
       "source": "google-news:The Lawyer",
       "published_utc": "2026-11-24T17:29:45Z",
-      "fetched_utc": "2026-11-24T18:50:57.537017Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -395,7 +447,7 @@
       "link": "https://news.futunn.com/post/1005505098?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-24T17:23:00Z",
-      "fetched_utc": "2026-11-24T18:50:57.537017Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "NVDA"
       ],
@@ -408,7 +460,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2125278448755372472#m",
       "source": "X",
       "published_utc": "2026-11-24T17:20:42Z",
-      "fetched_utc": "2026-11-24T19:01:27.625853Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "AMD",
         "NVDA"
@@ -422,7 +474,7 @@
       "link": "https://news.futunn.com/post/1005504767?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-24T17:17:44Z",
-      "fetched_utc": "2026-11-24T18:50:57.537017Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "NVDA"
       ],
@@ -435,7 +487,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2125277367190831393#m",
       "source": "X",
       "published_utc": "2026-11-24T17:16:24Z",
-      "fetched_utc": "2026-11-24T19:01:27.625853Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "NVDA"
       ],
@@ -448,7 +500,7 @@
       "link": "https://news.futunn.com/post/1005507334?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-24T17:16:19Z",
-      "fetched_utc": "2026-11-24T19:01:27.625853Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "AMZN"
       ],
@@ -461,7 +513,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2125276747918917984#m",
       "source": "X",
       "published_utc": "2026-11-24T17:13:57Z",
-      "fetched_utc": "2026-11-24T19:01:27.625853Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "AMD",
         "NVDA"
@@ -470,12 +522,12 @@
     },
     {
       "id": "u:5af813dad47ca8ab",
-      "title": "Jensen Huang Apologizes to Nvidia Staff in All-Hands Meeting",
+      "title": "Jensen Huang Apologizes to Nvidia Staff in Employee Meeting",
       "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang apologized to employees for the conduct that led to his brief ouster, telling staff at an all-hands meeting on Tuesday that he had let them down, according to people familiar with the matter.",
       "link": "https://www.bloomberg.com/news/articles/2026-11-24/nvidia-s-huang-to-host-all-hands-meeting-a-day-after-his-return",
       "source": "BBG",
       "published_utc": "2026-11-24T17:11:17Z",
-      "fetched_utc": "2026-11-24T19:01:27.625853Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "NVDA"
       ],
@@ -488,7 +540,7 @@
       "link": "https://news.futunn.com/post/1005504107?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-24T17:10:00Z",
-      "fetched_utc": "2026-11-24T19:01:27.625853Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "SMCI"
       ],
@@ -503,7 +555,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2125275045153124492#m",
       "source": "X",
       "published_utc": "2026-11-24T17:07:11Z",
-      "fetched_utc": "2026-11-24T19:01:27.625853Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "NVDA"
       ],
@@ -516,7 +568,7 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRUw5Tno4TS15clpTVVE0T3hBOGxCUVZFYkV6NjhUWVBGTmNzS0JOSjVHZTZqcGFJZFJMQl83Y1c5R1JaVU5CaHlHdUtZTjJfbklKUl9iWWhrNXF5VFJpMkVTOWVJUXREeTc1VmNTYzFRTXF0SVRZWGlJNGxfdkt2Y0RGUXRELTgzYjd1cDIzQnpPWlRUUkt1bXJQdVhaSnM?oc=5",
       "source": "google-news:METissue",
       "published_utc": "2026-11-24T17:06:13Z",
-      "fetched_utc": "2026-11-24T18:50:57.537017Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -530,7 +582,7 @@
       "link": "https://www.techflowpost.com/newsletter/146601",
       "source": "TechFlow",
       "published_utc": "2026-11-24T17:04:05Z",
-      "fetched_utc": "2026-11-24T19:01:27.625853Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "META"
       ],
@@ -556,7 +608,7 @@
       "link": "https://www.financialjuice.com/News/9866431/Nvidias-Huang-to-hold-all-hands-meeting-at-1230-PM-ET-today-NVDA.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-24T17:03:47Z",
-      "fetched_utc": "2026-11-24T19:01:27.625853Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "NVDA"
       ],
@@ -569,7 +621,7 @@
       "link": "https://news.futunn.com/flash/1005503806?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-24T17:02:49Z",
-      "fetched_utc": "2026-11-24T19:01:27.625853Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "JPM",
         "TSLA"
@@ -583,7 +635,7 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-24/nvidia-is-a-good-corporate-citizen-us-attorney-general-says",
       "source": "BBG",
       "published_utc": "2026-11-24T16:59:52Z",
-      "fetched_utc": "2026-11-24T19:01:27.625853Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "NVDA"
       ],
@@ -596,7 +648,7 @@
       "link": "https://news.futunn.com/post/1005503432?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-24T16:58:34Z",
-      "fetched_utc": "2026-11-24T18:50:57.537017Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "NVDA"
       ],
@@ -611,7 +663,7 @@
       "link": "https://news.futunn.com/post/1005503380?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-24T16:56:12Z",
-      "fetched_utc": "2026-11-24T18:50:57.537017Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "NVDA",
         "ORCL"
@@ -651,7 +703,7 @@
       "link": "https://news.futunn.com/post/1005502706?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-24T16:46:00Z",
-      "fetched_utc": "2026-11-24T19:01:27.625853Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "CRWD",
         "WFC"
@@ -665,7 +717,7 @@
       "link": "http://nitter.mizuki.st/OracleNYSE/status/2125269331017662778#m",
       "source": "X",
       "published_utc": "2026-11-24T16:44:28Z",
-      "fetched_utc": "2026-11-24T19:01:27.625853Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "AMD",
         "NVDA"
@@ -679,7 +731,7 @@
       "link": "https://www.financialjuice.com/News/9866392/US-Attorney-General-Blanche-If-Nvidia-was-the-target-of-a-criminal-investigation-that-wouldnt-be-the-message-NVDA.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-24T16:43:56Z",
-      "fetched_utc": "2026-11-24T19:01:27.625853Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "NVDA"
       ],
@@ -705,7 +757,7 @@
       "link": "http://nitter.mizuki.st/OracleNYSE/status/2125268657819324470#m",
       "source": "X",
       "published_utc": "2026-11-24T16:41:48Z",
-      "fetched_utc": "2026-11-24T19:01:27.625853Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "UBER"
       ],
@@ -744,7 +796,7 @@
       "link": "https://news.futunn.com/post/1005501733?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-24T16:30:00Z",
-      "fetched_utc": "2026-11-24T19:01:27.625853Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [
         "SMCI"
       ],
@@ -757,65 +809,12 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV3FsMk9oQXpRR25ibEM5eGlZeDdlaDk4MmZjWE9NWVZ3bDYyc3FHaWhXcFZWUGhBVU1HVENMUUx0SnY3NklYOWxJbHU2NmZvWEs2Nl9TRW9taFNPcmVGZXdnLWRnWENHb0VXS2Z4XzIyLXlQQ1llSDlPRXhSMERrXzF2SEw2YUFlMk1oc0QwRlBxVTdleWFmSVAwZ3ViWVA5b19DbEF2SzdSQQ?oc=5",
       "source": "google-news:Electric Cars Report",
       "published_utc": "2026-11-24T16:26:54Z",
-      "fetched_utc": "2026-11-24T18:50:57.537017Z",
+      "fetched_utc": "2026-11-24T19:10:58.455884Z",
       "tickers": [],
       "cats": [
         "mna"
       ],
       "link_is_redirect": true
-    },
-    {
-      "id": "u:69b084db9b47cf29",
-      "title": "Meta Platforms Is Maintained at Overweight by JP Morgan",
-      "summary": "",
-      "link": "https://news.futunn.com/post/1005501643?futusource=news_search_searchnews&src=39",
-      "source": "futu",
-      "published_utc": "2026-11-24T16:26:00Z",
-      "fetched_utc": "2026-11-24T19:01:27.625853Z",
-      "tickers": [
-        "META"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:1efa17acb97c7cc2",
-      "title": "彭博社：Visma 拟出售最多 65 亿欧元债务，英国 IPO 计划搁置",
-      "summary": "深潮 TechFlow 消息，11 月 25 日，据彭博社报道，知情人士称，私募股权公司 Hg 旗下挪威软件公司 Visma 正筹划出售最多 65 亿欧元债务，用于贷款再融资及向股东派息。此前，其私募股权支持方已搁置该公司的英国 IPO 计划。知情人士称，美国银行、DNB Carnegie 和高盛正牵头此次债务融资，其中最多 25 亿欧元为面向银行的定期贷款，最多 40 亿欧元额外债务将于明年初向机构投资者推介。",
-      "link": "https://www.techflowpost.com/newsletter/146598",
-      "source": "TechFlow",
-      "published_utc": "2026-11-24T16:20:17Z",
-      "fetched_utc": "2026-11-24T19:01:27.625853Z",
-      "tickers": [
-        "BAC",
-        "GS"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:2ef8dcb8c2c7c28b",
-      "title": "热门板块速睇：美股盘中IDC概念走弱，美国超微公司领跌",
-      "summary": "",
-      "link": "https://news.futunn.com/post/1005501195?futusource=news_search_searchnews&src=39",
-      "source": "futu",
-      "published_utc": "2026-11-24T16:20:00Z",
-      "fetched_utc": "2026-11-24T19:01:27.625853Z",
-      "tickers": [
-        "SMCI"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:ed9f9a5de317999e",
-      "title": "Microsoft sets target for worldwide mitigation in under an hour for future incidents - Memo. $MSFT",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9866361/Microsoft-sets-target-for-worldwide-mitigation-in-under-an-hour-for-future-incidents---Memo-MSFT.aspx?xy=rss",
-      "source": "FinancialJuice",
-      "published_utc": "2026-11-24T16:08:25Z",
-      "fetched_utc": "2026-11-24T19:01:27.625853Z",
-      "tickers": [
-        "MSFT"
-      ],
-      "cats": []
     }
   ]
 }
