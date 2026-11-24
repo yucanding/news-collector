@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-24T05:31:17.148348Z",
+  "updated_utc": "2026-11-24T05:40:54.376588Z",
   "window_hours": 12,
   "sources_ok": [
     "terminal",
@@ -9,11 +9,24 @@
   "errors": [],
   "stale": false,
   "counts": {
-    "fetched": 971,
+    "fetched": 966,
     "inbox": 60,
-    "new": 4
+    "new": 3
   },
   "items": [
+    {
+      "id": "u:ee1bfc48720dd865",
+      "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
+      "summary": "The administration added Megaspeed to the entity list, a trade blacklist, after weeks of sparring among top officials on the decision.",
+      "link": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
+      "source": "NYT",
+      "published_utc": "2026-11-24T05:39:23Z",
+      "fetched_utc": "2026-11-24T05:40:54.376588Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
     {
       "id": "u:a27cffe0ccd3ad29",
       "title": "FT：五名高管正商谈 SpaceX 与特斯拉潜在合并",
@@ -21,7 +34,7 @@
       "link": "https://www.techflowpost.com/newsletter/146483",
       "source": "TechFlow",
       "published_utc": "2026-11-24T05:26:49Z",
-      "fetched_utc": "2026-11-24T05:31:17.148348Z",
+      "fetched_utc": "2026-11-24T05:40:54.376588Z",
       "tickers": [
         "TSLA"
       ],
@@ -34,7 +47,7 @@
       "link": "https://www.techflowpost.com/newsletter/146482",
       "source": "TechFlow",
       "published_utc": "2026-11-24T05:23:43Z",
-      "fetched_utc": "2026-11-24T05:31:17.148348Z",
+      "fetched_utc": "2026-11-24T05:40:54.376588Z",
       "tickers": [
         "TSLA"
       ],
@@ -50,6 +63,19 @@
       "fetched_utc": "2026-11-24T05:31:17.148348Z",
       "tickers": [
         "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:80461758dabd7c35",
+      "title": "SpaceX and Tesla name directors Roelof Botha, Randy Glein, Robyn Denholm, Kathleen Wilson-Thompson and Jack Hartung to negotiate $TSLA",
+      "summary": "SpaceX and Tesla name directors Roelof Botha, Randy Glein, Robyn Denholm, Kathleen Wilson-Thompson and Jack Hartung to negotiate $TSLA",
+      "link": "http://nitter.mizuki.st/movesurge/status/2125095787810193603#m",
+      "source": "X",
+      "published_utc": "2026-11-24T05:14:52Z",
+      "fetched_utc": "2026-11-24T05:40:54.376588Z",
+      "tickers": [
+        "TSLA"
       ],
       "cats": []
     },
@@ -73,7 +99,7 @@
       "link": "https://www.scmp.com/business/china-business/article/3375569/cathie-woods-nvidia-bet-misses-32-rally-jensen-huangs-return",
       "source": "SCMP",
       "published_utc": "2026-11-24T05:12:07Z",
-      "fetched_utc": "2026-11-24T05:31:17.148348Z",
+      "fetched_utc": "2026-11-24T05:40:54.376588Z",
       "tickers": [
         "NVDA"
       ],
@@ -86,7 +112,7 @@
       "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
       "source": "CNBC",
       "published_utc": "2026-11-24T05:09:34Z",
-      "fetched_utc": "2026-11-24T05:31:17.148348Z",
+      "fetched_utc": "2026-11-24T05:40:54.376588Z",
       "tickers": [
         "NVDA"
       ],
@@ -99,9 +125,22 @@
       "link": "https://news.futunn.com/flash/1005426430?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-24T05:04:07Z",
-      "fetched_utc": "2026-11-24T05:31:17.148348Z",
+      "fetched_utc": "2026-11-24T05:40:54.376588Z",
       "tickers": [
         "TSLA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:c878e328f038b1d1",
+      "title": "Silicon Valley’s too big to fail moment",
+      "summary": "Washington’s intervention at Nvidia harks back to the 2008 financial crisis",
+      "link": "https://www.ft.com/content/5a5ad497-11e7-493b-8ee4-46e65e59d873?syn-25a6b1a6=1",
+      "source": "FT",
+      "published_utc": "2026-11-24T05:00:25Z",
+      "fetched_utc": "2026-11-24T05:40:54.376588Z",
+      "tickers": [
+        "NVDA"
       ],
       "cats": []
     },
@@ -112,7 +151,7 @@
       "link": "https://www.ft.com/content/2585e45e-9133-4215-a2d8-e1275e1033b9?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss",
       "source": "FT",
       "published_utc": "2026-11-24T05:00:16Z",
-      "fetched_utc": "2026-11-24T05:31:17.148348Z",
+      "fetched_utc": "2026-11-24T05:40:54.376588Z",
       "tickers": [
         "TSLA"
       ],
@@ -121,13 +160,26 @@
       ]
     },
     {
+      "id": "u:7137c2b0a6a969b2",
+      "title": "We are the ‘Tesla’ of ratings, says tiny agency behind private credit boom",
+      "summary": "Egan-Jones president argues the rating group can churn out thousands of scores due to its investment in technology",
+      "link": "https://www.ft.com/content/26739054-0455-449b-9566-97fb4986088d?syn-25a6b1a6=1",
+      "source": "FT",
+      "published_utc": "2026-11-24T05:00:15Z",
+      "fetched_utc": "2026-11-24T05:40:54.376588Z",
+      "tickers": [
+        "TSLA"
+      ],
+      "cats": []
+    },
+    {
       "id": "u:956a0fc6279f6181",
       "title": "Stocks Surge After Jensen Huang Is Reinstated as Nvidia CEO",
       "summary": "The market had already started to bounce back from a sell-off last week. Then, the news that Nvidia reinstated its former chief executive sent shares soaring.",
       "link": "https://www.nytimes.com/2026/11/22/business/nvidia-stock-huang-ai-sp500-markets.html",
       "source": "NYT",
       "published_utc": "2026-11-24T04:58:02Z",
-      "fetched_utc": "2026-11-24T05:31:17.148348Z",
+      "fetched_utc": "2026-11-24T05:40:54.376588Z",
       "tickers": [
         "NVDA"
       ],
@@ -140,7 +192,7 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-24/treasuries-advance-as-cheaper-oil-alleviates-inflation-concerns",
       "source": "BBG",
       "published_utc": "2026-11-24T04:42:33Z",
-      "fetched_utc": "2026-11-24T05:31:17.148348Z",
+      "fetched_utc": "2026-11-24T05:40:54.376588Z",
       "tickers": [
         "NVDA"
       ],
@@ -153,7 +205,7 @@
       "link": "https://www.wsj.com/finance/stocks/asian-equities-rebound-as-huang-reinstatement-sparks-ai-stock-rally-515acdd2?mod=rss_markets_main",
       "source": "WSJ",
       "published_utc": "2026-11-24T04:42:00Z",
-      "fetched_utc": "2026-11-24T05:31:17.148348Z",
+      "fetched_utc": "2026-11-24T05:40:54.376588Z",
       "tickers": [
         "NVDA"
       ],
@@ -180,7 +232,7 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-24/goldman-says-won-stability-beats-rate-hikes-in-cooling-inflation",
       "source": "BBG",
       "published_utc": "2026-11-24T04:33:10Z",
-      "fetched_utc": "2026-11-24T05:31:17.148348Z",
+      "fetched_utc": "2026-11-24T05:40:54.376588Z",
       "tickers": [
         "GS"
       ],
@@ -193,7 +245,7 @@
       "link": "https://www.wsj.com/finance/stocks/nikkei-rises-2-7-led-by-chip-metals-stocks-82c1bb9d?mod=rss_markets_main",
       "source": "WSJ",
       "published_utc": "2026-11-24T04:32:00Z",
-      "fetched_utc": "2026-11-24T05:31:17.148348Z",
+      "fetched_utc": "2026-11-24T05:40:54.376588Z",
       "tickers": [
         "NVDA"
       ],
@@ -206,7 +258,7 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVzJuVTlLZnk2cDJyS3NxcjQ0WVZfa2xHOFZGRUhrSHZMd2UwZVZfNDBXM0NjQ25ZLU5DMmd0cGd0dXY2TjhuR1preEpPQkdrV2NRTkJ2NTZ0QkQyOG9UMURRTmxDNHZZM0tTRXlsRkNNT0RUbk5ucFNPdWRKMWpHNDItYTRlbFdIU0d0N1BPX3FaNWpVa2VHcmtZZXJwQS1hNi11bXVXeXk4Z0hpbXM4RlNn?oc=5",
       "source": "google-news:富途牛牛",
       "published_utc": "2026-11-24T04:31:00Z",
-      "fetched_utc": "2026-11-24T05:31:17.148348Z",
+      "fetched_utc": "2026-11-24T05:40:54.376588Z",
       "tickers": [
         "NVDA"
       ],
@@ -222,7 +274,7 @@
       "link": "https://news.futunn.com/post/1005422761?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-24T04:19:08Z",
-      "fetched_utc": "2026-11-24T05:31:17.148348Z",
+      "fetched_utc": "2026-11-24T05:40:54.376588Z",
       "tickers": [
         "MSFT",
         "PANW"
@@ -331,7 +383,7 @@
       "link": "https://www.ft.com/content/6ca21b39-ff62-42e0-9695-9220b438f7eb?syn-25a6b1a6=1",
       "source": "FT",
       "published_utc": "2026-11-24T03:46:42Z",
-      "fetched_utc": "2026-11-24T05:31:17.148348Z",
+      "fetched_utc": "2026-11-24T05:40:54.376588Z",
       "tickers": [],
       "cats": [
         "fed"
@@ -344,7 +396,7 @@
       "link": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
       "source": "FT",
       "published_utc": "2026-11-24T03:46:25Z",
-      "fetched_utc": "2026-11-24T05:31:17.148348Z",
+      "fetched_utc": "2026-11-24T05:40:54.376588Z",
       "tickers": [
         "NVDA"
       ],
@@ -357,7 +409,7 @@
       "link": "https://www.techflowpost.com/newsletter/146472",
       "source": "TechFlow",
       "published_utc": "2026-11-24T03:41:04Z",
-      "fetched_utc": "2026-11-24T05:31:17.148348Z",
+      "fetched_utc": "2026-11-24T05:40:54.376588Z",
       "tickers": [
         "JD",
         "NVDA"
@@ -374,7 +426,7 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0Q1V5a21pOExzRFJ5UXc3b0F6OF9sVzcwT2NHX3pRM2VhWDNhSzZidVJPbEREOUY2VEhzQlVVbWx1MEZZdkV1MnMyLU9WdF90RVN6ZUtNM3hRdFR2U3ZPeHU4Z3lzTzRCZ3RsMW1QekU?oc=5",
       "source": "google-news:手机新浪网",
       "published_utc": "2026-11-24T03:38:54Z",
-      "fetched_utc": "2026-11-24T05:31:17.148348Z",
+      "fetched_utc": "2026-11-24T05:40:54.376588Z",
       "tickers": [
         "NVDA"
       ],
@@ -390,7 +442,7 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTTlkc1h1NFYyOURBQ2VaWnZFM2ZaT0Q2NUNtdEVwRzJ2TXRTSVE5QVAteEJOSWMwRV9xLWxKSFVZRHU5MERaNVFGdnI1QnIzWWdBWUY0eEZtYThJbW1WNTNSMHFoNFZ1clRZdmFIYUhSTlI1TEFsTGhYRDJLdHBsUXF0QmVPWkpw?oc=5",
       "source": "google-news:Sohu",
       "published_utc": "2026-11-24T03:24:03Z",
-      "fetched_utc": "2026-11-24T05:31:17.148348Z",
+      "fetched_utc": "2026-11-24T05:40:54.376588Z",
       "tickers": [],
       "cats": [
         "kuo"
@@ -404,7 +456,7 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZU9INnBrOEpCZEUxemdFSGlqeEQzWGVBLS1lQnJhM3dfclc0NUVQa19TUE03azE2VXZISWFTU3pjVG9fNUpsSzV2UE4yMk8tV1QyUVViUGJqQlNNR29haDZOLWRESmJIRmVkUXV5ZEZFTXZkajc0R2J0V2Y2WEFCejI2MHlKVTNM?oc=5",
       "source": "google-news:Sohu",
       "published_utc": "2026-11-24T03:23:48Z",
-      "fetched_utc": "2026-11-24T05:31:17.148348Z",
+      "fetched_utc": "2026-11-24T05:40:54.376588Z",
       "tickers": [
         "NVDA"
       ],
@@ -435,22 +487,9 @@
       "link": "https://news.futunn.com/post/1005417302?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-24T03:15:55Z",
-      "fetched_utc": "2026-11-24T05:31:17.148348Z",
+      "fetched_utc": "2026-11-24T05:40:54.376588Z",
       "tickers": [
         "TSLA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:ee1bfc48720dd865",
-      "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
-      "summary": "The administration added Megaspeed to the entity list, a trade blacklist, after weeks of sparring among top officials on the decision.",
-      "link": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
-      "source": "NYT",
-      "published_utc": "2026-11-24T03:12:26Z",
-      "fetched_utc": "2026-11-24T05:31:17.148348Z",
-      "tickers": [
-        "NVDA"
       ],
       "cats": []
     },
@@ -474,7 +513,7 @@
       "link": "https://news.futunn.com/post/1005415891?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-24T03:09:18Z",
-      "fetched_utc": "2026-11-24T05:31:17.148348Z",
+      "fetched_utc": "2026-11-24T05:40:54.376588Z",
       "tickers": [
         "TSM"
       ],
@@ -487,7 +526,7 @@
       "link": "https://www.wsj.com/business/then-and-now-see-how-nvidia-and-the-administration-pivoted-on-huang-d49b1c1b?mod=pls_whats_news_us_business_f",
       "source": "WSJ",
       "published_utc": "2026-11-24T03:08:00Z",
-      "fetched_utc": "2026-11-24T05:31:17.148348Z",
+      "fetched_utc": "2026-11-24T05:40:54.376588Z",
       "tickers": [
         "NVDA"
       ],
@@ -500,7 +539,7 @@
       "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
       "source": "CNBC",
       "published_utc": "2026-11-24T03:05:49Z",
-      "fetched_utc": "2026-11-24T05:31:17.148348Z",
+      "fetched_utc": "2026-11-24T05:40:54.376588Z",
       "tickers": [
         "NVDA"
       ],
@@ -529,7 +568,7 @@
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iam0xN0JSWldzQzN5cTVYYlRTZlV6SkpTLTdmMS1QRmtaeURoeDFyWHVqb19xc01peDBrVXJ6cDNXbmNwX0JkdzQ3QzdQQkJCU1FPYndkQk9kd0hZdWN6eA?oc=5",
       "source": "google-news:cnBeta.COM",
       "published_utc": "2026-11-24T03:00:00Z",
-      "fetched_utc": "2026-11-24T05:31:17.148348Z",
+      "fetched_utc": "2026-11-24T05:40:54.376588Z",
       "tickers": [
         "NVDA"
       ],
@@ -571,7 +610,7 @@
       "link": "https://news.futunn.com/post/1005412679?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-24T02:38:23Z",
-      "fetched_utc": "2026-11-24T05:31:17.148348Z",
+      "fetched_utc": "2026-11-24T05:40:54.376588Z",
       "tickers": [
         "CRWD",
         "ZS"
@@ -585,7 +624,7 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-24/copper-resumes-decline-as-investors-look-beyond-drama-at-nvidia",
       "source": "BBG",
       "published_utc": "2026-11-24T02:38:19Z",
-      "fetched_utc": "2026-11-24T05:31:17.148348Z",
+      "fetched_utc": "2026-11-24T05:40:54.376588Z",
       "tickers": [
         "NVDA"
       ],
@@ -598,7 +637,7 @@
       "link": "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html",
       "source": "CNBC",
       "published_utc": "2026-11-24T02:37:39Z",
-      "fetched_utc": "2026-11-24T05:31:17.148348Z",
+      "fetched_utc": "2026-11-24T05:40:54.376588Z",
       "tickers": [
         "NVDA"
       ],
@@ -652,7 +691,7 @@
       "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-returns-colette-kress-cfo.html",
       "source": "CNBC",
       "published_utc": "2026-11-24T02:21:06Z",
-      "fetched_utc": "2026-11-24T05:31:17.148348Z",
+      "fetched_utc": "2026-11-24T05:40:54.376588Z",
       "tickers": [
         "NVDA"
       ],
@@ -665,7 +704,7 @@
       "link": "https://www.cnbc.com/2026/11/23/jensen-huang-nvidia-ceo-return.html",
       "source": "CNBC",
       "published_utc": "2026-11-24T02:20:44Z",
-      "fetched_utc": "2026-11-24T05:31:17.148348Z",
+      "fetched_utc": "2026-11-24T05:40:54.376588Z",
       "tickers": [
         "NVDA"
       ],
@@ -678,7 +717,7 @@
       "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
       "source": "CNBC",
       "published_utc": "2026-11-24T02:20:36Z",
-      "fetched_utc": "2026-11-24T05:31:17.148348Z",
+      "fetched_utc": "2026-11-24T05:40:54.376588Z",
       "tickers": [
         "NVDA"
       ],
@@ -719,7 +758,7 @@
       "link": "https://www.techflowpost.com/newsletter/146463",
       "source": "TechFlow",
       "published_utc": "2026-11-24T02:10:41Z",
-      "fetched_utc": "2026-11-24T05:31:17.148348Z",
+      "fetched_utc": "2026-11-24T05:40:54.376588Z",
       "tickers": [
         "NVDA"
       ],
@@ -745,7 +784,7 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbWR4a0tfVExXVGJpdUVuMFVNSmFmN0htMXVHT2I3TDNFNHFQXzlJakUtQ3RrMFZyVFJ3cGJBY0UybUN0d01LU0RSWFBTNFJLSjNUVGFaS0VHMVg5QjNwZzJwZW9XM0cwY0NJZjlNWlV6b2hpUkhSSGpJRF9PN3NvVHpPNzVUSnNMc0xCbUc3dGwyd1VkRTZKQ3IyVVZ2MXZZYlBHcjhnS2p3ZC1xTTd0U2pfTUdXdzBrR1BXaw?oc=5",
       "source": "google-news:KuCoin",
       "published_utc": "2026-11-24T02:07:09Z",
-      "fetched_utc": "2026-11-24T05:31:17.148348Z",
+      "fetched_utc": "2026-11-24T05:40:54.376588Z",
       "tickers": [
         "PANW"
       ],
@@ -761,7 +800,7 @@
       "link": "https://www.techflowpost.com/newsletter/146461",
       "source": "TechFlow",
       "published_utc": "2026-11-24T02:07:03Z",
-      "fetched_utc": "2026-11-24T05:31:17.148348Z",
+      "fetched_utc": "2026-11-24T05:40:54.376588Z",
       "tickers": [
         "NVDA"
       ],
@@ -787,48 +826,9 @@
       "link": "https://www.wsj.com/business/nvidia-jensen-huang-white-house-9ad03961?mod=pls_whats_news_us_business_f",
       "source": "WSJ",
       "published_utc": "2026-11-24T02:00:00Z",
-      "fetched_utc": "2026-11-24T05:31:17.148348Z",
+      "fetched_utc": "2026-11-24T05:40:54.376588Z",
       "tickers": [
         "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:c9a5f8e98abfd058",
-      "title": "The Latest Chapter in Corporate America’s Rocky History With Boardroom Romance",
-      "summary": "Executives and board members are grappling with what precedent Jensen Huang’s return at Nvidia sets for corporate governance and leadership amid scandal.",
-      "link": "https://www.wsj.com/business/nvidia-jensen-huang-corporate-culture-23e37147?mod=pls_whats_news_us_business_f",
-      "source": "WSJ",
-      "published_utc": "2026-11-24T02:00:00Z",
-      "fetched_utc": "2026-11-24T05:31:17.148348Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:6303fc091cbb46c7",
-      "title": "美国将阿里巴巴一家新加坡子公司列入黑名单",
-      "summary": "深潮 TechFlow 消息，11 月 24 日，据彭博社报道，特朗普政府将阿里巴巴集团旗下的一家新加坡子公司列入黑名单，同时被列入黑名单的还有多家与 Megaspeed International 相关的实体。",
-      "link": "https://www.techflowpost.com/newsletter/146457",
-      "source": "TechFlow",
-      "published_utc": "2026-11-24T01:59:56Z",
-      "fetched_utc": "2026-11-24T05:31:17.148348Z",
-      "tickers": [
-        "BABA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:9311fc8518a55dbe",
-      "title": "vLLM 联合 AMD 验证：KV 缓存直接跑在 NVMe，同容量性能接近 DRAM",
-      "summary": "",
-      "link": "https://news.futunn.com/post/1005404826?futusource=news_search_searchnews&src=39",
-      "source": "futu",
-      "published_utc": "2026-11-24T01:56:27Z",
-      "fetched_utc": "2026-11-24T05:31:17.148348Z",
-      "tickers": [
-        "AMD"
       ],
       "cats": []
     }
