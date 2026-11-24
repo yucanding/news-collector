@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-24T13:35:43.363223Z",
+  "updated_utc": "2026-11-24T13:40:57.676714Z",
   "window_hours": 12,
   "sources_ok": [
     "terminal",
@@ -9,9 +9,9 @@
   "errors": [],
   "stale": false,
   "counts": {
-    "fetched": 1005,
+    "fetched": 911,
     "inbox": 60,
-    "new": 2
+    "new": 0
   },
   "items": [
     {
@@ -21,7 +21,7 @@
       "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
       "source": "CNBC",
       "published_utc": "2026-11-24T13:31:29Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "NVDA"
       ],
@@ -34,7 +34,7 @@
       "link": "https://news.futunn.com/post/1005484465?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-24T13:29:29Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "NVDA"
       ],
@@ -47,7 +47,7 @@
       "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71?mod=rss_markets_main",
       "source": "WSJ",
       "published_utc": "2026-11-24T13:28:00Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "NVDA"
       ],
@@ -73,7 +73,7 @@
       "link": "https://www.techflowpost.com/newsletter/146560",
       "source": "TechFlow",
       "published_utc": "2026-11-24T13:27:45Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -86,7 +86,7 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRzI2R09ieVF5Y3QwMzlCSDVpb0NiMHlvY3VFUXV6UTdxRmhEY3Z3bktVQXNadFJOalZmSlgzX29aZy1ZMkEwS09ZMWZ6dW9INDg2bmZsZF8zaVp0N0VhOVcyMGhmckVsZVVXSXpLZWZnU2F6Z1lFZEdpNFFBYmdkUjA2Ui1XUEJ6TS1USWtlSQ?oc=5",
       "source": "google-news:Breakingthenews.net",
       "published_utc": "2026-11-24T13:21:00Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -100,7 +100,7 @@
       "link": "https://news.futunn.com/post/1005483674?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-24T13:20:00Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "MU"
       ],
@@ -115,7 +115,7 @@
       "link": "https://www.techflowpost.com/newsletter/146557",
       "source": "TechFlow",
       "published_utc": "2026-11-24T13:16:45Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "NVDA"
       ],
@@ -128,7 +128,7 @@
       "link": "https://news.futunn.com/post/1005483491?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-24T13:16:25Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "TSLA"
       ],
@@ -141,7 +141,7 @@
       "link": "https://news.futunn.com/flash/1005483580?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-24T13:16:19Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "NVDA"
       ],
@@ -156,7 +156,7 @@
       "link": "https://www.bloomberg.com/opinion/articles/2026-11-24/jensen-huang-nvidia-return-is-terrible-news-for-anthropic-and-dario-amodei",
       "source": "BBG",
       "published_utc": "2026-11-24T13:15:09Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "NVDA"
       ],
@@ -169,7 +169,7 @@
       "link": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
       "source": "NYT",
       "published_utc": "2026-11-24T13:14:53Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "NVDA"
       ],
@@ -182,7 +182,7 @@
       "link": "https://www.financialjuice.com/News/9866093/Oppenheimer-cuts-target-price-for-Marvell-Technology-to-325-from-425.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-24T13:13:29Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "MRVL"
       ],
@@ -195,7 +195,7 @@
       "link": "https://news.futunn.com/flash/1005483203?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-24T13:12:47Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "SMCI"
       ],
@@ -208,7 +208,7 @@
       "link": "https://news.futunn.com/flash/1005483143?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-24T13:09:46Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "NVDA"
       ],
@@ -221,7 +221,7 @@
       "link": "https://news.futunn.com/post/1005484544?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-24T13:01:22Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "NVDA"
       ],
@@ -249,7 +249,7 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-24/uber-nuro-to-start-driverless-testing-of-lucid-robotaxis-in-the-bay-area",
       "source": "BBG",
       "published_utc": "2026-11-24T13:00:10Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "UBER"
       ],
@@ -262,7 +262,7 @@
       "link": "https://news.futunn.com/post/1005481587?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-24T12:55:00Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "NVDA"
       ],
@@ -275,7 +275,7 @@
       "link": "https://www.ft.com/content/55a32e72-2cee-4a7f-874f-0936e2581a8a",
       "source": "FT",
       "published_utc": "2026-11-24T12:54:15Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "NVDA"
       ],
@@ -288,7 +288,7 @@
       "link": "https://www.ft.com/content/fda29491-ca21-4172-9889-52ffc6d4a25d?syn-25a6b1a6=1",
       "source": "FT",
       "published_utc": "2026-11-24T12:49:55Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "CRWD",
         "ZS"
@@ -304,7 +304,7 @@
       "link": "https://www.techflowpost.com/newsletter/146547",
       "source": "TechFlow",
       "published_utc": "2026-11-24T12:49:44Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "NVDA"
       ],
@@ -345,7 +345,7 @@
       "link": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
       "source": "CNBC",
       "published_utc": "2026-11-24T12:42:55Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "NVDA"
       ],
@@ -387,7 +387,7 @@
       "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-u-s-chip-restrictions-amplify-shell-company-headaches-in-ai-ecosystem-fd7a749d?mod=pls_whats_news_us_business_f",
       "source": "WSJ",
       "published_utc": "2026-11-24T12:36:00Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "NVDA"
       ],
@@ -400,7 +400,7 @@
       "link": "https://news.futunn.com/post/1005479522?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-24T12:33:58Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "NVDA",
         "TSLA"
@@ -414,7 +414,7 @@
       "link": "https://news.futunn.com/flash/1005479126?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-24T12:30:31Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "MU"
       ],
@@ -440,7 +440,7 @@
       "link": "https://news.futunn.com/flash/1005479122?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-24T12:30:29Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "INTC"
       ],
@@ -453,7 +453,7 @@
       "link": "https://news.futunn.com/post/1005478819?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-24T12:30:01Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "INTC"
       ],
@@ -466,7 +466,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2125205132912570466#m",
       "source": "X",
       "published_utc": "2026-11-24T12:29:22Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "JPM"
       ],
@@ -479,7 +479,7 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-24/ai-returns-matter-more-than-nvidia-drama-says-goldman-s-bell",
       "source": "BBG",
       "published_utc": "2026-11-24T12:23:51Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "GS",
         "NVDA"
@@ -506,7 +506,7 @@
       "link": "https://www.techflowpost.com/newsletter/146545",
       "source": "TechFlow",
       "published_utc": "2026-11-24T12:20:00Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "TSLA"
       ],
@@ -519,7 +519,7 @@
       "link": "https://www.techflowpost.com/newsletter/146544",
       "source": "TechFlow",
       "published_utc": "2026-11-24T12:11:34Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "JPM"
       ],
@@ -532,7 +532,7 @@
       "link": "https://www.techflowpost.com/newsletter/146543",
       "source": "TechFlow",
       "published_utc": "2026-11-24T12:11:10Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "NVDA"
       ],
@@ -547,7 +547,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2125200151308279906#m",
       "source": "X",
       "published_utc": "2026-11-24T12:09:35Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -560,7 +560,7 @@
       "link": "https://www.wsj.com/cfo-journal/nvidia-cfos-quick-stint-as-ceo-state-street-focuses-on-new-initiatives-9152857d?mod=pls_whats_news_us_business_f",
       "source": "WSJ",
       "published_utc": "2026-11-24T12:05:00Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "NVDA"
       ],
@@ -599,7 +599,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2125197415799992672#m",
       "source": "X",
       "published_utc": "2026-11-24T11:58:42Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "JPM"
       ],
@@ -612,7 +612,7 @@
       "link": "https://www.bloomberg.com/news/newsletters/2026-11-24/us-futures-turn-lower-as-nvidia-s-euphoria-wears-off",
       "source": "BBG",
       "published_utc": "2026-11-24T11:54:14Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "NVDA"
       ],
@@ -638,7 +638,7 @@
       "link": "https://news.futunn.com/post/1005475659?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-24T11:53:24Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "AAPL"
       ],
@@ -651,7 +651,7 @@
       "link": "https://news.futunn.com/post/1005475610?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-24T11:50:30Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "TSLA"
       ],
@@ -664,7 +664,7 @@
       "link": "https://www.techflowpost.com/newsletter/146541",
       "source": "TechFlow",
       "published_utc": "2026-11-24T11:49:53Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "PDD"
       ],
@@ -677,7 +677,7 @@
       "link": "https://www.techflowpost.com/newsletter/146540",
       "source": "TechFlow",
       "published_utc": "2026-11-24T11:48:40Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "NVDA"
       ],
@@ -703,7 +703,7 @@
       "link": "https://www.techflowpost.com/newsletter/146538",
       "source": "TechFlow",
       "published_utc": "2026-11-24T11:40:18Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "NVDA"
       ],
@@ -716,7 +716,7 @@
       "link": "https://www.bloomberg.com/news/newsletters/2026-11-24/jensen-huang-s-return-exposes-nvidia-s-unresolved-fragilities",
       "source": "BBG",
       "published_utc": "2026-11-24T11:39:10Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "NVDA"
       ],
@@ -729,7 +729,7 @@
       "link": "https://news.futunn.com/post/1005443388?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-24T11:33:39Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "AAPL"
       ],
@@ -769,7 +769,7 @@
       "link": "https://news.futunn.com/post/1005472687?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-24T11:25:00Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -796,7 +796,7 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-24/european-rocket-launches-satellites-for-amazon-s-starlink-rival",
       "source": "BBG",
       "published_utc": "2026-11-24T11:18:44Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "AMZN"
       ],
@@ -809,7 +809,7 @@
       "link": "https://www.financialjuice.com/News/9865910/Nvidia-Citigroup-raises-target-price-to-240-from-225-NVDA.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-24T11:10:33Z",
-      "fetched_utc": "2026-11-24T13:35:43.363223Z",
+      "fetched_utc": "2026-11-24T13:40:57.676714Z",
       "tickers": [
         "NVDA"
       ],
