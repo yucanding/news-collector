@@ -104,7 +104,7 @@ CASE_SENSITIVE_TICKERS = {"NOW", "ARM", "SHOP", "SNOW", "GAP", "BILL",
 
 # ---- v3：Gemini 分析 + Telegram 推送 ----
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL") or "gemini-2.5-flash"
+GEMINI_MODEL = (os.environ.get("GEMINI_MODEL") or "").strip()
 TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID") or "6288855088"
 PUSH_WINDOW_MINUTES = 120   # 2 小时硬线：发布时间距今超过 120 分钟一律不推
@@ -485,13 +485,27 @@ def _gemini_candidates():
     return cands
 
 
+def _parse_json_decision(text):
+    """解析模型返回的 JSON：去围栏；解析失败时从正文里抠第一个 {...} 再试。"""
+    t = re.sub(r"^```(?:json)?\s*|\s*```$", "", (text or "").strip()).strip()
+    try:
+        dec = json.loads(t)
+    except Exception:
+        m = re.search(r"\{.*\}", t, re.S)
+        if not m:
+            raise RuntimeError(f"返回格式异常: {t[:120]}")
+        dec = json.loads(m.group(0))
+    if not isinstance(dec, dict) or "push" not in dec:
+        raise RuntimeError(f"返回格式异常: {t[:120]}")
+    return dec
+
+
 def _gemini_generate_once(model, prompt):
     """调一次 generateContent，返回解析后的 JSON dict；失败抛错（带状态码和正文）。"""
     body = json.dumps({
         "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {"temperature": 0.2, "maxOutputTokens": 800,
-                             "responseMimeType": "application/json"},
-    }).encode("utf-8")
+        "generationConfig": {"temperature": 0.2, "maxOutputTokens": 800},
+    }).encode("utf-8")  # 不用 responseMimeType：部分模型没开 JSON mode 会直接报 400
     url = ("https://generativelanguage.googleapis.com/v1beta/models/"
            f"{urllib.parse.quote(model, safe='')}:generateContent")
     req = urllib.request.Request(
@@ -510,11 +524,7 @@ def _gemini_generate_once(model, prompt):
         raise RuntimeError(f"Gemini API {e.code}: {detail}")
     parts = (data.get("candidates") or [{}])[0].get("content", {}).get("parts") or []
     text = "".join(p.get("text", "") for p in parts).strip()
-    text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text).strip()
-    dec = json.loads(text)
-    if not isinstance(dec, dict) or "push" not in dec:
-        raise RuntimeError(f"返回格式异常: {text[:120]}")
-    return dec
+    return _parse_json_decision(text)
 
 
 def gemini_judge(item, recent_pushed, now):
@@ -544,9 +554,9 @@ def gemini_judge(item, recent_pushed, now):
             # 模型下线（404）、超载（503）、限流（429）就换下一个；鉴权失败（400/401/403）直接停
             if any(code in msg for code in (" 404", " 429", " 503",
                                             "NOT_FOUND", "RESOURCE_EXHAUSTED", "UNAVAILABLE")):
-                print(f"[Gemini] 模型 {model} 不可用，换下一个 ...")
+                print(f"[Gemini] 模型 {model} 不可用（{msg[:120]}），换下一个 ...")
                 continue
-            print(f"[Gemini] 判断失败 {item.get('id')}: {msg[:200]}")
+            print(f"[Gemini] {model} 判断失败 {item.get('id')}: {msg[:200]}")
             return None
         except Exception as e:  # noqa: BLE001
             print(f"[Gemini] 判断失败 {item.get('id')}: {e}")
