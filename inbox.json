@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-25T13:41:02.391740Z",
+  "updated_utc": "2026-11-25T13:50:55.543588Z",
   "window_hours": 12,
   "sources_ok": [
     "terminal",
@@ -9,13 +9,130 @@
   "errors": [],
   "stale": false,
   "counts": {
-    "fetched": 974,
+    "fetched": 972,
     "inbox": 60,
-    "new": 5,
+    "new": 9,
     "judged": 0,
     "pushed": 0
   },
   "items": [
+    {
+      "id": "u:83729025221aa6e4",
+      "title": "USTR Greer, on export controls: We have to balance the economy and national security - CNBC",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9867857/USTR-Greer-on-export-controls-We-have-to-balance-the-economy-and-national-security---CNBC.aspx?xy=rss",
+      "source": "FinancialJuice",
+      "published_utc": "2026-11-25T13:48:12Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
+      "tickers": [],
+      "cats": [
+        "fed"
+      ]
+    },
+    {
+      "id": "u:9421dcf7aa812648",
+      "title": "盘前期权异动：谷歌-A盘前下跌5.0%，现最高成交额的看跌期权涨跌幅为+510%，成交量达到124张",
+      "summary": "",
+      "link": "https://news.futunn.com/flash/1005627022?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-25T13:47:13Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
+      "tickers": [
+        "GOOGL"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:23168b1fc5522d21",
+      "title": "USTR Greer on NVIDIA: We have to make sure that company remains on top.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9867856/USTR-Greer-on-NVIDIA-We-have-to-make-sure-that-company-remains-on-top.aspx?xy=rss",
+      "source": "FinancialJuice",
+      "published_utc": "2026-11-25T13:46:55Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:db0f78487290b325",
+      "title": "USTR Greer on NVIDIA: The company is structurally important -CNBC Interview. $NVDA",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9867854/USTR-Greer-on-NVIDIA-The-company-is-structurally-important--CNBC-Interview-NVDA.aspx?xy=rss",
+      "source": "FinancialJuice",
+      "published_utc": "2026-11-25T13:46:50Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:29f581741759cdd9",
+      "title": "USTR Greer on chips and export controls: Administration closing some loopholes - CNBC interview",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9867846/USTR-Greer-on-chips-and-export-controls-Administration-closing-some-loopholes---CNBC-interview.aspx?xy=rss",
+      "source": "FinancialJuice",
+      "published_utc": "2026-11-25T13:46:35Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
+      "tickers": [],
+      "cats": [
+        "fed"
+      ]
+    },
+    {
+      "id": "u:3ad666a637ca7b93",
+      "title": "避险情绪持续升温 英伟达盘前跌超5% | 今夜看点",
+      "summary": "",
+      "link": "https://news.futunn.com/post/1005626892?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-25T13:45:53Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:06c17c84b2872274",
+      "title": "亚马逊和Meta Platforms正在探索就Muse AI购物达成休战协议？",
+      "summary": "",
+      "link": "https://news.futunn.com/post/1005626859?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-25T13:45:09Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
+      "tickers": [
+        "AMZN"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:81c7307294477ae3",
+      "title": "美股异动 | 明星科技股盘前集体下挫 英伟达(NVDA.US)续跌逾5%",
+      "summary": "",
+      "link": "https://news.futunn.com/post/1005626670?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-25T13:41:33Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:55d732c89eb4713f",
+      "title": "古尔曼：苹果裁减Siri旧架构人手，进阶AI代理最快2027年底始面世",
+      "summary": "",
+      "link": "https://news.futunn.com/post/1005626602?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-25T13:40:05Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
+      "tickers": [
+        "AAPL"
+      ],
+      "cats": []
+    },
     {
       "id": "u:6c014a9baa19078d",
       "title": "Jim Cramer看好杜邦，建议买入英伟达",
@@ -23,7 +140,7 @@
       "link": "https://news.futunn.com/post/1005626112?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-25T13:39:23Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [
         "NVDA"
       ],
@@ -36,7 +153,7 @@
       "link": "https://news.futunn.com/flash/1005625922?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-25T13:37:11Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [
         "AVGO"
       ],
@@ -49,7 +166,7 @@
       "link": "https://www.nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html",
       "source": "NYT",
       "published_utc": "2026-11-25T13:35:19Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [
         "NVDA"
       ],
@@ -62,7 +179,7 @@
       "link": "https://news.futunn.com/post/1005625734?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-25T13:34:40Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [
         "AMZN"
       ],
@@ -75,7 +192,7 @@
       "link": "https://news.futunn.com/flash/1005625412?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-25T13:31:09Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [
         "INTC"
       ],
@@ -88,7 +205,7 @@
       "link": "https://news.futunn.com/post/1005624879?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-25T13:29:08Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [
         "GOOGL",
         "MSFT"
@@ -102,7 +219,20 @@
       "link": "https://news.futunn.com/post/1005625442?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-25T13:24:40Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
+      "tickers": [
+        "TSM"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:98c27ca1eea283dd",
+      "title": "传台积电为得州新厂寻求税收优惠 Wedbush解读：扩产信号印证AI需求未放缓",
+      "summary": "",
+      "link": "https://news.futunn.com/post/1005625174?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-25T13:24:00Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [
         "TSM"
       ],
@@ -115,7 +245,7 @@
       "link": "https://www.cnbc.com/2026/11/25/huang-reinstatement-reignites-voter-angst-over-techs-outsized-power.html",
       "source": "CNBC",
       "published_utc": "2026-11-25T13:20:34Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [
         "NVDA"
       ],
@@ -128,7 +258,7 @@
       "link": "https://news.futunn.com/post/1005623582?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-25T13:17:13Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [
         "AMZN"
       ],
@@ -141,7 +271,7 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-25/goldman-strategist-says-it-s-too-early-to-buy-the-ai-selloff",
       "source": "BBG",
       "published_utc": "2026-11-25T13:17:13Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [
         "GS"
       ],
@@ -154,20 +284,7 @@
       "link": "https://news.futunn.com/post/1005623485?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-25T13:16:00Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:5498bc7dd091c7fc",
-      "title": "英伟达跌成美股“七巨头”最便宜！黄仁勋回归狂欢迅速消退，下周又将迎国会听证大考",
-      "summary": "",
-      "link": "https://news.futunn.com/post/1005623278?futusource=news_search_searchnews&src=39",
-      "source": "futu",
-      "published_utc": "2026-11-25T13:10:53Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [
         "NVDA"
       ],
@@ -180,7 +297,20 @@
       "link": "https://news.futunn.com/post/1005622835?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-25T13:10:05Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:5498bc7dd091c7fc",
+      "title": "英伟达跌成美股“七巨头”最便宜！黄仁勋回归狂欢迅速消退，下周又将迎国会听证大考",
+      "summary": "",
+      "link": "https://news.futunn.com/post/1005623278?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-25T13:10:00Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [
         "NVDA"
       ],
@@ -193,7 +323,7 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-25/tata-steel-weighs-changes-to-apl-apollo-deal-after-backlash",
       "source": "BBG",
       "published_utc": "2026-11-25T13:08:57Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -206,7 +336,7 @@
       "link": "https://news.futunn.com/flash/1005621238?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-25T12:55:39Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [
         "NVDA"
       ],
@@ -219,7 +349,7 @@
       "link": "https://www.nytimes.com/2026/11/25/business/dealbook/nvidia-huang-ai-rally.html",
       "source": "NYT",
       "published_utc": "2026-11-25T12:53:55Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [
         "NVDA"
       ],
@@ -232,7 +362,7 @@
       "link": "https://news.futunn.com/post/1005621285?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-25T12:53:06Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [
         "TSLA"
       ],
@@ -245,7 +375,7 @@
       "link": "https://news.futunn.com/flash/1005621001?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-25T12:52:01Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [
         "TSM"
       ],
@@ -258,7 +388,7 @@
       "link": "https://www.nytimes.com/2026/11/24/business/martha-firestone-ford-dead.html",
       "source": "NYT",
       "published_utc": "2026-11-25T12:51:19Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [
         "F"
       ],
@@ -271,7 +401,7 @@
       "link": "https://news.futunn.com/flash/1005620096?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-25T12:43:27Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [
         "SNDK"
       ],
@@ -284,7 +414,7 @@
       "link": "https://www.techflowpost.com/newsletter/146805",
       "source": "TechFlow",
       "published_utc": "2026-11-25T12:40:40Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [
         "AAPL",
         "AMD",
@@ -307,7 +437,7 @@
       "link": "https://news.futunn.com/post/1005619329?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-25T12:36:49Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [
         "NVDA"
       ],
@@ -320,7 +450,7 @@
       "link": "https://www.wsj.com/cfo-journal/tokenization-and-ai-rewrite-the-cfo-playbook-for-corporate-cybersecurity-41417daa?mod=pls_whats_news_us_business_f",
       "source": "WSJ",
       "published_utc": "2026-11-25T12:36:00Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [
         "NVDA"
       ],
@@ -333,7 +463,7 @@
       "link": "https://news.futunn.com/flash/1005619283?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-25T12:35:03Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [
         "MU"
       ],
@@ -346,7 +476,7 @@
       "link": "https://news.futunn.com/flash/1005619175?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-25T12:34:58Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [
         "NVDA"
       ],
@@ -359,7 +489,7 @@
       "link": "https://news.futunn.com/flash/1005619172?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-25T12:34:58Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [
         "SMCI"
       ],
@@ -385,7 +515,7 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-25/apple-watch-oura-ring-iphone-duo-best-tech-gifts-for-holiday-2026",
       "source": "BBG",
       "published_utc": "2026-11-25T12:30:02Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [
         "AAPL"
       ],
@@ -398,7 +528,7 @@
       "link": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
       "source": "CNBC",
       "published_utc": "2026-11-25T12:26:41Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [
         "NVDA"
       ],
@@ -411,7 +541,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2125566180878664055#m",
       "source": "X",
       "published_utc": "2026-11-25T12:24:03Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -424,7 +554,7 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-25/nvidia-still-faces-issues-that-cost-2-trillion-in-market-value",
       "source": "BBG",
       "published_utc": "2026-11-25T12:20:58Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [
         "NVDA"
       ],
@@ -437,7 +567,7 @@
       "link": "https://www.techflowpost.com/newsletter/146797",
       "source": "TechFlow",
       "published_utc": "2026-11-25T12:09:23Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [
         "NVDA"
       ],
@@ -491,7 +621,7 @@
       "link": "https://news.futunn.com/post/1005615180?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-25T11:56:00Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [
         "WMT"
       ],
@@ -504,7 +634,7 @@
       "link": "https://www.techflowpost.com/newsletter/146794",
       "source": "TechFlow",
       "published_utc": "2026-11-25T11:54:27Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [
         "META"
       ],
@@ -517,7 +647,7 @@
       "link": "https://www.techflowpost.com/newsletter/146793",
       "source": "TechFlow",
       "published_utc": "2026-11-25T11:53:50Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [
         "BILI"
       ],
@@ -530,7 +660,7 @@
       "link": "https://www.ft.com/content/8606f7ee-f98b-44f5-ae5a-120b696afca5?syn-25a6b1a6=1",
       "source": "FT",
       "published_utc": "2026-11-25T11:53:14Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -569,7 +699,7 @@
       "link": "https://www.techflowpost.com/newsletter/146792",
       "source": "TechFlow",
       "published_utc": "2026-11-25T11:45:24Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [
         "NVDA",
         "TSM"
@@ -585,7 +715,7 @@
       "link": "https://www.cnbc.com/2026/11/25/futures-sink-further-into-the-red-as-tech-worries-resurge.html",
       "source": "CNBC",
       "published_utc": "2026-11-25T11:43:37Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [
         "NVDA"
       ],
@@ -598,7 +728,7 @@
       "link": "https://www.techflowpost.com/newsletter/146786",
       "source": "TechFlow",
       "published_utc": "2026-11-25T11:35:55Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [
         "DELL",
         "WFC"
@@ -638,7 +768,7 @@
       "link": "https://www.bloomberg.com/news/newsletters/2026-11-25/jpmorgan-jpm-outage-signals-banks-tsunami-of-patching-before-ai-strikes",
       "source": "BBG",
       "published_utc": "2026-11-25T11:28:01Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [
         "JPM"
       ],
@@ -651,7 +781,7 @@
       "link": "https://www.ft.com/content/b68742ac-f7b9-4aca-b4d9-48245e749b60?syn-25a6b1a6=1",
       "source": "FT",
       "published_utc": "2026-11-25T11:25:34Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [
         "NVDA"
       ],
@@ -664,7 +794,7 @@
       "link": "https://www.wsj.com/finance/investing/nvidias-role-as-an-underwriter-of-the-ai-boom-95375800?mod=rss_markets_main",
       "source": "WSJ",
       "published_utc": "2026-11-25T11:25:00Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [
         "NVDA"
       ],
@@ -677,142 +807,9 @@
       "link": "https://news.futunn.com/post/1005610703?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-25T11:16:33Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
+      "fetched_utc": "2026-11-25T13:50:55.543588Z",
       "tickers": [
         "SMCI"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:487e636aeae3cd7d",
-      "title": "BYD In Talks To Acquire Ineos Automotive's Hambach Plant In France - ACKO Drive",
-      "summary": "BYD In Talks To Acquire Ineos Automotive's Hambach Plant In France ACKO Drive",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVUN0WmN3RXNTUkI2QVh1Y2s5WU9NTTE2cTlNQ1IyX0h4NDBxU29qMm5oM1VwRkNzRFNhQ2hLSldMaXBXSEtjbDhBYkJFYnozYkM2Y3hMNXM1RjVWQ05iTVVFU1ZpRWFCVW95a0xta3M1OFJKTDQ0OWt1X0JWck5iNHZGNzVXeExpSnB6aW9Bb3hSTHdxZmE4T1J3?oc=5",
-      "source": "google-news:ACKO Drive",
-      "published_utc": "2026-11-25T11:03:45Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
-      "tickers": [],
-      "cats": [
-        "mna"
-      ],
-      "link_is_redirect": true
-    },
-    {
-      "id": "u:6b887dd2edd4fb24",
-      "title": "The Car Industry Has a Seat-Belt Problem It Can’t Fix",
-      "summary": "Plus, Jensen Huang’s vision for the new Nvidia is a lot like the old one, and our game tests whether you can secure your money for old age.",
-      "link": "https://www.wsj.com/personal-finance/the-car-industry-has-a-seat-belt-problem-it-cant-fix-0aa4be6e?mod=rss_markets_main",
-      "source": "WSJ",
-      "published_utc": "2026-11-25T11:02:00Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:d781f4e64ee52e5f",
-      "title": "英伟达AI官方账号回复Pearl 点赞其 KV 缓存量化技术",
-      "summary": "",
-      "link": "https://news.futunn.com/flash/1005609080?futusource=news_search_searchnews&src=39",
-      "source": "futu",
-      "published_utc": "2026-11-25T11:00:08Z",
-      "fetched_utc": "2026-11-25T13:01:29.114632Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:60f8bfe408cb4fed",
-      "title": "Trump to Lead TSMC Groundbreaking in Arizona After Nvidia Gambit",
-      "summary": "President Donald Trump will headline the groundbreaking on a major new semiconductor manufacturing project in Arizona next week, deepening his involvement in the industry after his successful campaign to reinstate Jensen Huang atop Nvidia Corp.",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-25/trump-to-lead-tsmc-groundbreaking-in-arizona-after-nvidia-gambit",
-      "source": "BBG",
-      "published_utc": "2026-11-25T11:00:02Z",
-      "fetched_utc": "2026-11-25T11:31:15.668503Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:3273b9773b6d03d0",
-      "title": "Jamie Dimon Loved Britain—Until It Raised Taxes on JPMorgan",
-      "summary": "The chief executive wants to strike back against the U.K. after its cash-strapped government targeted banks for extra revenue.",
-      "link": "https://www.wsj.com/finance/banking/jamie-dimon-loved-britainuntil-it-raised-taxes-on-jpmorgan-3462d7b6?mod=rss_markets_main",
-      "source": "WSJ",
-      "published_utc": "2026-11-25T11:00:00Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
-      "tickers": [
-        "JPM"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:c0e31b023d9ee338",
-      "title": "市场传闻：亚马逊与Meta Platforms就允许Muse AI接入购物网站进行谈判",
-      "summary": "",
-      "link": "https://news.futunn.com/post/1005607428?futusource=news_search_searchnews&src=39",
-      "source": "futu",
-      "published_utc": "2026-11-25T10:49:04Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
-      "tickers": [
-        "AMZN"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:5c43fc1828eab74b",
-      "title": "Nvidia Shares Slide Premarket as Chip Restriction Concerns Weigh -- Market Talk",
-      "summary": "",
-      "link": "https://news.futunn.com/post/1005607352?futusource=news_search_searchnews&src=39",
-      "source": "futu",
-      "published_utc": "2026-11-25T10:47:00Z",
-      "fetched_utc": "2026-11-25T13:01:29.114632Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:0bce3ff482aaf2f9",
-      "title": "Li Auto Stuck in Red Despite Sales Growth",
-      "summary": "Li Auto recorded a third straight quarter of losses despite selling more cars, a sign of mounting challenges for a company once considered a leader in the Chinese plug-in hybrid market.",
-      "link": "https://www.wsj.com/business/earnings/li-auto-stuck-in-red-despite-sales-growth-763e41bb?mod=pls_whats_news_us_business_f",
-      "source": "WSJ",
-      "published_utc": "2026-11-25T10:46:00Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
-      "tickers": [
-        "LI"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:443332e36b3ded39",
-      "title": "BOE reportedly in talks to acquire Visionox - OLED-Info",
-      "summary": "BOE reportedly in talks to acquire Visionox OLED-Info",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10ckNfNGhCYXU2ZU0tOUliM0F6czRhTUZ2WkpWOFVHUzRaa2RoSy1XbjF1S3VZQTdESDBlWnBIeFI0eGZUWUVjTHZEMmRxY3RSSmZ2OU1sU1g4WllhUExocXc4eVFXTXB4MjVkQUNBQVU?oc=5",
-      "source": "google-news:OLED-Info",
-      "published_utc": "2026-11-25T10:44:49Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
-      "tickers": [],
-      "cats": [
-        "mna"
-      ],
-      "link_is_redirect": true
-    },
-    {
-      "id": "u:a972dd6e54ea7647",
-      "title": "TrendForce下调明年DRAM涨价预期 美光、SK海力士、闪迪盘前齐挫",
-      "summary": "",
-      "link": "https://news.futunn.com/post/1005607901?futusource=news_search_searchnews&src=39",
-      "source": "futu",
-      "published_utc": "2026-11-25T10:42:39Z",
-      "fetched_utc": "2026-11-25T13:41:02.391740Z",
-      "tickers": [
-        "MU",
-        "SNDK"
       ],
       "cats": []
     }
