@@ -1,10 +1,5 @@
 {
   "judged": {
-    "u:cba98fc578ee80e4": {
-      "utc": "2026-11-25T10:31:19.759793Z",
-      "push": false,
-      "reason": "新闻主体为未上市公司 Global Auto Holdings，机械匹配的代码 HOOD 属于误匹配，对美股已上市公司无直接影响"
-    },
     "u:5c43fc1828eab74b": {
       "utc": "2026-11-25T10:50:56.671011Z",
       "push": false,
