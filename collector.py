@@ -438,6 +438,12 @@ MODEL_PREFERENCE = [
 ]
 
 _MODEL_CANDIDATES = None  # 本轮进程内缓存一次
+_DEAD_MODELS = set()  # 本轮已超时/挂掉的模型，不再试
+
+# 非文本模型不适合做判断（语音、图片等），候选里直接排除（抄 CMS 监控）
+_NON_TEXT_HINTS = ("tts", "image", "robotics", "deep-research", "antigravity",
+                   "lyria", "computer-use", "banana", "transcribe", "clip",
+                   "embedding")
 
 
 def _clean_model(name):
@@ -471,7 +477,8 @@ def _gemini_candidates():
     env_model = _clean_model(GEMINI_MODEL)
     if env_model:
         cands.append(env_model)
-    available = list_gemini_models(GEMINI_API_KEY)
+    available = [n for n in list_gemini_models(GEMINI_API_KEY)
+                 if not any(h in n for h in _NON_TEXT_HINTS)]
     for pref in MODEL_PREFERENCE:
         for name in available:
             if name not in cands and (name == pref or name.startswith(pref + "-")):
@@ -500,7 +507,7 @@ def _parse_json_decision(text):
     return dec
 
 
-def _gemini_generate_once(model, prompt):
+def _gemini_generate_once(model, prompt, timeout=30):
     """调一次 generateContent，返回解析后的 JSON dict；失败抛错（带状态码和正文）。"""
     body = json.dumps({
         "contents": [{"parts": [{"text": prompt}]}],
@@ -513,7 +520,7 @@ def _gemini_generate_once(model, prompt):
         headers={"Content-Type": "application/json", "x-goog-api-key": GEMINI_API_KEY},
         method="POST")
     try:
-        with urllib.request.urlopen(req, timeout=60) as resp:
+        with urllib.request.urlopen(req, timeout=timeout) as resp:
             data = json.loads(resp.read().decode("utf-8", errors="replace"))
     except urllib.error.HTTPError as e:
         detail = ""
@@ -545,23 +552,36 @@ def gemini_judge(item, recent_pushed, now):
               .replace("__CATS__", ", ".join(item.get("cats") or []) or "（无）")
               .replace("__RECENT__", recent_pushed or "（无）"))
     last_err = None
+    tried = 0
     for model in _gemini_candidates():
+        if model in _DEAD_MODELS:
+            continue
+        if tried >= 4:  # 每条最多试 4 个模型，避免超时叠加拖垮整轮
+            break
+        tried += 1
         try:
             return _gemini_generate_once(model, prompt)
         except RuntimeError as e:
             msg = str(e)
             last_err = e
-            # 模型下线（404）、超载（503）、限流（429）就换下一个；鉴权失败（400/401/403）直接停
-            if any(code in msg for code in (" 404", " 429", " 503",
+            # 模型下线（404）、超载（503）、限流（429）、返回格式异常就换下一个；
+            # 鉴权失败（400/401/403）直接停
+            if any(code in msg for code in (" 404", " 429", " 503", "返回格式异常",
                                             "NOT_FOUND", "RESOURCE_EXHAUSTED", "UNAVAILABLE")):
                 print(f"[Gemini] 模型 {model} 不可用（{msg[:120]}），换下一个 ...")
                 continue
             print(f"[Gemini] {model} 判断失败 {item.get('id')}: {msg[:200]}")
             return None
+        except (urllib.error.URLError, TimeoutError) as e:
+            # 超时/连接失败也要换下一个（之前是直接放弃整条），并记死该模型
+            print(f"[Gemini] 模型 {model} 超时/连接失败（{e}），换下一个 ...")
+            _DEAD_MODELS.add(model)
+            last_err = e
+            continue
         except Exception as e:  # noqa: BLE001
-            print(f"[Gemini] 判断失败 {item.get('id')}: {e}")
+            print(f"[Gemini] {model} 判断失败 {item.get('id')}: {e}")
             return None
-    print(f"[Gemini] 判断失败 {item.get('id')}：全部候选模型都不可用：{last_err}")
+    print(f"[Gemini] 判断失败 {item.get('id')}：候选模型都试过仍不可用：{last_err}")
     return None
 
 
@@ -762,17 +782,17 @@ def main():
         seen_titles.add(tkey)
         deduped_items.append(it)
     items = deduped_items[:INBOX_MAX]
-    new_ids = {it["id"] for it in items if it.get("new")}
     for it in items:
         it.pop("new", None)
 
     # ---- v3：Gemini 分析 + Telegram 推送 ----
-    # 只分析本轮新出现、发布时间在 2 小时硬线内的候选；旧条目不重判。
+    # 候选 = inbox 里发布时间在 2 小时硬线内、且未判过/未推过的条目。
+    # 注意：不能只看本轮新出现的条目——判断失败的不记 judged，下轮要能重试；
+    # 只看 new 会让失败条目在 seen 里出现一次后就永久丢失（2026-11-25 实测教训）。
+    # 已判过（judged.json）与已推过（pushed.json）的由 analyze_and_push 内部跳过。
     now = now_utc()
     candidates = []
     for it in items:
-        if it["id"] not in new_ids:
-            continue
         pub = to_dt(it.get("published_utc"))
         if not pub:
             continue
