@@ -1,23 +1,32 @@
 # -*- coding: utf-8 -*-
 """
-美股突发新闻采集器（GitHub Actions 版，v2）
+美股突发新闻采集器 + Gemini 分析 + Telegram 推送（GitHub Actions 版，v3）
 
-每 5-10 分钟跑一次，做三件机械的事，不做判断：
-  1. 拉源：Market Terminal /api/news（聚合 24 个源）、富途 news_search
-     （重点 ticker，中文）、Google News RSS（郭明錤 / 并购 / 做空）。
-     v2（2026-11-21）：去掉 CMS 源——用户另有 CMS 定期监控（cms-news-monitor），
-     本采集器不再重复查。
+每 5-10 分钟跑一次，分三步：
+  1. 拉源（机械，不判断）：Market Terminal /api/news（聚合 24 个源）、
+     富途 news_search（重点 ticker，中文）、Google News RSS（郭明錤 / 并购 / 做空）。
   2. 机械预筛：标题+摘要命中 watchlist 里的代码/公司名，或命中高信号
      关键词桶（并购、做空、联邦机构、郭明錤、芯片管制），且在 12 小时
      窗口内、且未见过，才进 inbox。
-  3. 写 inbox.json（供 Muse 的推送轮次读）与 seen.json（去重状态）。
+  3. Gemini 判断 + Telegram 推送（v3 新增，原先由 Muse 轮次做的判断
+     全部移到这里）：只对本轮新出现、且发布时间在 2 小时内的候选条目
+     调 Gemini，按内嵌提示词里的推送标准（市值、2 小时硬线、财报不推、
+     并购/做空/郭明錤/半导体/联邦机构等规则）逐条判断，符合的立即推
+     Telegram，不符合的记 judged.json 下轮不再重判。
 
-判断（市值、2 小时硬线、实质性、链接溯源）全部留给 Muse 的轮次，
-采集器只负责“别漏、别重、别把旧闻当新的”。
+inbox.json 仍照常写（审计与备用）；seen.json 去重；pushed.json 记已推
+事件（24 小时内同一事件不重复推）；judged.json 记已判条目。
+判断失败（Gemini 报错/超时）不记 judged，下轮重试；发送失败同样下轮重试。
 
 任何一个源挂了只记 errors，不让整轮失败；源全挂时 inbox 保留窗口内
-旧条目并标记 stale，Muse 轮次读到后回落到直接搜索。
+旧条目并标记 stale。
 只用 Python 标准库，不装依赖。
+
+环境变量（GitHub Secrets 里配，不要写进代码）：
+  GEMINI_API_KEY      Gemini API key（必填，否则跳过分析推送）
+  GEMINI_MODEL        模型名，默认 gemini-2.5-flash
+  TELEGRAM_BOT_TOKEN  推送 bot 的 token（必填，否则跳过推送）
+  TELEGRAM_CHAT_ID    推送目标 chat_id，默认 6288855088
 """
 
 import hashlib
@@ -92,10 +101,21 @@ EXCLUDE_TITLE_RE = re.compile(
 CASE_SENSITIVE_TICKERS = {"NOW", "ARM", "SHOP", "SNOW", "GAP", "BILL",
                           "COST", "NET", "DASH", "LITE"}
 
+# ---- v3：Gemini 分析 + Telegram 推送 ----
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL") or "gemini-2.5-flash"
+TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
+TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID") or "6288855088"
+PUSH_WINDOW_MINUTES = 120   # 2 小时硬线：发布时间距今超过 120 分钟一律不推
+MAX_GEMINI_CALLS = 6        # 每轮最多分析条数（控成本、控时长）
+PUSHED_KEEP_HOURS = 72      # pushed.json 保留时长（防同一事件后续跟进重复推）
+
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 INBOX_FILE = os.path.join(BASE_DIR, "inbox.json")
 SEEN_FILE = os.path.join(BASE_DIR, "seen.json")
 WATCHLIST_FILE = os.path.join(BASE_DIR, "watchlist.json")
+PUSHED_FILE = os.path.join(BASE_DIR, "pushed.json")
+JUDGED_FILE = os.path.join(BASE_DIR, "judged.json")
 
 
 # ---------------------------------------------------------------- 工具
@@ -136,6 +156,19 @@ def to_dt(v):
 
 def iso(dt):
     return dt.astimezone(timezone.utc).isoformat().replace("+00:00", "Z") if dt else None
+
+
+def et_str(utc_iso):
+    """UTC ISO -> 美东时间 MM-DD HH:MM；失败返回原值。"""
+    dt = to_dt(utc_iso)
+    if not dt:
+        return utc_iso or ""
+    try:
+        from zoneinfo import ZoneInfo
+        et = dt.astimezone(ZoneInfo("America/New_York"))
+    except Exception:
+        et = dt - timedelta(hours=5)
+    return et.strftime("%m-%d %H:%M")
 
 
 def clean(s):
@@ -319,7 +352,7 @@ def match_buckets(text):
     return cats
 
 
-# ---------------------------------------------------------------- 主流程
+# ---------------------------------------------------------------- 状态文件
 def load_seen():
     try:
         with open(SEEN_FILE, encoding="utf-8") as f:
@@ -333,6 +366,212 @@ def load_seen():
         return {}
 
 
+def load_state(path):
+    try:
+        with open(path, encoding="utf-8") as f:
+            data = json.load(f)
+        return data if isinstance(data, dict) else {}
+    except Exception:
+        return {}
+
+
+def save_state(path, data):
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+
+# ---------------------------------------------------------------- Gemini 判断
+# 原先由 Muse 轮次执行的全部推送标准都写在这里。模型只输出严格 JSON，
+# 推送正文由代码按固定格式拼（格式稳定，不依赖模型发挥）。
+JUDGE_PROMPT = """你是一名美股突发新闻判断员。判断下面这条新闻是否值得立即单独推送给一位美股交易者（Telegram 快讯）。
+
+新闻：
+- 标题：__TITLE__
+- 摘要：__SUMMARY__
+- 来源：__SOURCE__
+- 链接：__LINK__
+- 发布时间（UTC）：__PUBLISHED__；现在（UTC）：__NOW__；新闻年龄约 __AGE__ 分钟
+- 机械匹配到的代码：__TICKERS__；关键词桶：__CATS__
+- 过去 24 小时内已推送过的事件（同一事件不得重复推）：__RECENT__
+
+硬性门槛（任一不满足就 push=false）：
+1. 时效：发布时间距今超过 120 分钟，一律不推。时间以发布时间为准；如果标题/摘要暗示首发更早，按更早的时间算；拿不准时不推。
+2. 市值：涉及公司市值须明显约 20 亿美元以上。不知道、不确定或明显是小盘股的，不推。例外：政府/军方大额合同或融资（单个项目约 10 亿美元以上）可推小盘股。
+3. 财报：任何财报表现（超预期/爆雷/指引调整）一律不推，包括七大权重股。例外：与财报捆绑发布的全新实质事件（如并购、重大合同、高管剧变）可单独推，但只讲该事件、不讲财报数字。
+4. 评级：分析师评级/目标价调整一律不推。
+5. 实质性：必须是刚发生/刚确认的新事实，不是观点、回顾、盘点、综述。文章只是顺带提及某家公司（例如大盘综述里列出多家公司、或正文里提一次名字）不算——新闻必须以该公司/事件为主体。
+6. 链接：链接必须是事件的原始发布方。聚合页、盘点页、综述页不算原始出处，这种情况不推。
+
+值得推送的类型（满足其一即可）：
+- 并购：第一家权威媒体实质性爆料，明确点名收购方和目标、称谈判深入或接近达成；顶级媒体爆料知名大公司正与顾问研究收购中高市值目标（点名双方），即使早期评估阶段也可推，须在 event 里注明早期、可能不成。
+- 知名做空机构（Hindenburg、Hunterbrook、Muddy Waters、Citron、Kerrisdale 等）发布做空报告并披露自身持仓：须在 event/reason 里注明其自承持仓与指控限定，不得把指控写成已证实事实。
+- FDA 审批/拒绝、重大监管/政策行动、联邦机构重大提案或规则（须有可量化行业影响或已导致显著异动）、国会/SEC/DOJ 调查或点名。
+- 高管剧变、大额合同授予或取消、产品召回/安全事故。
+- 此前催化剂被权威信源公开反转或澄清。
+- 顶级媒体（Bloomberg、Reuters、WSJ、FT、Nikkei Asia、NYT）关于七大巨头（NVDA/AAPL/MSFT/TSLA/GOOGL/AMZN/META）的独家/首发实质消息。
+- 郭明錤产业调查：订单/出货/价格实质变化（砍单、加单、出货下修、转单），须注明据其调查、尚未官宣。
+- 半导体/AI 硬件供应链信号：署名记者渠道走访或独家爆料的价格/订单/供给实质变化（涨价、砍单、加单、缺货、配货收紧），能点名受影响的美股中高市值个股/板块，不等官宣，须注明未官宣。
+- 公司官方发布的硬数字产品销售纪录且显著超预期。
+
+方向：利好 / 利空 / 短线影响有限（有序交接、常规安排、市场反应平淡时用此项，不硬套利好或利空）。
+
+只输出严格 JSON，不要任何其他文字：
+{"push": true, "tickers": ["NVDA"], "direction": "利空", "event": "一句话中文事件", "reason": "一句话中文理由", "source_name": "原始发布方名字"}
+push=false 时 tickers 可为空，event/reason 写清不推的原因。"""
+
+
+def gemini_judge(item, recent_pushed, now):
+    """调 Gemini 判断一条新闻。返回 dict，失败/未配置时返回 None（调用方下轮重试）。"""
+    if not GEMINI_API_KEY:
+        return None
+    pub = to_dt(item.get("published_utc"))
+    age = int((now - pub).total_seconds() // 60) if pub else 9999
+    prompt = (JUDGE_PROMPT
+              .replace("__TITLE__", item.get("title", ""))
+              .replace("__SUMMARY__", item.get("summary", "") or "（无摘要）")
+              .replace("__SOURCE__", item.get("source", ""))
+              .replace("__LINK__", item.get("link", ""))
+              .replace("__PUBLISHED__", item.get("published_utc", ""))
+              .replace("__NOW__", iso(now))
+              .replace("__AGE__", str(age))
+              .replace("__TICKERS__", ", ".join(item.get("tickers") or []) or "（无）")
+              .replace("__CATS__", ", ".join(item.get("cats") or []) or "（无）")
+              .replace("__RECENT__", recent_pushed or "（无）"))
+    body = json.dumps({
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {"temperature": 0.2, "maxOutputTokens": 800,
+                             "responseMimeType": "application/json"},
+    }).encode("utf-8")
+    url = ("https://generativelanguage.googleapis.com/v1beta/models/"
+           f"{urllib.parse.quote(GEMINI_MODEL, safe='')}:generateContent")
+    req = urllib.request.Request(
+        url, data=body,
+        headers={"Content-Type": "application/json", "x-goog-api-key": GEMINI_API_KEY},
+        method="POST")
+    try:
+        with urllib.request.urlopen(req, timeout=60) as resp:
+            data = json.loads(resp.read().decode("utf-8", errors="replace"))
+        parts = (data.get("candidates") or [{}])[0].get("content", {}).get("parts") or []
+        text = "".join(p.get("text", "") for p in parts).strip()
+        text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text).strip()
+        dec = json.loads(text)
+        if not isinstance(dec, dict) or "push" not in dec:
+            print(f"[Gemini] 返回格式异常 {item.get('id')}: {text[:120]}")
+            return None
+        return dec
+    except Exception as e:  # noqa: BLE001
+        print(f"[Gemini] 判断失败 {item.get('id')}: {e}")
+        return None
+
+
+def resolve_url(url, timeout=10):
+    """跟随跳转取最终地址（Google News 的 rss 链接是跳转链接）。失败返回原链接。"""
+    if not url:
+        return url
+    for method in ("HEAD", "GET"):
+        try:
+            req = urllib.request.Request(url, headers=UA, method=method)
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
+                return resp.geturl()
+        except Exception:
+            continue
+    return url
+
+
+def send_telegram(text):
+    """发一条 Telegram 消息。返回 (ok, 详情)。"""
+    if not TELEGRAM_BOT_TOKEN:
+        return False, "未配置 TELEGRAM_BOT_TOKEN"
+    payload = json.dumps({
+        "chat_id": TELEGRAM_CHAT_ID,
+        "text": text,
+        "parse_mode": "HTML",
+        "disable_web_page_preview": True,
+    }).encode("utf-8")
+    req = urllib.request.Request(
+        f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage",
+        data=payload, headers={"Content-Type": "application/json"}, method="POST")
+    try:
+        with urllib.request.urlopen(req, timeout=20) as resp:
+            data = json.loads(resp.read().decode("utf-8", errors="replace"))
+        if data.get("ok"):
+            return True, str(data.get("result", {}).get("message_id", ""))
+        return False, str(data.get("description", "telegram error"))
+    except Exception as e:  # noqa: BLE001
+        return False, f"{type(e).__name__}: {e}"
+
+
+def format_push(decision, item):
+    """按既有快讯格式拼 Telegram 正文（HTML）：事件 + $代码和方向 + 来源 + 美东时间。"""
+    tickers = decision.get("tickers") or item.get("tickers") or []
+    tickers = [str(t).upper() for t in tickers]
+    tick_line = " ".join(f"${t}" for t in tickers)
+    event = html_mod.escape(str(decision.get("event") or item.get("title") or ""))
+    reason = html_mod.escape(str(decision.get("reason") or ""))
+    source = html_mod.escape(str(decision.get("source_name") or item.get("source") or ""))
+    link = html_mod.escape((item.get("link") or "").strip(), quote=True)
+    direction = str(decision.get("direction") or "")
+    lines = [f"🚨{event}"]
+    if tick_line:
+        lines.append(f"{tick_line} {direction}".strip())
+    if reason:
+        lines.append(reason)
+    lines.append(f"来源：<a href=\"{link}\">{source}</a>｜美东 {et_str(item.get('published_utc'))}")
+    return "\n".join(lines)
+
+
+def analyze_and_push(candidates, now):
+    """对候选条目逐条调 Gemini 判断，符合的推送 Telegram。
+    返回 (judged 数, pushed 数)。判断失败或发送失败的不记 judged，下轮重试。"""
+    pushed = load_state(PUSHED_FILE).get("pushed", {})
+    judged = load_state(JUDGED_FILE).get("judged", {})
+    keep_pushed = now - timedelta(hours=PUSHED_KEEP_HOURS)
+    keep_judged = now - timedelta(hours=WINDOW_HOURS)
+    pushed = {k: v for k, v in pushed.items()
+              if to_dt(v.get("utc")) and to_dt(v.get("utc")) >= keep_pushed}
+    judged = {k: v for k, v in judged.items()
+              if to_dt(v.get("utc")) and to_dt(v.get("utc")) >= keep_judged}
+    recent = "\n".join(
+        f"- {v.get('utc', '')} {'/'.join(v.get('tickers') or [])} {v.get('event', '')}"
+        for v in sorted(pushed.values(), key=lambda x: x.get("utc", ""), reverse=True)[:10])
+    n_judged = n_pushed = 0
+    calls = 0
+    for it in candidates:
+        iid = it["id"]
+        if iid in pushed or iid in judged:
+            continue
+        if calls >= MAX_GEMINI_CALLS:
+            print(f"[判断] 达到每轮上限 {MAX_GEMINI_CALLS} 条，剩余候选下轮再判")
+            break
+        calls += 1
+        dec = gemini_judge(it, recent, now)
+        if dec is None:
+            continue
+        n_judged += 1
+        judged[iid] = {"utc": iso(now), "push": bool(dec.get("push")),
+                       "reason": str(dec.get("reason") or "")[:200]}
+        if not dec.get("push"):
+            print(f"[判断] 不推 {iid}：{str(dec.get('reason', ''))[:80]}")
+            continue
+        if it.get("link_is_redirect"):
+            it["link"] = resolve_url(it.get("link") or "")
+        text = format_push(dec, it)
+        ok, info = send_telegram(text)
+        if ok:
+            n_pushed += 1
+            pushed[iid] = {"utc": iso(now),
+                           "tickers": [str(t).upper() for t in (dec.get("tickers") or [])],
+                           "event": str(dec.get("event") or "")[:200]}
+            print(f"[推送] {iid} -> Telegram msg {info}")
+        else:
+            print(f"[推送] {iid} 发送失败：{info}（不记 judged，下轮重试）")
+            judged.pop(iid, None)  # 发送失败不记 judged，下轮重判重推
+    save_state(PUSHED_FILE, {"pushed": pushed})
+    save_state(JUDGED_FILE, {"judged": judged})
+    return n_judged, n_pushed
+
+
+# ---------------------------------------------------------------- 主流程
 def main():
     t0 = time.time()
     watchlist = load_watchlist()
@@ -406,7 +645,7 @@ def main():
     except Exception:  # noqa: BLE001
         pass
     merged = {it["id"]: it for it in old_items if to_dt(it.get("published_utc")) and
-              to_dt(it["published_utc"]) >= cutoff}
+              to_dt(it.get("published_utc")) >= cutoff}
     for it in new_items:
         merged[it["id"]] = it  # 新抓到的覆盖旧的（内容相同，fetched_utc 更新）
     items = sorted(merged.values(),
@@ -422,8 +661,31 @@ def main():
         seen_titles.add(tkey)
         deduped_items.append(it)
     items = deduped_items[:INBOX_MAX]
+    new_ids = {it["id"] for it in items if it.get("new")}
     for it in items:
         it.pop("new", None)
+
+    # ---- v3：Gemini 分析 + Telegram 推送 ----
+    # 只分析本轮新出现、发布时间在 2 小时硬线内的候选；旧条目不重判。
+    now = now_utc()
+    candidates = []
+    for it in items:
+        if it["id"] not in new_ids:
+            continue
+        pub = to_dt(it.get("published_utc"))
+        if not pub:
+            continue
+        age_min = (now - pub).total_seconds() / 60
+        if age_min < -5 or age_min > PUSH_WINDOW_MINUTES:
+            continue
+        candidates.append(it)
+    candidates.sort(key=lambda x: x.get("published_utc") or "", reverse=True)
+    n_judged = n_pushed = 0
+    if candidates and GEMINI_API_KEY and TELEGRAM_BOT_TOKEN:
+        n_judged, n_pushed = analyze_and_push(candidates, now)
+        print(f"[推送] 本轮判断 {n_judged} 条，推送 {n_pushed} 条")
+    elif candidates:
+        print("[推送] 未配置 GEMINI_API_KEY 或 TELEGRAM_BOT_TOKEN，跳过分析推送")
 
     # seen 剪枝
     keep_since = now_utc() - timedelta(days=SEEN_KEEP_DAYS)
@@ -437,7 +699,7 @@ def main():
         "errors": errors,
         "stale": len(sources_ok) == 0,
         "counts": {"fetched": len(raw), "inbox": len(items),
-                   "new": new_count},
+                   "new": new_count, "judged": n_judged, "pushed": n_pushed},
         "items": items,
     }
     with open(INBOX_FILE, "w", encoding="utf-8") as f:
@@ -445,8 +707,8 @@ def main():
     with open(SEEN_FILE, "w", encoding="utf-8") as f:
         json.dump({"seen": seen}, f, ensure_ascii=False, indent=2)
     print(f"[完成] 拉取 {len(raw)} 条，inbox {len(items)} 条"
-          f"（新 {inbox['counts']['new']} 条），seen {len(seen)} 条，"
-          f"用时 {time.time() - t0:.1f} 秒")
+          f"（新 {inbox['counts']['new']} 条，判断 {n_judged} 条，推送 {n_pushed} 条），"
+          f"seen {len(seen)} 条，用时 {time.time() - t0:.1f} 秒")
     if errors:
         print(f"[注意] 出错的源: {errors}")
     return 0
