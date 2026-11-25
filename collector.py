@@ -24,7 +24,7 @@ inbox.json 仍照常写（审计与备用）；seen.json 去重；pushed.json �
 
 环境变量（GitHub Secrets 里配，不要写进代码）：
   GEMINI_API_KEY      Gemini API key（必填，否则跳过分析推送）
-  GEMINI_MODEL        模型名，默认 gemini-2.5-flash
+  GEMINI_MODEL        模型名，可不配；不配时先列可用模型再按偏好自动选（同 CMS 监控做法）
   TELEGRAM_BOT_TOKEN  推送 bot 的 token（必填，否则跳过推送）
   TELEGRAM_CHAT_ID    推送目标 chat_id，默认 6288855088
 """
@@ -36,6 +36,7 @@ import os
 import re
 import time
 import urllib.parse
+import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
@@ -420,6 +421,102 @@ JUDGE_PROMPT = """你是一名美股突发新闻判断员。判断下面这条�
 push=false 时 tickers 可为空，event/reason 写清不推的原因。"""
 
 
+MODEL_PREFERENCE = [
+    "gemini-3.8-flash",
+    "gemini-3.7-flash",
+    "gemini-3.6-flash",
+    "gemini-3.5-flash",
+    "gemini-3-flash-preview",
+    "gemini-2.5-flash",
+    "gemini-2.5-flash-lite",
+    "gemini-2.0-flash",
+    "gemini-2.0-flash-lite",
+    "gemini-1.5-flash",
+    "gemini-1.5-flash-8b",
+    "gemini-1.5-pro",
+    "gemini-2.5-pro",
+]
+
+_MODEL_CANDIDATES = None  # 本轮进程内缓存一次
+
+
+def _clean_model(name):
+    return (name or "").strip().removeprefix("models/").strip()
+
+
+def list_gemini_models(api_key):
+    """列出支持 generateContent 的模型短名；失败返回 []。"""
+    try:
+        url = ("https://generativelanguage.googleapis.com/v1beta/models"
+               f"?key={urllib.parse.quote(api_key, safe='')}&pageSize=100")
+        data = fetch_json(url, timeout=20)
+        out = []
+        for m in data.get("models", []):
+            if "generateContent" in m.get("supportedGenerationMethods", []):
+                short = m.get("name", "").replace("models/", "")
+                if short:
+                    out.append(short)
+        return out
+    except Exception as e:  # noqa: BLE001
+        print(f"[Gemini] 列模型失败: {e}")
+        return []
+
+
+def _gemini_candidates():
+    """候选模型顺序：环境变量指定的先试，再按偏好从可用模型里选。"""
+    global _MODEL_CANDIDATES
+    if _MODEL_CANDIDATES is not None:
+        return _MODEL_CANDIDATES
+    cands = []
+    env_model = _clean_model(GEMINI_MODEL)
+    if env_model:
+        cands.append(env_model)
+    available = list_gemini_models(GEMINI_API_KEY)
+    for pref in MODEL_PREFERENCE:
+        for name in available:
+            if name not in cands and (name == pref or name.startswith(pref + "-")):
+                cands.append(name)
+    for name in available:
+        if name not in cands:
+            cands.append(name)
+    if not cands:
+        cands = [env_model or "gemini-2.5-flash"]
+    _MODEL_CANDIDATES = cands
+    return cands
+
+
+def _gemini_generate_once(model, prompt):
+    """调一次 generateContent，返回解析后的 JSON dict；失败抛错（带状态码和正文）。"""
+    body = json.dumps({
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {"temperature": 0.2, "maxOutputTokens": 800,
+                             "responseMimeType": "application/json"},
+    }).encode("utf-8")
+    url = ("https://generativelanguage.googleapis.com/v1beta/models/"
+           f"{urllib.parse.quote(model, safe='')}:generateContent")
+    req = urllib.request.Request(
+        url, data=body,
+        headers={"Content-Type": "application/json", "x-goog-api-key": GEMINI_API_KEY},
+        method="POST")
+    try:
+        with urllib.request.urlopen(req, timeout=60) as resp:
+            data = json.loads(resp.read().decode("utf-8", errors="replace"))
+    except urllib.error.HTTPError as e:
+        detail = ""
+        try:
+            detail = e.read().decode("utf-8", errors="replace")[:300]
+        except Exception:
+            pass
+        raise RuntimeError(f"Gemini API {e.code}: {detail}")
+    parts = (data.get("candidates") or [{}])[0].get("content", {}).get("parts") or []
+    text = "".join(p.get("text", "") for p in parts).strip()
+    text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text).strip()
+    dec = json.loads(text)
+    if not isinstance(dec, dict) or "push" not in dec:
+        raise RuntimeError(f"返回格式异常: {text[:120]}")
+    return dec
+
+
 def gemini_judge(item, recent_pushed, now):
     """调 Gemini 判断一条新闻。返回 dict，失败/未配置时返回 None（调用方下轮重试）。"""
     if not GEMINI_API_KEY:
@@ -437,31 +534,25 @@ def gemini_judge(item, recent_pushed, now):
               .replace("__TICKERS__", ", ".join(item.get("tickers") or []) or "（无）")
               .replace("__CATS__", ", ".join(item.get("cats") or []) or "（无）")
               .replace("__RECENT__", recent_pushed or "（无）"))
-    body = json.dumps({
-        "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {"temperature": 0.2, "maxOutputTokens": 800,
-                             "responseMimeType": "application/json"},
-    }).encode("utf-8")
-    url = ("https://generativelanguage.googleapis.com/v1beta/models/"
-           f"{urllib.parse.quote(GEMINI_MODEL, safe='')}:generateContent")
-    req = urllib.request.Request(
-        url, data=body,
-        headers={"Content-Type": "application/json", "x-goog-api-key": GEMINI_API_KEY},
-        method="POST")
-    try:
-        with urllib.request.urlopen(req, timeout=60) as resp:
-            data = json.loads(resp.read().decode("utf-8", errors="replace"))
-        parts = (data.get("candidates") or [{}])[0].get("content", {}).get("parts") or []
-        text = "".join(p.get("text", "") for p in parts).strip()
-        text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text).strip()
-        dec = json.loads(text)
-        if not isinstance(dec, dict) or "push" not in dec:
-            print(f"[Gemini] 返回格式异常 {item.get('id')}: {text[:120]}")
+    last_err = None
+    for model in _gemini_candidates():
+        try:
+            return _gemini_generate_once(model, prompt)
+        except RuntimeError as e:
+            msg = str(e)
+            last_err = e
+            # 模型下线（404）、超载（503）、限流（429）就换下一个；鉴权失败（400/401/403）直接停
+            if any(code in msg for code in (" 404", " 429", " 503",
+                                            "NOT_FOUND", "RESOURCE_EXHAUSTED", "UNAVAILABLE")):
+                print(f"[Gemini] 模型 {model} 不可用，换下一个 ...")
+                continue
+            print(f"[Gemini] 判断失败 {item.get('id')}: {msg[:200]}")
             return None
-        return dec
-    except Exception as e:  # noqa: BLE001
-        print(f"[Gemini] 判断失败 {item.get('id')}: {e}")
-        return None
+        except Exception as e:  # noqa: BLE001
+            print(f"[Gemini] 判断失败 {item.get('id')}: {e}")
+            return None
+    print(f"[Gemini] 判断失败 {item.get('id')}：全部候选模型都不可用：{last_err}")
+    return None
 
 
 def resolve_url(url, timeout=10):
