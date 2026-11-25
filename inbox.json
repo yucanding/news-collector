@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-25T07:01:26.060303Z",
+  "updated_utc": "2026-11-25T07:11:19.341024Z",
   "window_hours": 12,
   "sources_ok": [
     "terminal",
@@ -9,13 +9,39 @@
   "errors": [],
   "stale": false,
   "counts": {
-    "fetched": 963,
+    "fetched": 653,
     "inbox": 60,
-    "new": 3,
-    "judged": 2,
+    "new": 2,
+    "judged": 6,
     "pushed": 0
   },
   "items": [
+    {
+      "id": "u:200b24a970c8421a",
+      "title": "AI债务忧虑升温 英伟达(NVDA.US)反弹掩盖大型科技企业支出压力",
+      "summary": "",
+      "link": "https://news.futunn.com/post/1005575207?futusource=news_search_searchnews&src=39",
+      "source": "futu",
+      "published_utc": "2026-11-25T07:04:16Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
+      "id": "u:b046db6fba8c2175",
+      "title": "彭博社：黄仁勋重任英伟达 CEO 后向员工道歉",
+      "summary": "深潮 TechFlow 消息，11 月 25 日，据彭博社报道，黄仁勋重新担任英伟达 CEO 后，向公司员工道歉。该报道以视频形式发布。",
+      "link": "https://www.techflowpost.com/newsletter/146702",
+      "source": "TechFlow",
+      "published_utc": "2026-11-25T07:03:53Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
     {
       "id": "u:0065d83f7632e1ad",
       "title": "戴尔首席运营官称人工智能需求“没有放缓”，预计随着英伟达Vera Rubin推动大部分新订单，供应缺口将在2027年进一步扩大",
@@ -23,7 +49,7 @@
       "link": "https://news.futunn.com/post/1005574539?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-25T06:59:01Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "DELL",
         "NVDA"
@@ -37,7 +63,7 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-25/gpif-agenda-may-signal-portfolio-review-progress-jpmorgan-says-mwvrj40v",
       "source": "BBG",
       "published_utc": "2026-11-25T06:48:56Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "JPM"
       ],
@@ -50,7 +76,7 @@
       "link": "https://news.futunn.com/post/1005573432?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-25T06:46:30Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "NVDA"
       ],
@@ -63,7 +89,7 @@
       "link": "https://www.techflowpost.com/newsletter/146698",
       "source": "TechFlow",
       "published_utc": "2026-11-25T06:43:49Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "GOOGL"
       ],
@@ -76,7 +102,7 @@
       "link": "https://news.futunn.com/post/1005565724?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-25T06:39:37Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "TSLA"
       ],
@@ -89,7 +115,7 @@
       "link": "https://news.futunn.com/post/1005565671?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-25T06:39:28Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "TSM"
       ],
@@ -102,7 +128,7 @@
       "link": "https://news.futunn.com/post/1005565660?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-25T06:39:27Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "MU"
       ],
@@ -115,7 +141,7 @@
       "link": "https://news.futunn.com/post/1005565625?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-25T06:39:23Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "AMD",
         "SMCI"
@@ -129,7 +155,7 @@
       "link": "https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html",
       "source": "CNBC",
       "published_utc": "2026-11-25T06:29:46Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "NVDA"
       ],
@@ -142,7 +168,7 @@
       "link": "https://www.techflowpost.com/newsletter/146696",
       "source": "TechFlow",
       "published_utc": "2026-11-25T06:28:03Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "NVDA"
       ],
@@ -169,7 +195,7 @@
       "link": "https://news.futunn.com/post/1005569499?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-25T06:13:00Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "NVDA"
       ],
@@ -182,7 +208,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2125472616479674706#m",
       "source": "X",
       "published_utc": "2026-11-25T06:12:15Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "AMZN"
       ],
@@ -195,7 +221,7 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-25/asia-data-centers-sound-out-us-clients-to-replace-china-demand",
       "source": "BBG",
       "published_utc": "2026-11-25T06:07:23Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "NVDA"
       ],
@@ -208,7 +234,7 @@
       "link": "http://nitter.mizuki.st/movesurge/status/2125470461563953550#m",
       "source": "X",
       "published_utc": "2026-11-25T06:03:42Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "NVDA"
       ],
@@ -221,7 +247,7 @@
       "link": "https://www.financialjuice.com/News/9867244/Amazon-amazon-autos-to-debut-in-UK-in-early-2027-marking-first-launch-outside-US.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-25T06:00:03Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "AMZN"
       ],
@@ -234,7 +260,7 @@
       "link": "https://www.financialjuice.com/News/9867243/Amazon-Hyundai-is-first-confirmed-launch-partner-for-Amazon-Autos-in-UK.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-25T06:00:03Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "AMZN"
       ],
@@ -247,7 +273,7 @@
       "link": "https://www.financialjuice.com/News/9867242/Amazon-used-cars-from-dealers-including-Vertu-to-be-offered-at-launch-of-Amazon-Autos-in-UK.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-25T06:00:03Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "AMZN"
       ],
@@ -260,7 +286,7 @@
       "link": "https://news.futunn.com/post/1005567493?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-25T06:00:00Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "NVDA"
       ],
@@ -286,7 +312,7 @@
       "link": "https://www.wsj.com/finance/stocks/asian-stocks-mostly-lower-on-ai-doubts-tariff-jitters-a0da3389?mod=rss_markets_main",
       "source": "WSJ",
       "published_utc": "2026-11-25T05:52:00Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "NVDA"
       ],
@@ -299,7 +325,7 @@
       "link": "https://www.techflowpost.com/newsletter/146690",
       "source": "TechFlow",
       "published_utc": "2026-11-25T05:48:37Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "JPM",
         "NVDA"
@@ -313,7 +339,7 @@
       "link": "https://www.financialjuice.com/News/9867213/Malaysia-communications-regulator-files-2-lawsuits-against-Google.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-25T05:26:48Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "GOOGL"
       ],
@@ -326,7 +352,7 @@
       "link": "https://news.futunn.com/post/1005563013?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-25T05:07:11Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "NVDA"
       ],
@@ -339,7 +365,7 @@
       "link": "https://www.ft.com/content/a1374617-d3a2-415a-8490-72b164eefc0e?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss",
       "source": "FT",
       "published_utc": "2026-11-25T05:00:32Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "NVDA"
       ],
@@ -352,7 +378,7 @@
       "link": "https://www.ft.com/content/07a9463d-dcde-4ca2-a984-f197cc5d4d6b?syn-25a6b1a6=1",
       "source": "FT",
       "published_utc": "2026-11-25T05:00:32Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -365,7 +391,7 @@
       "link": "https://www.ft.com/content/bb527e98-eb07-4bb1-93e7-39cdbf5a59ff?syn-25a6b1a6=1",
       "source": "FT",
       "published_utc": "2026-11-25T05:00:32Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "TSLA"
       ],
@@ -380,7 +406,7 @@
       "link": "https://www.ft.com/content/a9f39daf-718d-46b5-a8b9-41980b8c67c0?syn-25a6b1a6=1",
       "source": "FT",
       "published_utc": "2026-11-25T05:00:00Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "NVDA"
       ],
@@ -393,7 +419,7 @@
       "link": "https://www.scmp.com/tech/article/3375701/shein-pay-us100-million-settle-us-shipping-customer-service-claims",
       "source": "SCMP",
       "published_utc": "2026-11-25T04:54:23Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [],
       "cats": [
         "fed"
@@ -406,7 +432,7 @@
       "link": "https://news.futunn.com/post/1005560773?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-25T04:38:05Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "GM",
         "TSLA"
@@ -420,7 +446,7 @@
       "link": "https://www.techflowpost.com/newsletter/146684",
       "source": "TechFlow",
       "published_utc": "2026-11-25T04:17:16Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "MS"
       ],
@@ -433,7 +459,7 @@
       "link": "https://www.techflowpost.com/newsletter/146683",
       "source": "TechFlow",
       "published_utc": "2026-11-25T04:11:15Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "NVDA"
       ],
@@ -462,7 +488,7 @@
       "link": "https://www.techflowpost.com/newsletter/146682",
       "source": "TechFlow",
       "published_utc": "2026-11-25T04:09:29Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -475,7 +501,7 @@
       "link": "https://www.cnbc.com/2026/11/25/china-xiamen-boeing-deal.html",
       "source": "CNBC",
       "published_utc": "2026-11-25T03:58:32Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "BA"
       ],
@@ -501,7 +527,7 @@
       "link": "https://www.nytimes.com/2026/11/24/business/martha-firestone-ford-dead.html",
       "source": "NYT",
       "published_utc": "2026-11-25T03:52:08Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "F"
       ],
@@ -528,7 +554,7 @@
       "link": "https://news.futunn.com/post/1005556760?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-25T03:45:50Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "NVDA"
       ],
@@ -541,7 +567,7 @@
       "link": "https://www.techflowpost.com/newsletter/146675",
       "source": "TechFlow",
       "published_utc": "2026-11-25T03:21:13Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "SBUX"
       ],
@@ -554,7 +580,7 @@
       "link": "https://news.futunn.com/post/1005553536?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-25T03:18:41Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "NVDA"
       ],
@@ -567,7 +593,7 @@
       "link": "https://news.futunn.com/post/1005549314?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-25T03:14:02Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "TSLA"
       ],
@@ -607,7 +633,7 @@
       "link": "https://www.techflowpost.com/newsletter/146672",
       "source": "TechFlow",
       "published_utc": "2026-11-25T03:08:50Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "BILI"
       ],
@@ -633,7 +659,7 @@
       "link": "https://www.scmp.com/tech/big-tech/article/3375632/jensen-huangs-return-steadies-nvidia-china-curbs-us-scrutiny-show-no-sign-easing",
       "source": "SCMP",
       "published_utc": "2026-11-25T03:00:17Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "NVDA"
       ],
@@ -672,7 +698,7 @@
       "link": "https://news.futunn.com/post/1005544652?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-25T02:14:54Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "AAPL"
       ],
@@ -685,7 +711,7 @@
       "link": "https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html",
       "source": "CNBC",
       "published_utc": "2026-11-25T02:09:45Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "NVDA"
       ],
@@ -698,7 +724,7 @@
       "link": "https://www.wsj.com/tech/ai/jensen-huangs-vision-for-the-new-nvidia-is-a-lot-like-the-old-one-d0d4abc3?mod=pls_whats_news_us_business_f",
       "source": "WSJ",
       "published_utc": "2026-11-25T02:00:00Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "NVDA"
       ],
@@ -711,7 +737,7 @@
       "link": "https://www.techflowpost.com/newsletter/146660",
       "source": "TechFlow",
       "published_utc": "2026-11-25T01:57:27Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "MOH"
       ],
@@ -726,7 +752,7 @@
       "link": "https://www.techflowpost.com/newsletter/146657",
       "source": "TechFlow",
       "published_utc": "2026-11-25T01:50:15Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "BILI",
         "JD"
@@ -753,7 +779,7 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-25/alibaba-in-talks-for-potential-yuan-dollar-bond-sale-next-year",
       "source": "BBG",
       "published_utc": "2026-11-25T01:38:30Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "BABA"
       ],
@@ -779,39 +805,13 @@
       "link": "https://news.futunn.com/post/1005538304?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-25T01:31:35Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
+      "fetched_utc": "2026-11-25T07:11:19.341024Z",
       "tickers": [
         "TSLA"
       ],
       "cats": [
         "mna"
       ]
-    },
-    {
-      "id": "u:5754fab0f8e15977",
-      "title": "亚马逊加快部署低轨卫星网络，成功将36枚卫星送入太空",
-      "summary": "",
-      "link": "https://news.futunn.com/post/1005536850?futusource=news_search_searchnews&src=39",
-      "source": "futu",
-      "published_utc": "2026-11-25T01:18:50Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
-      "tickers": [
-        "AMZN"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:ee2da3c0ec3c03db",
-      "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
-      "summary": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
-      "link": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
-      "source": "CNBC",
-      "published_utc": "2026-11-25T01:13:56Z",
-      "fetched_utc": "2026-11-25T07:01:26.060303Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
     }
   ]
 }
