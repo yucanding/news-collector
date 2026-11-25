@@ -59,7 +59,7 @@ UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.3
 # 富途只查 15 只重点代码（中文新闻为主）；常规评级/期权流/高管买卖
 # 是噪音，不进 inbox（评级类仍由简报/汇总的直接搜索覆盖）
 FUTU_TICKERS = ["NVDA", "AAPL", "MSFT", "AMZN", "GOOGL", "META", "TSLA",
-                "AMD", "AVGO", "TSM", "INTC", "MU", "SMCI", "UNH", "CRWD"]
+                "AMD", "AVGO", "TSM", "INTC", "MU", "SPCX", "SNDK", "ANT"]
 FUTU_SIZE = 10
 FUTU_EXCLUDE_RE = re.compile(
     r"目标价|price target|期权大单|options flow|unusual options|"
