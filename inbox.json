@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-26T21:31:14.000805Z",
+  "updated_utc": "2026-11-26T21:40:54.890388Z",
   "window_hours": 12,
   "sources_ok": [
     "terminal",
@@ -9,13 +9,26 @@
   "errors": [],
   "stale": false,
   "counts": {
-    "fetched": 1035,
-    "inbox": 48,
-    "new": 0,
+    "fetched": 983,
+    "inbox": 49,
+    "new": 1,
     "judged": 0,
     "pushed": 0
   },
   "items": [
+    {
+      "id": "u:abf1b368ed95c399",
+      "title": "Japan Tobacco, Altria Explore Imperial Brands Takeover",
+      "summary": "Get caught up.",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-11-26/japan-tobacco-altria-explore-imperial-brands-takeover",
+      "source": "BBG",
+      "published_utc": "2026-11-26T21:33:59Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
+      "tickers": [],
+      "cats": [
+        "mna"
+      ]
+    },
     {
       "id": "u:dab4faa57d68f50b",
       "title": "Jensen Huang Is Back, and So Is His Plaque at Denny’s",
@@ -23,7 +36,7 @@
       "link": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html",
       "source": "NYT",
       "published_utc": "2026-11-26T21:25:16Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [
         "NVDA"
       ],
@@ -36,7 +49,7 @@
       "link": "https://news.futunn.com/post/1005776936?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-26T20:20:06Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [
         "AMZN",
         "WMT"
@@ -50,7 +63,7 @@
       "link": "https://news.futunn.com/post/1005775850?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-26T19:45:05Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [
         "AAPL",
         "AMZN"
@@ -64,7 +77,7 @@
       "link": "https://news.futunn.com/post/1005775446?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-26T19:30:08Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [
         "TSLA"
       ],
@@ -77,7 +90,7 @@
       "link": "https://news.futunn.com/post/1005775097?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-26T19:20:07Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [
         "AMZN",
         "GOOGL"
@@ -104,7 +117,7 @@
       "link": "https://news.futunn.com/post/1005773144?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-26T18:09:08Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [
         "NVDA"
       ],
@@ -117,7 +130,7 @@
       "link": "https://news.futunn.com/post/1005772844?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-26T18:00:00Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [
         "NVDA"
       ],
@@ -130,7 +143,7 @@
       "link": "https://www.wsj.com/business/deals/altria-considering-possible-offer-for-imperial-brands-7cef494b?mod=pls_whats_news_us_business_f",
       "source": "WSJ",
       "published_utc": "2026-11-26T17:58:00Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -143,7 +156,7 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-26/kkr-banks-line-up-550-million-of-debt-to-back-logoplaste-buyout",
       "source": "BBG",
       "published_utc": "2026-11-26T17:47:30Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -156,7 +169,7 @@
       "link": "https://www.ft.com/content/696e99b0-f6d1-4a1a-95b0-f68de88520d9?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss",
       "source": "FT",
       "published_utc": "2026-11-26T17:46:48Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -169,7 +182,7 @@
       "link": "https://www.wsj.com/tech/nvidia-tells-partners-to-pause-shipments-to-southeast-asia-5b791cb0?mod=rss_Technology",
       "source": "WSJ",
       "published_utc": "2026-11-26T17:06:00Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [
         "NVDA"
       ],
@@ -182,7 +195,7 @@
       "link": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html",
       "source": "CNBC",
       "published_utc": "2026-11-26T17:04:54Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [
         "NVDA"
       ],
@@ -197,7 +210,7 @@
       "link": "https://news.futunn.com/post/1005769732?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-26T16:45:24Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [
         "MSFT"
       ],
@@ -210,7 +223,7 @@
       "link": "https://news.futunn.com/post/1005769371?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-26T16:30:29Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [
         "GM",
         "TSLA"
@@ -224,7 +237,7 @@
       "link": "https://www.techflowpost.com/newsletter/147129/sap-considers-10000-layoffs-in-restructuring",
       "source": "TechFlow",
       "published_utc": "2026-11-26T16:27:16Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [
         "INTC"
       ],
@@ -237,7 +250,7 @@
       "link": "https://www.techflowpost.com/newsletter/147127/nvidia-asks-partners-to-pause-shipments-to-southeast-asia",
       "source": "TechFlow",
       "published_utc": "2026-11-26T16:07:19Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [
         "NVDA"
       ],
@@ -250,7 +263,7 @@
       "link": "https://www.financialjuice.com/News/9869618/Chip-sellers-have-told-neoclouds-they-wont-supply-Nvidia-chips-if-any-of-the-computing-capacity-will-be-rented-to-Chinese-companies---CNBC-NVDA.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-26T16:05:39Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [
         "NVDA"
       ],
@@ -263,7 +276,7 @@
       "link": "https://www.axios.com/2026/11/26/musk-spacex-shares-trump-accounts",
       "source": "Axios",
       "published_utc": "2026-11-26T15:54:15Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [
         "DELL"
       ],
@@ -276,7 +289,7 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-26/irish-high-court-refuses-to-approve-bawag-s-ptsb-deal",
       "source": "BBG",
       "published_utc": "2026-11-26T15:09:23Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -289,7 +302,7 @@
       "link": "https://news.futunn.com/post/1005763162?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-26T14:30:41Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [
         "AVGO",
         "MU",
@@ -306,7 +319,7 @@
       "link": "https://news.futunn.com/post/1005763163?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-26T14:30:07Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [
         "INTC"
       ],
@@ -319,7 +332,7 @@
       "link": "https://news.futunn.com/post/1005750276?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-26T14:01:48Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [
         "AAPL"
       ],
@@ -332,7 +345,7 @@
       "link": "https://www.techflowpost.com/newsletter/147107/fox-business-us-treasury-nvidia-stake-rumor",
       "source": "TechFlow",
       "published_utc": "2026-11-26T13:47:43Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [
         "NVDA"
       ],
@@ -345,7 +358,7 @@
       "link": "https://news.futunn.com/post/1005758466?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-26T13:37:01Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [
         "MSFT",
         "NVDA",
@@ -360,7 +373,7 @@
       "link": "https://www.techflowpost.com/newsletter/147103/altria-considering-cash-acquisition-of-imperial-brands",
       "source": "TechFlow",
       "published_utc": "2026-11-26T13:30:36Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -373,7 +386,7 @@
       "link": "https://www.bloomberg.com/news/newsletters/2026-11-26/japan-tobacco-weighs-deal-for-imperial-brands-as-ftse-100-takeovers-mount",
       "source": "BBG",
       "published_utc": "2026-11-26T13:09:33Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -386,7 +399,7 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-26/altria-studies-deal-for-cigarette-maker-imperial-brands",
       "source": "BBG",
       "published_utc": "2026-11-26T13:08:53Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -399,7 +412,7 @@
       "link": "https://www.ft.com/content/6a01bdc9-f242-4272-b5e3-a147af5b125c?syn-25a6b1a6=1",
       "source": "FT",
       "published_utc": "2026-11-26T12:56:10Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [
         "NVDA"
       ],
@@ -412,7 +425,7 @@
       "link": "https://www.wsj.com/tech/a-game-changing-move-just-gave-america-the-edge-over-china-in-ai-53492e2c?mod=rss_Technology",
       "source": "WSJ",
       "published_utc": "2026-11-26T12:42:00Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [
         "NVDA"
       ],
@@ -425,7 +438,7 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-26/netherlands-plans-to-fight-rollout-of-proposed-us-curbs-on-asml",
       "source": "BBG",
       "published_utc": "2026-11-26T12:23:12Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [
         "ASML"
       ],
@@ -440,7 +453,7 @@
       "link": "https://www.techflowpost.com/newsletter/147096/bernstein-dell-q3-fy27-tp-650",
       "source": "TechFlow",
       "published_utc": "2026-11-26T12:17:01Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [
         "DELL"
       ],
@@ -453,7 +466,7 @@
       "link": "https://news.futunn.com/post/1005751844?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-26T12:16:23Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [
         "AAPL"
       ],
@@ -466,7 +479,7 @@
       "link": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
       "source": "NYT",
       "published_utc": "2026-11-26T12:04:01Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [
         "NVDA"
       ],
@@ -479,7 +492,7 @@
       "link": "https://news.futunn.com/post/1005749221?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-26T11:41:54Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [
         "NVDA"
       ],
@@ -492,7 +505,7 @@
       "link": "https://www.financialjuice.com/News/9869293/BoE-Gov-Bailey-AI-markets-are-very-concentrated-what-has-gone-on-at-Nvidia-is-a-matter-for-the-US.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-26T11:23:27Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [
         "NVDA"
       ],
@@ -518,7 +531,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOXzZCMTJkVVVsZkQwMl9GWmpxZThXV1lRWmt1RzdXZWs3dmFjZGsyYk5McGM1UU9scnZ0bzhSUzFHc25YOUJVWTFwSUlfSm90RjZTUjJ5dlhMOGJ6MFJCem5WRVZHTzNCcXNlTzBCelQ1WVlqdkJxcEw3Zy1ORUtaR3N3bm5tbWkwZ2FVVUw2WkdzaGZpTXhJdWVJQi1rR3FDRUJld1ZFREdZdw?oc=5",
       "source": "google-news:Bloomberg.com",
       "published_utc": "2026-11-26T11:00:34Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -545,7 +558,7 @@
       "link": "https://www.wsj.com/business/earnings/lilly-novo-supplier-bachem-hit-by-share-drop-after-growth-plans-disappoint-d3bcf6fa?mod=rss_markets_main",
       "source": "WSJ",
       "published_utc": "2026-11-26T10:55:00Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [
         "LLY",
         "NVO"
@@ -572,7 +585,7 @@
       "link": "https://news.futunn.com/post/1005740894?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-26T10:15:51Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [
         "TSM"
       ],
@@ -585,7 +598,7 @@
       "link": "https://news.futunn.com/post/1005740148?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-26T10:06:36Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [
         "NVDA"
       ],
@@ -598,7 +611,7 @@
       "link": "https://news.futunn.com/post/1005740044?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-26T10:05:00Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [
         "AMZN"
       ],
@@ -611,7 +624,7 @@
       "link": "https://www.nytimes.com/2026/11/26/business/huawei-trump-china-ai.html",
       "source": "NYT",
       "published_utc": "2026-11-26T10:01:56Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [
         "NVDA"
       ],
@@ -624,7 +637,7 @@
       "link": "https://news.futunn.com/post/1005740663?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-26T09:56:00Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [
         "AMZN",
         "NVDA"
@@ -638,7 +651,7 @@
       "link": "https://www.techflowpost.com/newsletter/147077/coreweave-45-billion-meta-gpu-loan",
       "source": "TechFlow",
       "published_utc": "2026-11-26T09:43:43Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [
         "META",
         "MS"
@@ -652,7 +665,7 @@
       "link": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?futusource=news_search_searchnews&src=39#/index?id=nesSN2026112619453494e3c334&s=b",
       "source": "futu",
       "published_utc": "2026-11-26T09:42:04Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
+      "fetched_utc": "2026-11-26T21:40:54.890388Z",
       "tickers": [
         "INTC"
       ],
