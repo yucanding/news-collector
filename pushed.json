@@ -35,6 +35,13 @@
         "KNTK"
       ],
       "event": "彭博社报道称 Targa Resources 正在就收购 Kinetik 进行谈判"
+    },
+    "u:9f5ede456b800ef8": {
+      "utc": "2026-11-26T02:50:54.116318Z",
+      "tickers": [
+        "AMZN"
+      ],
+      "event": "SpaceX 获得 FCC 批准部署 100 万颗轨道数据中心卫星"
     }
   }
 }
