@@ -1,16 +1,80 @@
 {
- "updated_utc": "2026-11-27T07:50:48.511030Z",
+ "updated_utc": "2026-11-27T08:01:21.754360Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 858,
-  "new": 3,
-  "candidates": 24,
-  "judged": 1,
+  "fetched": 838,
+  "new": 4,
+  "candidates": 27,
+  "judged": 3,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "7dd2f1dd2aa7dddd",
+   "title": "Trump’s Tariffs Cast New Pall Over Thanksgiving",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQk1uVWtYMllaS0FEN2JHUUtTZDhJalBpV0FHdnQ0UTNYbXlfSWhpMmpJN0YwNWtPU3lZb2RiUFBQM2FES3hwc3B3SXByOTJMdlRyNkFMaFFXbGFlTTVsalo1RXM0c2JkZTV4ZFB5MG9MR3RsLUZoaVY4M2RZV19NT3ZGREZMRzNuSnhJcHJPU0Rlb3E4MmtBSFc0M1dxcVl4Rl9XeDlNRzVtZVRkNndSUTdjbUo3S1VLRklhVllyWXdhaUNEYWM2NE5WUTFQZw?oc=5",
+   "source": "Bloomberg.com",
+   "tier": 1,
+   "published_utc": "2026-11-27T08:00:24Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "601a0fb4cc794486",
+   "title": "Hong Kong gold imports surge 24.4% in October to four-month high on lower bullion prices",
+   "summary": "Hong Kong’s gold imports surged in October to a four-month high, riding the momentum of lower prices and adding weight to the city’s push to establish itself as an international gold trading hub. The city imported 139.6 tonnes of unwrought, non-monetary gold last month, up 24.4 per cent from 112.3 tonnes in September, according to the Census and Statistics Department. The value of the shipments rose 18.1 per cent to HK$145.3 billion (US$18.5 billion). It was the second-highest monthly volume...",
+   "link": "https://www.scmp.com/business/commodities/article/3376000/hong-kong-gold-imports-surge-244-october-four-month-high-lower-bullion-prices",
+   "source": "SCMP",
+   "tier": null,
+   "published_utc": "2026-11-27T08:00:13Z",
+   "tickers": [],
+   "cats": [
+    "deal"
+   ],
+   "score": 3,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "54e00b4a402dcc78",
+   "title": "Dow Jones Top Company Headlines at 3 AM ET: The Savvy Showmanship That Helps Jensen Huang Always Come Out on Top | Nvidia ...",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005826109?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T08:00:00Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "cdd9e7ab869e537f",
+   "title": "Pay Policy at South Africa’s Momentum Passes With 51% Support",
+   "summary": "Shareholders in Momentum Group Ltd. narrowly approved the South African insurer’s remuneration policy as new rules give investors in the nation’s firms greater say over compensation.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/pay-policy-at-south-africa-s-momentum-passes-with-51-support",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T07:42:09Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "e003937361f1ef1e",
    "title": "Norse Atlantic says lessors terminate aircraft agreements",
