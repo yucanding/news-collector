@@ -1,16 +1,32 @@
 {
- "updated_utc": "2026-11-27T06:01:33.883033Z",
+ "updated_utc": "2026-11-27T06:10:50.540399Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 872,
-  "new": 4,
+  "fetched": 885,
+  "new": 1,
   "candidates": 30,
-  "judged": 3,
+  "judged": 1,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "a687ef92b963cfdf",
+   "title": "EXCLUSIVE: US pushed Venezuela, Iraq to consider leaving OPEC, sources say",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeVZ6VDRqcUU2ZDJ1UWdyUmYwNXRPMHAzR0pjRk8zLTJqYlF6YTVFV1Q5V3ZKV1IzZ0NDN2tKdkNxVmUtSmxpNnBNVmkzRWp5NkZ4SFdkaXZ6Zy1hUlhIUkdOY3ozaWVCLVI3M1FaRE9CQVZacHZ0c0tGM3AtUlFWaVR1Tnp4T084eVFjWDIxbVJQa1F0Z1RQRUdkU0YzdnZWMWJWNHRMT0JiQ1NHeDJF?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T06:02:00Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
   {
    "id": "a4ad02c9fc75a14b",
    "title": "Two Years After Trump’s Tariff Declaration, Canada Tries to Move On",
@@ -1441,24 +1457,6 @@
     "reg"
    ],
    "score": 5,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "9cb0a1c3a8118c95",
-   "title": "此前报道：“ 英伟达 要求合作伙伴暂停向东南亚发货；华盛顿堵住漏洞，阻止中国企业利用该地区算力”——《华尔街日报》独家",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005773144?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-26T18:09:08Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [
-    "scoop"
-   ],
-   "score": 3,
    "link_is_redirect": false,
    "sec_filing": false
   }
