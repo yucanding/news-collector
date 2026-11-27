@@ -1,16 +1,65 @@
 {
- "updated_utc": "2026-11-27T06:10:50.540399Z",
+ "updated_utc": "2026-11-27T06:20:52.326640Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 885,
-  "new": 1,
-  "candidates": 30,
+  "fetched": 899,
+  "new": 3,
+  "candidates": 29,
   "judged": 1,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "ebbf94131aeb8158",
+   "title": "美股夜盘AI链全线狂飙！三倍做多半导体ETF暴涨超17%，闪迪涨超10%，美光、迈威尔涨超7%",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005816250?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T06:19:23Z",
+   "tickers": [
+    "MU",
+    "SNDK"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "7ed93892428511c3",
+   "title": "日本JERA计划在发电厂附近为Anthropic和 Meta 建设数据中心——《日经亚洲》",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005815551?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T06:11:26Z",
+   "tickers": [
+    "META"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "80cacb02bb0e0fbe",
+   "title": "Sanofi CEO got to work on $41 billion Insmed deal straight after taking office",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObU1CTWI1cG1XTE9pbkN0cEl4NGFSYVFkalA1bVRsZ2xBVDhwa1lSbFBJUEJubXdSVnlKOTE5UVB3NHhFREZGUnlIMk1pU1RCdHUwWXhGdDJka2cxVEUyaVNPN3dmV2VudGlxWTJpM2NNTmhRNmJiNjVGNkpsZzZTbWFZNlpWc19sYTNNc1VDN1NRMzJESGlYZWVpeU5fdFZMTC1DZWdzZzIzQS1BTFJkVG5sOA?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T06:03:00Z",
+   "tickers": [],
+   "cats": [
+    "deal"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
   {
    "id": "a687ef92b963cfdf",
    "title": "EXCLUSIVE: US pushed Venezuela, Iraq to consider leaving OPEC, sources say",
