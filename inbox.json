@@ -1,16 +1,32 @@
 {
- "updated_utc": "2026-11-27T17:10:51.619391Z",
+ "updated_utc": "2026-11-27T17:20:48.658957Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 836,
+  "fetched": 825,
   "new": 1,
-  "candidates": 35,
-  "judged": 1,
+  "candidates": 29,
+  "judged": 0,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "e2f87ba808574b4f",
+   "title": "Inside China’s $4 Billion Secondhand Luxury Boom",
+   "summary": "Watch WSJ’s Hannah Miao explore one of China’s biggest resale megastores to understand what’s behind the country’s shifting consumer habits.",
+   "link": "https://www.wsj.com/world/china/inside-chinas-4-billion-secondhand-luxury-boom-cfa3dc5c?mod=rss_markets_main",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T17:12:00Z",
+   "tickers": [],
+   "cats": [
+    "deal"
+   ],
+   "score": 5,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "2fdad17b714d44a2",
    "title": "Inside China’s $4 Billion Secondhand Luxury Boom",
@@ -22,6 +38,22 @@
    "tickers": [],
    "cats": [
     "deal"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "a11a11d8f725fdbe",
+   "title": "Fan violence at Europa League matches prompts investigations and condemnation",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU3JwR0xYZzBxM1MycGdSMHQ2RUNHdU9EeVBPTkNXRDBkQzhMX0JJblhSM1BFdWwxdzlxenFZLWRtTVc5YkZTQS0tMU9iRTBFS3RRdnZTYmZfMXdYLU9zall1RkJjWDBPVkVaaWFjOEpyOHJjenhyRVM2dFYzUHpVcEp3Yl80T2hQQndLUnZXcHg4bG9qcjh0bWFXWE5kcUZDa0NCUVBPVFpVT1dBakVPeEVmMA?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T17:06:00Z",
+   "tickers": [],
+   "cats": [
+    "reg"
    ],
    "score": 5,
    "link_is_redirect": true,
@@ -1195,22 +1227,6 @@
    "cats": [],
    "score": 4,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "a11a11d8f725fdbe",
-   "title": "Fan violence at Europa League matches prompts investigations and condemnation",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU3JwR0xYZzBxM1MycGdSMHQ2RUNHdU9EeVBPTkNXRDBkQzhMX0JJblhSM1BFdWwxdzlxenFZLWRtTVc5YkZTQS0tMU9iRTBFS3RRdnZTYmZfMXdYLU9zall1RkJjWDBPVkVaaWFjOEpyOHJjenhyRVM2dFYzUHpVcEp3Yl80T2hQQndLUnZXcHg4bG9qcjh0bWFXWE5kcUZDa0NCUVBPVFpVT1dBakVPeEVmMA?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T12:59:58Z",
-   "tickers": [],
-   "cats": [
-    "reg"
-   ],
-   "score": 5,
-   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -3588,54 +3604,6 @@
     "deal"
    ],
    "score": 6,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "25f316d1fd42c1b4",
-   "title": "Judge Blocks F.C.C. From Targeting Disney’s Local ABC Licenses",
-   "summary": "A preliminary injunction halted an early regulatory review of the network’s operations in eight cities, including New York, Los Angeles and Chicago.",
-   "link": "https://www.nytimes.com/2026/11/25/business/media/disney-fcc-abc-ruling.html",
-   "source": "NYT",
-   "tier": 1,
-   "published_utc": "2026-11-27T05:19:06Z",
-   "tickers": [
-    "DIS"
-   ],
-   "cats": [],
-   "score": 4,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "aacb037ad239532b",
-   "title": "“FSD就是现实版《侠盗猎车手》”：埃隆·马斯克表示，随着新版FSD更新带来类似电子游戏的驾驶视野， 特斯拉 汽车拥有“超越人类的视觉”",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005810238?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T05:17:31Z",
-   "tickers": [
-    "TSLA"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "103d6d5f50da5d0b",
-   "title": "Australia Orders LNG Exporters Reserve Some Gas to Plug Shortages at Home",
-   "summary": "Australia will require liquefied natural gas exporters to reserve up to a fifth of their shipments for the domestic market to help lower power bills for local households and businesses.",
-   "link": "https://www.wsj.com/finance/commodities-futures/australia-orders-lng-exporters-reserve-some-gas-to-plug-shortages-at-home-72d6fe9b?mod=rss_markets_main",
-   "source": "WSJ",
-   "tier": 1,
-   "published_utc": "2026-11-27T05:14:00Z",
-   "tickers": [],
-   "cats": [
-    "supply"
-   ],
-   "score": 5,
    "link_is_redirect": false,
    "sec_filing": false
   }
