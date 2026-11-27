@@ -1,16 +1,80 @@
 {
- "updated_utc": "2026-11-27T05:01:18.971350Z",
+ "updated_utc": "2026-11-27T05:10:50.958144Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 848,
-  "new": 1,
-  "candidates": 21,
-  "judged": 1,
+  "fetched": 844,
+  "new": 4,
+  "candidates": 25,
+  "judged": 4,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "2f3d1511fa6931ab",
+   "title": "‘A changed man.’ How will Jensen Huang lead Nvidia now?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMmhZNWpCZkQ2NkZfMFNRX3p1TkFPal81d2JibVcxcGgyN2ZBUXlkV1VLZzNtenVOZzlNUW1yM1VVcTFON2dBcTlXZHptMkRESkl0RGVDa0Q0VGhFNnA0eTRNWGY0MUVmRkR2T0lSallESGFhQ0VyQWZzdkZXZWUzYkFQMF8?oc=5",
+   "source": "Financial Times",
+   "tier": 1,
+   "published_utc": "2026-11-27T05:02:05Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "07bfe1daa625c9f0",
+   "title": "The Ellisons’ debt-fuelled takeover of Hollywood",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTEpyYnRsTmhsNENBMGZ1UjYwUExvdDVGa3ExVDd1N1FtLUE5eHlpMFB4aW85WlJsQVRZZkpsYlo1Q2J2SWl3Z0VNVEhTNkpOLWl0UG9wMFJwQ0tIZUUzZ2RqcGdEVEU2b2JBUThocjNkU2RYWmNEQWN2NzVqVkg0NDQ0c24?oc=5",
+   "source": "Financial Times",
+   "tier": 1,
+   "published_utc": "2026-11-27T05:01:14Z",
+   "tickers": [],
+   "cats": [
+    "mna"
+   ],
+   "score": 6,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "e36cd851a2c57934",
+   "title": "Singapore Talking to US to Keep AI Chip Access, Deputy PM Says",
+   "summary": "Singapore is in talks with the US to retain access to advanced semiconductors, Deputy Prime Minister Gan Kim Yong said, after Washington tightened restrictions on chip exports to the Southeast Asian nation.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/singapore-talking-to-us-to-keep-ai-chip-access-deputy-pm-says",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T05:00:51Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "b1b06026b967f025",
+   "title": "EU Plans New Funds to Help Replace US War-Fighting Capabilities",
+   "summary": "The European Union is preparing tens of billions of euros in new loans and grants to replace US war-fighting capabilities as the continent pushes to cut its reliance on Washington, people familiar with the matter said.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/eu-plans-new-funds-to-help-replace-us-war-fighting-capabilities",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T05:00:00Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "1e1697cf7f46a29e",
    "title": "Qantas Set to Pick Boeing for Bulk of 20 Long-Range Jet Order",
@@ -1166,57 +1230,6 @@
     "mna"
    ],
    "score": 2,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "d2e4d5701e88eb6f",
-   "title": "Nvidia Tells Partners to Pause Shipments to Southeast Asia",
-   "summary": "Washington recently closed a remote-access loophole that helped Chinese companies tap in to computing power in the region.",
-   "link": "https://www.wsj.com/tech/nvidia-tells-partners-to-pause-shipments-to-southeast-asia-5b791cb0?mod=rss_Technology",
-   "source": "WSJ",
-   "tier": 1,
-   "published_utc": "2026-11-26T17:06:00Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [],
-   "score": 4,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "319f66773bb695db",
-   "title": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say",
-   "summary": "A new BIS rule was intended to close \"loopholes,\" U.S. Trade Representative Jamieson Greer told CNBC's \"Squawk Box\" on Wednesday.",
-   "link": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html",
-   "source": "CNBC",
-   "tier": 2,
-   "published_utc": "2026-11-26T17:04:54Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [
-    "reg",
-    "scoop"
-   ],
-   "score": 7,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "e6724b9ccf61e044",
-   "title": "Trump’s Latest Tariffs Revive Focus on Pressuring China",
-   "summary": "President Trump sent a message to trading partners across Asia, many of which depend on trade and investment from both the United States and China, that he is ready to escalate tariffs.",
-   "link": "https://www.nytimes.com/2026/11/26/business/trump-tariffs-asia.html",
-   "source": "NYT",
-   "tier": 1,
-   "published_utc": "2026-11-26T17:03:31Z",
-   "tickers": [],
-   "cats": [
-    "reg"
-   ],
-   "score": 5,
    "link_is_redirect": false,
    "sec_filing": false
   }
