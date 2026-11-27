@@ -1,16 +1,48 @@
 {
- "updated_utc": "2026-11-27T21:01:21.478987Z",
+ "updated_utc": "2026-11-27T21:10:47.244478Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 801,
-  "new": 1,
-  "candidates": 16,
-  "judged": 0,
+  "fetched": 798,
+  "new": 2,
+  "candidates": 15,
+  "judged": 1,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "03090cd3fff12328",
+   "title": "ALLIANCEBERNSTEIN GLOBAL HIGH INCOME FUND, INC. REPORTS SECOND QUARTER EARNINGS",
+   "summary": "NEW YORK, Nov. 27, 2026 /PRNewswire/ -- AllianceBernstein Global High Income Fund, Inc. (NYSE: AWF), a registered closed‑end investment company, today announced earnings for the second quarter ended September 30, 2026. Total net assets of the Fund on September 30, 2026 were $945,272,886...",
+   "link": "https://www.prnewswire.com/news-releases/alliancebernstein-global-high-income-fund-inc-reports-second-quarter-earnings-302951846.html",
+   "source": "PR Newswire",
+   "tier": 0,
+   "published_utc": "2026-11-27T21:06:00Z",
+   "tickers": [
+    "AWF"
+   ],
+   "cats": [],
+   "score": -2,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "310afbcc907a3b1c",
+   "title": "Mexican Airport Operator GAP Raises $398 Million for Fibra Trust",
+   "summary": "Mexican airport operator Grupo Aeroportuario del Pacifico SAB de CV raised 7.8 billion pesos ($398 million) for an energy and infrastructure trust, less than originally planned and following months of delays.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/mexican-airport-operator-gap-raises-398-million-for-fibra-trust",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T21:05:05Z",
+   "tickers": [
+    "GAP"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "adb371be7d2a7229",
    "title": "Quantum Space to Hold Financial Update Call",
@@ -3478,107 +3510,6 @@
    ],
    "score": 6,
    "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "128454fc2220fdb6",
-   "title": "热门板块速睇：美股盘前半导体精选走强，美光科技领涨",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005834654?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T09:10:01Z",
-   "tickers": [
-    "MU"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "fa316d98e88ef1ff",
-   "title": "热门板块速睇：美股盘前存储概念走强， 闪迪 领涨",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005834620?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T09:10:01Z",
-   "tickers": [
-    "SNDK"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "189a58da0b2092f2",
-   "title": "美股存储股盘前集体大涨， 闪迪 涨超10%，美光涨超7%",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005834533?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T09:06:57Z",
-   "tickers": [
-    "MU",
-    "SNDK"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "66657fc4c5bfdb29",
-   "title": "美股异动｜SpaceX盘前涨4.41% 与 特斯拉 合并或助力其纳入标普500指数",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005834133?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T09:05:57Z",
-   "tickers": [
-    "TSLA"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "e2d195f391a22c8f",
-   "title": "特斯拉 或收购德国机床制造商EMAG 用以制造Optimus精密部件",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005833708?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T09:03:57Z",
-   "tickers": [
-    "TSLA"
-   ],
-   "cats": [
-    "mna"
-   ],
-   "score": 5,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "408bdbdd01f8a2ce",
-   "title": "英伟达 GTC大会首次落地华盛顿！黄仁勋深陷调查风暴恐缺席，AI增长新蓝图及国家战略价值成核心议题",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005834239?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T09:02:00Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [
-    "reg"
-   ],
-   "score": 4,
-   "link_is_redirect": false,
    "sec_filing": false
   }
  ]
