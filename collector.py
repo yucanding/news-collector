@@ -74,8 +74,6 @@ MIN_SCORE = 3               # 预筛最低分
 MIN_IMPORTANCE = 4          # 模型重要度 1-5，>=4 才推
 MIN_IMPORTANCE_UNKNOWN = 5  # 未分级信源要求更高
 MAX_PUSH_PER_RUN = 3        # 低频：单轮最多推 3 条，防止异常时刷屏
-HEALTH_FAIL_THRESHOLD = 6   # 连续失败 6 轮（约 1 小时）告警
-ALERT_COOLDOWN_HOURS = 6
 
 # 按顺序尝试；模型会下线/改名，改这里或用 GEMINI_MODEL 覆盖。
 # 一个都不删：保留 v3 的全部候选，另加动态列出可用模型（新模型自动进入候选）。
@@ -107,12 +105,11 @@ FUTU_SIZE = 10
 # (名称, URL, 来源名)。健康告警会告诉你哪个地址失效。
 RSS_FEEDS = [
     ("sec-press", "https://www.sec.gov/news/pressreleases.rss", "SEC"),
-    ("fda-press", "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml", "FDA"),
-    ("ftc-press", "https://www.ftc.gov/feeds/press-release.xml", "FTC"),
     ("prn-finance", "https://www.prnewswire.com/rss/financial-services-latest-news/financial-services-latest-news-list.rss", "PR Newswire"),
     ("prn-tech", "https://www.prnewswire.com/rss/business-technology-latest-news/business-technology-latest-news-list.rss", "PR Newswire"),
     ("prn-health", "https://www.prnewswire.com/rss/health-latest-news/health-latest-news-list.rss", "PR Newswire"),
-    ("gnw-mna", "https://www.globenewswire.com/RssFeed/subjectcode/27-Mergers%20And%20Acquisitions/feedTitle/GlobeNewswire%20-%20Mergers%20And%20Acquisitions", "GlobeNewswire"),
+    # 已删（地址本身没错，但 GitHub Actions 机房 IP 被挡，固定 404/403 拉不到）：
+    # fda-press、ftc-press（404）、gnw-mna（403）
 ]
 
 _T1_SITES = "(site:reuters.com OR site:bloomberg.com OR site:wsj.com OR site:ft.com)"
@@ -705,7 +702,7 @@ E. 重要度 importance（1-5），只看“会不会马上动价格”：
 
 去重：<recent_pushed> 是过去 24 小时已推事件。同一事件（不论媒体、语言、链接）填 duplicate_of=其编号并 push=false；
 只有出现实质性新进展（确认、否认、价格/条款敲定、终止）时 is_update=true 且 duplicate_of 填原编号，可推。
-同一批候选内讲同一事件的，只推信源最好的一条。如果是有更新的新闻，update时间在最近，但是原始发布时间在很久以前，一律不许推。
+同一批候选内讲同一事件的，只推信源最好的一条。
 
 信源级别：0=官方/公司原文，1=顶级媒体，2=专业媒体，3=聚合转述，null=未知。
 级别 2/3/null 且未写明消息来自谁的爆料，importance 不得超过 3。
@@ -717,7 +714,7 @@ E. 重要度 importance（1-5），只看“会不会马上动价格”：
 - reason: 一句中文，讲具体传导逻辑（影响哪块收入/成本/估值/竞争格局）；不推时写具体原因。
   禁止“符合推送标准”“属于重大利空”这类套话
 - evidence: 从该条标题或摘要中逐字复制、支撑 event 的一段原文（原语言，不翻译，不改动）
-- tickers: 直接受影响的美股代码，最多 3 个
+- tickers: 直接受影响的美股代码，最多 4 个
 - event_key: 小写英文，格式 主体代码|event_type|对手方或关键对象
 - source_name: 原始发布方（如 Reuters、Business Wire）；富途等聚合名不算，原文未写明则留空
 
@@ -1114,22 +1111,14 @@ def process(candidates, older, now, deadline, status):
 
 
 def check_health(status, now):
+    # 只把各源失败次数记到 health.json（仓库内可查），绝不发 Telegram。
+    # Telegram 只收新闻推送，任何报错/告警都不发。
     health = load_json("health.json", {})
-    alerts = []
     for name, err in status.items():
         h = health.get(name, {"fails": 0})
         h["fails"] = 0 if err is None else h["fails"] + 1
         h["error"] = err
-        last = to_dt(h.get("alerted"))
-        threshold = 3 if name in ("gemini", "state") else HEALTH_FAIL_THRESHOLD
-        if h["fails"] >= threshold and (
-                not last or now - last > timedelta(hours=ALERT_COOLDOWN_HOURS)):
-            alerts.append((name, f"{name} 连续失败 {h['fails']} 次：{err}"))
         health[name] = h
-    if alerts and not DRY_RUN:
-        if send_telegram(html_mod.escape("⚠️ 新闻监控异常\n" + "\n".join(a[1] for a in alerts))) == "ok":
-            for name, _ in alerts:
-                health[name]["alerted"] = iso(now)
     save_json("health.json", health)
 
 
