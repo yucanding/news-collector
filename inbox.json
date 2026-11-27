@@ -1,12 +1,12 @@
 {
- "updated_utc": "2026-11-27T11:10:50.781952Z",
+ "updated_utc": "2026-11-27T11:20:49.767917Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 883,
-  "new": 2,
-  "candidates": 41,
+  "fetched": 888,
+  "new": 3,
+  "candidates": 39,
   "judged": 2,
   "pushed": 0
  },
@@ -28,6 +28,22 @@
    "sec_filing": false
   },
   {
+   "id": "ff1052c47766e5b9",
+   "title": "Canada to Put Billions More Toward Tariff-Hit Softwood Lumber Sector",
+   "summary": "Canada will unveil a plan to aid its softwood lumber producers, one of several sectors pummeled by US President Donald Trump’s tariffs.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/canada-to-put-billions-more-toward-tariff-hit-softwood-lumber-sector",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T11:01:00Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
    "id": "0d291a27fb828535",
    "title": "ECARX Announces US$20 million Share Repurchase Program",
    "summary": "LONDON, Nov. 27, 2026 /PRNewswire/ -- ECARX Holdings Inc. (Nasdaq: ECX) (\"ECARX\" or the \"Company\"), a leading global automotive intelligence business, today announced its board of directors has authorized a share repurchase program under which the Company may repurchase up to US$20...",
@@ -41,6 +57,38 @@
    "cats": [],
    "score": 2,
    "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "bf4022e95c699841",
+   "title": "India Extends Pakistan Content Ban to First Netflix Series",
+   "summary": "Netflix’s first Pakistani original series may be unavailable in India in the latest fallout from political tensions between the nations after their brief armed conflict last year.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/india-extends-pakistan-content-ban-to-first-netflix-series",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T10:59:12Z",
+   "tickers": [
+    "NFLX"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "494769227a61d81d",
+   "title": "India Extends Pakistan Content Ban to First Netflix Series",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVVlnMF9VdUw3VE9Lazh1ZnF6WmRCVWljUngtTEh5RC1rSjZMMXZPOTRqQkV5ZU1nYkI1Y2RwWkNQNW0zNnRGNThpbEhGejdPWVZHQk9vSUNHWUhJVkx5OEZkMHZ5WTB3WXJra2lreEdOTERZa0NwNHRrTDhKSWZhN2E4S2JmME1TNkR1U19WVngxeEtoN1FBcTJ3S1lIREhLQzNEWHlrQ0RZamlHN0E?oc=5",
+   "source": "Bloomberg.com",
+   "tier": 1,
+   "published_utc": "2026-11-27T10:59:12Z",
+   "tickers": [
+    "NFLX"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -186,6 +234,22 @@
    ],
    "score": 2,
    "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "a4ad02c9fc75a14b",
+   "title": "Two Years After Trump’s Tariff Declaration, Canada Tries to Move On",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaWdwNl9jTnFFSS10Z3BXNVZOWjR6N3ItM3d4MHhIcXZ1TGtyQS03UUV4a0FuYVdMd3FaZ0VVQ09QUTl6d3RDU1RJQW1fcVM3aGZMWURHanZmN3BQanNhT1FVa3Fwb0pUYmtmb3poMm5ZZ0gwelVieGVOQUozVHlXYlkxV1Q4azV5MlNfbEw1T1lSbnFyNndwNjlWUDVBWGFjZkZiUVJLY1dRcU9PU1QwQUZ4V2lnZ3IwNTNGcXMwQldueE5fVWc?oc=5",
+   "source": "Bloomberg.com",
+   "tier": 1,
+   "published_utc": "2026-11-27T10:22:48Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -805,22 +869,6 @@
    ],
    "score": 5,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "a4ad02c9fc75a14b",
-   "title": "Two Years After Trump’s Tariff Declaration, Canada Tries to Move On",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaWdwNl9jTnFFSS10Z3BXNVZOWjR6N3ItM3d4MHhIcXZ1TGtyQS03UUV4a0FuYVdMd3FaZ0VVQ09QUTl6d3RDU1RJQW1fcVM3aGZMWURHanZmN3BQanNhT1FVa3Fwb0pUYmtmb3poMm5ZZ0gwelVieGVOQUozVHlXYlkxV1Q4azV5MlNfbEw1T1lSbnFyNndwNjlWUDVBWGFjZkZiUVJLY1dRcU9PU1QwQUZ4V2lnZ3IwNTNGcXMwQldueE5fVWc?oc=5",
-   "source": "Bloomberg.com",
-   "tier": 1,
-   "published_utc": "2026-11-27T08:52:48Z",
-   "tickers": [],
-   "cats": [
-    "reg"
-   ],
-   "score": 5,
-   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -2555,22 +2603,6 @@
    "published_utc": "2026-11-26T23:47:00Z",
    "tickers": [
     "META"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "ca9d883c81df0607",
-   "title": "15年前投资于 特斯拉 的$100如今价值几何",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005782865?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-26T23:15:11Z",
-   "tickers": [
-    "TSLA"
    ],
    "cats": [],
    "score": 1,
