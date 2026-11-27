@@ -1,16 +1,178 @@
 {
- "updated_utc": "2026-11-27T21:20:51.520950Z",
+ "updated_utc": "2026-11-27T21:31:08.075341Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 798,
-  "new": 2,
-  "candidates": 12,
+  "fetched": 800,
+  "new": 10,
+  "candidates": 20,
   "judged": 1,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "4860f9d3dce25276",
+   "title": "英伟达 期权聚焦：11月27日成交381.08万张，未平仓合约2,071.63万张",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005878105?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T21:30:00Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "8446be16f1059f9e",
+   "title": "苹果 期权聚焦：11月27日成交101.85万张，未平仓合约558.26万张",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005878108?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T21:30:00Z",
+   "tickers": [
+    "AAPL"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "a0b345329374cb02",
+   "title": "亚马逊 期权聚焦：11月27日成交66.45万张，未平仓合约459.73万张",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005878122?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T21:30:00Z",
+   "tickers": [
+    "AMZN"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "c7fcb1786b3bb738",
+   "title": "谷歌-A 期权聚焦：11月27日成交55.39万张，未平仓合约397.69万张",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005878140?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T21:30:00Z",
+   "tickers": [
+    "GOOGL"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "70f75fd64767a6a3",
+   "title": "特斯拉 期权聚焦：11月27日成交183.43万张，未平仓合约561.02万张",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005878104?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T21:30:00Z",
+   "tickers": [
+    "TSLA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "4488d9231d876b00",
+   "title": "美国超微公司 期权聚焦：11月27日成交57.68万张，未平仓合约365.09万张",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005878135?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T21:30:00Z",
+   "tickers": [
+    "SMCI"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "ff250809617a97e8",
+   "title": "英特尔 期权聚焦：11月27日成交46.85万张，未平仓合约778.66万张",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005878154?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T21:30:00Z",
+   "tickers": [
+    "INTC"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "6e8553eec9ac7f99",
+   "title": "美光科技期权聚焦：11月27日成交93.24万张，未平仓合约381.18万张",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005878107?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T21:30:00Z",
+   "tickers": [
+    "MU"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "07e26a65cd375865",
+   "title": "闪迪 期权聚焦：11月27日成交53.02万张，未平仓合约769.59万张",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005878138?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T21:30:00Z",
+   "tickers": [
+    "SNDK"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "9fc379a87ebee7f6",
+   "title": "AMD Shares Plunge 20% on Short Report Allegations, Yet Growth Opportunities Remain",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa1ZNLXlYNmRmZktkbVFjM0hmQlVxTHNkVU1ZZ2Z2N2NRQ3NwMzMwcVEyc2NOLXh4Zm96TmZvd05pMG1NbDJvVGhTdUh2S05oWDk1WDkzUDU1QzdiVl9zdGxZSGtWS3BWa0E4TlJqeTA5NkxLMFlBZ2U2WThPM0hZd1NvU2tBS2xZRUxKQTlickx6VTJxN2daNHNGczhLQTF5bk4tb013bHRIdXJpM2VTeDJWdzc?oc=5",
+   "source": "Intellectia AI",
+   "tier": null,
+   "published_utc": "2026-11-27T21:17:36Z",
+   "tickers": [
+    "AMD"
+   ],
+   "cats": [
+    "short"
+   ],
+   "score": 6,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
   {
    "id": "33e544176d847c21",
    "title": "OpenAI反击 苹果 ！指控其窃取商业机密、威胁供应商，双方诉讼战升级",
@@ -3397,54 +3559,6 @@
    ],
    "score": 5,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "443cf95d5471e3a7",
-   "title": "Cheetah Mobile To Report Third Quarter 2026 Financial Results on December 4, 2026",
-   "summary": "BEIJING, Nov. 27, 2026 /PRNewswire/ -- Cheetah Mobile Inc. (\"Cheetah Mobile\" or the \"Company\") (NYSE: CMCM), a China-based IT company with a commitment to AI innovation, today announced that it will report its financial results for the third quarter 2026 before the U.S. market opens on...",
-   "link": "https://www.prnewswire.com/news-releases/cheetah-mobile-to-report-third-quarter-2026-financial-results-on-december-4-2026-302951590.html",
-   "source": "PR Newswire",
-   "tier": 0,
-   "published_utc": "2026-11-27T09:30:00Z",
-   "tickers": [
-    "CMCM"
-   ],
-   "cats": [],
-   "score": -2,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "e2cf9516a6734508",
-   "title": "SAP seeks to cut sizeable number of jobs, sources say",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYXlTRnczX1kzVVFWNmpBWWZscmx0cGVUUGNOMFctTUV5WmJVa1NrQ3N1NmFURDhfNUVEUXJiU09lc1NPV1UyUms1ZUdpMFMwZHdnaHcxcjJHdjBuQWRpZ2dwZ3ZVUUxBTU1fMHpLYl9pSExQOTVURGpSZ3JLazhwSVpWUkdJeGVsaElsZTNPVUY3N0JoUlVfcm5qbEhoQ2JYQ3lpWXBJU2g?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T09:25:15Z",
-   "tickers": [],
-   "cats": [
-    "scoop"
-   ],
-   "score": 4,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "a15cf5a444a6250d",
-   "title": "Bawag’s €1.6 Billion PTSB Deal Rejected by Irish High Court",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZVVoZ0lmSUUtbVN6eU1ReHNfUlkzTWtsdFUtV3BpTmlMR2ZNeFJGbVZjUjFFM2NGamVKYlE3Y3RYMDJYREstdkVReWZiVlNEUFdIV3dRUDlmQ2FBcXBQQm9ac29oUTFKbnZOcnV2T0pjdlFGZnFRei1NdXNCTHQtcEZtWVhHRHdHWTNCQzBYWE1XXzI5QVBqN3h3VUtVZThCVWRrZmh6aw?oc=5",
-   "source": "Bloomberg.com",
-   "tier": 1,
-   "published_utc": "2026-11-27T09:20:54Z",
-   "tickers": [],
-   "cats": [
-    "reg"
-   ],
-   "score": 5,
-   "link_is_redirect": true,
    "sec_filing": false
   }
  ]
