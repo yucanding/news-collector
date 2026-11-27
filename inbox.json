@@ -1,16 +1,48 @@
 {
- "updated_utc": "2026-11-27T17:31:07.584044Z",
+ "updated_utc": "2026-11-27T17:40:46.485743Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 822,
-  "new": 1,
-  "candidates": 26,
-  "judged": 0,
-  "pushed": 0
+  "fetched": 819,
+  "new": 2,
+  "candidates": 27,
+  "judged": 1,
+  "pushed": 1
  },
  "items": [
+  {
+   "id": "67d09e7a86414483",
+   "title": "Verizon in talks over $6bn deal for Fidium to boost broadband footprint",
+   "summary": "US group pursues company owned by Searchlight Capital and Canada’s BCI in push to boost its presence in New England region Oliver Barnes",
+   "link": "https://www.ft.com/content/19c8508b-0dc6-492c-9f68-497da516a398?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss",
+   "source": "FT",
+   "tier": 1,
+   "published_utc": "2026-11-27T17:29:29Z",
+   "tickers": [],
+   "cats": [
+    "deal"
+   ],
+   "score": 5,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "e1a1461154376fcf",
+   "title": "Verizon in talks over $6bn deal for Fidium to boost broadband footprint",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYzFFM2ktMW9uTG81dUw2dGhZTkhNTV9leUNsczRQRWRGNUYyN2htRzZfeXlEQXZDRDFhaDJiSElabkVUN3ZzOG9ta2NaTlU3Q3A3empUZU11TnNXT0ZuZVpjTktYR21BdlktZWE1QXVFdTdKUVB0QS1hRnI5YUhCb183S0o?oc=5",
+   "source": "Financial Times",
+   "tier": 1,
+   "published_utc": "2026-11-27T17:29:29Z",
+   "tickers": [],
+   "cats": [
+    "deal"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
   {
    "id": "c821ddcb430dfda5",
    "title": "Ruko Launches F11PRO 2 Plus (RC4), Bringing an Upgraded Aerial Photography Experience with a 5.5-Inch Touchscreen Controller",

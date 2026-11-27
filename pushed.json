@@ -150,6 +150,17 @@
    "event": "彭博社报道称中国上海一处与 Alice Huang 有关的站点安装了英伟达 Blackwell 芯片",
    "event_key": "nvda|supply_chain|alice_huang",
    "delivery": "ok"
+  },
+  "67d09e7a86414483": {
+   "utc": "2026-11-27T17:41:49.337418Z",
+   "published_utc": "2026-11-27T17:29:29Z",
+   "title": "Verizon in talks over $6bn deal for Fidium to boost broadband footprint",
+   "tickers": [
+    "VZ"
+   ],
+   "event": "FT 报道称 Verizon 正就以约 60 亿美元收购 Fidium 进行谈判以扩大宽带业务",
+   "event_key": "vz|mna|fidium",
+   "delivery": "ok"
   }
  },
  "pending": {}
