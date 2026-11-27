@@ -1,16 +1,48 @@
 {
- "updated_utc": "2026-11-27T07:20:49.140326Z",
+ "updated_utc": "2026-11-27T07:31:07.577134Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 880,
-  "new": 1,
-  "candidates": 24,
-  "judged": 1,
+  "fetched": 866,
+  "new": 2,
+  "candidates": 26,
+  "judged": 0,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "a4ad02c9fc75a14b",
+   "title": "Two Years After Trump’s Tariff Declaration, Canada Tries to Move On",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaWdwNl9jTnFFSS10Z3BXNVZOWjR6N3ItM3d4MHhIcXZ1TGtyQS03UUV4a0FuYVdMd3FaZ0VVQ09QUTl6d3RDU1RJQW1fcVM3aGZMWURHanZmN3BQanNhT1FVa3Fwb0pUYmtmb3poMm5ZZ0gwelVieGVOQUozVHlXYlkxV1Q4azV5MlNfbEw1T1lSbnFyNndwNjlWUDVBWGFjZkZiUVJLY1dRcU9PU1QwQUZ4V2lnZ3IwNTNGcXMwQldueE5fVWc?oc=5",
+   "source": "Bloomberg.com",
+   "tier": 1,
+   "published_utc": "2026-11-27T07:22:48Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "76fd5ae4032d5bb1",
+   "title": "EQT Healthcare Growth to acquire majority stake in specialty European pharmaceutical business, Kelso Pharma",
+   "summary": "Kelso Pharma is a fast-growing specialty pharmaceutical group with a portfolio of approximately 14 medicines, mainly for endocrine, gastrointestinal and central nervous system conditions The company has built a commercial platform in the UK, with a growing presence across Europe and an...",
+   "link": "https://www.prnewswire.com/news-releases/eqt-healthcare-growth-to-acquire-majority-stake-in-specialty-european-pharmaceutical-business-kelso-pharma-302951594.html",
+   "source": "PR Newswire",
+   "tier": 0,
+   "published_utc": "2026-11-27T07:20:00Z",
+   "tickers": [],
+   "cats": [
+    "mna"
+   ],
+   "score": 2,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "2fa9d9b8e6b624de",
    "title": "New Tariffs on China Risk Undermining Trade Truce With U.S.",
@@ -25,6 +57,22 @@
    ],
    "score": 5,
    "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "73ffc4b2314861fc",
+   "title": "英伟达 夜盘一度升超5%，但均线接近死亡交叉，能否企稳？",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005821509?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T07:08:00Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
    "sec_filing": false
   },
   {
@@ -209,6 +257,22 @@
    "sec_filing": false
   },
   {
+   "id": "0b15819517cc2b48",
+   "title": "Apple rumoured to be working on a large foldable iPad with a 20-inch display.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYmhsV2t5VG9OczlQd2NlNDNEMEc1N2ZZUW5sZnR5dWxUY0N0bEItNVk5T0QwVkRVaWlKQVVjSVhLcURzczJtRDFucHpYN25WUU51MmxYY0VyMGJiT1g3V0M5ckp2NXJDSldXcExmQXFkVTl3VC1IRVM4SEFnN1E0MkVjejJFclZwYUJ2djlJem4zcE9EMEYwdk5mTUk?oc=5",
+   "source": "HardwareZone",
+   "tier": null,
+   "published_utc": "2026-11-27T06:11:15Z",
+   "tickers": [
+    "AAPL"
+   ],
+   "cats": [],
+   "score": 2,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
    "id": "1f5588b222d954b1",
    "title": "Exclusive | Power Couple Sells San Francisco Compound for $68.3 Million in AI-Fueled Boom",
    "summary": "",
@@ -253,22 +317,6 @@
     "scoop"
    ],
    "score": 4,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "a4ad02c9fc75a14b",
-   "title": "Two Years After Trump’s Tariff Declaration, Canada Tries to Move On",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaWdwNl9jTnFFSS10Z3BXNVZOWjR6N3ItM3d4MHhIcXZ1TGtyQS03UUV4a0FuYVdMd3FaZ0VVQ09QUTl6d3RDU1RJQW1fcVM3aGZMWURHanZmN3BQanNhT1FVa3Fwb0pUYmtmb3poMm5ZZ0gwelVieGVOQUozVHlXYlkxV1Q4azV5MlNfbEw1T1lSbnFyNndwNjlWUDVBWGFjZkZiUVJLY1dRcU9PU1QwQUZ4V2lnZ3IwNTNGcXMwQldueE5fVWc?oc=5",
-   "source": "Bloomberg.com",
-   "tier": 1,
-   "published_utc": "2026-11-27T05:52:48Z",
-   "tickers": [],
-   "cats": [
-    "reg"
-   ],
-   "score": 5,
    "link_is_redirect": true,
    "sec_filing": false
   },
@@ -341,22 +389,6 @@
    "sec_filing": false
   },
   {
-   "id": "7a64e5d25b7f0ace",
-   "title": "Starbucks Japan’s Enduring Popularity Stands Out Amid Global Struggles",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX3RPWTBOYW0taWZXZlRJZXhqTWN6YUtxVEM5cmc5SDRoRUdrVnk0eVhONGhOdFZ1TnRZbnBCZDlvM183NF9kM01SaE9WVXFWeTR4UVo3MG9fQ2IzbkRjOXVzbGRGOGNDVGRGWlBNbkZNQ2QwNVR2cVlsWWZwRko0LUdld1V1Wi03QkViV0tlSHlpTExaZFhFczd4akV1YV9RR29HZzNnYXl5d29oRVhrbVdyZlFOdTlpdHc?oc=5",
-   "source": "Bloomberg.com",
-   "tier": 1,
-   "published_utc": "2026-11-27T05:45:09Z",
-   "tickers": [
-    "SBUX"
-   ],
-   "cats": [],
-   "score": 4,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
    "id": "80103fa248e93404",
    "title": "Starbucks Japan Success Endures Despite Struggles in China, Korea",
    "summary": "Also, some Japanese are turning to pen and paper for cybersecurity.",
@@ -370,6 +402,22 @@
    "cats": [],
    "score": 4,
    "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "7a64e5d25b7f0ace",
+   "title": "Starbucks Japan’s Enduring Popularity Stands Out Amid Global Struggles",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX3RPWTBOYW0taWZXZlRJZXhqTWN6YUtxVEM5cmc5SDRoRUdrVnk0eVhONGhOdFZ1TnRZbnBCZDlvM183NF9kM01SaE9WVXFWeTR4UVo3MG9fQ2IzbkRjOXVzbGRGOGNDVGRGWlBNbkZNQ2QwNVR2cVlsWWZwRko0LUdld1V1Wi03QkViV0tlSHlpTExaZFhFczd4akV1YV9RR29HZzNnYXl5d29oRVhrbVdyZlFOdTlpdHc?oc=5",
+   "source": "Bloomberg.com",
+   "tier": 1,
+   "published_utc": "2026-11-27T05:42:00Z",
+   "tickers": [
+    "SBUX"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -748,7 +796,7 @@
   {
    "id": "1c22eac3fa0b7946",
    "title": "Spirit of recovery: JPMorgan sees fresh upside in liquor giant Kweichow Moutai",
-   "summary": "Kweichow Moutai has won a rare vote of confidence from Wall Street, with JPMorgan Chase upgrading the Chinese baijiu giant that has been struggling with slowing growth in recent years. The US bank raised its recommendation on Kweichow Moutai’s Shanghai-listed shares to overweight from neutral and set a price target of 1,800 yuan, according to analyst Jessie Xu. The target implies an upside of about 20 per cent from current levels. The upgrade marks a reversal in JPMorgan’s stance. Xu had...",
+   "summary": "Kweichow Moutai has won a rare vote of confidence from Wall Street, with JPMorgan Chase upgrading the Chinese baijiu giant that has been struggling with slowing growth in recent years. The US bank raised its recommendation on Kweichow Moutai’s Shanghai-listed shares to overweight from neutral and set a price target of 1,800 yuan, according to analyst Jessie Xu. The target implies an upside of 24 per cent from the current level. The upgrade marks a reversal in JPMorgan’s stance. Xu had maintained...",
    "link": "https://www.scmp.com/business/china-business/article/3375983/spirit-recovery-jpmorgan-sees-fresh-upside-liquor-giant-kweichow-moutai",
    "source": "SCMP",
    "tier": null,
@@ -1102,22 +1150,6 @@
    "cats": [],
    "score": 1,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "0b15819517cc2b48",
-   "title": "Apple rumoured to be working on a large foldable iPad with a 20-inch display.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYmhsV2t5VG9OczlQd2NlNDNEMEc1N2ZZUW5sZnR5dWxUY0N0bEItNVk5T0QwVkRVaWlKQVVjSVhLcURzczJtRDFucHpYN25WUU51MmxYY0VyMGJiT1g3V0M5ckp2NXJDSldXcExmQXFkVTl3VC1IRVM4SEFnN1E0MkVjejJFclZwYUJ2djlJem4zcE9EMEYwdk5mTUk?oc=5",
-   "source": "HardwareZone",
-   "tier": null,
-   "published_utc": "2026-11-27T02:14:11Z",
-   "tickers": [
-    "AAPL"
-   ],
-   "cats": [],
-   "score": 2,
-   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -1668,22 +1700,6 @@
    "tickers": [
     "AAPL",
     "AMZN"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "b83514265a14bf30",
-   "title": "埃隆·马斯克表示，一旦 特斯拉 机器人能在18个月内完成洗碗和倒垃圾等家务，‘几乎所有人都会想要一台，甚至两台’。",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005775446?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-26T19:30:08Z",
-   "tickers": [
-    "TSLA"
    ],
    "cats": [],
    "score": 1,
