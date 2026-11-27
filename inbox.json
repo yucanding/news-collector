@@ -1,16 +1,48 @@
 {
- "updated_utc": "2026-11-27T21:10:47.244478Z",
+ "updated_utc": "2026-11-27T21:20:51.520950Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
   "fetched": 798,
   "new": 2,
-  "candidates": 15,
+  "candidates": 12,
   "judged": 1,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "33e544176d847c21",
+   "title": "OpenAI反击 苹果 ！指控其窃取商业机密、威胁供应商，双方诉讼战升级",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005876950?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T21:15:34Z",
+   "tickers": [
+    "AAPL"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "469cf3f2a0310548",
+   "title": "Nigeria Targets 50% Rise in Remittances to $1.5 Billion by 2027",
+   "summary": "Nigeria’s central bank aims to increase remittances from citizens living abroad by 50% next year to boost its foreign-exchange reserves.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/nigeria-targets-50-rise-in-remittances-to-1-5-billion-by-2027",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T21:07:46Z",
+   "tickers": [],
+   "cats": [
+    "deal"
+   ],
+   "score": 5,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "03090cd3fff12328",
    "title": "ALLIANCEBERNSTEIN GLOBAL HIGH INCOME FUND, INC. REPORTS SECOND QUARTER EARNINGS",
@@ -72,22 +104,6 @@
     "scoop"
    ],
    "score": 4,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "278d046c65ad3c7c",
-   "title": "FTC Imposes Strict Board Restrictions on Beretta’s 25% Stake in Rival Sturm Ruger",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZlBMRWpBSDU0UTZEOGlKR1FZV0RSMW5HQTFqSlNad3dDT2hlSEdNTEpBOW9NQWZaOTAwQkRRZGJUY00xRkhtRzZnZm9SSHBib2ZsZE5idWpHN1VrVmdHbXpsMWtYdVBWRUU4Q3VsZG1nd3dUY29xQkhZLUszNnd6ZmlzdUVFMjBXRHU2OHUxTzZ3YndabUVibk8tRHFYdXV3LWgxMk5nQkItdVdOOEljcGRZOC1KUzRD?oc=5",
-   "source": "WSJ",
-   "tier": 1,
-   "published_utc": "2026-11-27T20:34:53Z",
-   "tickers": [],
-   "cats": [
-    "reg"
-   ],
-   "score": 5,
    "link_is_redirect": true,
    "sec_filing": false
   },
@@ -184,6 +200,22 @@
    "tickers": [],
    "cats": [
     "deal"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "278d046c65ad3c7c",
+   "title": "FTC Imposes Strict Board Restrictions on Beretta’s 25% Stake in Rival Sturm Ruger",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZlBMRWpBSDU0UTZEOGlKR1FZV0RSMW5HQTFqSlNad3dDT2hlSEdNTEpBOW9NQWZaOTAwQkRRZGJUY00xRkhtRzZnZm9SSHBib2ZsZE5idWpHN1VrVmdHbXpsMWtYdVBWRUU4Q3VsZG1nd3dUY29xQkhZLUszNnd6ZmlzdUVFMjBXRHU2OHUxTzZ3YndabUVibk8tRHFYdXV3LWgxMk5nQkItdVdOOEljcGRZOC1KUzRD?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T19:20:48Z",
+   "tickers": [],
+   "cats": [
+    "reg"
    ],
    "score": 5,
    "link_is_redirect": true,
@@ -3412,103 +3444,6 @@
     "reg"
    ],
    "score": 5,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "ea2117bdc5712717",
-   "title": "SAP 疑遭 AI 代理入侵，称无客户信息泄露",
-   "summary": "深潮 TechFlow 消息，11 月 27 日，据韩联社报道，德国《明镜》周刊 26 日（当地时间）报道称，欧洲最大软件企业 SAP 发生疑似遭人工智能（AI）代理入侵的网络安全事件。据报道，SAP 在内部通知中表示，已发现可疑活动，正迅速采取措施保护系统环境和客户，目前没有客户信息泄露的迹象。SAP 以“花岗岩项目”为名处理该安全事件，并提醒员工不要对外告知此事。 《明镜》援引消息人士称，攻击者窃取 SAP 员工的认证令牌后，篡改并复制了开源开发平台 GitHub 上的 SAP 相关源代码。GitHub 是开发者存储和共享源代码的云端协作平台，其运营方微软本月早些时候曾警告，利用 AI 渗透测试工具 Artex 攻击 GitHub 的案例正在增加。总部位于德国瓦尔多夫的 SAP 是开发企业资源计划（ERP）系统的全球软件企业，按市值计在欧洲同行业中排名第一。",
-   "link": "https://www.techflowpost.com/newsletter/147217/sap-suspected-ai-agent-breach-no-customer-data-leaked",
-   "source": "TechFlow",
-   "tier": null,
-   "published_utc": "2026-11-27T09:19:32Z",
-   "tickers": [
-    "MSFT"
-   ],
-   "cats": [],
-   "score": 2,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "8f34eb534f21be2f",
-   "title": "美股异动｜谷歌A盘前涨近3%，Gemini 4 Neon刷新付费API创首日使用量纪录",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005836570?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T09:17:39Z",
-   "tickers": [
-    "GOOGL"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "c2cd5c6954b8639b",
-   "title": "Vietnamese partners of Trump Organization plan Trump Tower in Hanoi, sources say",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVGVQZnkyVFhEUG1rQW1qbXlISzVIQ3hSRkxlaTFvVkR2RnBCUllrX09nTTN4Rk5hU2tldjZkUkpXZlllNkZLc2lRWGNjYzFCbEV4eGRMV0ZrZ2ljRS0wT1Naa3hrdzd3V0IwVFg0U1JGTGJ1V3luNlVLX3praTFqSVdIOFRBX0VkaUJObTZHdEdGQmMteTFPMnNPb01KUEx0WjFhUTBDSGV3Rm55UnFlVmlnR2dHQlREMF96azZLRFYxQldQOUp0RS01ZTRJX3ZsZnc?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T09:15:41Z",
-   "tickers": [],
-   "cats": [
-    "scoop"
-   ],
-   "score": 4,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "a30ce3856f08944d",
-   "title": "特斯拉 股东大会在即！马斯克逾3万亿美元商业帝国即将成形？",
-   "summary": "",
-   "link": "https://q.futunn.com/feed/117687644258308?futusource=news_search_searchnews",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T09:15:39Z",
-   "tickers": [
-    "TSLA"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "18f8245801ce2890",
-   "title": "美股AI芯片概念股盘前集体上涨， AMD 涨超6%，英伟达涨超4%",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005835605?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T09:13:07Z",
-   "tickers": [
-    "AMD",
-    "NVDA"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "8ae84946ef91db52",
-   "title": "UniCredit Seeks Commerzbank Chair Role for CEO Orcel After Takeover Clears Final Hurdle",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTFhLQXl6czBRZVFKUlRsdjU1VlFPYW9yTkZDQzRlSFFaSGpCeFZoMU93cHdfczlKemFWaHFiS3A2aVpJcVVTS01CSUk5TXZHMWFVbi1JcWVwSzRrRFRWeksybWVRZnhRM1h1VElnLWx6Y094U253THFBZlU1bHV3WU5zOUVEbVNLT3pIdmlDalFpTWlYUWc?oc=5",
-   "source": "WSJ",
-   "tier": 1,
-   "published_utc": "2026-11-27T09:12:59Z",
-   "tickers": [],
-   "cats": [
-    "mna"
-   ],
-   "score": 6,
    "link_is_redirect": true,
    "sec_filing": false
   }
