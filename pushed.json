@@ -106,6 +106,17 @@
    "event": "彭博社报道称澳航计划将约 20 架远程喷气式客机订单的大部分授予波音",
    "event_key": "ba|contract_financing|qantas",
    "delivery": "ok"
+  },
+  "25f316d1fd42c1b4": {
+   "utc": "2026-11-27T05:31:11.211162Z",
+   "published_utc": "2026-11-27T05:19:06Z",
+   "title": "Judge Blocks F.C.C. From Targeting Disney’s Local ABC Licenses",
+   "tickers": [
+    "DIS"
+   ],
+   "event": "法官发布初步禁令，阻止联邦通信委员会针对迪士尼旗下地方ABC牌照进行目标审查",
+   "event_key": "dis|regulatory|fcc",
+   "delivery": "ok"
   }
  },
  "pending": {}

@@ -1,16 +1,49 @@
 {
- "updated_utc": "2026-11-27T05:20:52.715877Z",
+ "updated_utc": "2026-11-27T05:31:06.027237Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 870,
-  "new": 3,
-  "candidates": 24,
-  "judged": 1,
-  "pushed": 0
+  "fetched": 853,
+  "new": 7,
+  "candidates": 29,
+  "judged": 6,
+  "pushed": 1
  },
  "items": [
+  {
+   "id": "13f5e8b0b1be965f",
+   "title": "Poor Regulation of $500 Billion Sand Trade Raises Construction Safety Concerns",
+   "summary": "An investigation into the uneven regulation and enforcement of a $500 billion industry raises questions about safety, the environment, and the law.",
+   "link": "https://www.bloomberg.com/features/2026-sand-mining/",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T05:22:20Z",
+   "tickers": [],
+   "cats": [
+    "reg",
+    "deal"
+   ],
+   "score": 6,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "25f316d1fd42c1b4",
+   "title": "Judge Blocks F.C.C. From Targeting Disney’s Local ABC Licenses",
+   "summary": "A preliminary injunction halted an early regulatory review of the network’s operations in eight cities, including New York, Los Angeles and Chicago.",
+   "link": "https://www.nytimes.com/2026/11/25/business/media/disney-fcc-abc-ruling.html",
+   "source": "NYT",
+   "tier": 1,
+   "published_utc": "2026-11-27T05:19:06Z",
+   "tickers": [
+    "DIS"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "aacb037ad239532b",
    "title": "“FSD就是现实版《侠盗猎车手》”：埃隆·马斯克表示，随着新版FSD更新带来类似电子游戏的驾驶视野， 特斯拉 汽车拥有“超越人类的视觉”",
@@ -76,6 +109,22 @@
    "sec_filing": false
   },
   {
+   "id": "527336567089b961",
+   "title": "Trump media group splashes out to woo shareholders before merger vote",
+   "summary": "TMTG expected to pay between $8mn and $13mn in fees plus expenses for proxy solicitation services",
+   "link": "https://www.ft.com/content/10a28fed-3825-4e07-804d-3c80c35229e5?syn-25a6b1a6=1",
+   "source": "FT",
+   "tier": 1,
+   "published_utc": "2026-11-27T05:02:01Z",
+   "tickers": [],
+   "cats": [
+    "mna"
+   ],
+   "score": 6,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
    "id": "07bfe1daa625c9f0",
    "title": "The Ellisons’ debt-fuelled takeover of Hollywood",
    "summary": "",
@@ -92,6 +141,22 @@
    "sec_filing": false
   },
   {
+   "id": "9119782105847dc5",
+   "title": "AI data centre boom piles pressure on stressed US defence sector",
+   "summary": "Boeing and leading defence contractors wrestle with ballooning backlogs fuelled by a surge in air travel and military spending",
+   "link": "https://www.ft.com/content/76143592-b1c8-42d2-bf4c-17aa87255467?syn-25a6b1a6=1",
+   "source": "FT",
+   "tier": 1,
+   "published_utc": "2026-11-27T05:01:01Z",
+   "tickers": [
+    "BA"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
    "id": "e36cd851a2c57934",
    "title": "Singapore Talking to US to Keep AI Chip Access, Deputy PM Says",
    "summary": "Singapore is in talks with the US to retain access to advanced semiconductors, Deputy Prime Minister Gan Kim Yong said, after Washington tightened restrictions on chip exports to the Southeast Asian nation.",
@@ -104,6 +169,39 @@
     "reg"
    ],
    "score": 5,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "7a090042ad3bce71",
+   "title": "The Ellisons’ debt-fuelled takeover of Hollywood",
+   "summary": "The billionaire family has pushed credit markets to their limits with $87bn in obligations",
+   "link": "https://www.ft.com/content/627323de-7ad0-4600-97c6-daac931c7ee1?syn-25a6b1a6=1",
+   "source": "FT",
+   "tier": 1,
+   "published_utc": "2026-11-27T05:00:31Z",
+   "tickers": [],
+   "cats": [
+    "mna",
+    "deal"
+   ],
+   "score": 7,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "8a4fcd5159be1781",
+   "title": "Why Jensen Huang’s ethics breach matters",
+   "summary": "Chief executive’s violation of Nvidia’s code of conduct sets poor example",
+   "link": "https://www.ft.com/content/1da49f07-9558-4e37-88e8-cc2088c27a58?syn-25a6b1a6=1",
+   "source": "FT",
+   "tier": 1,
+   "published_utc": "2026-11-27T05:00:13Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 4,
    "link_is_redirect": false,
    "sec_filing": false
   },
@@ -202,6 +300,22 @@
     "deal"
    ],
    "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "4c021f8aa2537e43",
+   "title": "[News] TSMC Affiliate GUC Reportedly Lands Tesla AI5 ASIC Project; 3nm Constraints May Limit Near-Term Ramp-Up",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQanR4RFRjUEo4d1BPeEFEMXhHWnJlWGZQU3JFaUJOd081TUN3ODU3QVIyU0N2SDMzMGsyOUVfbEx3bGQ4OF8wZ0dObm5Ia2JDRkc0T1ZxdllOYmtMTG50cUstWGg1RG9ORDZKUGhjcTU0TVJoTjl6ckNRTWJ4TEtFSGltM2U3UlJaVDRuWGI5bDlveEpTX3J3TzI5N29TazE1cnRLeFNTcml2MTJvMFB3UERmdEtxWkhNMUwtYmJPTDBMVmFhVWRYRm5SUzU4c0RXMFJMV1V0SGVNOHFMQVQ4dVc4YUVQZk5VWl9ERVdYZw?oc=5",
+   "source": "TrendForce",
+   "tier": 2,
+   "published_utc": "2026-11-27T04:13:39Z",
+   "tickers": [
+    "TSLA"
+   ],
+   "cats": [],
+   "score": 3,
    "link_is_redirect": true,
    "sec_filing": false
   },
