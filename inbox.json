@@ -1,13 +1,13 @@
 {
- "updated_utc": "2026-11-27T20:10:47.658787Z",
+ "updated_utc": "2026-11-27T20:20:46.493101Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 809,
-  "new": 4,
-  "candidates": 34,
-  "judged": 1,
+  "fetched": 808,
+  "new": 0,
+  "candidates": 27,
+  "judged": 0,
   "pushed": 0
  },
  "items": [
@@ -79,8 +79,8 @@
   },
   {
    "id": "1300eab9cd9630a4",
-   "title": "Puig to Buy 75% Stake in Artessence for About €1.2 Billion",
-   "summary": "Spanish company Puig Brands SA agreed to buy a 75% stake in Artessence Group, the owner of the brands Parfums de Marly and Initio Parfums Privés, for about €1.2 billion ($1.3 billion) in cash.",
+   "title": "Puig to Buy 75% Stake in Parfums de Marly Owner for €1.2 Billion",
+   "summary": "Spanish beauty company Puig Brands SA agreed to buy a 75% stake in Artessence Group, the owner of the brands Parfums de Marly and Initio Parfums Privés, for about €1.2 billion ($1.3 billion).",
    "link": "https://www.bloomberg.com/news/articles/2026-11-27/puig-to-buy-75-stake-in-artessence-for-about-1-2-billion",
    "source": "BBG",
    "tier": 1,
@@ -104,6 +104,22 @@
    "tickers": [],
    "cats": [
     "deal"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "278d046c65ad3c7c",
+   "title": "FTC Imposes Strict Board Restrictions on Beretta’s 25% Stake in Rival Sturm Ruger",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZlBMRWpBSDU0UTZEOGlKR1FZV0RSMW5HQTFqSlNad3dDT2hlSEdNTEpBOW9NQWZaOTAwQkRRZGJUY00xRkhtRzZnZm9SSHBib2ZsZE5idWpHN1VrVmdHbXpsMWtYdVBWRUU4Q3VsZG1nd3dUY29xQkhZLUszNnd6ZmlzdUVFMjBXRHU2OHUxTzZ3YndabUVibk8tRHFYdXV3LWgxMk5nQkItdVdOOEljcGRZOC1KUzRD?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T19:20:48Z",
+   "tickers": [],
+   "cats": [
+    "reg"
    ],
    "score": 5,
    "link_is_redirect": true,
@@ -2488,22 +2504,6 @@
    "sec_filing": false
   },
   {
-   "id": "278d046c65ad3c7c",
-   "title": "FTC Imposes Strict Board Restrictions on Beretta’s 25% Stake in Rival Sturm Ruger",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZlBMRWpBSDU0UTZEOGlKR1FZV0RSMW5HQTFqSlNad3dDT2hlSEdNTEpBOW9NQWZaOTAwQkRRZGJUY00xRkhtRzZnZm9SSHBib2ZsZE5idWpHN1VrVmdHbXpsMWtYdVBWRUU4Q3VsZG1nd3dUY29xQkhZLUszNnd6ZmlzdUVFMjBXRHU2OHUxTzZ3YndabUVibk8tRHFYdXV3LWgxMk5nQkItdVdOOEljcGRZOC1KUzRD?oc=5",
-   "source": "WSJ",
-   "tier": 1,
-   "published_utc": "2026-11-27T11:50:48Z",
-   "tickers": [],
-   "cats": [
-    "reg"
-   ],
-   "score": 5,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
    "id": "6da294184d8cc916",
    "title": "路透社：美国空军旗舰云平台 Cloud One 遭黑客入侵，美国网络司令部已介入评估",
    "summary": "深潮 TechFlow 消息，11 月 27 日，据路透社援引多名知情人士独家报道，黑客已入侵美国空军旗舰云计算平台 Cloud One，可能危及大量敏感的战术、人事及后勤数据。该入侵于过去约一个月内在系统升级期间被发现，目前已触发美国网络司令部（Cyber Command）介入评估损害。 知情人士称，入侵者利用软件漏洞触及平台控制平面，导致平台出现大范围业务中断，美军已暂停向 Cloud One 迁移后台应用、冻结既有应用更新，并撤销部分用户的管理员权限。目前尚无法确认黑客身份、入侵波及范围或是否有数据遭窃取。 公开资料显示，Cloud One 始建于 2017 年，整合了微软、亚马逊、甲骨文与 Alphabet 四家云厂商资源，主承包商于 2025 年由 SAIC 交接给 Leidos，承载包括北美防空雷达云端指挥控制及全球逾 200 处基地弹药追踪在内的数十款军事应用。美国空军回应称不对特定网络的安全态势与漏洞置评。",
@@ -3710,22 +3710,6 @@
    "cats": [],
    "score": 4,
    "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "5e1444786ebf0f45",
-   "title": "Iran, Turkey Extend Natural Gas Deal Amid US Pressure on Tehran",
-   "summary": "Turkey extended its long-term natural gas import contract with Iran, according to people familiar with the matter, securing a key source of income for Tehran as the US puts the Islamic Republic’s economy under pressure.",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-27/iran-turkey-extend-natural-gas-deal-amid-us-pressure-on-tehran",
-   "source": "BBG",
-   "tier": 1,
-   "published_utc": "2026-11-27T08:11:53Z",
-   "tickers": [],
-   "cats": [
-    "scoop"
-   ],
-   "score": 4,
-   "link_is_redirect": false,
    "sec_filing": false
   }
  ]
