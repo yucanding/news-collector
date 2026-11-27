@@ -1,16 +1,48 @@
 {
- "updated_utc": "2026-11-27T08:31:09.917576Z",
+ "updated_utc": "2026-11-27T08:40:46.888800Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 809,
-  "new": 4,
-  "candidates": 23,
-  "judged": 4,
+  "fetched": 853,
+  "new": 2,
+  "candidates": 24,
+  "judged": 0,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "5fb8473282eeebf0",
+   "title": "彭博社：英伟达恢复黄仁勋首席执行官职务",
+   "summary": "深潮 TechFlow 消息，11 月 27 日，据彭博社报道，英伟达恢复黄仁勋的首席执行官职务，推动科技股上涨。不过，这一变化并未消除市场对人工智能交易的担忧。",
+   "link": "https://www.techflowpost.com/newsletter/147212/bloomberg-nvidia-reinstates-jensen-huang-as-ceo",
+   "source": "TechFlow",
+   "tier": null,
+   "published_utc": "2026-11-27T08:31:04Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 2,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "2b71c72920dcfd3e",
+   "title": "黄仁勋回归后，力挺董事会的 英伟达 VP旧帖翻车：曾与Anthropic CEO在百度共事，Anthropic再被推上风口",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005829932?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T08:30:54Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "12327c9e5d5a7176",
    "title": "Jensen Huang is back at Nvidia, but the US still needs a plan B",
@@ -369,7 +401,7 @@
   },
   {
    "id": "714c20e52a6b4216",
-   "title": "Michael Burry就人工智能热潮发出严厉警告，英伟达、甲骨文和 Meta 面临债务保险成本飙升",
+   "title": "Michael Burry就人工智能热潮发出严厉警告， 英伟达 、甲骨文和Meta面临债务保险成本飙升",
    "summary": "",
    "link": "https://news.futunn.com/post/1005817017?futusource=news_search_searchnews&src=39",
    "source": "futu",
