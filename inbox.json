@@ -1,12 +1,12 @@
 {
- "updated_utc": "2026-11-27T23:20:57.802674Z",
+ "updated_utc": "2026-11-27T23:31:14.372416Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 787,
+  "fetched": 788,
   "new": 0,
-  "candidates": 30,
+  "candidates": 14,
   "judged": 0,
   "pushed": 0
  },
@@ -3145,72 +3145,6 @@
    "source": "BBG",
    "tier": 1,
    "published_utc": "2026-11-27T11:36:34Z",
-   "tickers": [],
-   "cats": [
-    "scoop"
-   ],
-   "score": 4,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "55d0c2b4fc2c00dd",
-   "title": "Capita's UK Pension Mess Shows Why Government Outsourcing Is a Mistake",
-   "summary": "Capita Plc lost three-quarters of its market value after replacing its chief executive officer amid a botched takeover of the UK’s Civil Service Pension Scheme. Who could possibly have seen this coming? Only everybody who remembers Carillion Plc, the outsourcing giant that collapsed in 2018 leaving a trail of chaos in its wake.",
-   "link": "https://www.bloomberg.com/opinion/articles/2026-11-27/capita-s-uk-pension-mess-shows-why-government-outsourcing-is-a-mistake",
-   "source": "BBG",
-   "tier": 1,
-   "published_utc": "2026-11-27T11:31:03Z",
-   "tickers": [],
-   "cats": [
-    "mna"
-   ],
-   "score": 6,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "3f1ac000b313dfa2",
-   "title": "Is Grocery Delivery Worth the Cost? (2026): DoorDash Options, Fees, and Savings Reviewed by Consumer365",
-   "summary": "NEW YORK, Nov. 27, 2026 /PRNewswire/ -- Consumer365 has recognized DoorDash in a 2026 feature review examining grocery delivery costs, membership benefits, and savings opportunities, highlighting the platform's approach to making everyday grocery shopping more convenient. The review...",
-   "link": "https://www.prnewswire.com/news-releases/is-grocery-delivery-worth-the-cost-2026-doordash-options-fees-and-savings-reviewed-by-consumer365-302951579.html",
-   "source": "PR Newswire",
-   "tier": 0,
-   "published_utc": "2026-11-27T11:30:00Z",
-   "tickers": [
-    "DASH"
-   ],
-   "cats": [],
-   "score": 3,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "1d56a73ff745f435",
-   "title": "Deutsche Boerse’s €5.3 billion Allfunds Bid Gets EU Approval",
-   "summary": "Deutsche Boerse AG’s €5.3 billion ($5.8 billion) deal for Allfunds Group Plc has won European Union unconditional approval, paving the way for the largest acquisition in the German exchange operator’s history.",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-27/deutsche-boerse-s-5-3-billion-allfunds-deal-gets-eu-approval",
-   "source": "BBG",
-   "tier": 1,
-   "published_utc": "2026-11-27T11:30:00Z",
-   "tickers": [],
-   "cats": [
-    "mna",
-    "reg",
-    "deal"
-   ],
-   "score": 7,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "5a18b0a9eef27d5c",
-   "title": "Fidelidade Said to Aim for Lisbon IPO From Second Half of 2027",
-   "summary": "Fidelidade – Companhia de Seguros SA is preparing for a potential initial public offering in Lisbon as soon as the second half of 2027, according to people familiar with the matter.",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-27/fidelidade-said-to-aim-for-lisbon-ipo-from-second-half-of-2027",
-   "source": "BBG",
-   "tier": 1,
-   "published_utc": "2026-11-27T11:25:27Z",
    "tickers": [],
    "cats": [
     "scoop"
