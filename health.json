@@ -1,0 +1,74 @@
+{
+ "terminal": {
+  "fails": 0,
+  "error": null
+ },
+ "futu": {
+  "fails": 0,
+  "error": null
+ },
+ "fda-press": {
+  "fails": 1,
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ftc-press": {
+  "fails": 1,
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "prn-finance": {
+  "fails": 0,
+  "error": null
+ },
+ "prn-tech": {
+  "fails": 0,
+  "error": null
+ },
+ "prn-health": {
+  "fails": 0,
+  "error": null
+ },
+ "gnw-mna": {
+  "fails": 1,
+  "error": "HTTPError: HTTP Error 403: Forbidden"
+ },
+ "gn-kuo-en": {
+  "fails": 0,
+  "error": null
+ },
+ "gn-kuo-zh": {
+  "fails": 0,
+  "error": null
+ },
+ "gn-t1-exclusive": {
+  "fails": 0,
+  "error": null
+ },
+ "gn-t1-mna": {
+  "fails": 0,
+  "error": null
+ },
+ "gn-wires": {
+  "fails": 0,
+  "error": null
+ },
+ "gn-short": {
+  "fails": 0,
+  "error": null
+ },
+ "gn-supply": {
+  "fails": 0,
+  "error": null
+ },
+ "gemini": {
+  "fails": 0,
+  "error": null
+ },
+ "state": {
+  "fails": 0,
+  "error": null
+ },
+ "config": {
+  "fails": 0,
+  "error": null
+ }
+}

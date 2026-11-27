@@ -1,571 +1,1115 @@
 {
-  "updated_utc": "2026-11-27T03:10:54.699172Z",
-  "window_hours": 12,
-  "sources_ok": [
-    "terminal",
-    "futu",
-    "google-news"
-  ],
-  "errors": [],
-  "stale": false,
-  "counts": {
-    "fetched": 938,
-    "inbox": 41,
-    "new": 1,
-    "judged": 0,
-    "pushed": 0
+ "updated_utc": "2026-11-27T03:20:48.270983Z",
+ "window_hours": 12,
+ "stale": false,
+ "errors": {
+  "fda-press": "HTTPError: HTTP Error 404: Not Found",
+  "ftc-press": "HTTPError: HTTP Error 404: Not Found",
+  "gnw-mna": "HTTPError: HTTP Error 403: Forbidden"
+ },
+ "counts": {
+  "fetched": 839,
+  "new": 67,
+  "candidates": 19,
+  "judged": 8,
+  "pushed": 1
+ },
+ "items": [
+  {
+   "id": "1beddbd64d94f572",
+   "title": "特斯拉 （ TSLA ）技术分析丨2026年11月27日",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005794552?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T03:11:00Z",
+   "tickers": [
+    "TSLA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
   },
-  "items": [
-    {
-      "id": "u:fc2171b75d537fb0",
-      "title": "The AI Boom Looks Alive and Well in Asia",
-      "summary": "Stocks are having a wild ride thanks to the Nvidia affair, but AI-linked exports and investment are still driving growth—for now.",
-      "link": "https://www.wsj.com/tech/ai/the-ai-boom-looks-alive-and-well-in-asia-59841697?mod=rss_Technology",
-      "source": "WSJ",
-      "published_utc": "2026-11-27T03:00:00Z",
-      "fetched_utc": "2026-11-27T03:10:54.699172Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:3fe01852825dcade",
-      "title": "荷兰反对美国 MATCH 法案，拟要求华盛顿不执行对华芯片设备出口限制",
-      "summary": "深潮 TechFlow 消息，11 月 27 日，据路透社报道，荷兰贸易部长 Sjoerd Sjoerdsma 11 月 26 日在议会表示，如果美国国会通过《MATCH 法案》，荷兰将要求美国政府不要执行相关限制措施。 该法案拟要求荷兰、日本等美国盟友进一步收紧对华半导体设备出口管制，否则可能面临美国单方面实施的出口限制，涉及阿斯麦（ASML）的浸没式深紫外光刻（DUV）设备。 Sjoerdsma 表示，荷兰正与欧盟委员会、德国及法国协调，争取阻止法案通过，并将评估必要的反制措施。ASML 预计中国市场将占其今年销售额约 20%。 目前该法案仍处于美国国会审议阶段，尚未正式生效。",
-      "link": "https://www.techflowpost.com/newsletter/147169/netherlands-opposes-us-match-act-chip-export-restrictions",
-      "source": "TechFlow",
-      "published_utc": "2026-11-27T02:57:18Z",
-      "fetched_utc": "2026-11-27T03:10:54.699172Z",
-      "tickers": [
-        "ASML"
-      ],
-      "cats": [
-        "chip"
-      ]
-    },
-    {
-      "id": "u:4d746651cf06a1a0",
-      "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
-      "summary": "The shipping halt, which hit four countries, follows a new U.S. rule that would require licenses for companies in the countries to buy advanced A.I. chips.",
-      "link": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
-      "source": "NYT",
-      "published_utc": "2026-11-27T02:45:41Z",
-      "fetched_utc": "2026-11-27T03:10:54.699172Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:0ba2e7b98367acec",
-      "title": "SpaceX 下调英伟达 Blackwell 现货租金至每小时 10 至 12 美元",
-      "summary": "深潮 TechFlow 消息，11 月 27 日，据 The Information 援引半导体研究机构 SemiAnalysis 数据报道，SpaceX 已将小规模英伟达 Blackwell GPU 集群的现货租赁价格，从每块 GPU 每小时约 15 至 15.5 美元下调至 10 至 12 美元，降幅约为 20% 至 35%。 报道指出，调整后的现货报价已与 SpaceX 向 Anthropic、Google 等大客户出租大规模 GPU 集群的长期协议价基本持平，意味着面向中小买家的短租稀缺溢价正在消退。 不过分析同时强调，此次调价主要发生在 SpaceX 的小规模现货短租市场，不宜据此直",
-      "link": "https://www.techflowpost.com/newsletter/147165/spacex-cuts-nvidia-blackwell-spot-rental-to-10-12-dollars-hour",
-      "source": "TechFlow",
-      "published_utc": "2026-11-27T02:24:16Z",
-      "fetched_utc": "2026-11-27T03:10:54.699172Z",
-      "tickers": [
-        "GOOGL",
-        "NVDA"
-      ],
-      "cats": [
-        "chip"
-      ]
-    },
-    {
-      "id": "u:400c65e9a207b347",
-      "title": "Dow Jones Top Company Headlines at 9 PM ET: Nvidia Tells Partners to Pause Shipments to Southeast Asia | Marlboro ...",
-      "summary": "",
-      "link": "https://news.futunn.com/post/1005793326?futusource=news_search_searchnews&src=39",
-      "source": "futu",
-      "published_utc": "2026-11-27T02:00:00Z",
-      "fetched_utc": "2026-11-27T03:01:29.278034Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:7b8209165f6cbfbd",
-      "title": "The Savvy Showmanship That Helps Jensen Huang Always Come Out on Top",
-      "summary": "As a longtime friend of the Nvidia CEO puts it, “Jensen will always pull a rabbit out of a hat.”",
-      "link": "https://www.wsj.com/business/jensen-huang-nvidia-ping-pong-rise-and-fall-bfd13000?mod=pls_whats_news_us_business_f",
-      "source": "WSJ",
-      "published_utc": "2026-11-27T02:00:00Z",
-      "fetched_utc": "2026-11-27T03:10:54.699172Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:df1261f0662bb6fa",
-      "title": "英特尔下一代芯片，提前曝光",
-      "summary": "",
-      "link": "https://news.futunn.com/post/1005792255?futusource=news_search_searchnews&src=39",
-      "source": "futu",
-      "published_utc": "2026-11-27T01:34:12Z",
-      "fetched_utc": "2026-11-27T03:10:54.699172Z",
-      "tickers": [
-        "INTC"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:3ffb13b924612e4f",
-      "title": "铠侠与英伟达将GPU内存扩展至PB级，以支持AI工作负载",
-      "summary": "",
-      "link": "https://news.futunn.com/post/1005789246?futusource=news_search_searchnews&src=39",
-      "source": "futu",
-      "published_utc": "2026-11-27T01:10:20Z",
-      "fetched_utc": "2026-11-27T03:01:29.278034Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:bfffeb24feaf09b3",
-      "title": "谷歌云文档显示已支持开源模型蒸馏微调",
-      "summary": "深潮 TechFlow 消息，11 月 27 日，据谷歌云（Google Cloud）Gemini Enterprise Agent Platform 官方文档，该平台已提供开源模型蒸馏微调（Distillation fine-tuning）服务，支持开发者通过 GenAI SDK 指定大型教师模型生成响应，以微调体量更小的学生模型。 文档显示，当前蒸馏微调支持的教师模型为 GLM 5.2 MaaS（zai-org/glm-5.2-maas），支持的学生模型涵盖 Qwen 3 系列（4B、8B、14B、32B）以及 Gemma 3 系列（1B IT、4B IT、12B IT、27B IT）。 ",
-      "link": "https://www.techflowpost.com/newsletter/147153/google-cloud-open-source-model-distillation-glm-5-2-qwen-3-gemma-3",
-      "source": "TechFlow",
-      "published_utc": "2026-11-27T01:04:12Z",
-      "fetched_utc": "2026-11-27T03:10:54.699172Z",
-      "tickers": [
-        "GOOGL"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:3ef65612be3d6a54",
-      "title": "股价回调背后暗藏新催化，物理AI或成英伟达下一个重磅增长故事",
-      "summary": "",
-      "link": "https://news.futunn.com/post/1005786301?futusource=news_search_searchnews&src=39",
-      "source": "futu",
-      "published_utc": "2026-11-27T01:00:00Z",
-      "fetched_utc": "2026-11-27T03:01:29.278034Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:0cce450db154d209",
-      "title": "Trump Says Huang Is Excited About His ‘Second Term’ at Nvidia",
-      "summary": "President Donald Trump said Jensen Huang is looking forward to his “second term” as chief executive officer of Nvidia Corp., reiterating his praise for the man whose reinstatement he pushed hard for despite bipartisan backlash over national security concerns.",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-27/trump-jensen-huang-ceo-second-term-at-nvidia",
-      "source": "BBG",
-      "published_utc": "2026-11-27T00:39:25Z",
-      "fetched_utc": "2026-11-27T02:20:56.442692Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:da88af957e848be7",
-      "title": "国金证券：晶圆制造2.0时代，台积电竞争优势有望延续",
-      "summary": "",
-      "link": "https://news.futunn.com/post/1005785946?futusource=news_search_searchnews&src=39",
-      "source": "futu",
-      "published_utc": "2026-11-27T00:33:42Z",
-      "fetched_utc": "2026-11-27T03:10:54.699172Z",
-      "tickers": [
-        "TSM"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:17e87f76f70f0334",
-      "title": "Japan Tobacco Climbs on Potential Imperial Brands Takeover",
-      "summary": "Japan Tobacco Inc. shares gained after news that the cigarette maker is exploring a potential takeover of Imperial Brands Plc with Altria Group Inc.",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-27/japan-tobacco-shares-climb-on-potential-imperial-brands-takeover",
-      "source": "BBG",
-      "published_utc": "2026-11-27T00:26:05Z",
-      "fetched_utc": "2026-11-27T03:10:54.699172Z",
-      "tickers": [],
-      "cats": [
-        "mna"
-      ]
-    },
-    {
-      "id": "u:dd35096085a68abd",
-      "title": "美国开启假日购物季，考验OpenAI、Meta、谷歌和亚马逊AI购物的时候到了",
-      "summary": "",
-      "link": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?futusource=news_search_searchnews&src=39#/index?id=nesSN2026112708302398cd6776&s=b",
-      "source": "futu",
-      "published_utc": "2026-11-27T00:25:16Z",
-      "fetched_utc": "2026-11-27T03:10:54.699172Z",
-      "tickers": [
-        "AMZN",
-        "GOOGL",
-        "META"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:8669b1982e3afc91",
-      "title": "特朗普：黄仁勋很高兴重返英伟达开启“第二个任期”",
-      "summary": "",
-      "link": "https://news.futunn.com/post/1005784597?futusource=news_search_searchnews&src=39",
-      "source": "futu",
-      "published_utc": "2026-11-27T00:08:00Z",
-      "fetched_utc": "2026-11-27T03:01:29.278034Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:2e8f3d0714023e49",
-      "title": "Trump: will likely talk to Nvidia's Huang shortly",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9869848/Trump-will-likely-talk-to-Nvidias-Huang-shortly.aspx?xy=rss",
-      "source": "FinancialJuice",
-      "published_utc": "2026-11-26T23:54:38Z",
-      "fetched_utc": "2026-11-27T03:10:54.699172Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:46b8a3437908081b",
-      "title": "15年前投资于特斯拉的$100如今价值几何",
-      "summary": "",
-      "link": "https://news.futunn.com/post/1005782865?futusource=news_search_searchnews&src=39",
-      "source": "futu",
-      "published_utc": "2026-11-26T23:15:11Z",
-      "fetched_utc": "2026-11-27T03:10:54.699172Z",
-      "tickers": [
-        "TSLA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:1c42372e64d5f80b",
-      "title": "Targa Said to Be in Talks to Buy Kinetik, Gaining More Permian Gas Scale - Briefs Finance",
-      "summary": "Targa Said to Be in Talks to Buy Kinetik, Gaining More Permian Gas Scale Briefs Finance",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWGkxbW12bVFpbTIzUE1pWHZ3cm9jSXJnQUVweGU5aFhXaHVTTUlkTzJRQ0dZVTh3aGNoQjl1Mzk0TXMtTUZKQ0psZkh1S3VyZWs4S0tva1V2bFlUUlluVUtsRUpWTUdSOVp4LUtrbF9ieUZhYnoxcU80OWJyQjNtZ20yQm1JUXlfREx4eXNZaHZDQQ?oc=5",
-      "source": "google-news:Briefs Finance",
-      "published_utc": "2026-11-26T22:32:09Z",
-      "fetched_utc": "2026-11-27T03:10:54.699172Z",
-      "tickers": [],
-      "cats": [
-        "mna"
-      ],
-      "link_is_redirect": true
-    },
-    {
-      "id": "u:97a06297ba440ac0",
-      "title": "Holidays to Test AI Shopping Bots From Google, Amazon, Meta and OpenAI",
-      "summary": "Google, Amazon, Meta and OpenAI all want to help pick your holiday gifts. Whose advice will shoppers take?",
-      "link": "https://www.bloomberg.com/news/features/2026-11-26/holidays-to-test-ai-shopping-bots-from-google-amazon-meta-and-openai",
-      "source": "BBG",
-      "published_utc": "2026-11-26T22:00:04Z",
-      "fetched_utc": "2026-11-27T03:10:54.699172Z",
-      "tickers": [
-        "AMZN",
-        "GOOGL",
-        "META"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:24773cf1d893c97e",
-      "title": "Japan's Jera aims to build Anthropic and Meta data centers near power plants - Nikkei $META",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9869800/Japans-Jera-aims-to-build-Anthropic-and-Meta-data-centers-near-power-plants---Nikkei-META.aspx?xy=rss",
-      "source": "FinancialJuice",
-      "published_utc": "2026-11-26T21:56:45Z",
-      "fetched_utc": "2026-11-27T03:10:54.699172Z",
-      "tickers": [
-        "META"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:22a7f568d1ea07d7",
-      "title": "Jera Global CEO and Chair: The energy group is in discussions with Amazon, Microsoft, and Google - Nikkei. $GOOGL $AMZN $MSFT",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9869799/Jera-Global-CEO-and-Chair-The-energy-group-is-in-discussions-with-Amazon-Microsoft-and-Google---Nikkei-GOOGL-AMZN-MSFT.aspx?xy=rss",
-      "source": "FinancialJuice",
-      "published_utc": "2026-11-26T21:56:10Z",
-      "fetched_utc": "2026-11-27T03:10:54.699172Z",
-      "tickers": [
-        "AMZN",
-        "GOOGL",
-        "MSFT"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:abf1b368ed95c399",
-      "title": "Japan Tobacco, Altria Explore Imperial Brands Takeover",
-      "summary": "Get caught up.",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-11-26/japan-tobacco-altria-explore-imperial-brands-takeover",
-      "source": "BBG",
-      "published_utc": "2026-11-26T21:33:59Z",
-      "fetched_utc": "2026-11-27T03:10:54.699172Z",
-      "tickers": [],
-      "cats": [
-        "mna"
-      ]
-    },
-    {
-      "id": "u:dab4faa57d68f50b",
-      "title": "Jensen Huang Is Back, and So Is His Plaque at Denny’s",
-      "summary": "The chain said it had restored a plaque honoring Mr. Huang above a booth in San Jose, Calif., after he was reinstated at Nvidia, the company he is said to have co-founded while eating there.",
-      "link": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html",
-      "source": "NYT",
-      "published_utc": "2026-11-26T21:25:16Z",
-      "fetched_utc": "2026-11-27T03:10:54.699172Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:833c3ecc757a2e5b",
-      "title": "为何Reddit在假日礼品流量方面碾压亚马逊和沃尔玛",
-      "summary": "",
-      "link": "https://news.futunn.com/post/1005776936?futusource=news_search_searchnews&src=39",
-      "source": "futu",
-      "published_utc": "2026-11-26T20:20:06Z",
-      "fetched_utc": "2026-11-27T03:01:29.278034Z",
-      "tickers": [
-        "AMZN",
-        "WMT"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:b1175a8f6415d99c",
-      "title": "感恩节购物正转向移动端。苹果和亚马逊或将从$44亿的趋势中受益",
-      "summary": "",
-      "link": "https://news.futunn.com/post/1005775850?futusource=news_search_searchnews&src=39",
-      "source": "futu",
-      "published_utc": "2026-11-26T19:45:05Z",
-      "fetched_utc": "2026-11-27T03:10:54.699172Z",
-      "tickers": [
-        "AAPL",
-        "AMZN"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:db5f2f8ae947bca4",
-      "title": "埃隆·马斯克表示，一旦特斯拉机器人能在18个月内完成洗碗和倒垃圾等家务，‘几乎所有人都会想要一台，甚至两台’。",
-      "summary": "",
-      "link": "https://news.futunn.com/post/1005775446?futusource=news_search_searchnews&src=39",
-      "source": "futu",
-      "published_utc": "2026-11-26T19:30:08Z",
-      "fetched_utc": "2026-11-27T03:10:54.699172Z",
-      "tickers": [
-        "TSLA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:5e1c41fc40c37599",
-      "title": "谷歌的亚马逊盲点：Gemini 推荐亚马逊的频率高于任何其他零售商，但从不提供链接",
-      "summary": "",
-      "link": "https://news.futunn.com/post/1005775097?futusource=news_search_searchnews&src=39",
-      "source": "futu",
-      "published_utc": "2026-11-26T19:20:07Z",
-      "fetched_utc": "2026-11-27T03:01:29.278034Z",
-      "tickers": [
-        "AMZN",
-        "GOOGL"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:35b6d5e248eccbba",
-      "title": "Regreso de Jensen Huang a Nvidia desafía reglas de #MeToo en empresas de EE.UU.",
-      "summary": "Nvidia devolvió el mando a Jensen Huang pese a revelaciones que habrían sellado la salida de otros CEO. Expertos advierten que la decisión puede sentar un precedente sobre poder, ética y trato a empleados.",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-26/regreso-de-jensen-huang-a-nvidia-desafia-reglas-de-metoo-en-empresas-de-ee-uu-mwxxg6sf",
-      "source": "BBG",
-      "published_utc": "2026-11-26T19:10:10Z",
-      "fetched_utc": "2026-11-26T21:31:14.000805Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:ec30fe20bd108cde",
-      "title": "此前报道：“英伟达要求合作伙伴暂停向东南亚发货；华盛顿堵住漏洞，阻止中国企业利用该地区算力”——《华尔街日报》独家",
-      "summary": "",
-      "link": "https://news.futunn.com/post/1005773144?futusource=news_search_searchnews&src=39",
-      "source": "futu",
-      "published_utc": "2026-11-26T18:09:08Z",
-      "fetched_utc": "2026-11-27T03:01:29.278034Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:c95592a497589b5c",
-      "title": "Dow Jones Top Company Headlines at 1 PM ET: Nvidia Tells Partners to Pause Shipments to Southeast Asia | Marlboro ...",
-      "summary": "",
-      "link": "https://news.futunn.com/post/1005772844?futusource=news_search_searchnews&src=39",
-      "source": "futu",
-      "published_utc": "2026-11-26T18:00:00Z",
-      "fetched_utc": "2026-11-27T03:01:29.278034Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:1f04bbec4bcea4df",
-      "title": "Marlboro Maker Altria Explores Deal for Rival Imperial Brands",
-      "summary": "A takeover of Imperial, which has a market value of around $30 billion, would expand Altria’s global footprint.",
-      "link": "https://www.wsj.com/business/deals/altria-considering-possible-offer-for-imperial-brands-7cef494b?mod=pls_whats_news_us_business_f",
-      "source": "WSJ",
-      "published_utc": "2026-11-26T17:58:00Z",
-      "fetched_utc": "2026-11-27T03:10:54.699172Z",
-      "tickers": [],
-      "cats": [
-        "mna"
-      ]
-    },
-    {
-      "id": "u:673cbba694b1c13b",
-      "title": "KKR Banks Line Up €550 Million of Debt to Back Logoplaste Buyout",
-      "summary": "Banks have lined up €550 million ($603.5 million) of loans to back KKR & Co.’s acquisition of packaging company Logoplaste, according to people familiar with the situation.",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-26/kkr-banks-line-up-550-million-of-debt-to-back-logoplaste-buyout",
-      "source": "BBG",
-      "published_utc": "2026-11-26T17:47:30Z",
-      "fetched_utc": "2026-11-27T00:31:13.638299Z",
-      "tickers": [],
-      "cats": [
-        "mna"
-      ]
-    },
-    {
-      "id": "u:550203097cd997d9",
-      "title": "Altria explores takeover bid for Imperial Brands",
-      "summary": "Deal would remove another of the UK’s large listed companies from the London stock market Oliver Barnes",
-      "link": "https://www.ft.com/content/696e99b0-f6d1-4a1a-95b0-f68de88520d9?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss",
-      "source": "FT",
-      "published_utc": "2026-11-26T17:46:48Z",
-      "fetched_utc": "2026-11-27T03:10:54.699172Z",
-      "tickers": [],
-      "cats": [
-        "mna"
-      ]
-    },
-    {
-      "id": "u:d2e4d5701e88eb6f",
-      "title": "Nvidia Tells Partners to Pause Shipments to Southeast Asia",
-      "summary": "Washington recently closed a remote-access loophole that helped Chinese companies tap in to computing power in the region.",
-      "link": "https://www.wsj.com/tech/nvidia-tells-partners-to-pause-shipments-to-southeast-asia-5b791cb0?mod=rss_Technology",
-      "source": "WSJ",
-      "published_utc": "2026-11-26T17:06:00Z",
-      "fetched_utc": "2026-11-27T03:10:54.699172Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:319f66773bb695db",
-      "title": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say",
-      "summary": "A new BIS rule was intended to close \"loopholes,\" U.S. Trade Representative Jamieson Greer told CNBC's \"Squawk Box\" on Wednesday.",
-      "link": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html",
-      "source": "CNBC",
-      "published_utc": "2026-11-26T17:04:54Z",
-      "fetched_utc": "2026-11-27T03:10:54.699172Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": [
-        "fed"
-      ]
-    },
-    {
-      "id": "u:f3690f0c6d4b0e75",
-      "title": "如果你在20年前投资了$100购买微软股票，那么今天你将拥有这么多",
-      "summary": "",
-      "link": "https://news.futunn.com/post/1005769732?futusource=news_search_searchnews&src=39",
-      "source": "futu",
-      "published_utc": "2026-11-26T16:45:24Z",
-      "fetched_utc": "2026-11-27T03:10:54.699172Z",
-      "tickers": [
-        "MSFT"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:340e8a9eca3a0bf4",
-      "title": "特斯拉与通用汽车、法拉利及汽车行业其他公司的对比。",
-      "summary": "",
-      "link": "https://news.futunn.com/post/1005769371?futusource=news_search_searchnews&src=39",
-      "source": "futu",
-      "published_utc": "2026-11-26T16:30:29Z",
-      "fetched_utc": "2026-11-27T03:10:54.699172Z",
-      "tickers": [
-        "GM",
-        "TSLA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:7a5f762411a23fe9",
-      "title": "消息称 SAP 考虑在重组中裁员至少 1 万人",
-      "summary": "深潮 TechFlow 消息，11 月 27 日，据 Solid Intel 消息，软件公司 SAP 考虑在重组过程中裁减至少 1 万个岗位。",
-      "link": "https://www.techflowpost.com/newsletter/147129/sap-considers-10000-layoffs-in-restructuring",
-      "source": "TechFlow",
-      "published_utc": "2026-11-26T16:27:16Z",
-      "fetched_utc": "2026-11-27T03:10:54.699172Z",
-      "tickers": [
-        "INTC"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:c73447a173c4cb1b",
-      "title": "英伟达要求合作伙伴暂停向东南亚发货",
-      "summary": "深潮 TechFlow 消息，11 月 27 日，据华尔街日报报道，英伟达要求合作伙伴暂停向东南亚发货。华盛顿近期关闭了一个远程访问漏洞，该漏洞曾帮助中国企业使用东南亚地区的算力。",
-      "link": "https://www.techflowpost.com/newsletter/147127/nvidia-asks-partners-to-pause-shipments-to-southeast-asia",
-      "source": "TechFlow",
-      "published_utc": "2026-11-26T16:07:19Z",
-      "fetched_utc": "2026-11-27T03:10:54.699172Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:e97143c171fa12e4",
-      "title": "Chip sellers have told neoclouds they won't supply Nvidia chips if any of the computing capacity will be rented to Chinese companies - CNBC. $NVDA",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9869618/Chip-sellers-have-told-neoclouds-they-wont-supply-Nvidia-chips-if-any-of-the-computing-capacity-will-be-rented-to-Chinese-companies---CNBC-NVDA.aspx?xy=rss",
-      "source": "FinancialJuice",
-      "published_utc": "2026-11-26T16:05:39Z",
-      "fetched_utc": "2026-11-27T03:10:54.699172Z",
-      "tickers": [
-        "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:21c37fb463bf09a8",
-      "title": "Musk makes $18 billion SpaceX stock pledge for every kid in America",
-      "summary": "Elon Musk on Wednesday pledged two SpaceX shares for every child in America, doubling an offer he made just last month. Why it matters: The $18 billion-plus giveaway roughly triples Michael Dell's once record-breaking Trump accounts gift . What they're saying: \" Every child in America will receive t",
-      "link": "https://www.axios.com/2026/11/26/musk-spacex-shares-trump-accounts",
-      "source": "Axios",
-      "published_utc": "2026-11-26T15:54:15Z",
-      "fetched_utc": "2026-11-27T03:10:54.699172Z",
-      "tickers": [
-        "DELL"
-      ],
-      "cats": []
-    }
-  ]
+  {
+   "id": "e572df573bc3cd6b",
+   "title": "台积电 （ TSM ）技术分析丨2026年11月27日",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005794517?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T03:11:00Z",
+   "tickers": [
+    "TSM"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "1469a141cad8a0ca",
+   "title": "美光科技（ MU ）技术分析丨2026年11月27日",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005794344?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T03:11:00Z",
+   "tickers": [
+    "MU"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "9cbf2e7e7a3ff800",
+   "title": "闪迪 （ SNDK ）技术分析丨2026年11月27日",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005794319?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T03:11:00Z",
+   "tickers": [
+    "SNDK"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "fc2171b75d537fb0",
+   "title": "The AI Boom Looks Alive and Well in Asia",
+   "summary": "Stocks are having a wild ride thanks to the Nvidia affair, but AI-linked exports and investment are still driving growth—for now.",
+   "link": "https://www.wsj.com/tech/ai/the-ai-boom-looks-alive-and-well-in-asia-59841697?mod=rss_Technology",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T03:00:00Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "3fe01852825dcade",
+   "title": "荷兰反对美国 MATCH 法案，拟要求华盛顿不执行对华芯片设备出口限制",
+   "summary": "深潮 TechFlow 消息，11 月 27 日，据路透社报道，荷兰贸易部长 Sjoerd Sjoerdsma 11 月 26 日在议会表示，如果美国国会通过《MATCH 法案》，荷兰将要求美国政府不要执行相关限制措施。 该法案拟要求荷兰、日本等美国盟友进一步收紧对华半导体设备出口管制，否则可能面临美国单方面实施的出口限制，涉及阿斯麦（ASML）的浸没式深紫外光刻（DUV）设备。 Sjoerdsma 表示，荷兰正与欧盟委员会、德国及法国协调，争取阻止法案通过，并将评估必要的反制措施。ASML 预计中国市场将占其今年销售额约 20%。 目前该法案仍处于美国国会审议阶段，尚未正式生效。",
+   "link": "https://www.techflowpost.com/newsletter/147169/netherlands-opposes-us-match-act-chip-export-restrictions",
+   "source": "TechFlow",
+   "tier": null,
+   "published_utc": "2026-11-27T02:57:18Z",
+   "tickers": [
+    "ASML"
+   ],
+   "cats": [],
+   "score": 2,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "a4ad02c9fc75a14b",
+   "title": "Two Years After Trump’s Tariff Declaration, Canada Tries to Move On",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaWdwNl9jTnFFSS10Z3BXNVZOWjR6N3ItM3d4MHhIcXZ1TGtyQS03UUV4a0FuYVdMd3FaZ0VVQ09QUTl6d3RDU1RJQW1fcVM3aGZMWURHanZmN3BQanNhT1FVa3Fwb0pUYmtmb3poMm5ZZ0gwelVieGVOQUozVHlXYlkxV1Q4azV5MlNfbEw1T1lSbnFyNndwNjlWUDVBWGFjZkZiUVJLY1dRcU9PU1QwQUZ4V2lnZ3IwNTNGcXMwQldueE5fVWc?oc=5",
+   "source": "Bloomberg.com",
+   "tier": 1,
+   "published_utc": "2026-11-27T02:52:48Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "4d746651cf06a1a0",
+   "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
+   "summary": "The shipping halt, which hit four countries, follows a new U.S. rule that would require licenses for companies in the countries to buy advanced A.I. chips.",
+   "link": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
+   "source": "NYT",
+   "tier": 1,
+   "published_utc": "2026-11-27T02:45:41Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "504450735dd7eeb1",
+   "title": "Nifty’s Sharp November Rally Gives India’s IPO Hopefuls a Tailwind",
+   "summary": "Firms have raised about $18.6 billion through IPOs this year, with a flurry of deals expected in December.",
+   "link": "https://www.bloomberg.com/news/newsletters/2026-11-27/nifty-s-sharp-november-rally-gives-india-s-ipo-hopefuls-a-tailwind",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T02:30:22Z",
+   "tickers": [],
+   "cats": [
+    "deal"
+   ],
+   "score": 5,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "cc8d291778e6f3df",
+   "title": "Philippines' trade deficit widens to a record $6.9 billion in October",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUm1LcXZYU3FPbVZuWlpvYjdyYWpTNVBxVi1NaEZSU1M2YnNQTk9IMGVfOGpCazRuNmF6dHBIOXIxR0dOOWRTaHA2aVhFYW5Yd3VHRE5mZEZEcEVodEg3T3pPa2R5QWlwdjdPNDhpakh5Q2QxTVBCTWw3ZzhEZVUzRjJYZm1tZW81aFA1TkpaMEtOcFZTcFRNS2I4WklhN096TWEyZFIwYjNNVDQ?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T02:27:00Z",
+   "tickers": [],
+   "cats": [
+    "deal"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "0ba2e7b98367acec",
+   "title": "SpaceX 下调英伟达 Blackwell 现货租金至每小时 10 至 12 美元",
+   "summary": "深潮 TechFlow 消息，11 月 27 日，据 The Information 援引半导体研究机构 SemiAnalysis 数据报道，SpaceX 已将小规模英伟达 Blackwell GPU 集群的现货租赁价格，从每块 GPU 每小时约 15 至 15.5 美元下调至 10 至 12 美元，降幅约为 20% 至 35%。 报道指出，调整后的现货报价已与 SpaceX 向 Anthropic、Google 等大客户出租大规模 GPU 集群的长期协议价基本持平，意味着面向中小买家的短租稀缺溢价正在消退。 不过分析同时强调，此次调价主要发生在 SpaceX 的小规模现货短租市场，不宜据此直接推演为整个 AI 算力租赁市场的全面跌价。随着谷歌等科技巨头自研 AI 芯片产能逐步释放，市场对算力供需格局的关注正在升温。",
+   "link": "https://www.techflowpost.com/newsletter/147165/spacex-cuts-nvidia-blackwell-spot-rental-to-10-12-dollars-hour",
+   "source": "TechFlow",
+   "tier": null,
+   "published_utc": "2026-11-27T02:24:16Z",
+   "tickers": [
+    "GOOGL",
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 2,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "7ffd9ab2409f2bdd",
+   "title": "亚马逊 盯上站外商品，电商平台开始争夺买家的第一站",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005801634?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T02:20:00Z",
+   "tickers": [
+    "AMZN"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "0b15819517cc2b48",
+   "title": "Apple rumoured to be working on a large foldable iPad with a 20-inch display.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYmhsV2t5VG9OczlQd2NlNDNEMEc1N2ZZUW5sZnR5dWxUY0N0bEItNVk5T0QwVkRVaWlKQVVjSVhLcURzczJtRDFucHpYN25WUU51MmxYY0VyMGJiT1g3V0M5ckp2NXJDSldXcExmQXFkVTl3VC1IRVM4SEFnN1E0MkVjejJFclZwYUJ2djlJem4zcE9EMEYwdk5mTUk?oc=5",
+   "source": "HardwareZone",
+   "tier": null,
+   "published_utc": "2026-11-27T02:14:11Z",
+   "tickers": [
+    "AAPL"
+   ],
+   "cats": [],
+   "score": 2,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "e4f96c0963ef2e32",
+   "title": "JPMorgan, BlackRock Bid for Slice of $543 Billion Singapore Fund",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPenB3UVNnVVFGc2lIMi1sZmF5NkRBdXMyWmltS3dSSnVQNmtjUUJjLWdvdW5uMXZ3dGJKbzBQTGFUV3BWNFFOQTZqSmpUNzhtUTByNzhDNDdLZEJ0RTlSMEt3ZVpNSmxFWnlJQm1TaWE0VV9JbnFQZkp0SmliSTBVcDVQMDUzckZoNXh5WERRMTh6WE9mREc1UHBjczc4TnRxWFpnRDdYTmlIem51TGhPVVM4MjZlMDg?oc=5",
+   "source": "Bloomberg.com",
+   "tier": 1,
+   "published_utc": "2026-11-27T02:07:00Z",
+   "tickers": [
+    "JPM"
+   ],
+   "cats": [
+    "deal"
+   ],
+   "score": 7,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "fff0d78471bc9379",
+   "title": "Japan Tobacco Shares Climb on Potential Imperial Brands Takeover",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUnVvTDRiN0xxaEpYclBWdVdsczVJNkJhM1dMZ3l3WUpySXRmaEJicXVuQm5kUW01MG9qYjFhZUVpa3JZMjllUWZ3N1BaTlZWR0d0ck9XUXF0dXFKeHlELWNIWlV2NVdQc3F5R0tRRGlyb0JmRlRYcE1UMWpLNDdoanFxSTJVeHlEcnZDc1RDcEJQV0tTdjQ1OEx6N2hhZEhTV2Joc2dtQi1FR20tc3dkcWNsY0x3Zw?oc=5",
+   "source": "Bloomberg.com",
+   "tier": 1,
+   "published_utc": "2026-11-27T02:03:00Z",
+   "tickers": [],
+   "cats": [
+    "mna"
+   ],
+   "score": 6,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "7b8209165f6cbfbd",
+   "title": "The Savvy Showmanship That Helps Jensen Huang Always Come Out on Top",
+   "summary": "As a longtime friend of the Nvidia CEO puts it, “Jensen will always pull a rabbit out of a hat.”",
+   "link": "https://www.wsj.com/business/jensen-huang-nvidia-ping-pong-rise-and-fall-bfd13000?mod=pls_whats_news_us_business_f",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T02:00:00Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "62dd9ad5e0f9ad10",
+   "title": "Dow Jones Top Company Headlines at 9 PM ET: Nvidia Tells Partners to Pause Shipments to Southeast Asia | Marlboro ...",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005793326?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T02:00:00Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "ec5778deec90994b",
+   "title": "Japan eyeing $350 billion five-year defence plan, below military's wishes, Asahi reports",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTm84alU4MjJWRXBIWEI5MWxkRi15MkVTck42T08tN2RiRU5HVVpReXdjdzZlY1ZCMDRhbV9qUms3TGhncHZJNjFTQ0JKa1lOVlpNY2RsRWNFaW5mOGhlYm94LUxlc3IxOW50ZGtaMXdJSmFPanQtSnEzVExWb1lWUktQb0NvdnFJV1pKend0QTVHMlFKcnJzTG94bG5GVklRNi04STBaN0Z2aWdmTVVaOE5rR1ZudWFIbzNUZ256SnMzOVlWY2VBa1c2OA?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T01:41:00Z",
+   "tickers": [],
+   "cats": [
+    "deal"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "f37c503bb233c30d",
+   "title": "英特尔 下一代芯片，提前曝光",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005792255?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T01:34:12Z",
+   "tickers": [
+    "INTC"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "6146cb277fd1a6b5",
+   "title": "市场传闻：JERA正就东京发电厂附近的数据中心建设与Anthropic、 Meta 进行洽谈",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005789707?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T01:16:16Z",
+   "tickers": [
+    "META"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "dd743b3e635955a2",
+   "title": "铠侠与 英伟达 将GPU内存扩展至PB级，以支持AI工作负载",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005789246?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T01:10:20Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "bfffeb24feaf09b3",
+   "title": "谷歌云文档显示已支持开源模型蒸馏微调",
+   "summary": "深潮 TechFlow 消息，11 月 27 日，据谷歌云（Google Cloud）Gemini Enterprise Agent Platform 官方文档，该平台已提供开源模型蒸馏微调（Distillation fine-tuning）服务，支持开发者通过 GenAI SDK 指定大型教师模型生成响应，以微调体量更小的学生模型。 文档显示，当前蒸馏微调支持的教师模型为 GLM 5.2 MaaS（zai-org/glm-5.2-maas），支持的学生模型涵盖 Qwen 3 系列（4B、8B、14B、32B）以及 Gemma 3 系列（1B IT、4B IT、12B IT、27B IT）。 谷歌云在文档中介绍，蒸馏微调适用于将强推理教师模型的思维链与复杂多步推理能力迁移至小模型，典型场景包括数学与定量推理，以及科学、医疗等专业领域问答。计费方面，用户需按微调训练 Token 数量付费，并按托管模型（MaaS）定价支付调用教师模型生成响应的 API 费用。",
+   "link": "https://www.techflowpost.com/newsletter/147153/google-cloud-open-source-model-distillation-glm-5-2-qwen-3-gemma-3",
+   "source": "TechFlow",
+   "tier": null,
+   "published_utc": "2026-11-27T01:04:12Z",
+   "tickers": [
+    "GOOGL"
+   ],
+   "cats": [],
+   "score": 2,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "6aba2d4088a38f91",
+   "title": "股价回调背后暗藏新催化，物理AI或成 英伟达 下一个重磅增长故事",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005786301?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T01:00:00Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "a9b4a2b4652be59f",
+   "title": "Singapore Wealth Firm Farro Plans Hong Kong Office With 20 Hires",
+   "summary": "Singapore-based multi-family office Farro Capital is expanding to Hong Kong, with a plan to hire 20 staff and manage an additional $1 billion in the city within 18 months.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/singapore-wealth-firm-farro-plans-hong-kong-office-with-20-hires",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T00:50:40Z",
+   "tickers": [],
+   "cats": [
+    "deal"
+   ],
+   "score": 5,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "a176e49b8f66fcbe",
+   "title": "Japan GPIF to Brief on Every Asset-Mix Review, Not Just Some",
+   "summary": "Japan’s Government Pension Investment Fund is now reporting the results of every review of its strategic asset allocation to its board, rather than only sometimes when deemed necessary.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/japan-gpif-to-brief-on-every-asset-mix-review-not-just-some",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T00:34:44Z",
+   "tickers": [],
+   "cats": [
+    "supply"
+   ],
+   "score": 5,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "fefc3f580ef6f02a",
+   "title": "国金证券：晶圆制造2.0时代， 台积电 竞争优势有望延续",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005785946?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T00:33:42Z",
+   "tickers": [
+    "TSM"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "7d1dac982ac5803b",
+   "title": "SAP 发现软件开发平台存在可疑活动",
+   "summary": "深潮 TechFlow 消息，11 月 27 日，据德国《商报》转载德新社报道，SAP 表示已发现可疑活动，并立即采取措施保护客户和服务安全。目前调查未发现客户业务数据遭未经授权访问的迹象。德新社部分查看的内部通知显示，可疑活动出现在 SAP 用于开发者生产力和软件交付的 GitHub 平台内。SAP 尚未确认此前有关黑客攻击的报道。",
+   "link": "https://www.techflowpost.com/newsletter/147148/sap-discovers-suspicious-activity-on-software-development-platform",
+   "source": "TechFlow",
+   "tier": null,
+   "published_utc": "2026-11-27T00:29:13Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 3,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "17e87f76f70f0334",
+   "title": "Japan Tobacco Climbs on Potential Imperial Brands Takeover",
+   "summary": "Japan Tobacco Inc. shares gained after news that the cigarette maker is exploring a potential takeover of Imperial Brands Plc with Altria Group Inc.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/japan-tobacco-shares-climb-on-potential-imperial-brands-takeover",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T00:26:05Z",
+   "tickers": [],
+   "cats": [
+    "mna"
+   ],
+   "score": 6,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "5c29f81d47fe557c",
+   "title": "微软 M365大宕机后启动“红色警戒”",
+   "summary": "",
+   "link": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?futusource=news_search_searchnews&src=39#/index?id=nesSN20261127090028b69dbe94&s=b",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T00:21:51Z",
+   "tickers": [
+    "MSFT"
+   ],
+   "cats": [
+    "incident"
+   ],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "c7f94d9041415d0c",
+   "title": "特朗普：黄仁勋很高兴重返 英伟达 开启“第二个任期”",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005784597?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T00:08:00Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "b72064708ff99977",
+   "title": "Trump: will likely talk to Nvidia's Huang shortly",
+   "summary": "",
+   "link": "https://www.financialjuice.com/News/9869848/Trump-will-likely-talk-to-Nvidias-Huang-shortly.aspx?xy=rss",
+   "source": "FinancialJuice",
+   "tier": 3,
+   "published_utc": "2026-11-26T23:54:38Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "45c55b110fdf3f05",
+   "title": "日本电力公司JERA据悉同Anthropic、 Meta 等科技巨头洽谈数据中心事宜",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005783820?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-26T23:47:00Z",
+   "tickers": [
+    "META"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "ca9d883c81df0607",
+   "title": "15年前投资于 特斯拉 的$100如今价值几何",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005782865?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-26T23:15:11Z",
+   "tickers": [
+    "TSLA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "d2310e728ada2a62",
+   "title": "Let’s keep doing lunch: Hong Kong exchange leans towards keeping noon break, sources say",
+   "summary": "Lunch is likely to remain on the menu for Hong Kong stock brokers, as the city’s bourse operator leans towards extending trading hours at either end of the day while keeping the market’s traditional mid-day break intact, according to multiple sources. Hong Kong Exchanges and Clearing (HKEX) will not highlight the idea of cancelling the current hour-long noon break when it issues a discussion paper on its operating hours as early as next week, sources with knowledge of the matter told the South...",
+   "link": "https://www.scmp.com/business/markets/article/3375915/lets-keep-doing-lunch-hong-kong-exchange-leans-towards-keeping-noon-break-sources-say",
+   "source": "SCMP",
+   "tier": null,
+   "published_utc": "2026-11-26T23:00:10Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 2,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "5f6933976c8dbf3a",
+   "title": "Gene Solutions' SPOT-MAS 10 Receives Class C IVD Registration from Singapore's HSA for Blood-Based Multi-Cancer Screening",
+   "summary": "SINGAPORE, Nov. 26, 2026 /PRNewswire/ -- Gene Solutions today announced that Singapore's Health Sciences Authority (HSA) has approved the registration application of SPOT-MAS 10 as a Class C in vitro diagnostic (IVD) medical device. Based on the Singapore Medical Device Register records...",
+   "link": "https://www.prnewswire.com/news-releases/gene-solutions-spot-mas-10-receives-class-c-ivd-registration-from-singapores-hsa-for-blood-based-multi-cancer-screening-302951232.html",
+   "source": "PR Newswire",
+   "tier": 0,
+   "published_utc": "2026-11-26T23:00:00Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "b6010a9e48a17217",
+   "title": "Canada’s Trade Ties With the US, Europe, Asia Two Years After Trump Tariffs",
+   "summary": "Plus: Carney accused of ‘economic authoritarianism’",
+   "link": "https://www.bloomberg.com/news/newsletters/2026-11-26/canada-s-trade-ties-with-the-us-europe-asia-two-years-after-trump-tariffs",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-26T22:21:40Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "97a06297ba440ac0",
+   "title": "Holidays to Test AI Shopping Bots From Google, Amazon, Meta and OpenAI",
+   "summary": "Google, Amazon, Meta and OpenAI all want to help pick your holiday gifts. Whose advice will shoppers take?",
+   "link": "https://www.bloomberg.com/news/features/2026-11-26/holidays-to-test-ai-shopping-bots-from-google-amazon-meta-and-openai",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-26T22:00:04Z",
+   "tickers": [
+    "AMZN",
+    "GOOGL",
+    "META"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "aa2d2c3930076573",
+   "title": "Japan's Jera aims to build Anthropic and Meta data centers near power plants - Nikkei $META",
+   "summary": "",
+   "link": "https://www.financialjuice.com/News/9869800/Japans-Jera-aims-to-build-Anthropic-and-Meta-data-centers-near-power-plants---Nikkei-META.aspx?xy=rss",
+   "source": "FinancialJuice",
+   "tier": 3,
+   "published_utc": "2026-11-26T21:56:45Z",
+   "tickers": [
+    "META"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "68eeef1a4893ce50",
+   "title": "Jera Global CEO and Chair: The energy group is in discussions with Amazon, Microsoft, and Google - Nikkei. $GOOGL $AMZN $MSFT",
+   "summary": "",
+   "link": "https://www.financialjuice.com/News/9869799/Jera-Global-CEO-and-Chair-The-energy-group-is-in-discussions-with-Amazon-Microsoft-and-Google---Nikkei-GOOGL-AMZN-MSFT.aspx?xy=rss",
+   "source": "FinancialJuice",
+   "tier": 3,
+   "published_utc": "2026-11-26T21:56:10Z",
+   "tickers": [
+    "AMZN",
+    "GOOGL",
+    "MSFT"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "abf1b368ed95c399",
+   "title": "Japan Tobacco, Altria Explore Imperial Brands Takeover",
+   "summary": "Get caught up.",
+   "link": "https://www.bloomberg.com/news/newsletters/2026-11-26/japan-tobacco-altria-explore-imperial-brands-takeover",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-26T21:33:59Z",
+   "tickers": [],
+   "cats": [
+    "mna"
+   ],
+   "score": 6,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "dab4faa57d68f50b",
+   "title": "Jensen Huang Is Back, and So Is His Plaque at Denny’s",
+   "summary": "The chain said it had restored a plaque honoring Mr. Huang above a booth in San Jose, Calif., after he was reinstated at Nvidia, the company he is said to have co-founded while eating there.",
+   "link": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html",
+   "source": "NYT",
+   "tier": 1,
+   "published_utc": "2026-11-26T21:25:16Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "d3edc7a187c9a130",
+   "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
+   "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
+   "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+   "source": "CNBC",
+   "tier": 2,
+   "published_utc": "2026-11-26T21:13:17Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 0,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "c9ef70ea74aa91f8",
+   "title": "为何Reddit在假日礼品流量方面碾压 亚马逊 和沃尔玛",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005776936?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-26T20:20:06Z",
+   "tickers": [
+    "AMZN",
+    "WMT"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "56ea2bd200b955f5",
+   "title": "感恩节购物正转向移动端。 苹果 和亚马逊或将从$44亿的趋势中受益",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005775850?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-26T19:45:05Z",
+   "tickers": [
+    "AAPL",
+    "AMZN"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "b83514265a14bf30",
+   "title": "埃隆·马斯克表示，一旦 特斯拉 机器人能在18个月内完成洗碗和倒垃圾等家务，‘几乎所有人都会想要一台，甚至两台’。",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005775446?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-26T19:30:08Z",
+   "tickers": [
+    "TSLA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "accc325b65121838",
+   "title": "谷歌的 亚马逊 盲点：Gemini 推荐 亚马逊 的频率高于任何其他零售商，但从不提供链接",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005775097?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-26T19:20:07Z",
+   "tickers": [
+    "AMZN",
+    "GOOGL"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "b135aadb89bb5f5e",
+   "title": "Julius Meinl Coffee Group completes largest acquisition in its history",
+   "summary": "Investment moves Julius Meinl into the top five HoReCa coffee players in Italy and signals further acquisition appetite VIENNA, Nov. 26, 2026 /PRNewswire/ -- Julius Meinl has completed the acquisition of the businesses of Daroma and Neronobile in Italy, marking the largest acquisition in...",
+   "link": "https://www.prnewswire.com/news-releases/julius-meinl-coffee-group-completes-largest-acquisition-in-its-history-302951331.html",
+   "source": "PR Newswire",
+   "tier": 0,
+   "published_utc": "2026-11-26T18:46:00Z",
+   "tickers": [],
+   "cats": [
+    "mna"
+   ],
+   "score": 2,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "1beadd7bca17a300",
+   "title": "Trump doubles down on his tariff agenda",
+   "summary": "New import levies on 14 partners defy voters and add to price pressures Donald Trump",
+   "link": "https://www.ft.com/content/17a849f1-7e64-4f56-b756-ccf12662ebff?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss",
+   "source": "FT",
+   "tier": 1,
+   "published_utc": "2026-11-26T18:31:18Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "9cb0a1c3a8118c95",
+   "title": "此前报道：“ 英伟达 要求合作伙伴暂停向东南亚发货；华盛顿堵住漏洞，阻止中国企业利用该地区算力”——《华尔街日报》独家",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005773144?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-26T18:09:08Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [
+    "scoop"
+   ],
+   "score": 3,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "e4b440d43af7e3e3",
+   "title": "Dow Jones Top Company Headlines at 1 PM ET: Nvidia Tells Partners to Pause Shipments to Southeast Asia | Marlboro ...",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005772844?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-26T18:00:00Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "1f04bbec4bcea4df",
+   "title": "Marlboro Maker Altria Explores Deal for Rival Imperial Brands",
+   "summary": "A takeover of Imperial, which has a market value of around $30 billion, would expand Altria’s global footprint.",
+   "link": "https://www.wsj.com/business/deals/altria-considering-possible-offer-for-imperial-brands-7cef494b?mod=pls_whats_news_us_business_f",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-26T17:58:00Z",
+   "tickers": [],
+   "cats": [
+    "mna",
+    "deal"
+   ],
+   "score": 7,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "01837aea79fc3164",
+   "title": "Altria explores takeover bid for Imperial Brands",
+   "summary": "Deal would remove another of the UK’s large listed companies from the London stock market Oliver Barnes",
+   "link": "https://www.ft.com/content/696e99b0-f6d1-4a1a-95b0-f68de88520d9?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss",
+   "source": "FT",
+   "tier": 1,
+   "published_utc": "2026-11-26T17:46:48Z",
+   "tickers": [],
+   "cats": [
+    "mna"
+   ],
+   "score": 6,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "d5dc9678654bcbf3",
+   "title": "Major US Trading Partners Respond to Trump’s New Tariffs",
+   "summary": "Get Caught Up.",
+   "link": "https://www.bloomberg.com/news/newsletters/2026-11-26/major-us-trading-partners-respond-to-trump-s-new-tariffs",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-26T17:38:50Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "62e815755aefba69",
+   "title": "Julius Meinl Coffee Group completes largest acquisition in its history",
+   "summary": "Investment moves Julius Meinl into the top five HoReCa coffee players in Italy and signals further acquisition appetite VIENNA, Nov. 26, 2026 /PRNewswire/ -- Julius Meinl has completed the acquisition of the businesses of Daroma and Neronobile in Italy, marking the largest acquisition in...",
+   "link": "https://www.prnewswire.com/news-releases/julius-meinl-coffee-group-completes-largest-acquisition-in-its-history-302951333.html",
+   "source": "PR Newswire",
+   "tier": 0,
+   "published_utc": "2026-11-26T17:16:00Z",
+   "tickers": [],
+   "cats": [
+    "mna"
+   ],
+   "score": 2,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "d2e4d5701e88eb6f",
+   "title": "Nvidia Tells Partners to Pause Shipments to Southeast Asia",
+   "summary": "Washington recently closed a remote-access loophole that helped Chinese companies tap in to computing power in the region.",
+   "link": "https://www.wsj.com/tech/nvidia-tells-partners-to-pause-shipments-to-southeast-asia-5b791cb0?mod=rss_Technology",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-26T17:06:00Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "319f66773bb695db",
+   "title": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say",
+   "summary": "A new BIS rule was intended to close \"loopholes,\" U.S. Trade Representative Jamieson Greer told CNBC's \"Squawk Box\" on Wednesday.",
+   "link": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html",
+   "source": "CNBC",
+   "tier": 2,
+   "published_utc": "2026-11-26T17:04:54Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [
+    "reg",
+    "scoop"
+   ],
+   "score": 7,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "e6724b9ccf61e044",
+   "title": "Trump’s Latest Tariffs Revive Focus on Pressuring China",
+   "summary": "President Trump sent a message to trading partners across Asia, many of which depend on trade and investment from both the United States and China, that he is ready to escalate tariffs.",
+   "link": "https://www.nytimes.com/2026/11/26/business/trump-tariffs-asia.html",
+   "source": "NYT",
+   "tier": 1,
+   "published_utc": "2026-11-26T17:03:31Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "c729726852b50834",
+   "title": "如果你在20年前投资了$100购买 微软 股票，那么今天你将拥有这么多",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005769732?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-26T16:45:24Z",
+   "tickers": [
+    "MSFT"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "a377d490486f940e",
+   "title": "特斯拉 与通用汽车、法拉利及汽车行业其他公司的对比。",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005769371?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-26T16:30:29Z",
+   "tickers": [
+    "GM",
+    "TSLA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "f1d66b7fe4bcff9c",
+   "title": "Trump demands investigation into GDP data revisions",
+   "summary": "President Trump called for an investigation into the government's economic statistics on Thursday, alleging without evidence that growth figures released before the midterm elections were deliberately understated. Why it matters: Revisions to GDP are routine and reflect more complete information that becomes available after the initial estimates are published. The allegations could renew concerns about political interference in the production of critical economic data that underpin trillions of dollars in investment decisions and Federal Reserve policy. What they're saying: The Bureau of Economic Analysis on Wednesday substantially revised the third-quarter GDP data, reflecting a 4.3% annualized pace of growth, up from the 3.4% reported less than a week before the midterm elections. Trump ",
+   "link": "https://www.axios.com/2026/11/26/trump-gdp-investigation-economy-statistics",
+   "source": "Axios",
+   "tier": 2,
+   "published_utc": "2026-11-26T16:29:25Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "7a5f762411a23fe9",
+   "title": "消息称 SAP 考虑在重组中裁员至少 1 万人",
+   "summary": "深潮 TechFlow 消息，11 月 27 日，据 Solid Intel 消息，软件公司 SAP 考虑在重组过程中裁减至少 1 万个岗位。",
+   "link": "https://www.techflowpost.com/newsletter/147129/sap-considers-10000-layoffs-in-restructuring",
+   "source": "TechFlow",
+   "tier": null,
+   "published_utc": "2026-11-26T16:27:16Z",
+   "tickers": [
+    "INTC"
+   ],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "92af4d644382b8bf",
+   "title": "SAP Weighs Cutting at Least 10,000 Positions in AI Restructuring",
+   "summary": "SAP SE is preparing a plan to eliminate at least 10,000 positions to transform its software business for the artificial intelligence era, according to people familiar with the matter.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-26T16:15:48Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "c73447a173c4cb1b",
+   "title": "英伟达要求合作伙伴暂停向东南亚发货",
+   "summary": "深潮 TechFlow 消息，11 月 27 日，据华尔街日报报道，英伟达要求合作伙伴暂停向东南亚发货。华盛顿近期关闭了一个远程访问漏洞，该漏洞曾帮助中国企业使用东南亚地区的算力。",
+   "link": "https://www.techflowpost.com/newsletter/147127/nvidia-asks-partners-to-pause-shipments-to-southeast-asia",
+   "source": "TechFlow",
+   "tier": null,
+   "published_utc": "2026-11-26T16:07:19Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 2,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "37781c5f18c6c7e1",
+   "title": "Chip sellers have told neoclouds they won't supply Nvidia chips if any of the computing capacity will be rented to Chinese companies - CNBC. $NVDA",
+   "summary": "",
+   "link": "https://www.financialjuice.com/News/9869618/Chip-sellers-have-told-neoclouds-they-wont-supply-Nvidia-chips-if-any-of-the-computing-capacity-will-be-rented-to-Chinese-companies---CNBC-NVDA.aspx?xy=rss",
+   "source": "FinancialJuice",
+   "tier": 3,
+   "published_utc": "2026-11-26T16:05:39Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "21c37fb463bf09a8",
+   "title": "Musk makes $18 billion SpaceX stock pledge for every kid in America",
+   "summary": "Elon Musk on Wednesday pledged two SpaceX shares for every child in America, doubling an offer he made just last month. Why it matters: The $18 billion-plus giveaway roughly triples Michael Dell's once record-breaking Trump accounts gift . What they're saying: \" Every child in America will receive two SpaceX shares, one from the company and one from me personally,\" he said in a post to X. On Oct. 19, he promised that every child would receive one share next year, adding it would be the \"first of many.\" By the numbers: With about 72 million minors in the U.S. per Census estimates, and at SpaceX's closing price Wednesday, the gift would be worth around $18.35 billion. Musk owns billions of SpaceX shares, and the company has billions of shares outstanding, so the giveaway likely wouldn't have",
+   "link": "https://www.axios.com/2026/11/26/musk-spacex-shares-trump-accounts",
+   "source": "Axios",
+   "tier": 2,
+   "published_utc": "2026-11-26T15:54:15Z",
+   "tickers": [
+    "DELL"
+   ],
+   "cats": [
+    "deal"
+   ],
+   "score": 6,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "3392fef02dc59382",
+   "title": "IoT Market worth $1,004.24 billion by 2032 - Report by MarketsandMarkets™",
+   "summary": "DELRAY BEACH, Fla., Nov. 26, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the IoT Market is projected to grow from USD 606.29 billion in 2026 to USD 1,004.24 billion by 2032, at a compound annual growth rate (CAGR) of 8.8% during the same period. Browse 300 market data Tables and...",
+   "link": "https://www.prnewswire.com/news-releases/iot-market-worth-1-004-24-billion-by-2032--report-by-marketsandmarkets-302951183.html",
+   "source": "PR Newswire",
+   "tier": 0,
+   "published_utc": "2026-11-26T15:31:00Z",
+   "tickers": [],
+   "cats": [
+    "deal"
+   ],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "5bf30e4ab1ac908e",
+   "title": "Alphabet与Meta Platforms、Reddit以及互动媒体与服务行业其他公司的对比。",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005766781?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-26T15:30:56Z",
+   "tickers": [
+    "GOOGL",
+    "META"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  }
+ ]
 }
