@@ -1,16 +1,48 @@
 {
- "updated_utc": "2026-11-27T19:40:48.881213Z",
+ "updated_utc": "2026-11-27T19:50:48.569696Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 816,
+  "fetched": 810,
   "new": 1,
-  "candidates": 36,
+  "candidates": 37,
   "judged": 1,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "746cfd9ad4290a4f",
+   "title": "EXCLUSIVE Hackers breach US Air Force flagship Cloud One computing platform",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnhWb2oyc2Qta3k0bUhwbGZTcWZMREZ0VU41eVNZWDJZTDlBcmMxZzFrLXlmVGJpUHBRbVdBRlNoQU9lWUlIcVpMcXQwWWpyYVJ2eDJQa1ZvNFU5MUFHLWdpQW1BVloyUW5lTUlVSlFpLXJwVHNLMl9fQnBFTTNnemY4Q0JiUkN3SXFndG1pX1l1TmdySFJDOHJlWC1fMnE3cjlaVFB5M1hWbU0?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T19:45:22Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "cbcb912a77f795b4",
+   "title": "Exclusive | The $150,000-a-Year High School With a Money-Back Guarantee",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU3kxbGJvdGZWeDBxSXVmcGxRVWlGOE5NTVpQODhOUXVaTlN3dVhEZGxUUzFPSFpHVEdURDVPcHZ4MzFOS3RzdFo4c3l4VHBJNEVpaEJMaGI3aEJBeVNKT25SU2NURkxPSnhmd2lFZ0Y0MFhWYTQ2RnhUemxYZmNVWm5PUGVCNmJvRFNnaWhWOTZVellMRjFWeGEzSEQtelF3ZzhQazI2OWgtQQ?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T19:31:36Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
   {
    "id": "1300eab9cd9630a4",
    "title": "Puig to Buy 75% Stake in Artessence for About €1.2 Billion",
@@ -2426,22 +2458,6 @@
    "sec_filing": false
   },
   {
-   "id": "746cfd9ad4290a4f",
-   "title": "EXCLUSIVE: Hackers breach US Air Force flagship Cloud One computing platform",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnhWb2oyc2Qta3k0bUhwbGZTcWZMREZ0VU41eVNZWDJZTDlBcmMxZzFrLXlmVGJpUHBRbVdBRlNoQU9lWUlIcVpMcXQwWWpyYVJ2eDJQa1ZvNFU5MUFHLWdpQW1BVloyUW5lTUlVSlFpLXJwVHNLMl9fQnBFTTNnemY4Q0JiUkN3SXFndG1pX1l1TmdySFJDOHJlWC1fMnE3cjlaVFB5M1hWbU0?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T11:46:24Z",
-   "tickers": [],
-   "cats": [
-    "scoop"
-   ],
-   "score": 4,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
    "id": "05194513719a8338",
    "title": "EXCLUSIVE: Volkswagen drags rivals Mercedes, BMW into $1.2 billion India tax fight",
    "summary": "",
@@ -3691,38 +3707,6 @@
     "scoop"
    ],
    "score": 4,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "fff0d78471bc9379",
-   "title": "Japan Tobacco Climbs on Potential Imperial Brands Takeover",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUnVvTDRiN0xxaEpYclBWdVdsczVJNkJhM1dMZ3l3WUpySXRmaEJicXVuQm5kUW01MG9qYjFhZUVpa3JZMjllUWZ3N1BaTlZWR0d0ck9XUXF0dXFKeHlELWNIWlV2NVdQc3F5R0tRRGlyb0JmRlRYcE1UMWpLNDdoanFxSTJVeHlEcnZDc1RDcEJQV0tTdjQ1OEx6N2hhZEhTV2Joc2dtQi1FR20tc3dkcWNsY0x3Zw?oc=5",
-   "source": "Bloomberg.com",
-   "tier": 1,
-   "published_utc": "2026-11-27T07:48:00Z",
-   "tickers": [],
-   "cats": [
-    "mna"
-   ],
-   "score": 6,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "cdd9e7ab869e537f",
-   "title": "Pay Policy at South Africa’s Momentum Passes With 51% Support",
-   "summary": "Shareholders in Momentum Group Ltd. narrowly approved the South African insurer’s remuneration policy as new rules give investors in the nation’s firms greater say over compensation.",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-27/pay-policy-at-south-africa-s-momentum-passes-with-51-support",
-   "source": "BBG",
-   "tier": 1,
-   "published_utc": "2026-11-27T07:42:09Z",
-   "tickers": [],
-   "cats": [
-    "reg"
-   ],
-   "score": 5,
    "link_is_redirect": false,
    "sec_filing": false
   }
