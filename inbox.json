@@ -1,16 +1,32 @@
 {
- "updated_utc": "2026-11-27T11:20:49.767917Z",
+ "updated_utc": "2026-11-27T11:31:09.445625Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 888,
-  "new": 3,
-  "candidates": 39,
-  "judged": 2,
+  "fetched": 878,
+  "new": 1,
+  "candidates": 35,
+  "judged": 1,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "3f1ac000b313dfa2",
+   "title": "Is Grocery Delivery Worth the Cost? (2026): DoorDash Options, Fees, and Savings Reviewed by Consumer365",
+   "summary": "NEW YORK, Nov. 27, 2026 /PRNewswire/ -- Consumer365 has recognized DoorDash in a 2026 feature review examining grocery delivery costs, membership benefits, and savings opportunities, highlighting the platform's approach to making everyday grocery shopping more convenient. The review...",
+   "link": "https://www.prnewswire.com/news-releases/is-grocery-delivery-worth-the-cost-2026-doordash-options-fees-and-savings-reviewed-by-consumer365-302951579.html",
+   "source": "PR Newswire",
+   "tier": 0,
+   "published_utc": "2026-11-27T11:30:00Z",
+   "tickers": [
+    "DASH"
+   ],
+   "cats": [],
+   "score": 3,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "746cfd9ad4290a4f",
    "title": "EXCLUSIVE: Hackers breach US Air Force flagship Cloud One computing platform",
@@ -18,7 +34,7 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnhWb2oyc2Qta3k0bUhwbGZTcWZMREZ0VU41eVNZWDJZTDlBcmMxZzFrLXlmVGJpUHBRbVdBRlNoQU9lWUlIcVpMcXQwWWpyYVJ2eDJQa1ZvNFU5MUFHLWdpQW1BVloyUW5lTUlVSlFpLXJwVHNLMl9fQnBFTTNnemY4Q0JiUkN3SXFndG1pX1l1TmdySFJDOHJlWC1fMnE3cjlaVFB5M1hWbU0?oc=5",
    "source": "Reuters",
    "tier": 1,
-   "published_utc": "2026-11-27T11:03:55Z",
+   "published_utc": "2026-11-27T11:19:22Z",
    "tickers": [],
    "cats": [
     "scoop"
@@ -41,6 +57,22 @@
    ],
    "score": 5,
    "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "7dd2f1dd2aa7dddd",
+   "title": "Trump’s Tariffs Cast New Pall Over Thanksgiving",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQk1uVWtYMllaS0FEN2JHUUtTZDhJalBpV0FHdnQ0UTNYbXlfSWhpMmpJN0YwNWtPU3lZb2RiUFBQM2FES3hwc3B3SXByOTJMdlRyNkFMaFFXbGFlTTVsalo1RXM0c2JkZTV4ZFB5MG9MR3RsLUZoaVY4M2RZV19NT3ZGREZMRzNuSnhJcHJPU0Rlb3E4MmtBSFc0M1dxcVl4Rl9XeDlNRzVtZVRkNndSUTdjbUo3S1VLRklhVllyWXdhaUNEYWM2NE5WUTFQZw?oc=5",
+   "source": "Bloomberg.com",
+   "tier": 1,
+   "published_utc": "2026-11-27T11:00:25Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -317,6 +349,24 @@
    "sec_filing": false
   },
   {
+   "id": "a623caffc3c12fad",
+   "title": "Tesla plans to acquire German manufacturing systems group EMAG",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV3Z3REp5RGw2dXhwWEtJNEw2dHh6OUNsX2thc0llSTdDR0kyWUtrVENkOHdJSVhEZThnaC1DdHNvblJXX3BjQWdRTVJfWlMtbUM2U0UwaXFqdmR0QXhwei1tX1VIX0dhZkVkLU1CaEVZQ0xJenZpLU54LTFjNEszT3pJYkREMzI3TjA4RWNPZ1oyQ0FXQXlhTE8ySFQ4bUpzS3h3?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T10:13:51Z",
+   "tickers": [
+    "TSLA"
+   ],
+   "cats": [
+    "mna"
+   ],
+   "score": 8,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
    "id": "f79f93d15b6abf51",
    "title": "How to Live Calmly, Despite Stock Market Whiplash",
    "summary": "Nvidia has been down, up, and down again, and the market has followed. But there’s no need for long-term, diversified investors to alter their course, our columnist says.",
@@ -525,40 +575,6 @@
    ],
    "score": 5,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "a623caffc3c12fad",
-   "title": "Tesla plans to acquire German manufacturing systems group EMAG",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV3Z3REp5RGw2dXhwWEtJNEw2dHh6OUNsX2thc0llSTdDR0kyWUtrVENkOHdJSVhEZThnaC1DdHNvblJXX3BjQWdRTVJfWlMtbUM2U0UwaXFqdmR0QXhwei1tX1VIX0dhZkVkLU1CaEVZQ0xJenZpLU54LTFjNEszT3pJYkREMzI3TjA4RWNPZ1oyQ0FXQXlhTE8ySFQ4bUpzS3h3?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T09:34:07Z",
-   "tickers": [
-    "TSLA"
-   ],
-   "cats": [
-    "mna"
-   ],
-   "score": 8,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "7dd2f1dd2aa7dddd",
-   "title": "Trump’s Tariffs Cast New Pall Over Thanksgiving",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQk1uVWtYMllaS0FEN2JHUUtTZDhJalBpV0FHdnQ0UTNYbXlfSWhpMmpJN0YwNWtPU3lZb2RiUFBQM2FES3hwc3B3SXByOTJMdlRyNkFMaFFXbGFlTTVsalo1RXM0c2JkZTV4ZFB5MG9MR3RsLUZoaVY4M2RZV19NT3ZGREZMRzNuSnhJcHJPU0Rlb3E4MmtBSFc0M1dxcVl4Rl9XeDlNRzVtZVRkNndSUTdjbUo3S1VLRklhVllyWXdhaUNEYWM2NE5WUTFQZw?oc=5",
-   "source": "Bloomberg.com",
-   "tier": 1,
-   "published_utc": "2026-11-27T09:30:24Z",
-   "tickers": [],
-   "cats": [
-    "reg"
-   ],
-   "score": 5,
-   "link_is_redirect": true,
    "sec_filing": false
   },
   {
