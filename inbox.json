@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-27T03:31:05.327915Z",
+ "updated_utc": "2026-11-27T03:40:47.960699Z",
  "window_hours": 12,
  "stale": false,
  "errors": {
@@ -8,13 +8,29 @@
   "gnw-mna": "HTTPError: HTTP Error 403: Forbidden"
  },
  "counts": {
-  "fetched": 864,
-  "new": 2,
+  "fetched": 857,
+  "new": 1,
   "candidates": 22,
-  "judged": 2,
+  "judged": 1,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "89edd545104a3d81",
+   "title": "Bloomberg Daybreak Asia: Stocks Rise, Tariff Reactions",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPelhGel9RcnVjYklZSXcwNUhHTGprZ0phc1NCTW1ueW9JS1VHX1d6Unc4MnhVdm8yQnlqUkZEXzd3d3oxMkVFdi1MQjNNWjcydmlGTXAyV2oxbjNmNFlRa21zeXpmdGlkd0ZKcklYcWV0RzZFV1lWTnBoR0VJeTY4ZGp3Q1IwZUgtcG5zYWhQa2plMURhU053dWs3MEE3MUxTdHdnclA3NllCSUVj?oc=5",
+   "source": "Bloomberg.com",
+   "tier": 1,
+   "published_utc": "2026-11-27T03:33:07Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
   {
    "id": "660e55b55274dc5d",
    "title": "Trump: 'Market feels very good' about Huang's return as Nvidia CEO",
@@ -97,14 +113,13 @@
   },
   {
    "id": "5c29f81d47fe557c",
-   "title": "微软 Win11 推送问题驱动，部分英特尔 NUC 设备 Defender 直接报警",
+   "title": "丹纳赫宣布与 微软 建立战略合作 加速科学仪器智能化升级",
    "summary": "",
-   "link": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?futusource=news_search_searchnews&src=39#/index?id=nesSN202611271108509749be31&s=b",
+   "link": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?futusource=news_search_searchnews&src=39#/index?id=nesSN20261127111621a4bbcdeb&s=b",
    "source": "futu",
    "tier": 3,
-   "published_utc": "2026-11-27T03:00:19Z",
+   "published_utc": "2026-11-27T03:06:08Z",
    "tickers": [
-    "INTC",
     "MSFT"
    ],
    "cats": [],
