@@ -1,12 +1,12 @@
 {
- "updated_utc": "2026-11-27T19:50:48.569696Z",
+ "updated_utc": "2026-11-27T20:01:21.798947Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 810,
+  "fetched": 806,
   "new": 1,
-  "candidates": 37,
+  "candidates": 32,
   "judged": 1,
   "pushed": 0
  },
@@ -18,7 +18,7 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnhWb2oyc2Qta3k0bUhwbGZTcWZMREZ0VU41eVNZWDJZTDlBcmMxZzFrLXlmVGJpUHBRbVdBRlNoQU9lWUlIcVpMcXQwWWpyYVJ2eDJQa1ZvNFU5MUFHLWdpQW1BVloyUW5lTUlVSlFpLXJwVHNLMl9fQnBFTTNnemY4Q0JiUkN3SXFndG1pX1l1TmdySFJDOHJlWC1fMnE3cjlaVFB5M1hWbU0?oc=5",
    "source": "Reuters",
    "tier": 1,
-   "published_utc": "2026-11-27T19:45:22Z",
+   "published_utc": "2026-11-27T19:49:22Z",
    "tickers": [],
    "cats": [
     "scoop"
@@ -232,6 +232,22 @@
     "deal"
    ],
    "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "5c304a9a2dde7f67",
+   "title": "Startups Celebrate Huang’s Return to Nvidia",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ1F5U1NUQTVjNGpLQnA1THdDblJjUXF4V1czRVlQSGZiSjBXQTl5TnV5Y0ZzLUVZUlg5NVlBRXN3WUU4ZXZ6N3ZnUkxQSjhBREVyX0RyN1NScU41Zk8wRjFVTFlxNXZRTjl5VVBOcFNjNWd1RlRlY0VSZWRld1BSeUlIUkdBNUhpaThFczVUS3ZyUEVfZlE?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T18:39:54Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 4,
    "link_is_redirect": true,
    "sec_filing": false
   },
@@ -467,7 +483,7 @@
    "title": "Verizon in Talks to Buy Fidium in $6 Billion Deal, FT Says",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVDlMYVRaRWRJSWFBRHlXRlVWWWZvTVlXZjRrWkgzdGc5UjJlX2JqQ1hkYzg3ck5TVzE4UE9ybVBEWEYtaExwdElaNTI1dWtHNVhmQVFnWHRjV3B1amwzNWNTU19BNXpfbVRaZ0dUbU1EX285bmFQaEhycm1Xc2pEQ1l2Ym5kMk5EdkhLVW1XS3JaOWlaYzFGTjhXU1loYjk2NXhSendJOVlpVkk?oc=5",
-   "source": "Bloomberg.com",
+   "source": "Bloomberg",
    "tier": 1,
    "published_utc": "2026-11-27T18:12:57Z",
    "tickers": [],
@@ -3637,71 +3653,6 @@
    "source": "BBG",
    "tier": 1,
    "published_utc": "2026-11-27T08:11:53Z",
-   "tickers": [],
-   "cats": [
-    "scoop"
-   ],
-   "score": 4,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "601a0fb4cc794486",
-   "title": "Hong Kong gold imports surge 24.4% in October to 4-month high on lower bullion prices",
-   "summary": "Hong Kong’s gold imports surged in October to a four-month high, riding the momentum of lower prices and adding weight to the city’s push to establish itself as an international gold trading hub. The city imported 139.6 tonnes of unwrought, non-monetary gold last month, up 24.4 per cent from 112.3 tonnes in September, according to the Census and Statistics Department. The value of the shipments rose 18.1 per cent to HK$145.3 billion (US$18.5 billion). It was the second-highest monthly volume...",
-   "link": "https://www.scmp.com/business/commodities/article/3376000/hong-kong-gold-imports-surge-244-october-four-month-high-lower-bullion-prices",
-   "source": "SCMP",
-   "tier": null,
-   "published_utc": "2026-11-27T08:00:13Z",
-   "tickers": [],
-   "cats": [
-    "deal"
-   ],
-   "score": 3,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "54e00b4a402dcc78",
-   "title": "Dow Jones Top Company Headlines at 3 AM ET: The Savvy Showmanship That Helps Jensen Huang Always Come Out on Top | Nvidia ...",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005826109?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T08:00:00Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "a3df21edaed5371b",
-   "title": "亚马逊 与Meta磋商解除Muse封锁，广告与搜索成核心分歧",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005831608?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T08:00:00Z",
-   "tickers": [
-    "AMZN",
-    "META"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "16d23b7b19c79a52",
-   "title": "US Stocks Rebound as Traders Pile Into Battered Tech Shares",
-   "summary": "US stocks rallied Friday, capping a week of whiplash as dip buyers scooped up some beaten down technology shares despite lingering worries about the sustainability of the artificial-intelligence boom.",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-27/us-stocks-set-to-bounce-as-risk-appetite-returns-after-holiday",
-   "source": "BBG",
-   "tier": 1,
-   "published_utc": "2026-11-27T07:56:20Z",
    "tickers": [],
    "cats": [
     "scoop"
