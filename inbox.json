@@ -1,18 +1,64 @@
 {
- "updated_utc": "2026-11-27T19:01:21.409060Z",
+ "updated_utc": "2026-11-27T19:10:48.217754Z",
  "window_hours": 12,
  "stale": false,
- "errors": {
-  "gn-short": "HTTPError: HTTP Error 429: Too Many Requests"
- },
+ "errors": {},
  "counts": {
-  "fetched": 822,
-  "new": 3,
-  "candidates": 32,
+  "fetched": 832,
+  "new": 2,
+  "candidates": 36,
   "judged": 2,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "a0ad28f8b025b0a9",
+   "title": "EXCLUSIVE: Armani heirs consider buying small slice of fashion house in stake sale, sources say",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZ3lMcWZUUm9HMTVhSVZTZDRuUlBZaC1GQVlNNHZSVk1xOTdPNWJ1Ul9kVmtLMWZieEZMMGwzOU8wY3RwcmRxVGxVdkFkWnlxZVlFWGF5RjhMWUdRRWhYT2FhMkhWQ3Jqai15cDQxNmQ2NDNYTU5HR1RIY0d2cnJrWU45YXdieG16TEs3UHFkaUFfY0hjLVJmZTVqVldvUl9KRkE3RXJSVUREODN0RHdvMWt4UEtvTnVjQUFTQ3dNMUJ1ZHRFaDVMcXllY2xzdFltbHRqSg?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T19:02:20Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "ffda609d1fe0a18f",
+   "title": "OpenAI Says Apple Pressured Suppliers to Shun Its Devices",
+   "summary": "The trade-secrets fight between OpenAI and Apple Inc. is widening, with the artificial intelligence company accusing the iPhone maker of undermining its supplier relationships and using unfair employment agreements to prevent talent from jumping ship.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/openai-says-apple-pressured-suppliers-to-shun-its-devices",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T19:02:10Z",
+   "tickers": [
+    "AAPL"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "f79f93d15b6abf51",
+   "title": "How to Live Calmly, Despite Stock Market Whiplash",
+   "summary": "Nvidia has been down, up, and down again, and the market has followed. But there’s no need for long-term, diversified investors to alter their course, our columnist says.",
+   "link": "https://www.nytimes.com/2026/11/27/business/nvidia-jensen-huang-trump-markets.html",
+   "source": "NYT",
+   "tier": 1,
+   "published_utc": "2026-11-27T18:58:04Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "db2aeb6e2120b339",
    "title": "These Stocks Soared the Most During a Wild Week Highlighted by Huang's Return to Nvidia",
@@ -75,6 +121,22 @@
    "cats": [],
    "score": 1,
    "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "2fdad17b714d44a2",
+   "title": "Inside China’s $4 Billion Secondhand Luxury Boom",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdFVLSlZUN3JBQlk5a0pMWGR2WGRIWXlpNEp0cG9hdXBCMFYzdmdTWEZfRkZYSDFTeV9nSjhnTFdoWWUtajVtcThzMi1LOHRfVlYxaWlsNzUxQTFGSWpreWY0TzZWc19TOC12MXNnWmtaamRQZjBnVXF4Uy1zbDFMNV9MRmFVekhKQzFfTWc1TkhYRGJ4SUo4aWpBWC1wWXVzcEFHaFN2RTFpcU9WYmc?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T18:33:45Z",
+   "tickers": [],
+   "cats": [
+    "deal"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -322,6 +384,22 @@
    "sec_filing": false
   },
   {
+   "id": "03bf4afe8fa08087",
+   "title": "Cyberattacks on Tankers Raise Fears of Iranian Disruption to Shipping, Ports",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMG1nckdYQWlZWG5JX04wT0dMWHZnZVdzSndhRk5BcXJLRXpyVUh2UmExdi1MSnBNX19IWDJOWVJQWjhtZlhESkNkRVhILWhXWlV0aGJ1MXZaOGpJZF9GWGtpT194UEtIMzFQSlBTbUdsWEJ5ZVJVN240T20yYUVwa2tkX1B1WEFyRDh1UEZUdkNGUFkwNnBKbE9GaTh2dkFXMnV1TVRnSHJTOC1EQ0l1R1FxWnh1bmotXzhhY05B?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T17:57:26Z",
+   "tickers": [],
+   "cats": [
+    "incident"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
    "id": "ca8a12fbb7f0f16f",
    "title": "EXCLUSIVE: Russian military flotilla bound for Libya turns around after warship sunk on Nov 22, sources says",
    "summary": "",
@@ -524,22 +602,6 @@
    ],
    "score": 5,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "2fdad17b714d44a2",
-   "title": "Inside China’s $4 Billion Secondhand Luxury Boom",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdFVLSlZUN3JBQlk5a0pMWGR2WGRIWXlpNEp0cG9hdXBCMFYzdmdTWEZfRkZYSDFTeV9nSjhnTFdoWWUtajVtcThzMi1LOHRfVlYxaWlsNzUxQTFGSWpreWY0TzZWc19TOC12MXNnWmtaamRQZjBnVXF4Uy1zbDFMNV9MRmFVekhKQzFfTWc1TkhYRGJ4SUo4aWpBWC1wWXVzcEFHaFN2RTFpcU9WYmc?oc=5",
-   "source": "WSJ",
-   "tier": 1,
-   "published_utc": "2026-11-27T17:06:50Z",
-   "tickers": [],
-   "cats": [
-    "deal"
-   ],
-   "score": 5,
-   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -2868,22 +2930,6 @@
    "sec_filing": false
   },
   {
-   "id": "f79f93d15b6abf51",
-   "title": "How to Live Calmly, Despite Stock Market Whiplash",
-   "summary": "Nvidia has been down, up, and down again, and the market has followed. But there’s no need for long-term, diversified investors to alter their course, our columnist says.",
-   "link": "https://www.nytimes.com/2026/11/27/business/nvidia-jensen-huang-trump-markets.html",
-   "source": "NYT",
-   "tier": 1,
-   "published_utc": "2026-11-27T10:02:53Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [],
-   "score": 4,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
    "id": "52dee082e73cd90d",
    "title": "Novo Nordisk to launch Wegovy pill in Sweden on December 24",
    "summary": "",
@@ -3633,22 +3679,6 @@
    "sec_filing": false
   },
   {
-   "id": "03bf4afe8fa08087",
-   "title": "Cyberattacks on Tankers Raise Fears of Iranian Disruption to Shipping, Ports",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMG1nckdYQWlZWG5JX04wT0dMWHZnZVdzSndhRk5BcXJLRXpyVUh2UmExdi1MSnBNX19IWDJOWVJQWjhtZlhESkNkRVhILWhXWlV0aGJ1MXZaOGpJZF9GWGtpT194UEtIMzFQSlBTbUdsWEJ5ZVJVN240T20yYUVwa2tkX1B1WEFyRDh1UEZUdkNGUFkwNnBKbE9GaTh2dkFXMnV1TVRnSHJTOC1EQ0l1R1FxWnh1bmotXzhhY05B?oc=5",
-   "source": "WSJ",
-   "tier": 1,
-   "published_utc": "2026-11-27T07:27:21Z",
-   "tickers": [],
-   "cats": [
-    "incident"
-   ],
-   "score": 5,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
    "id": "76fd5ae4032d5bb1",
    "title": "EQT Healthcare Growth to acquire majority stake in specialty European pharmaceutical business, Kelso Pharma",
    "summary": "Kelso Pharma is a fast-growing specialty pharmaceutical group with a portfolio of approximately 14 medicines, mainly for endocrine, gastrointestinal and central nervous system conditions The company has built a commercial platform in the UK, with a growing presence across Europe and an...",
@@ -3661,70 +3691,6 @@
     "mna"
    ],
    "score": 2,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "73ffc4b2314861fc",
-   "title": "英伟达 夜盘一度升超5%，但均线接近死亡交叉，能否企稳？",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005821509?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T07:08:00Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "7a64e5d25b7f0ace",
-   "title": "Starbucks Japan’s Enduring Popularity Stands Out Amid Global Struggles",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX3RPWTBOYW0taWZXZlRJZXhqTWN6YUtxVEM5cmc5SDRoRUdrVnk0eVhONGhOdFZ1TnRZbnBCZDlvM183NF9kM01SaE9WVXFWeTR4UVo3MG9fQ2IzbkRjOXVzbGRGOGNDVGRGWlBNbkZNQ2QwNVR2cVlsWWZwRko0LUdld1V1Wi03QkViV0tlSHlpTExaZFhFczd4akV1YV9RR29HZzNnYXl5d29oRVhrbVdyZlFOdTlpdHc?oc=5",
-   "source": "Bloomberg.com",
-   "tier": 1,
-   "published_utc": "2026-11-27T07:06:56Z",
-   "tickers": [
-    "SBUX"
-   ],
-   "cats": [],
-   "score": 4,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "5f727dd29e5c2c68",
-   "title": "A 股创业板指收涨 11.61%，创 2024 年 10 月 8 日以来最大单日涨幅",
-   "summary": "深潮 TechFlow 消息，11 月 27 日，A 股收盘，创业板指收涨 11.61%，创 2024 年 10 月 8 日以来最大单日涨幅，上证指数收涨 3.73%；半导体、CPO、光刻机、算力等科技板块全线爆发；沪深京三市近 5400 股上涨，超 400 股涨停。",
-   "link": "https://www.techflowpost.com/newsletter/147206/chi-next-index-up-11-61-largest-single-day-since-oct-8-2024",
-   "source": "TechFlow",
-   "tier": null,
-   "published_utc": "2026-11-27T07:05:24Z",
-   "tickers": [],
-   "cats": [
-    "deal"
-   ],
-   "score": 3,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "374e6d539c774d98",
-   "title": "“脱胎换骨的他”：复职后的黄仁勋将如何带领 英伟达 ？",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005819636?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T07:02:00Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [],
-   "score": 1,
    "link_is_redirect": false,
    "sec_filing": false
   }

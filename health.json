@@ -55,8 +55,8 @@
   "error": null
  },
  "gn-short": {
-  "fails": 1,
-  "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  "fails": 0,
+  "error": null
  },
  "gn-supply": {
   "fails": 0,
