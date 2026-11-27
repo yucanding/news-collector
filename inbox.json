@@ -1,16 +1,32 @@
 {
- "updated_utc": "2026-11-27T19:31:18.663125Z",
+ "updated_utc": "2026-11-27T19:40:48.881213Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 817,
-  "new": 4,
-  "candidates": 35,
+  "fetched": 816,
+  "new": 1,
+  "candidates": 36,
   "judged": 1,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "1300eab9cd9630a4",
+   "title": "Puig to Buy 75% Stake in Artessence for About €1.2 Billion",
+   "summary": "Spanish company Puig Brands SA agreed to buy a 75% stake in Artessence Group, the owner of the brands Parfums de Marly and Initio Parfums Privés, for about €1.2 billion ($1.3 billion) in cash.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/puig-to-buy-75-stake-in-artessence-for-about-1-2-billion",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T19:28:32Z",
+   "tickers": [],
+   "cats": [
+    "deal"
+   ],
+   "score": 5,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "51e81088132231d8",
    "title": "Puig agrees to buy 75% stake in perfume group Artessence in deal valuing it at $1.9 billion",
@@ -32,7 +48,7 @@
    "title": "Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOajRDYnpkT2kwWEdlR2REeG93cnBZdkdsYmo3dTFmaVp3enZYN3Jid0RYVWZwNXJvcE00OG5FNjdwd0MzQXpFV1gzeUxkdnhxTVNoaGVNRmpnRllMTGY4emNtNW9VYnc4RWZVX0I2WExQNy1Ha21aV0FNWWVUb0FacnFLM01rUWRudjBCdGJpbGxCVUx3dl9KMEtZb0pyYURCTG1iWW5xUmNpaDlnc0lsMVpldmV6QQ?oc=5",
-   "source": "Bloomberg.com",
+   "source": "Bloomberg",
    "tier": 1,
    "published_utc": "2026-11-27T19:18:51Z",
    "tickers": [
@@ -345,6 +361,22 @@
    "cats": [],
    "score": 4,
    "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "dc2c5f67bd6acc09",
+   "title": "Vertex Pharma falls after FDA extends review of kidney disease drug",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX293bHdtY3RNdVhHV2o5Y1lFRmYyY3F0M0pHa2lTWTRmY0VsR0tKZmZLWWdxazVtelZjZ2ZHTzc1NUhPTDE5OWJLZ1lJcVRCaWFmQTBaVUlTcEdtWlowb1FpWFdjTUxTaXhWR1Nhdy1yNnJ4d0tmU2R1QXNDZ3dkR3J4ZldHUVFNZXlNRURfczFUNC1JeG1wRk5jaUlRU0RvbmZoVVZUQlRfOU80Z2dtQTV1MHJLa3BC?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T18:18:09Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -700,22 +732,6 @@
    "cats": [],
    "score": 3,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "dc2c5f67bd6acc09",
-   "title": "Vertex Pharma falls after FDA extends review of kidney disease drug",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX293bHdtY3RNdVhHV2o5Y1lFRmYyY3F0M0pHa2lTWTRmY0VsR0tKZmZLWWdxazVtelZjZ2ZHTzc1NUhPTDE5OWJLZ1lJcVRCaWFmQTBaVUlTcEdtWlowb1FpWFdjTUxTaXhWR1Nhdy1yNnJ4d0tmU2R1QXNDZ3dkR3J4ZldHUVFNZXlNRURfczFUNC1JeG1wRk5jaUlRU0RvbmZoVVZUQlRfOU80Z2dtQTV1MHJLa3BC?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T16:36:54Z",
-   "tickers": [],
-   "cats": [
-    "reg"
-   ],
-   "score": 5,
-   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -3707,38 +3723,6 @@
     "reg"
    ],
    "score": 5,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "e003937361f1ef1e",
-   "title": "Norse Atlantic says lessors terminate aircraft agreements",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUFZ5amdzZG00RTRadGk1NlNDb0JFeTNseGJid3dwNWtNTFBvaVQ1LVdnSUs1Rkk3Uy1tTlNDVVBmMkRkV1QxU3lGcHR2ZzU0bG9PMlM4OXphZHpVVVBXNS14WnRNX2xsWEZrSXV4TjRHUlZFWUlEYldEY1NFZlRqa2xjNUE2T0l5cWJ3MTU4aGo3Qk91WVcwdHdtZWdkTEZ2bWdnUGxrVHdOYmZ4ZDVMOGtWc2U5S2ZuM1FjRQ?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T07:39:00Z",
-   "tickers": [],
-   "cats": [
-    "deal"
-   ],
-   "score": 5,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "9acc14338a3ab661",
-   "title": "日本发电巨头JERA正与Anthropic、 微软 等科技巨头洽谈在发电厂附近建设数据中心",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005823252?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T07:38:00Z",
-   "tickers": [
-    "MSFT"
-   ],
-   "cats": [],
-   "score": 1,
    "link_is_redirect": false,
    "sec_filing": false
   }
