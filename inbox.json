@@ -1,16 +1,64 @@
 {
- "updated_utc": "2026-11-27T22:10:47.687023Z",
+ "updated_utc": "2026-11-27T22:20:50.258781Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 803,
-  "new": 0,
-  "candidates": 28,
-  "judged": 0,
+  "fetched": 804,
+  "new": 1,
+  "candidates": 32,
+  "judged": 3,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "f79f93d15b6abf51",
+   "title": "How to Live Calmly, Despite Stock Market Whiplash",
+   "summary": "Nvidia has been down, up, and down again, and the market has followed. But there’s no need for long-term, diversified investors to alter their course, our columnist says.",
+   "link": "https://www.nytimes.com/2026/11/27/business/nvidia-jensen-huang-trump-markets.html",
+   "source": "NYT",
+   "tier": 1,
+   "published_utc": "2026-11-27T22:16:28Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "2fa9d9b8e6b624de",
+   "title": "New Tariffs on China Risk Undermining Trade Truce With U.S.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUcwQ3JjLUlNWjhSZnFuYWMzVEFGd0RMR2lZT2VmWUdBejNHckpxbWFSb0lsTUNuTzktdm9qTk94eTgxMXFRQkplOTdZZkFDSEVaUkVZcWFfb1lEMTNEVzFHd013bXhoRFU4ajZjOTB0UXFhM1FacVliRVdqcFY5dG11UURVYmFZang5ZEpaZEVCazhBMjFz?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T22:13:52Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "5c29f81d47fe557c",
+   "title": "40颗卫星未能入轨！美国联合发射联盟20年不败金身告破， 亚马逊 惨遭重创",
+   "summary": "",
+   "link": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?futusource=news_search_searchnews&src=39#/index?id=nesSN20261128061610974b28c0&s=b",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T22:10:54Z",
+   "tickers": [
+    "AMZN"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "9877b61dc68f0636",
    "title": "Exclusive | Inside the Scramble to Avert Conflict With Russia in the Baltic",
@@ -398,6 +446,22 @@
    "sec_filing": false
   },
   {
+   "id": "c55c1451c9ad752e",
+   "title": "Amazon Autos Plans to Launch Services in U.K. in Early 2027",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM2pVMDVTbmVZOHkwaGZ0d1dHVEVObExKaTJMaVFIb1dfdGZHQ0N5WWotVzNreXhoMWs4SWphNHlYT29zU3RIbHdnZF91SGswdTdlcUtUN20yRW1OZFk3Z2swZGgxYlF5eEwxVmEwbVVsRHVIV1lHdWt3ZzU5VjlXMkFFNW43MXVPcHRpVnJ1eldNUi00Y2wyZU14STQwQ2JsU0pRYg?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T21:04:06Z",
+   "tickers": [
+    "AMZN"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
    "id": "adb371be7d2a7229",
    "title": "Quantum Space to Hold Financial Update Call",
    "summary": "Management to host investor webcast on November 30, 2026, at 8:30 a.m. ET ROCKVILLE, Md., Nov. 27, 2026 /PRNewswire/ -- Quantum Space, Inc. (NYSE: QSPC) (the \"Company\" or \"Quantum Space\"), a company developing the next generation of advanced maneuverable spacecraft for national security,...",
@@ -669,22 +733,6 @@
    ],
    "score": 5,
    "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "f79f93d15b6abf51",
-   "title": "How to Live Calmly, Despite Stock Market Whiplash",
-   "summary": "Nvidia has been down, up, and down again, and the market has followed. But there’s no need for long-term, diversified investors to alter their course, our columnist says.",
-   "link": "https://www.nytimes.com/2026/11/27/business/nvidia-jensen-huang-trump-markets.html",
-   "source": "NYT",
-   "tier": 1,
-   "published_utc": "2026-11-27T18:58:04Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [],
-   "score": 4,
-   "link_is_redirect": false,
    "sec_filing": false
   },
   {
@@ -1320,22 +1368,6 @@
    "sec_filing": false
   },
   {
-   "id": "2fa9d9b8e6b624de",
-   "title": "New Tariffs on China Risk Undermining Trade Truce With U.S.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUcwQ3JjLUlNWjhSZnFuYWMzVEFGd0RMR2lZT2VmWUdBejNHckpxbWFSb0lsTUNuTzktdm9qTk94eTgxMXFRQkplOTdZZkFDSEVaUkVZcWFfb1lEMTNEVzFHd013bXhoRFU4ajZjOTB0UXFhM1FacVliRVdqcFY5dG11UURVYmFZang5ZEpaZEVCazhBMjFz?oc=5",
-   "source": "WSJ",
-   "tier": 1,
-   "published_utc": "2026-11-27T16:17:53Z",
-   "tickers": [],
-   "cats": [
-    "reg"
-   ],
-   "score": 5,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
    "id": "4244c24115240bca",
    "title": "Altice International, Creditors Discuss Debt Cut of About 40%",
    "summary": "Altice International and its creditors are making progress on a restructuring that would include a debt cut of about 40%, and possibly more, with lenders taking control from billionaire Patrick Drahi, according to people familiar with the matter.",
@@ -1806,22 +1838,6 @@
    "published_utc": "2026-11-27T14:46:05Z",
    "tickers": [
     "AVGO"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "5c29f81d47fe557c",
-   "title": "AMD 推出RT-MLAS多级加速结构 光追显存占用直降92%",
-   "summary": "",
-   "link": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?futusource=news_search_searchnews&src=39#/index?id=nesSN2026112722482298ceac23&s=b",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T14:45:13Z",
-   "tickers": [
-    "AMD"
    ],
    "cats": [],
    "score": 1,
@@ -3474,40 +3490,6 @@
    ],
    "score": 5,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "dab4faa57d68f50b",
-   "title": "Jensen Huang Is Back, and So Is His Plaque at Denny’s",
-   "summary": "The chain said it had restored a plaque honoring Mr. Huang above a booth in San Jose, Calif., where he is said to have developed the idea for Nvidia.",
-   "link": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html",
-   "source": "NYT",
-   "tier": 1,
-   "published_utc": "2026-11-27T10:17:23Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [],
-   "score": 4,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "a623caffc3c12fad",
-   "title": "Tesla plans to acquire German manufacturing systems group EMAG",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV3Z3REp5RGw2dXhwWEtJNEw2dHh6OUNsX2thc0llSTdDR0kyWUtrVENkOHdJSVhEZThnaC1DdHNvblJXX3BjQWdRTVJfWlMtbUM2U0UwaXFqdmR0QXhwei1tX1VIX0dhZkVkLU1CaEVZQ0xJenZpLU54LTFjNEszT3pJYkREMzI3TjA4RWNPZ1oyQ0FXQXlhTE8ySFQ4bUpzS3h3?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T10:13:51Z",
-   "tickers": [
-    "TSLA"
-   ],
-   "cats": [
-    "mna"
-   ],
-   "score": 8,
-   "link_is_redirect": true,
    "sec_filing": false
   }
  ]
