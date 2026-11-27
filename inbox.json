@@ -1,16 +1,117 @@
 {
- "updated_utc": "2026-11-27T09:01:25.832297Z",
+ "updated_utc": "2026-11-27T09:10:49.908092Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 859,
-  "new": 1,
-  "candidates": 27,
-  "judged": 1,
+  "fetched": 841,
+  "new": 7,
+  "candidates": 30,
+  "judged": 0,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "128454fc2220fdb6",
+   "title": "热门板块速睇：美股盘前半导体精选走强，美光科技领涨",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005834654?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T09:10:01Z",
+   "tickers": [
+    "MU"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "fa316d98e88ef1ff",
+   "title": "热门板块速睇：美股盘前存储概念走强， 闪迪 领涨",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005834620?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T09:10:01Z",
+   "tickers": [
+    "SNDK"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "189a58da0b2092f2",
+   "title": "美股存储股盘前集体大涨， 闪迪 涨超10%，美光涨超7%",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005834533?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T09:06:57Z",
+   "tickers": [
+    "MU",
+    "SNDK"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "66657fc4c5bfdb29",
+   "title": "美股异动｜SpaceX盘前涨4.41% 与 特斯拉 合并或助力其纳入标普500指数",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005834133?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T09:05:57Z",
+   "tickers": [
+    "TSLA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "e2d195f391a22c8f",
+   "title": "特斯拉 或收购德国机床制造商EMAG 用以制造Optimus精密部件",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005833708?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T09:03:57Z",
+   "tickers": [
+    "TSLA"
+   ],
+   "cats": [
+    "mna"
+   ],
+   "score": 5,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "408bdbdd01f8a2ce",
+   "title": "英伟达 ( NVDA .US)GTC大会首次落地华盛顿！黄仁勋深陷调查风暴恐缺席 AI增长新蓝图及国家战略价值成核心议题",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005834239?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T09:02:31Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [
+    "reg"
+   ],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "96996baee78b5eeb",
    "title": "Fragrance Giants Handed $630 Million in EU, U.K. Antitrust Fines",
@@ -40,6 +141,22 @@
     "reg"
    ],
    "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "49ed8532463659ab",
+   "title": "Trump: 'Market feels very good' about Huang's return as Nvidia CEO",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wV0N6QWFMeHk4Q0ZrZHVUOHZoUnBibW9PRGg0TGlTTHlTemoxb1F5dHUzRmx3dGpTYWU3a3UzT1FoZ0dJMWRwNW9Odk9rUHZs?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T08:46:32Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 4,
    "link_is_redirect": true,
    "sec_filing": false
   },
