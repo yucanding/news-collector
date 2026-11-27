@@ -1,16 +1,32 @@
 {
- "updated_utc": "2026-11-27T22:20:50.258781Z",
+ "updated_utc": "2026-11-27T22:31:09.463245Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 804,
-  "new": 1,
-  "candidates": 32,
-  "judged": 3,
+  "fetched": 812,
+  "new": 0,
+  "candidates": 33,
+  "judged": 0,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "278d046c65ad3c7c",
+   "title": "FTC Imposes Strict Board Restrictions on Beretta’s 25% Stake in Rival Sturm Ruger",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZlBMRWpBSDU0UTZEOGlKR1FZV0RSMW5HQTFqSlNad3dDT2hlSEdNTEpBOW9NQWZaOTAwQkRRZGJUY00xRkhtRzZnZm9SSHBib2ZsZE5idWpHN1VrVmdHbXpsMWtYdVBWRUU4Q3VsZG1nd3dUY29xQkhZLUszNnd6ZmlzdUVFMjBXRHU2OHUxTzZ3YndabUVibk8tRHFYdXV3LWgxMk5nQkItdVdOOEljcGRZOC1KUzRD?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T22:20:48Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
   {
    "id": "f79f93d15b6abf51",
    "title": "How to Live Calmly, Despite Stock Market Whiplash",
@@ -602,22 +618,6 @@
    "tickers": [],
    "cats": [
     "deal"
-   ],
-   "score": 5,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "278d046c65ad3c7c",
-   "title": "FTC Imposes Strict Board Restrictions on Beretta’s 25% Stake in Rival Sturm Ruger",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZlBMRWpBSDU0UTZEOGlKR1FZV0RSMW5HQTFqSlNad3dDT2hlSEdNTEpBOW9NQWZaOTAwQkRRZGJUY00xRkhtRzZnZm9SSHBib2ZsZE5idWpHN1VrVmdHbXpsMWtYdVBWRUU4Q3VsZG1nd3dUY29xQkhZLUszNnd6ZmlzdUVFMjBXRHU2OHUxTzZ3YndabUVibk8tRHFYdXV3LWgxMk5nQkItdVdOOEljcGRZOC1KUzRD?oc=5",
-   "source": "WSJ",
-   "tier": 1,
-   "published_utc": "2026-11-27T19:20:48Z",
-   "tickers": [],
-   "cats": [
-    "reg"
    ],
    "score": 5,
    "link_is_redirect": true,
@@ -3378,118 +3378,6 @@
    ],
    "score": 5,
    "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "b79a940910652cc3",
-   "title": "苹果在全球 App Store 下架 MiniMax 聊天机器人 Talkie",
-   "summary": "深潮 TechFlow 消息，11 月 27 日，据 The Information 报道，苹果已在全球 App Store 下架由 AI 公司 MiniMax 开发的聊天机器人应用 Talkie。此前一篇媒体报道指称，该产品涉及性化内容。",
-   "link": "https://www.techflowpost.com/newsletter/147231/apple-delists-minimax-talkie-chatbot-app-store",
-   "source": "TechFlow",
-   "tier": null,
-   "published_utc": "2026-11-27T10:31:09Z",
-   "tickers": [
-    "AAPL"
-   ],
-   "cats": [],
-   "score": 2,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "62e18b43c1cc3efb",
-   "title": "Trump Can’t Rescue the Stock Market. Here’s What Can.",
-   "summary": "The president tried to arrest the stock market’s decline by engineering Jensen Huang’s return to Nvidia. To find a bottom, something more fundamental needs to shift.",
-   "link": "https://www.wsj.com/finance/stocks/trump-cant-rescue-the-stock-market-heres-what-can-1b97a560?mod=rss_markets_main",
-   "source": "WSJ",
-   "tier": 1,
-   "published_utc": "2026-11-27T10:30:00Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [],
-   "score": 4,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "828ab99eb364d17b",
-   "title": "We support Iraqi Prime Minister Ali al-Zaidi’s efforts to assert state authority throughout Iraq, stop the smuggling of Iraqi oil, end corruption, and bring all weapons under the exclusive control of the state.We support Prime Minister al-Zaidi’s eff",
-   "summary": "We support Iraqi Prime Minister Ali al-Zaidi’s efforts to assert state authority throughout Iraq, stop the smuggling of Iraqi oil, end corruption, and bring all weapons under the exclusive control of the state. We support Prime Minister al-Zaidi’s efforts to build a united, prosperous, and strong Iraq that makes its own political decisions.",
-   "link": "https://www.trumpstruth.org/statuses/43750",
-   "source": "TRUMP-TS",
-   "tier": null,
-   "published_utc": "2026-11-27T10:23:58Z",
-   "tickers": [],
-   "cats": [
-    "scoop"
-   ],
-   "score": 2,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "a4ad02c9fc75a14b",
-   "title": "Two Years After Trump’s Tariff Declaration, Canada Tries to Move On",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaWdwNl9jTnFFSS10Z3BXNVZOWjR6N3ItM3d4MHhIcXZ1TGtyQS03UUV4a0FuYVdMd3FaZ0VVQ09QUTl6d3RDU1RJQW1fcVM3aGZMWURHanZmN3BQanNhT1FVa3Fwb0pUYmtmb3poMm5ZZ0gwelVieGVOQUozVHlXYlkxV1Q4azV5MlNfbEw1T1lSbnFyNndwNjlWUDVBWGFjZkZiUVJLY1dRcU9PU1QwQUZ4V2lnZ3IwNTNGcXMwQldueE5fVWc?oc=5",
-   "source": "Bloomberg.com",
-   "tier": 1,
-   "published_utc": "2026-11-27T10:22:48Z",
-   "tickers": [],
-   "cats": [
-    "reg"
-   ],
-   "score": 5,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "e5b2cdcabcc14bc1",
-   "title": "EXCLUSIVE: Global brands shift hundreds of millions in orders from Bangladesh to India amid unrest",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcVhoVXVubGp1bk52dUFmd2p1NVdJQzNwaXRBTm5TWXdEZXNHTmNlUmIwLXMyWlBMdVByV3RKRFFkV19UVzNCV3UydGgwUjhXMlBES1lFbkxvQndUSkpRXy1RU3k5TmxJOHhHSjZYOWcyNFM0cW95N0twYjJyVU9BZlY2cTVEU2dsNkx0MTFXRXNya0t3alBPN2FnUDgyTUxkUzlUTTN1c21BR19HeDNzZWhOTEFWS2JYNEl1OVdad1dna21acnI4TDhuRDdUWk5EeWk4?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T10:22:04Z",
-   "tickers": [],
-   "cats": [
-    "scoop"
-   ],
-   "score": 4,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "85e1cac80c33ee3f",
-   "title": "市场传闻： 英伟达 因美国拟议限制措施停止向东南亚销售芯片",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005843436?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T10:22:00Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "b53c3f9505971359",
-   "title": "92 Labour MPs call for Rosebank oilfield to be rejected",
-   "summary": "Letter addressed to prime minister says approving the project would ‘permanently damage our climate credentials’",
-   "link": "https://www.ft.com/content/76befc28-cba3-4c9b-bdc3-cced4b304ab1?syn-25a6b1a6=1",
-   "source": "FT",
-   "tier": 1,
-   "published_utc": "2026-11-27T10:21:13Z",
-   "tickers": [],
-   "cats": [
-    "reg"
-   ],
-   "score": 5,
-   "link_is_redirect": false,
    "sec_filing": false
   }
  ]
