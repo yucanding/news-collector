@@ -1,16 +1,151 @@
 {
- "updated_utc": "2026-11-27T11:40:47.308451Z",
+ "updated_utc": "2026-11-27T11:50:48.202974Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 887,
-  "new": 4,
-  "candidates": 37,
-  "judged": 3,
-  "pushed": 0
+  "fetched": 884,
+  "new": 7,
+  "candidates": 41,
+  "judged": 4,
+  "pushed": 1
  },
  "items": [
+  {
+   "id": "6da294184d8cc916",
+   "title": "路透社：美国空军旗舰云平台 Cloud One 遭黑客入侵，美国网络司令部已介入评估",
+   "summary": "深潮 TechFlow 消息，11 月 27 日，据路透社援引多名知情人士独家报道，黑客已入侵美国空军旗舰云计算平台 Cloud One，可能危及大量敏感的战术、人事及后勤数据。该入侵于过去约一个月内在系统升级期间被发现，目前已触发美国网络司令部（Cyber Command）介入评估损害。 知情人士称，入侵者利用软件漏洞触及平台控制平面，导致平台出现大范围业务中断，美军已暂停向 Cloud One 迁移后台应用、冻结既有应用更新，并撤销部分用户的管理员权限。目前尚无法确认黑客身份、入侵波及范围或是否有数据遭窃取。 公开资料显示，Cloud One 始建于 2017 年，整合了微软、亚马逊、甲骨文与 Alphabet 四家云厂商资源，主承包商于 2025 年由 SAIC 交接给 Leidos，承载包括北美防空雷达云端指挥控制及全球逾 200 处基地弹药追踪在内的数十款军事应用。美国空军回应称不对特定网络的安全态势与漏洞置评。",
+   "link": "https://www.techflowpost.com/newsletter/147248/us-air-force-cloud-one-hacked",
+   "source": "TechFlow",
+   "tier": null,
+   "published_utc": "2026-11-27T11:50:21Z",
+   "tickers": [
+    "AMZN",
+    "GOOGL",
+    "MSFT",
+    "ORCL"
+   ],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "5eb9cb701b40ad4f",
+   "title": "Two Chinese firms installed the high-end GPUs at the Shanghai site $NVDA",
+   "summary": "",
+   "link": "https://www.financialjuice.com/News/9870527/Two-Chinese-firms-installed-the-high-end-GPUs-at-the-Shanghai-site-NVDA.aspx?xy=rss",
+   "source": "FinancialJuice",
+   "tier": 3,
+   "published_utc": "2026-11-27T11:47:10Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "f688d6fc44b0b848",
+   "title": "Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang",
+   "summary": "A pair of Chinese firms installed Nvidia Corp.’s powerful Blackwell semiconductors in a Shanghai data center linked to Alice Huang, the woman at the heart of a controversy surrounding the US chipmaker.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T11:45:46Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "7f14a0857b2e6e30",
+   "title": "Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOajRDYnpkT2kwWEdlR2REeG93cnBZdkdsYmo3dTFmaVp3enZYN3Jid0RYVWZwNXJvcE00OG5FNjdwd0MzQXpFV1gzeUxkdnhxTVNoaGVNRmpnRllMTGY4emNtNW9VYnc4RWZVX0I2WExQNy1Ha21aV0FNWWVUb0FacnFLM01rUWRudjBCdGJpbGxCVUx3dl9KMEtZb0pyYURCTG1iWW5xUmNpaDlnc0lsMVpldmV6QQ?oc=5",
+   "source": "Bloomberg.com",
+   "tier": 1,
+   "published_utc": "2026-11-27T11:45:46Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "5f5e1692b82fff19",
+   "title": "Fire Prevention Materials Market worth $2.61 billion by 2031 - Exclusive Report by MarketsandMarkets™",
+   "summary": "DELRAY BEACH, Fla., Nov. 27, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Fire Prevention Materials Market is projected to reach USD 2.61 billion by 2031 from USD 1.98 billion in 2026, at a CAGR of 5.7%. Browse 248 market data Tables and 54 Figures spread through 236 Pages...",
+   "link": "https://www.prnewswire.com/news-releases/fire-prevention-materials-market-worth-2-61-billion-by-2031---exclusive-report-by-marketsandmarkets-302951599.html",
+   "source": "PR Newswire",
+   "tier": 0,
+   "published_utc": "2026-11-27T11:45:00Z",
+   "tickers": [],
+   "cats": [
+    "deal",
+    "scoop"
+   ],
+   "score": 2,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "746cfd9ad4290a4f",
+   "title": "EXCLUSIVE: Hackers breach US Air Force flagship Cloud One computing platform",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnhWb2oyc2Qta3k0bUhwbGZTcWZMREZ0VU41eVNZWDJZTDlBcmMxZzFrLXlmVGJpUHBRbVdBRlNoQU9lWUlIcVpMcXQwWWpyYVJ2eDJQa1ZvNFU5MUFHLWdpQW1BVloyUW5lTUlVSlFpLXJwVHNLMl9fQnBFTTNnemY4Q0JiUkN3SXFndG1pX1l1TmdySFJDOHJlWC1fMnE3cjlaVFB5M1hWbU0?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T11:38:02Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "9b44e6438cd8faf4",
+   "title": "Deutsche Boerse wins EU antitrust approval for Allfunds acquisition",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ2wwa3NCVGlMa3dWeXIxbm5lTEdhdWFJOWJFckt3YjlPVW9HT0x3cndqcXhseHIyZHJadGNzWVV2TmV1aENaaXliYmtvNjZTS21FRmppV3NSTXhNME9jSGxWN0lSSy1CS3p0TTI4bmhTcGNTTnMxejVoR3ZBZUxLQ19rNFpPVmlCb0JwSThsQnJzQ084NXZnZmpIVy1CTERHQXlzNHJyV0I0ZGVtR1hkQmFmdkNSSmc?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T11:36:47Z",
+   "tickers": [],
+   "cats": [
+    "mna",
+    "reg"
+   ],
+   "score": 7,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "3edc289b6e242534",
+   "title": "Turkey Spent Nearly $700 Million to Host Failed Climate Summit",
+   "summary": "Turkey spent nearly $700 million to host the COP31 climate summit, according to people familiar with the expenditure, only for the United Nations gathering to end without an overarching agreement after a fractious closing session.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/turkey-spent-nearly-700-million-to-host-failed-climate-summit",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T11:36:34Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "55d0c2b4fc2c00dd",
    "title": "Capita's UK Pension Mess Shows Why Government Outsourcing Is a Mistake",
@@ -94,18 +229,19 @@
    "sec_filing": false
   },
   {
-   "id": "746cfd9ad4290a4f",
-   "title": "EXCLUSIVE: Hackers breach US Air Force flagship Cloud One computing platform",
+   "id": "05194513719a8338",
+   "title": "EXCLUSIVE: Volkswagen drags rivals Mercedes, BMW into $1.2 billion India tax fight",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnhWb2oyc2Qta3k0bUhwbGZTcWZMREZ0VU41eVNZWDJZTDlBcmMxZzFrLXlmVGJpUHBRbVdBRlNoQU9lWUlIcVpMcXQwWWpyYVJ2eDJQa1ZvNFU5MUFHLWdpQW1BVloyUW5lTUlVSlFpLXJwVHNLMl9fQnBFTTNnemY4Q0JiUkN3SXFndG1pX1l1TmdySFJDOHJlWC1fMnE3cjlaVFB5M1hWbU0?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVmMzM2R4OXZYcTVXODQ1TnFvVldUOGtBQmhhV1lHS29wOThxUmpDRXVBTHhfZDY3d1QxZF9rTmlVTU5PQXhVWDlSdWtTUHBCOTlVbmlRLUhpWW9aTUFURUN5WHhMOGtMV0hHUGY0QjZIbVROOExQNUlMU21YU0hYUktmcGo0RU5DNGl4Uy1RTnBkOEVYV3lSSzZYZ1lfM094U2JJTnhadm43aFlNZGtvb0MxOXFESVk?oc=5",
    "source": "Reuters",
    "tier": 1,
-   "published_utc": "2026-11-27T11:19:22Z",
+   "published_utc": "2026-11-27T11:14:36Z",
    "tickers": [],
    "cats": [
+    "deal",
     "scoop"
    ],
-   "score": 4,
+   "score": 6,
    "link_is_redirect": true,
    "sec_filing": false
   },
@@ -203,23 +339,6 @@
    ],
    "score": 5,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "05194513719a8338",
-   "title": "EXCLUSIVE: Volkswagen drags rivals Mercedes, BMW into $1.2 billion India tax fight",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVmMzM2R4OXZYcTVXODQ1TnFvVldUOGtBQmhhV1lHS29wOThxUmpDRXVBTHhfZDY3d1QxZF9rTmlVTU5PQXhVWDlSdWtTUHBCOTlVbmlRLUhpWW9aTUFURUN5WHhMOGtMV0hHUGY0QjZIbVROOExQNUlMU21YU0hYUktmcGo0RU5DNGl4Uy1RTnBkOEVYV3lSSzZYZ1lfM094U2JJTnhadm43aFlNZGtvb0MxOXFESVk?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T10:50:41Z",
-   "tickers": [],
-   "cats": [
-    "deal",
-    "scoop"
-   ],
-   "score": 6,
-   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -2669,22 +2788,6 @@
    "published_utc": "2026-11-26T23:54:38Z",
    "tickers": [
     "NVDA"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "45c55b110fdf3f05",
-   "title": "日本电力公司JERA据悉同Anthropic、 Meta 等科技巨头洽谈数据中心事宜",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005783820?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-26T23:47:00Z",
-   "tickers": [
-    "META"
    ],
    "cats": [],
    "score": 1,

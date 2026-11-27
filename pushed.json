@@ -139,6 +139,17 @@
    "event": "据路透社援引知情人士报道，SAP 正寻求裁减相当数量的工作岗位",
    "event_key": "sap|management|layoffs",
    "delivery": "ok"
+  },
+  "f688d6fc44b0b848": {
+   "utc": "2026-11-27T11:50:57.170968Z",
+   "published_utc": "2026-11-27T11:45:46Z",
+   "title": "Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang",
+   "tickers": [
+    "NVDA"
+   ],
+   "event": "彭博社报道称中国上海一处与 Alice Huang 有关的站点安装了英伟达 Blackwell 芯片",
+   "event_key": "nvda|supply_chain|alice_huang",
+   "delivery": "ok"
   }
  },
  "pending": {}
