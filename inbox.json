@@ -1,13 +1,13 @@
 {
- "updated_utc": "2026-11-27T12:10:50.228423Z",
+ "updated_utc": "2026-11-27T12:20:48.898891Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 889,
-  "new": 6,
-  "candidates": 45,
-  "judged": 2,
+  "fetched": 892,
+  "new": 1,
+  "candidates": 44,
+  "judged": 1,
   "pushed": 0
  },
  "items": [
@@ -29,12 +29,12 @@
   },
   {
    "id": "689d639053611178",
-   "title": "黄仁勋下周赴国会接受问询： 英伟达 ( NVDA .US)重返聚光灯下，AI板块迎来压力测试",
+   "title": "黄仁勋下周赴国会接受问询： 英伟达 重返聚光灯下，AI板块迎来压力测试",
    "summary": "",
    "link": "https://news.futunn.com/post/1005852418?futusource=news_search_searchnews&src=39",
    "source": "futu",
    "tier": 3,
-   "published_utc": "2026-11-27T12:08:36Z",
+   "published_utc": "2026-11-27T12:08:00Z",
    "tickers": [
     "NVDA"
    ],
@@ -72,6 +72,22 @@
     "scoop"
    ],
    "score": 0,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "d5912e44df426a24",
+   "title": "India's Adani Group targets capex of nearly $24 billion in 2027, CFO Singh says",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOHlTQnpYYzNEZjVsMG9Yb3ViN2hTZEFtNmh0M1cwSktEaTRRdUpJY0owNkZoN1VZeUY0WUdGLUU0dXRCRnJ6NzExTHk3MEpRbUhKQ0Z1QkdocDVYUnowY0JFMFZ3VzZJLUVzSUlYUjMtaGNPelNYVVdvV2xKVFExNG10NXRJbHRKaWpBUVNGRm1fekVseXVqXzlsRUNoZkZqU2hQTGNwQXlEZFJCMHFiSm51MzAtZnZ0c2c?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T12:05:38Z",
+   "tickers": [],
+   "cats": [
+    "deal"
+   ],
+   "score": 5,
    "link_is_redirect": true,
    "sec_filing": false
   },
@@ -440,6 +456,22 @@
    "sec_filing": false
   },
   {
+   "id": "c6da5e553ae750e8",
+   "title": "Kenya Airways plans to raise $1.5 billion from investor in 2027",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOGtpYzNyVXNEamp0S1VGd0plQ0lJSmlsSG51NHZBQU1sRTRKTTdiZEg2bHhhVnRIU2FHY1Jkbzl5QzRVT0dOa0hQVUVwUE8wVXJMNmRHaEkwQ3FQdnN1TGljRVNmS2J6NDJOcWdzZGNoWVAxRDA4UTdwQy15dGpwbU1JTGd0Q2ktVlpHU1BMaVhZSlVSckxvc09DNGJfYmhP?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T11:13:32Z",
+   "tickers": [],
+   "cats": [
+    "deal"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
    "id": "ff1052c47766e5b9",
    "title": "Canada to Put Billions More Toward Tariff-Hit Softwood Lumber Sector",
    "summary": "Canada will unveil a plan to aid its softwood lumber producers, one of several sectors pummeled by US President Donald Trump’s tariffs.",
@@ -578,22 +610,6 @@
    "tickers": [],
    "cats": [
     "reg"
-   ],
-   "score": 5,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "c6da5e553ae750e8",
-   "title": "Kenya Airways plans to raise $1.5 billion from investor in 2027",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOGtpYzNyVXNEamp0S1VGd0plQ0lJSmlsSG51NHZBQU1sRTRKTTdiZEg2bHhhVnRIU2FHY1Jkbzl5QzRVT0dOa0hQVUVwUE8wVXJMNmRHaEkwQ3FQdnN1TGljRVNmS2J6NDJOcWdzZGNoWVAxRDA4UTdwQy15dGpwbU1JTGd0Q2ktVlpHU1BMaVhZSlVSckxvc09DNGJfYmhP?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T10:39:44Z",
-   "tickers": [],
-   "cats": [
-    "deal"
    ],
    "score": 5,
    "link_is_redirect": true,
