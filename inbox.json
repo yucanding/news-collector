@@ -1,16 +1,83 @@
 {
- "updated_utc": "2026-11-27T12:20:48.898891Z",
+ "updated_utc": "2026-11-27T12:31:07.823042Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 892,
-  "new": 1,
+  "fetched": 886,
+  "new": 5,
   "candidates": 44,
-  "judged": 1,
+  "judged": 3,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "be3994804cc53407",
+   "title": "Jones Soda Co. Announces Proposed Voluntary Delisting from the Canadian Securities Exchange",
+   "summary": "SEATTLE, Nov. 27, 2026 /PRNewswire/ -- Jones Soda Co. (CSE: JSDA) (OTCQB: JSDA) (\"Jones Soda\" or the \"Company\") announces that it has applied to voluntarily delist its common shares from the Canadian Securities Exchange (\"CSE\"). The proposed delisting is subject to CSE approval, and the...",
+   "link": "https://www.prnewswire.com/news-releases/jones-soda-co-announces-proposed-voluntary-delisting-from-the-canadian-securities-exchange-302951454.html",
+   "source": "PR Newswire",
+   "tier": 0,
+   "published_utc": "2026-11-27T12:30:00Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "6f8c1186502ba9d1",
+   "title": "Exclusive | MLB Launches Legal Action Against Its Players—Before the Lockout Even Begins",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Fcnd3cEd0aEp3Q3cwQ0FCTW9tWFlNU1VrQnF2RDlvbUhhNzlrN0VIOUNFN0xoT1JYZkNEZGNzV0t1emdGWlpZSzlsZE5wUFhnX21nVGowY1BjWUwtNWZpOUxmYVFjcDVmaWJ2VHBaV3JsQ0ExaXJVLTlocEY0RDg?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T12:25:53Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "76402cdab7271688",
+   "title": "市场传闻：黑客入侵由 微软 、亚马逊、甲骨文和Alphabet提供支持的美国空军云平台",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005853439?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T12:21:32Z",
+   "tickers": [
+    "AMZN",
+    "GOOGL",
+    "MSFT",
+    "ORCL"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "aa2ce627debce28a",
+   "title": "BAE Systems Says NATO Combat Vehicle Order Worth $6 Billion",
+   "summary": "BAE Systems Plc said its landmark deal with five NATO countries for hundreds of infantry fighting vehicles is worth about $6 billion, as increased European defense spending translates into orders.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/bae-systems-says-nato-combat-vehicle-order-worth-6-billion",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T12:21:14Z",
+   "tickers": [],
+   "cats": [
+    "deal"
+   ],
+   "score": 5,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "165d0baa014b475f",
    "title": "英伟达 Blackwell 芯片现身上海数据中心",
@@ -83,6 +150,22 @@
    "source": "Reuters",
    "tier": 1,
    "published_utc": "2026-11-27T12:05:38Z",
+   "tickers": [],
+   "cats": [
+    "deal"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "61aaec6116c81a97",
+   "title": "BAE Systems says European combat vehicle order totals $6 billion",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS2RKOGc2NkFKZVhNVTVTeTVtZGQyc041VHZKZXRHNlM4eUI1eU1DVW1FNDVicTN2ajJ5RE9LQW1PMTEyaDF2YTYydFRhSmRMelUxbndQQTNjSGN4Qm52X1h5dU1kTTZCZHhwQVpHaUVRRE14T1lNSFNpWkVuTkhVc3hNWVpRMVpNaFVkN0VKRE9lSDBlTl9vZFppWHhYTThha0J3UUtYNTdMWHRSajhVRUNoaHRmMGV5UU9ZenBFZ2MxZWQ2?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T12:03:43Z",
    "tickers": [],
    "cats": [
     "deal"
@@ -171,6 +254,22 @@
    ],
    "score": 4,
    "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "09fcf4821e3e662b",
+   "title": "Tech rally lifts stock futures to wrap up a volatile week of trading",
+   "summary": "President Trump demands a probe into the GDP revision data.",
+   "link": "https://www.cnbc.com/2026/11/27/tech-rally-lifts-stock-futures-to-wrap-up-a-volatile-week-of-trading.html",
+   "source": "CNBC",
+   "tier": 2,
+   "published_utc": "2026-11-27T11:55:41Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 4,
+   "link_is_redirect": false,
    "sec_filing": false
   },
   {
@@ -390,7 +489,7 @@
   },
   {
    "id": "1d56a73ff745f435",
-   "title": "Deutsche Boerse’s €5.3 billion Allfunds Deal Gets EU Approval",
+   "title": "Deutsche Boerse’s €5.3 billion Allfunds Bid Gets EU Approval",
    "summary": "Deutsche Boerse AG’s €5.3 billion ($5.8 billion) deal for Allfunds Group Plc has won European Union unconditional approval, paving the way for the largest acquisition in the German exchange operator’s history.",
    "link": "https://www.bloomberg.com/news/articles/2026-11-27/deutsche-boerse-s-5-3-billion-allfunds-deal-gets-eu-approval",
    "source": "BBG",
@@ -1001,22 +1100,6 @@
     "scoop"
    ],
    "score": 0,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "6f8c1186502ba9d1",
-   "title": "Exclusive | MLB Launches Legal Action Against Its Players—Before the Lockout Even Begins",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Fcnd3cEd0aEp3Q3cwQ0FCTW9tWFlNU1VrQnF2RDlvbUhhNzlrN0VIOUNFN0xoT1JYZkNEZGNzV0t1emdGWlpZSzlsZE5wUFhnX21nVGowY1BjWUwtNWZpOUxmYVFjcDVmaWJ2VHBaV3JsQ0ExaXJVLTlocEY0RDg?oc=5",
-   "source": "WSJ",
-   "tier": 1,
-   "published_utc": "2026-11-27T09:25:53Z",
-   "tickers": [],
-   "cats": [
-    "scoop"
-   ],
-   "score": 4,
    "link_is_redirect": true,
    "sec_filing": false
   },
@@ -2921,38 +3004,6 @@
    ],
    "cats": [],
    "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "7d1dac982ac5803b",
-   "title": "SAP 发现软件开发平台存在可疑活动",
-   "summary": "深潮 TechFlow 消息，11 月 27 日，据德国《商报》转载德新社报道，SAP 表示已发现可疑活动，并立即采取措施保护客户和服务安全。目前调查未发现客户业务数据遭未经授权访问的迹象。德新社部分查看的内部通知显示，可疑活动出现在 SAP 用于开发者生产力和软件交付的 GitHub 平台内。SAP 尚未确认此前有关黑客攻击的报道。",
-   "link": "https://www.techflowpost.com/newsletter/147148/sap-discovers-suspicious-activity-on-software-development-platform",
-   "source": "TechFlow",
-   "tier": null,
-   "published_utc": "2026-11-27T00:29:13Z",
-   "tickers": [],
-   "cats": [
-    "reg"
-   ],
-   "score": 3,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "17e87f76f70f0334",
-   "title": "Japan Tobacco Climbs on Potential Imperial Brands Takeover",
-   "summary": "Japan Tobacco Inc. shares rose on news that it’s exploring a potential takeover of Imperial Brands Plc with Altria Group Inc., a move that would help the Japanese cigarette maker fill a large earnings hole left by the recent seizure of its Russian assets.",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-27/japan-tobacco-shares-climb-on-potential-imperial-brands-takeover",
-   "source": "BBG",
-   "tier": 1,
-   "published_utc": "2026-11-27T00:26:05Z",
-   "tickers": [],
-   "cats": [
-    "mna"
-   ],
-   "score": 6,
    "link_is_redirect": false,
    "sec_filing": false
   }
