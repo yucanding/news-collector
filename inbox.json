@@ -1,16 +1,72 @@
 {
- "updated_utc": "2026-11-27T13:40:57.073127Z",
+ "updated_utc": "2026-11-27T13:51:22.929838Z",
  "window_hours": 12,
  "stale": false,
- "errors": {},
+ "errors": {
+  "gn-kuo-en": "HTTPError: HTTP Error 429: Too Many Requests",
+  "gn-kuo-zh": "HTTPError: HTTP Error 503: Service Unavailable",
+  "gn-t1-exclusive": "HTTPError: HTTP Error 429: Too Many Requests",
+  "gn-t1-mna": "HTTPError: HTTP Error 429: Too Many Requests",
+  "gn-wires": "HTTPError: HTTP Error 503: Service Unavailable",
+  "gn-short": "HTTPError: HTTP Error 503: Service Unavailable",
+  "gn-supply": "HTTPError: HTTP Error 503: Service Unavailable"
+ },
  "counts": {
-  "fetched": 863,
-  "new": 7,
-  "candidates": 65,
-  "judged": 5,
+  "fetched": 742,
+  "new": 5,
+  "candidates": 59,
+  "judged": 2,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "4de63b4bddb98d16",
+   "title": "11月25日报道，铠侠与 英伟达 合作，利用SSD扩展有效高带宽内存容量",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005858503?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T13:47:01Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "1f8a40493d0535d1",
+   "title": "PROPEL Center Names University of Arkansas at Pine Bluff Winner of the Future of XYZ HBCU Innovation Challenge at AfroTech",
+   "summary": "The student team's Brix, a money coaching app built by Gen Z for Gen Z, topped a field of more than 30 HBCU applicants to take the $15,000 top prize, with industry mentorship and support from Apple, PROPEL's Founding Partner ATLANTA, Nov. 27, 2026 /PRNewswire/ -- PROPEL Center announced...",
+   "link": "https://www.prnewswire.com/news-releases/propel-center-names-university-of-arkansas-at-pine-bluff-winner-of-the-future-of-xyz-hbcu-innovation-challenge-at-afrotech-302950680.html",
+   "source": "PR Newswire",
+   "tier": 0,
+   "published_utc": "2026-11-27T13:43:00Z",
+   "tickers": [
+    "AAPL"
+   ],
+   "cats": [],
+   "score": 3,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "10551150415b64a7",
+   "title": "美股异动 | 明星科技股盘前集体反弹 英伟达 ( NVDA .US)涨逾2%",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005858526?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T13:41:19Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "08e66f895a62079d",
    "title": "LigaData Brings Data Flare and Barq to Google Cloud Marketplace",
@@ -153,6 +209,22 @@
     "reg"
    ],
    "score": 2,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "c1f3c275b70d2b6d",
+   "title": "EU weighs tighter export controls to prevent battery waste going to China",
+   "summary": "‘Black mass’ containing key minerals is often processed abroad and the extracted metals re-exported to Europe",
+   "link": "https://www.ft.com/content/a8ecccda-f986-4ae9-9f45-9470d2be8c65?syn-25a6b1a6=1",
+   "source": "FT",
+   "tier": 1,
+   "published_utc": "2026-11-27T13:26:26Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
    "link_is_redirect": false,
    "sec_filing": false
   },
@@ -2204,6 +2276,22 @@
    "sec_filing": false
   },
   {
+   "id": "16d23b7b19c79a52",
+   "title": "Nasdaq Futures Rally as Traders Pile Into Battered AI Stocks",
+   "summary": "US stock futures rose, indicating the market is poised to rebound as dip buyers scoop up beaten down technology shares.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/us-stocks-set-to-bounce-as-risk-appetite-returns-after-holiday",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T07:56:20Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
    "id": "fff0d78471bc9379",
    "title": "Japan Tobacco Climbs on Potential Imperial Brands Takeover",
    "summary": "",
@@ -3488,22 +3576,6 @@
    "cats": [],
    "score": 1,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "ec5778deec90994b",
-   "title": "Japan eyeing $350 billion five-year defence plan, below military's wishes, Asahi reports",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTm84alU4MjJWRXBIWEI5MWxkRi15MkVTck42T08tN2RiRU5HVVpReXdjdzZlY1ZCMDRhbV9qUms3TGhncHZJNjFTQ0JKa1lOVlpNY2RsRWNFaW5mOGhlYm94LUxlc3IxOW50ZGtaMXdJSmFPanQtSnEzVExWb1lWUktQb0NvdnFJV1pKend0QTVHMlFKcnJzTG94bG5GVklRNi04STBaN0Z2aWdmTVVaOE5rR1ZudWFIbzNUZ256SnMzOVlWY2VBa1c2OA?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T01:41:00Z",
-   "tickers": [],
-   "cats": [
-    "deal"
-   ],
-   "score": 5,
-   "link_is_redirect": true,
    "sec_filing": false
   }
  ]
