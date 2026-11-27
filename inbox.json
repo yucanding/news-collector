@@ -1,16 +1,80 @@
 {
- "updated_utc": "2026-11-27T10:40:49.779527Z",
+ "updated_utc": "2026-11-27T10:50:50.913005Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 875,
-  "new": 4,
-  "candidates": 45,
+  "fetched": 876,
+  "new": 5,
+  "candidates": 46,
   "judged": 3,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "c8fad648d583ac09",
+   "title": "X Financial Reports Third Quarter 2026 Unaudited Financial Results",
+   "summary": "SHENZHEN, China, Nov. 27, 2026 /PRNewswire/ -- X Financial (NYSE: XYF), a leading Chinese fintech platform, today announced its unaudited financial results for the third quarter ended September 30, 2026. This press release should be read in conjunction with the Company's Report on Form...",
+   "link": "https://www.prnewswire.com/news-releases/x-financial-reports-third-quarter-2026-unaudited-financial-results-302951437.html",
+   "source": "PR Newswire",
+   "tier": 0,
+   "published_utc": "2026-11-27T10:50:00Z",
+   "tickers": [
+    "XYF"
+   ],
+   "cats": [],
+   "score": -2,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "47927c3f359919c3",
+   "title": "在经历数月的监管延迟后， 特斯拉 将于12月15日迎来欧盟关于自动驾驶技术的关键投票：以下是这家由埃隆·马斯克领导的电动汽车巨头所需面对的情况",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005845080?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T10:45:48Z",
+   "tickers": [
+    "TSLA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "6a92e77616bed84c",
+   "title": "Eni bets on Latin American growth with Argentina LNG project approval imminent",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWnJIWTA1WTRhQnpqSU9uRGFDeE9vS3FFNnM4UmI5anpUYS13cFBXRzNlUDllY1RwZTlVT05kOEMyaFdURktlV2lFd05RVlhqS2VpY1hYbFkyTGpjUFZVLWhKb01EX19Qa0ZSUS1PUHdGaGtqQ2JlWjZFSlJhNUxJd1JuTFl3ZC1mc0ZyMkM4Zm96UnloZGdfd3pWcmQ0VUlFZmYyYmNHcDV1ek5NQ0NsMDV5bDRTektuYmZKY1pKS1dZUUhLRUE?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T10:45:43Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "c6da5e553ae750e8",
+   "title": "Kenya Airways plans to raise $1.5 billion from investor in 2027",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOGtpYzNyVXNEamp0S1VGd0plQ0lJSmlsSG51NHZBQU1sRTRKTTdiZEg2bHhhVnRIU2FHY1Jkbzl5QzRVT0dOa0hQVUVwUE8wVXJMNmRHaEkwQ3FQdnN1TGljRVNmS2J6NDJOcWdzZGNoWVAxRDA4UTdwQy15dGpwbU1JTGd0Q2ktVlpHU1BMaVhZSlVSckxvc09DNGJfYmhP?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T10:39:44Z",
+   "tickers": [],
+   "cats": [
+    "deal"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
   {
    "id": "b79a940910652cc3",
    "title": "苹果在全球 App Store 下架 MiniMax 聊天机器人 Talkie",
@@ -29,7 +93,7 @@
   },
   {
    "id": "62e18b43c1cc3efb",
-   "title": "Trump Can’t Rescue The Stock Market. Here’s What Can.",
+   "title": "Trump Can’t Rescue the Stock Market. Here’s What Can.",
    "summary": "The president tried to arrest the stock market’s decline by engineering Jensen Huang’s return to Nvidia. To find a bottom, something more fundamental needs to shift.",
    "link": "https://www.wsj.com/finance/stocks/trump-cant-rescue-the-stock-market-heres-what-can-1b97a560?mod=rss_markets_main",
    "source": "WSJ",
@@ -60,22 +124,6 @@
    "sec_filing": false
   },
   {
-   "id": "85e1cac80c33ee3f",
-   "title": "市场传闻： 英伟达 因美国拟议限制措施停止向东南亚销售芯片",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005843436?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T10:22:54Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
    "id": "e5b2cdcabcc14bc1",
    "title": "EXCLUSIVE: Global brands shift hundreds of millions in orders from Bangladesh to India amid unrest",
    "summary": "",
@@ -89,6 +137,22 @@
    ],
    "score": 4,
    "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "85e1cac80c33ee3f",
+   "title": "市场传闻： 英伟达 因美国拟议限制措施停止向东南亚销售芯片",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005843436?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T10:22:00Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
    "sec_filing": false
   },
   {
@@ -429,6 +493,22 @@
     "scoop"
    ],
    "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "a15cf5a444a6250d",
+   "title": "Bawag’s €1.6 Billion PTSB Deal Rejected by Irish High Court",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZVVoZ0lmSUUtbVN6eU1ReHNfUlkzTWtsdFUtV3BpTmlMR2ZNeFJGbVZjUjFFM2NGamVKYlE3Y3RYMDJYREstdkVReWZiVlNEUFdIV3dRUDlmQ2FBcXBQQm9ac29oUTFKbnZOcnV2T0pjdlFGZnFRei1NdXNCTHQtcEZtWVhHRHdHWTNCQzBYWE1XXzI5QVBqN3h3VUtVZThCVWRrZmh6aw?oc=5",
+   "source": "Bloomberg.com",
+   "tier": 1,
+   "published_utc": "2026-11-27T09:20:54Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
    "link_is_redirect": true,
    "sec_filing": false
   },
