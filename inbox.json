@@ -1,16 +1,48 @@
 {
- "updated_utc": "2026-11-27T10:31:07.172877Z",
+ "updated_utc": "2026-11-27T10:40:49.779527Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 866,
-  "new": 2,
-  "candidates": 41,
-  "judged": 0,
+  "fetched": 875,
+  "new": 4,
+  "candidates": 45,
+  "judged": 3,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "b79a940910652cc3",
+   "title": "苹果在全球 App Store 下架 MiniMax 聊天机器人 Talkie",
+   "summary": "深潮 TechFlow 消息，11 月 27 日，据 The Information 报道，苹果已在全球 App Store 下架由 AI 公司 MiniMax 开发的聊天机器人应用 Talkie。此前一篇媒体报道指称，该产品涉及性化内容。",
+   "link": "https://www.techflowpost.com/newsletter/147231/apple-delists-minimax-talkie-chatbot-app-store",
+   "source": "TechFlow",
+   "tier": null,
+   "published_utc": "2026-11-27T10:31:09Z",
+   "tickers": [
+    "AAPL"
+   ],
+   "cats": [],
+   "score": 2,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "62e18b43c1cc3efb",
+   "title": "Trump Can’t Rescue The Stock Market. Here’s What Can.",
+   "summary": "The president tried to arrest the stock market’s decline by engineering Jensen Huang’s return to Nvidia. To find a bottom, something more fundamental needs to shift.",
+   "link": "https://www.wsj.com/finance/stocks/trump-cant-rescue-the-stock-market-heres-what-can-1b97a560?mod=rss_markets_main",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T10:30:00Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "828ab99eb364d17b",
    "title": "We support Iraqi Prime Minister Ali al-Zaidi’s efforts to assert state authority throughout Iraq, stop the smuggling of Iraqi oil, end corruption, and bring all weapons under the exclusive control of the state.We support Prime Minister al-Zaidi’s eff",
@@ -57,6 +89,22 @@
    ],
    "score": 4,
    "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "b53c3f9505971359",
+   "title": "92 Labour MPs call for Rosebank oilfield to be rejected",
+   "summary": "Letter addressed to prime minister says approving the project would ‘permanently damage our climate credentials’",
+   "link": "https://www.ft.com/content/76befc28-cba3-4c9b-bdc3-cced4b304ab1?syn-25a6b1a6=1",
+   "source": "FT",
+   "tier": 1,
+   "published_utc": "2026-11-27T10:21:13Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": false,
    "sec_filing": false
   },
   {
@@ -136,6 +184,24 @@
    ],
    "cats": [],
    "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "1abc8682fffbd037",
+   "title": "Globalive’s Lacavera Seeks Role in Potential Telus Takeover Process",
+   "summary": "A Canadian telecom entrepreneur who built and sold the country’s fourth-largest wireless carrier is seeking a role in any takeover of Telus Corp., calling on the government to hold an open process for assets that may need to be divested.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/globalive-s-lacavera-seeks-role-in-potential-telus-takeover-process",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T10:00:00Z",
+   "tickers": [
+    "TU"
+   ],
+   "cats": [
+    "mna"
+   ],
+   "score": 8,
    "link_is_redirect": false,
    "sec_filing": false
   },
