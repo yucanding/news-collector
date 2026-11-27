@@ -1,16 +1,64 @@
 {
- "updated_utc": "2026-11-27T22:31:09.463245Z",
+ "updated_utc": "2026-11-27T22:40:58.047618Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 812,
-  "new": 0,
-  "candidates": 33,
-  "judged": 0,
+  "fetched": 816,
+  "new": 3,
+  "candidates": 35,
+  "judged": 2,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "202036d9dc1ce9c5",
+   "title": "Roundhill Investments Announces ETF Lineup Update",
+   "summary": "NEW YORK, Nov. 27, 2026 /PRNewswire/ -- Roundhill Investments, an ETF sponsor focused on innovative financial products, today announced plans to close and liquidate the following ETFs: Fund Name Ticker CUSIP Roundhill BABA WeeklyPay ETF BABW 77926X510 Roundhill BRKB WeeklyPay ETF BRKW...",
+   "link": "https://www.prnewswire.com/news-releases/roundhill-investments-announces-etf-lineup-update-302951912.html",
+   "source": "PR Newswire",
+   "tier": 0,
+   "published_utc": "2026-11-27T22:35:00Z",
+   "tickers": [
+    "BABA"
+   ],
+   "cats": [],
+   "score": 3,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "65a0a5713c78f82a",
+   "title": "Peak Credit Union Announces Agreement to Acquire Southwest Heritage Bank",
+   "summary": "The proposed acquisition would deepen business banking expertise and expand Peak's reach into Arizona and New Mexico EUGENE, Ore. and LACEY, Wash. and SCOTTSDALE, Ariz., Nov. 27, 2026 /PRNewswire/ -- Peak Credit Union announced today that it has entered into a definitive agreement to...",
+   "link": "https://www.prnewswire.com/news-releases/peak-credit-union-announces-agreement-to-acquire-southwest-heritage-bank-302951825.html",
+   "source": "PR Newswire",
+   "tier": 0,
+   "published_utc": "2026-11-27T22:30:00Z",
+   "tickers": [],
+   "cats": [
+    "mna"
+   ],
+   "score": 2,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "5516527469fb533a",
+   "title": "Peak Credit Union Announces Agreement to Acquire Southwest Heritage Bank",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSVNYMENaR29xREpvTXRoRXAzdW4zZTVDRlZKOU9zNF9JcDFPQWVNanBBQThyazNPS0JOMmtSTGIyS29qY3dpWTdGUzgwamFYbGszQXN0M3g0a0NETF8zemppY3J5T0JITEN2U2dDMmR5NWNobDBxZWpoS3dxbnAtV3VFRTNRTkZMZS1ncjgyYkxlYXdBWnN3Rw?oc=5",
+   "source": "Financial Times",
+   "tier": 1,
+   "published_utc": "2026-11-27T22:30:00Z",
+   "tickers": [],
+   "cats": [
+    "mna"
+   ],
+   "score": 6,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
   {
    "id": "278d046c65ad3c7c",
    "title": "FTC Imposes Strict Board Restrictions on Beretta’s 25% Stake in Rival Sturm Ruger",
