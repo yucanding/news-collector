@@ -1,12 +1,12 @@
 {
- "updated_utc": "2026-11-27T23:01:20.166661Z",
+ "updated_utc": "2026-11-27T23:10:50.658829Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 803,
-  "new": 0,
-  "candidates": 34,
+  "fetched": 795,
+  "new": 1,
+  "candidates": 32,
   "judged": 0,
   "pushed": 0
  },
@@ -24,6 +24,38 @@
    ],
    "cats": [],
    "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "a628d6d44d92ebff",
+   "title": "OpenAI countersues Apple for stealing trade secrets",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0FibW0xZFFBUlJ2MGJkd0NEcWZtRzkzUkdWcFl1VnlRN2dRMkpjWHpKVXlIekttSno1b1RMeWxJN2dtU0ZlS085Y1ZqTkpfM2Jaci13RUdMNFVPOWtqRldaazVrX25mMExUSkU0SmJRcHJsdnZxMWJXU05MNXFzc211YzlXNzMwRTVUM1k1MW5RQTdHbnRpU1p6Y2hQMFE0UnVBSk45eHg?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T23:00:08Z",
+   "tickers": [
+    "AAPL"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "087b463024106fa8",
+   "title": "隔夜美股 | 纳指、标普500指数录得去年4月来最大单周涨幅 Ant hropic( ANT .US)重回IPO发行价上方",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005881897?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T23:00:00Z",
+   "tickers": [],
+   "cats": [
+    "deal"
+   ],
+   "score": 2,
    "link_is_redirect": false,
    "sec_filing": false
   },
@@ -153,22 +185,6 @@
    "cats": [],
    "score": 1,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "9877b61dc68f0636",
-   "title": "Exclusive | Inside the Scramble to Avert Conflict With Russia in the Baltic",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWXU1WDdhS2huZHA0c0owNzRTTVpyZklia2VLbWNUMk1nWk52TFlieHdwZ2dNSEZ5LUdKTl83WU9iWkhwTHFWVHg4RkpudTM3WjlFa1lzbnY5YThqOTVyNU11cThCWWp0aTJGeU1wTVM5akVzeWRuQzMyaTROaDVXREdTOHRsQ0luM3VKME9DODhRZFVJLWxZSmEyU1VlbWlmME9YbEVBbGY?oc=5",
-   "source": "WSJ",
-   "tier": 1,
-   "published_utc": "2026-11-27T21:54:12Z",
-   "tickers": [],
-   "cats": [
-    "scoop"
-   ],
-   "score": 4,
-   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -460,6 +476,22 @@
    "sec_filing": false
   },
   {
+   "id": "9877b61dc68f0636",
+   "title": "Exclusive | Inside the Scramble to Avert Conflict With Russia in the Baltic",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWXU1WDdhS2huZHA0c0owNzRTTVpyZklia2VLbWNUMk1nWk52TFlieHdwZ2dNSEZ5LUdKTl83WU9iWkhwTHFWVHg4RkpudTM3WjlFa1lzbnY5YThqOTVyNU11cThCWWp0aTJGeU1wTVM5akVzeWRuQzMyaTROaDVXREdTOHRsQ0luM3VKME9DODhRZFVJLWxZSmEyU1VlbWlmME9YbEVBbGY?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T21:21:49Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
    "id": "9fc379a87ebee7f6",
    "title": "AMD Shares Plunge 20% on Short Report Allegations, Yet Growth Opportunities Remain",
    "summary": "",
@@ -585,22 +617,6 @@
    "cats": [
     "scoop"
    ],
-   "score": 4,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "a628d6d44d92ebff",
-   "title": "OpenAI countersues Apple for stealing trade secrets",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0FibW0xZFFBUlJ2MGJkd0NEcWZtRzkzUkdWcFl1VnlRN2dRMkpjWHpKVXlIekttSno1b1RMeWxJN2dtU0ZlS085Y1ZqTkpfM2Jaci13RUdMNFVPOWtqRldaazVrX25mMExUSkU0SmJRcHJsdnZxMWJXU05MNXFzc211YzlXNzMwRTVUM1k1MW5RQTdHbnRpU1p6Y2hQMFE0UnVBSk45eHg?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T20:54:40Z",
-   "tickers": [
-    "AAPL"
-   ],
-   "cats": [],
    "score": 4,
    "link_is_redirect": true,
    "sec_filing": false
@@ -3232,39 +3248,6 @@
     "deal"
    ],
    "score": 5,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "9ea8dff0ba3e4a9d",
-   "title": "微软 想让电脑上的WiFi更安全，但代价是什么？",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005859920?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T11:09:52Z",
-   "tickers": [
-    "MSFT"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "443bde6e3814d189",
-   "title": "Broadcom Sinks 15% in a Week to a 52-Week Low as Google Reportedly Cuts TPU Orders. Is the Selling Overdone?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY21NdWE0N0Zfc3prRUJYUFBKUEFBeWRTR0RUUXEyeWVCLXFmREs4elJfU0RZejVyYjJOU1R3Z2NVc3dOVC1SUHk1anpSYWlCUzVBekNlQ2NpRVNzT0NKNmxGdmFqZ1FKQ0FRMGFjMEVVbmJzWVk0cTA3el9SR0NOY0tLT29GaVZRdXBMSE9hWUJzak8yS0pmOWVIOE9kaFFPTi1TeTI5d0FZYlExd282TEFhVlNHWFhFZlVXWi1JUG41aWNVOThMWHJIVQ?oc=5",
-   "source": "TIKR.com",
-   "tier": null,
-   "published_utc": "2026-11-27T11:03:45Z",
-   "tickers": [
-    "AVGO",
-    "GOOGL"
-   ],
-   "cats": [],
-   "score": 2,
    "link_is_redirect": true,
    "sec_filing": false
   }
