@@ -1,16 +1,67 @@
 {
- "updated_utc": "2026-11-27T18:10:46.851508Z",
+ "updated_utc": "2026-11-27T18:20:49.883485Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 822,
-  "new": 2,
-  "candidates": 22,
-  "judged": 1,
+  "fetched": 815,
+  "new": 6,
+  "candidates": 24,
+  "judged": 2,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "82b18448b2e4a709",
+   "title": "埃隆·马斯克将停产Cybertruck： 特斯拉 电动汽车的二手市场需求升温",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005873187?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T18:17:46Z",
+   "tickers": [
+    "TSLA"
+   ],
+   "cats": [
+    "incident"
+   ],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "62cb333e7c4dbffa",
+   "title": "美光科技首席执行官预计2028年内存短缺将加剧，但TrendForce预计价格将下跌",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005873161?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T18:15:06Z",
+   "tickers": [
+    "MU"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "cd1669672fb01da3",
+   "title": "Verizon in Talks to Buy Fidium in $6 Billion Deal, FT Says",
+   "summary": "Verizon Communications Inc. is in talks to buy the broadband operator Fidium in a $6 billion deal, the Financial Times reported, a move that would expand its network and allow the mobile giant to target more internet service subscribers across the US.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/verizon-in-talks-to-buy-fidium-in-6-billion-deal-ft-says",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T18:12:57Z",
+   "tickers": [],
+   "cats": [
+    "mna",
+    "deal"
+   ],
+   "score": 7,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "6f8c1186502ba9d1",
    "title": "Exclusive | MLB Launches Legal Action Against Its Players—Before the Lockout Even Begins",
@@ -51,6 +102,38 @@
    "source": "WSJ",
    "tier": 1,
    "published_utc": "2026-11-27T17:58:27Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "945ed3668390defc",
+   "title": "China and Other Countries Face Higher U.S. Tariffs Over Industrial Subsidies",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeU93UkxmWVRVMXpoeDk5S0tFbjAtRzZuZ3NVbUpyV0FaTUtCU2hTanFHM3lIU1kyMkxBZVFFNDlPQTFBVy1wQ0VZalpnLWJxRmtsckxjOVI3NGNXVGJCSGxEUHczYVJFQnY1TkJzXzNBMTg3QjRrRHJXZ3FNS2JMVlRoRjVldnZhOFpjRFNlSXRCVWZGM1dXUVp5TlZlbkNVUGswS2w4dmRJc1gzazluN3VYZ256OU5GRnpmSmt3?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T17:57:29Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "ca8a12fbb7f0f16f",
+   "title": "EXCLUSIVE: Russian military flotilla bound for Libya turns around after warship sunk on Nov 22, sources says",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYmlHdGhKd3RFRUNYajhTdlVqdUdrckt5RmtIZEltNjE0OTVPMDhaSS1DTFlGQTU5Z19LRFpLRmpXdVJkcVpRY19iLU40eXpEWUhYdDNjMXhfRkJqckxleW8tY25rOVJFTzlGeGVaUTlwb1M1NVBXSzQwSG9hX2VQR1JiMVhXYk1mdG01ei1nR1ZmOFY5RWpnejVHRkJSa2RVTHRLeURHS3hCSHJMcGluWG1fQWNjS19wTy1RejVTWE5BMW8?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T17:55:53Z",
    "tickers": [],
    "cats": [
     "scoop"
@@ -121,22 +204,6 @@
    "sec_filing": false
   },
   {
-   "id": "ca8a12fbb7f0f16f",
-   "title": "EXCLUSIVE: Russian military flotilla bound for Libya turns around after warship sunk on Nov 22, sources says",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYmlHdGhKd3RFRUNYajhTdlVqdUdrckt5RmtIZEltNjE0OTVPMDhaSS1DTFlGQTU5Z19LRFpLRmpXdVJkcVpRY19iLU40eXpEWUhYdDNjMXhfRkJqckxleW8tY25rOVJFTzlGeGVaUTlwb1M1NVBXSzQwSG9hX2VQR1JiMVhXYk1mdG01ei1nR1ZmOFY5RWpnejVHRkJSa2RVTHRLeURHS3hCSHJMcGluWG1fQWNjS19wTy1RejVTWE5BMW8?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T17:47:34Z",
-   "tickers": [],
-   "cats": [
-    "scoop"
-   ],
-   "score": 4,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
    "id": "67d09e7a86414483",
    "title": "Verizon in talks over $6bn deal for Fidium to boost broadband footprint",
    "summary": "US group pursues company owned by Searchlight Capital and Canada’s BCI in push to boost its presence in New England region Oliver Barnes",
@@ -201,22 +268,6 @@
    "sec_filing": false
   },
   {
-   "id": "2fdad17b714d44a2",
-   "title": "Inside China’s $4 Billion Secondhand Luxury Boom",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdFVLSlZUN3JBQlk5a0pMWGR2WGRIWXlpNEp0cG9hdXBCMFYzdmdTWEZfRkZYSDFTeV9nSjhnTFdoWWUtajVtcThzMi1LOHRfVlYxaWlsNzUxQTFGSWpreWY0TzZWc19TOC12MXNnWmtaamRQZjBnVXF4Uy1zbDFMNV9MRmFVekhKQzFfTWc1TkhYRGJ4SUo4aWpBWC1wWXVzcEFHaFN2RTFpcU9WYmc?oc=5",
-   "source": "WSJ",
-   "tier": 1,
-   "published_utc": "2026-11-27T17:13:32Z",
-   "tickers": [],
-   "cats": [
-    "deal"
-   ],
-   "score": 5,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
    "id": "e2f87ba808574b4f",
    "title": "Inside China’s $4 Billion Secondhand Luxury Boom",
    "summary": "Watch WSJ’s Hannah Miao explore one of China’s biggest resale megastores to understand what’s behind the country’s shifting consumer habits.",
@@ -230,6 +281,22 @@
    ],
    "score": 5,
    "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "2fdad17b714d44a2",
+   "title": "Inside China’s $4 Billion Secondhand Luxury Boom",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdFVLSlZUN3JBQlk5a0pMWGR2WGRIWXlpNEp0cG9hdXBCMFYzdmdTWEZfRkZYSDFTeV9nSjhnTFdoWWUtajVtcThzMi1LOHRfVlYxaWlsNzUxQTFGSWpreWY0TzZWc19TOC12MXNnWmtaamRQZjBnVXF4Uy1zbDFMNV9MRmFVekhKQzFfTWc1TkhYRGJ4SUo4aWpBWC1wWXVzcEFHaFN2RTFpcU9WYmc?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T17:06:50Z",
+   "tickers": [],
+   "cats": [
+    "deal"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -1243,6 +1310,22 @@
    "sec_filing": false
   },
   {
+   "id": "cea2b8e294b87cf7",
+   "title": "The EU weighs tighter export controls to prevent battery waste going to China - FT.",
+   "summary": "",
+   "link": "https://www.financialjuice.com/News/9870623/The-EU-weighs-tighter-export-controls-to-prevent-battery-waste-going-to-China---FT.aspx?xy=1",
+   "source": "FinancialJuice",
+   "tier": 3,
+   "published_utc": "2026-11-27T13:28:05Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 2,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
    "id": "c1f3c275b70d2b6d",
    "title": "EU weighs tighter export controls to prevent battery waste going to China",
    "summary": "‘Black mass’ containing key minerals is often processed abroad and the extracted metals re-exported to Europe",
@@ -2076,6 +2159,22 @@
    "title": "Two Chinese firms installed the high-end NVIDIA Blackwell GPUs at the Shanghai site $NVDA",
    "summary": "",
    "link": "https://www.financialjuice.com/News/9870527/Two-Chinese-firms-installed-the-high-end-NVIDIA-Blackwell-GPUs-at-the-Shanghai-site-NVDA.aspx",
+   "source": "FinancialJuice",
+   "tier": 3,
+   "published_utc": "2026-11-27T11:44:10Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "abbcbebfbf179eae",
+   "title": "Two Chinese firms installed the high-end NVIDIA Blackwell GPUs at the Shanghai site $NVDA",
+   "summary": "",
+   "link": "https://www.financialjuice.com/News/9870527/Two-Chinese-firms-installed-the-high-end-NVIDIA-Blackwell-GPUs-at-the-Shanghai-site-NVDA.aspx?xy=1",
    "source": "FinancialJuice",
    "tier": 3,
    "published_utc": "2026-11-27T11:44:10Z",
@@ -3531,71 +3630,6 @@
     "scoop"
    ],
    "score": 4,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "ebbf94131aeb8158",
-   "title": "美股夜盘AI链全线狂飙！三倍做多半导体ETF暴涨超17%，闪迪涨超10%，美光、迈威尔涨超7%",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005816250?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T06:19:23Z",
-   "tickers": [
-    "MU",
-    "SNDK"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "2a6a9c21aabb16da",
-   "title": "India-US Trade Deal Talks Close to Culmination, Goyal Says",
-   "summary": "India’s trade deal negotiations with the US are “close to culmination,” Commerce and Industry Minister Piyush Goyal said, days after Washington unveiled a tariff proposal that increases the pressure on New Delhi to reach an agreement.",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-27/india-us-trade-deal-talks-close-to-culmination-goyal-says",
-   "source": "BBG",
-   "tier": 1,
-   "published_utc": "2026-11-27T06:19:10Z",
-   "tickers": [],
-   "cats": [
-    "reg"
-   ],
-   "score": 5,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "7ed93892428511c3",
-   "title": "日本JERA计划在发电厂附近为Anthropic和 Meta 建设数据中心——《日经亚洲》",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005815551?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T06:11:26Z",
-   "tickers": [
-    "META"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "0b15819517cc2b48",
-   "title": "Apple rumoured to be working on a large foldable iPad with a 20-inch display.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYmhsV2t5VG9OczlQd2NlNDNEMEc1N2ZZUW5sZnR5dWxUY0N0bEItNVk5T0QwVkRVaWlKQVVjSVhLcURzczJtRDFucHpYN25WUU51MmxYY0VyMGJiT1g3V0M5ckp2NXJDSldXcExmQXFkVTl3VC1IRVM4SEFnN1E0MkVjejJFclZwYUJ2djlJem4zcE9EMEYwdk5mTUk?oc=5",
-   "source": "HardwareZone",
-   "tier": null,
-   "published_utc": "2026-11-27T06:11:15Z",
-   "tickers": [
-    "AAPL"
-   ],
-   "cats": [],
-   "score": 2,
    "link_is_redirect": true,
    "sec_filing": false
   }
