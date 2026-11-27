@@ -1,16 +1,32 @@
 {
- "updated_utc": "2026-11-27T11:31:09.445625Z",
+ "updated_utc": "2026-11-27T11:40:47.308451Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 878,
-  "new": 1,
-  "candidates": 35,
-  "judged": 1,
+  "fetched": 887,
+  "new": 4,
+  "candidates": 37,
+  "judged": 3,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "55d0c2b4fc2c00dd",
+   "title": "Capita's UK Pension Mess Shows Why Government Outsourcing Is a Mistake",
+   "summary": "Capita Plc lost three-quarters of its market value after replacing its chief executive officer amid a botched takeover of the UK’s Civil Service Pension Scheme. Who could possibly have seen this coming? Only everybody who remembers Carillion Plc, the outsourcing giant that collapsed in 2018 leaving a trail of chaos in its wake.",
+   "link": "https://www.bloomberg.com/opinion/articles/2026-11-27/capita-s-uk-pension-mess-shows-why-government-outsourcing-is-a-mistake",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T11:31:03Z",
+   "tickers": [],
+   "cats": [
+    "mna"
+   ],
+   "score": 6,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "3f1ac000b313dfa2",
    "title": "Is Grocery Delivery Worth the Cost? (2026): DoorDash Options, Fees, and Savings Reviewed by Consumer365",
@@ -24,6 +40,56 @@
    ],
    "cats": [],
    "score": 3,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "1d56a73ff745f435",
+   "title": "Deutsche Boerse’s €5.3 billion Allfunds Deal Gets EU Approval",
+   "summary": "Deutsche Boerse AG’s €5.3 billion ($5.8 billion) deal for Allfunds Group Plc has won European Union unconditional approval, paving the way for the largest acquisition in the German exchange operator’s history.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/deutsche-boerse-s-5-3-billion-allfunds-deal-gets-eu-approval",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T11:30:00Z",
+   "tickers": [],
+   "cats": [
+    "mna",
+    "reg",
+    "deal"
+   ],
+   "score": 7,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "28616023bd7313bb",
+   "title": "Deutsche Boerse’s €5.3 billion Allfunds Deal Gets EU Approval",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS0RzR3hybnJfQVRzQXRkU0hxMXpjRFkyYkRMVVVKY2M0QWxZTlh6MEduRUpwTHlSblE0aHFwaVBQM0FPNXM5TDRCR3NiU1ZVWkpPaGZjMktvMEV3TUhaRktaWm9GZURKQUJGei1QQkh3emU0cEM1WW5XRGlPNng2SVY3UWROa1VzbVNqd2xHNGpqbDdaalVwSTdKa3p1ME5iT0VsNDdXVlVJQTJjNXBnSw?oc=5",
+   "source": "Bloomberg.com",
+   "tier": 1,
+   "published_utc": "2026-11-27T11:30:00Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "5a18b0a9eef27d5c",
+   "title": "Fidelidade Said to Aim for Lisbon IPO From Second Half of 2027",
+   "summary": "Fidelidade – Companhia de Seguros SA is preparing for a potential initial public offering in Lisbon as soon as the second half of 2027, according to people familiar with the matter.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/fidelidade-said-to-aim-for-lisbon-ipo-from-second-half-of-2027",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T11:25:27Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
    "link_is_redirect": false,
    "sec_filing": false
   },
