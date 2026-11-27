@@ -95,6 +95,17 @@
    "event": "纽约时报称英伟达因美国收紧对华限制而暂停向东南亚四国发货",
    "event_key": "nvda|supply_chain|southeast_asia",
    "delivery": "ok"
+  },
+  "1e1697cf7f46a29e": {
+   "utc": "2026-11-27T04:40:48.925927Z",
+   "published_utc": "2026-11-27T04:29:38Z",
+   "title": "Qantas Set to Pick Boeing for Bulk of 20 Long-Range Jet Order",
+   "tickers": [
+    "BA"
+   ],
+   "event": "彭博社报道称澳航计划将约 20 架远程喷气式客机订单的大部分授予波音",
+   "event_key": "ba|contract_financing|qantas",
+   "delivery": "ok"
   }
  },
  "pending": {}
