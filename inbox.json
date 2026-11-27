@@ -1,16 +1,98 @@
 {
- "updated_utc": "2026-11-27T11:50:48.202974Z",
+ "updated_utc": "2026-11-27T12:01:20.935039Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 884,
-  "new": 7,
+  "fetched": 893,
+  "new": 6,
   "candidates": 41,
-  "judged": 4,
-  "pushed": 1
+  "judged": 3,
+  "pushed": 0
  },
  "items": [
+  {
+   "id": "2f05227480ca1e01",
+   "title": "Wigiwork Flips Tech Hiring: Engineers Set Their Price, AI Matches the Company, No Agency Commission",
+   "summary": "On the San Francisco marketplace for tech, AI, and fintech talent, candidates stay anonymous until they approve a request, and Wigi IQ, the company's own AI, builds the shortlist. SAN FRANCISCO, Nov. 27, 2026 /PRNewswire/ -- Wigiwork Inc. PBC today announced the launch of Wigiwork , a...",
+   "link": "https://www.prnewswire.com/news-releases/wigiwork-flips-tech-hiring-engineers-set-their-price-ai-matches-the-company-no-agency-commission-302951386.html",
+   "source": "PR Newswire",
+   "tier": 0,
+   "published_utc": "2026-11-27T12:00:00Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "290035de400ff59f",
+   "title": "METALLA ANNOUNCES ADOPTION OF SHAREHOLDER RIGHTS PLAN",
+   "summary": "TSXV: MTA NYSE AMERICAN: MTA VANCOUVER, BC, Nov. 27, 2026 /PRNewswire/ -- Metalla Royalty & Streaming Ltd. (\"Metalla\" or the \"Company\") (NYSE American: MTA) (TSXV: MTA) announces that the board of directors of Metalla (the \"Board\") has approved the adoption of a shareholder rights plan...",
+   "link": "https://www.prnewswire.com/news-releases/metalla-announces-adoption-of-shareholder-rights-plan-302951452.html",
+   "source": "PR Newswire",
+   "tier": 0,
+   "published_utc": "2026-11-27T12:00:00Z",
+   "tickers": [
+    "MTA"
+   ],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "9877b61dc68f0636",
+   "title": "Exclusive | Inside the Scramble to Avert Conflict With Russia in the Baltic",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWXU1WDdhS2huZHA0c0owNzRTTVpyZklia2VLbWNUMk1nWk52TFlieHdwZ2dNSEZ5LUdKTl83WU9iWkhwTHFWVHg4RkpudTM3WjlFa1lzbnY5YThqOTVyNU11cThCWWp0aTJGeU1wTVM5akVzeWRuQzMyaTROaDVXREdTOHRsQ0luM3VKME9DODhRZFVJLWxZSmEyU1VlbWlmME9YbEVBbGY?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T11:57:15Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "f6371ca843f97b41",
+   "title": "伯恩斯坦研报：爱彼迎加码 Living 长租赛道，2035 年有望贡献 29 亿美元增量营收",
+   "summary": "深潮 TechFlow 消息，11 月 25 日，据潮向研究，伯恩斯坦分析师 Richard J. Clarke 团队于 2026 年 11 月 25 日发布研报，拆解爱彼迎（ABNB.US）首席执行官 Brian Chesky 提出的「Living（生活居住）」长租业务。报告认为，爱彼迎正从现有 1 至 3 个月数字游民月租，转向 12 个月以上的标准长租市场。报告称，2025 年美国租金总支出约 7720 亿美元，定期长租约占 70%、规模约 5400 亿美元，2035 年定期长租市场总支出预计达 7250 亿美元。 伯恩斯坦测算，若爱彼迎在 2035 年拿下美国定期长租市场 8.0%份额并收取 5.0%综合佣金率，仅美国市场佣金即可带来 29 亿美元增量年营收，相当于届时市场一致预期总营收 317 亿美元的 9.1%。该行维持爱彼迎「跑赢大市」评级及 234.00 美元目标价，较 2026 年 11 月 23 日收盘价 173.96 美元隐含约 35%上涨空间（精确测算为 +34.5%）。",
+   "link": "https://www.techflowpost.com/newsletter/147250/bernstein-airbnb-living-2035-29bn-tp-234",
+   "source": "TechFlow",
+   "tier": null,
+   "published_utc": "2026-11-27T11:54:04Z",
+   "tickers": [
+    "ABNB"
+   ],
+   "cats": [],
+   "score": -2,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "278d046c65ad3c7c",
+   "title": "FTC Imposes Strict Board Restrictions on Beretta’s 25% Stake in Rival Sturm Ruger",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZlBMRWpBSDU0UTZEOGlKR1FZV0RSMW5HQTFqSlNad3dDT2hlSEdNTEpBOW9NQWZaOTAwQkRRZGJUY00xRkhtRzZnZm9SSHBib2ZsZE5idWpHN1VrVmdHbXpsMWtYdVBWRUU4Q3VsZG1nd3dUY29xQkhZLUszNnd6ZmlzdUVFMjBXRHU2OHUxTzZ3YndabUVibk8tRHFYdXV3LWgxMk5nQkItdVdOOEljcGRZOC1KUzRD?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T11:50:48Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
   {
    "id": "6da294184d8cc916",
    "title": "路透社：美国空军旗舰云平台 Cloud One 遭黑客入侵，美国网络司令部已介入评估",
@@ -37,6 +119,22 @@
    "title": "Two Chinese firms installed the high-end GPUs at the Shanghai site $NVDA",
    "summary": "",
    "link": "https://www.financialjuice.com/News/9870527/Two-Chinese-firms-installed-the-high-end-GPUs-at-the-Shanghai-site-NVDA.aspx?xy=rss",
+   "source": "FinancialJuice",
+   "tier": 3,
+   "published_utc": "2026-11-27T11:47:10Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "0b644b90cf76c3dd",
+   "title": "Two Chinese firms installed the high-end NVIDIA Blackwell GPUs at the Shanghai site $NVDA",
+   "summary": "",
+   "link": "https://www.financialjuice.com/News/9870527/Two-Chinese-firms-installed-the-high-end-NVIDIA-Blackwell-GPUs-at-the-Shanghai-site-NVDA.aspx?xy=rss",
    "source": "FinancialJuice",
    "tier": 3,
    "published_utc": "2026-11-27T11:47:10Z",
@@ -2754,38 +2852,6 @@
    "source": "futu",
    "tier": 3,
    "published_utc": "2026-11-27T00:08:00Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "b72064708ff99977",
-   "title": "Trump: will likely talk to Nvidia's Huang shortly",
-   "summary": "",
-   "link": "https://www.financialjuice.com/News/9869848/Trump-will-likely-talk-to-Nvidias-Huang-shortly.aspx?xy=rss",
-   "source": "FinancialJuice",
-   "tier": 3,
-   "published_utc": "2026-11-26T23:54:38Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "5f315d38838285d5",
-   "title": "Trump: will likely talk to Nvidia's Huang shortly",
-   "summary": "",
-   "link": "https://www.financialjuice.com/News/9869848/Trump-will-likely-talk-to-Nvidias-Huang-shortly.aspx",
-   "source": "FinancialJuice",
-   "tier": 3,
-   "published_utc": "2026-11-26T23:54:38Z",
    "tickers": [
     "NVDA"
    ],
