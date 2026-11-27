@@ -1,13 +1,21 @@
 {
- "updated_utc": "2026-11-27T13:10:51.781210Z",
+ "updated_utc": "2026-11-27T13:21:37.574443Z",
  "window_hours": 12,
  "stale": false,
- "errors": {},
+ "errors": {
+  "gn-kuo-en": "HTTPError: HTTP Error 503: Service Unavailable",
+  "gn-kuo-zh": "HTTPError: HTTP Error 503: Service Unavailable",
+  "gn-t1-exclusive": "HTTPError: HTTP Error 503: Service Unavailable",
+  "gn-t1-mna": "HTTPError: HTTP Error 503: Service Unavailable",
+  "gn-wires": "HTTPError: HTTP Error 503: Service Unavailable",
+  "gn-short": "HTTPError: HTTP Error 503: Service Unavailable",
+  "gn-supply": "HTTPError: HTTP Error 503: Service Unavailable"
+ },
  "counts": {
-  "fetched": 886,
-  "new": 5,
-  "candidates": 58,
-  "judged": 3,
+  "fetched": 742,
+  "new": 0,
+  "candidates": 56,
+  "judged": 0,
   "pushed": 0
  },
  "items": [
@@ -3291,22 +3299,6 @@
    "published_utc": "2026-11-27T01:34:12Z",
    "tickers": [
     "INTC"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "6146cb277fd1a6b5",
-   "title": "市场传闻：JERA正就东京发电厂附近的数据中心建设与Anthropic、 Meta 进行洽谈",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005789707?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T01:16:16Z",
-   "tickers": [
-    "META"
    ],
    "cats": [],
    "score": 1,

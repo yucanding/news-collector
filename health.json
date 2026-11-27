@@ -35,32 +35,32 @@
   "alerted": "2026-11-27T04:10:48.987202Z"
  },
  "gn-kuo-en": {
-  "fails": 0,
-  "error": null
+  "fails": 1,
+  "error": "HTTPError: HTTP Error 503: Service Unavailable"
  },
  "gn-kuo-zh": {
-  "fails": 0,
-  "error": null
+  "fails": 1,
+  "error": "HTTPError: HTTP Error 503: Service Unavailable"
  },
  "gn-t1-exclusive": {
-  "fails": 0,
-  "error": null
+  "fails": 1,
+  "error": "HTTPError: HTTP Error 503: Service Unavailable"
  },
  "gn-t1-mna": {
-  "fails": 0,
-  "error": null
+  "fails": 1,
+  "error": "HTTPError: HTTP Error 503: Service Unavailable"
  },
  "gn-wires": {
-  "fails": 0,
-  "error": null
+  "fails": 1,
+  "error": "HTTPError: HTTP Error 503: Service Unavailable"
  },
  "gn-short": {
-  "fails": 0,
-  "error": null
+  "fails": 1,
+  "error": "HTTPError: HTTP Error 503: Service Unavailable"
  },
  "gn-supply": {
-  "fails": 0,
-  "error": null
+  "fails": 1,
+  "error": "HTTPError: HTTP Error 503: Service Unavailable"
  },
  "gemini": {
   "fails": 0,
