@@ -1,16 +1,32 @@
 {
- "updated_utc": "2026-11-27T08:10:50.836159Z",
+ "updated_utc": "2026-11-27T08:20:48.053071Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 851,
-  "new": 0,
-  "candidates": 24,
+  "fetched": 850,
+  "new": 1,
+  "candidates": 21,
   "judged": 0,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "e7637103d829ed4f",
+   "title": "American-Led Consortium Announces Agreement to Acquire LUKOIL International’s Global Energy Portfolio",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUWFJVTZuY1NsNm5Oc0tQM2VZSElGb3VzbmFaY0cwZjhQS29kRGdnNURlOWFadGhCVW8yX3dfX3ZabWpUM0JWd05sUVg3dnFhdUpURE5QNUx3ZURfNDRKNVk0SjBaQ005dUVWdTFGZDlrUF9aSGltNE5qcGVWWHlOcEgyTGd3bUJ0ZW9sdm16Uk94NHBLUUtGRVlJam9vX2FvNDdUTDZTV1p1aW1ZMGtpRlE3YW9RRzViVkdiOHNsZW52QXYwYU5VM2dTLTBpNlp6OVhYWEVXdU5Tdm43TkFnaTczZVF3Tm5kYzZrbjZB?oc=5",
+   "source": "Business Wire",
+   "tier": 0,
+   "published_utc": "2026-11-27T08:13:04Z",
+   "tickers": [],
+   "cats": [
+    "mna"
+   ],
+   "score": 2,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
   {
    "id": "7dd2f1dd2aa7dddd",
    "title": "Trump’s Tariffs Cast New Pall Over Thanksgiving",
@@ -29,7 +45,7 @@
   },
   {
    "id": "601a0fb4cc794486",
-   "title": "Hong Kong gold imports surge 24.4% in October to four-month high on lower bullion prices",
+   "title": "Hong Kong gold imports surge 24.4% in October to 4-month high on lower bullion prices",
    "summary": "Hong Kong’s gold imports surged in October to a four-month high, riding the momentum of lower prices and adding weight to the city’s push to establish itself as an international gold trading hub. The city imported 139.6 tonnes of unwrought, non-monetary gold last month, up 24.4 per cent from 112.3 tonnes in September, according to the Census and Statistics Department. The value of the shipments rose 18.1 per cent to HK$145.3 billion (US$18.5 billion). It was the second-highest monthly volume...",
    "link": "https://www.scmp.com/business/commodities/article/3376000/hong-kong-gold-imports-surge-244-october-four-month-high-lower-bullion-prices",
    "source": "SCMP",
@@ -1797,23 +1813,6 @@
     "reg"
    ],
    "score": 0,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "c9ef70ea74aa91f8",
-   "title": "为何Reddit在假日礼品流量方面碾压 亚马逊 和沃尔玛",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005776936?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-26T20:20:06Z",
-   "tickers": [
-    "AMZN",
-    "WMT"
-   ],
-   "cats": [],
-   "score": 1,
    "link_is_redirect": false,
    "sec_filing": false
   }
