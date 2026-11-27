@@ -1,16 +1,32 @@
 {
- "updated_utc": "2026-11-27T19:10:48.217754Z",
+ "updated_utc": "2026-11-27T19:20:49.269955Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 832,
-  "new": 2,
-  "candidates": 36,
-  "judged": 2,
+  "fetched": 801,
+  "new": 0,
+  "candidates": 35,
+  "judged": 0,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "ca8a12fbb7f0f16f",
+   "title": "EXCLUSIVE: Russian military flotilla bound for Libya turns around after warship sunk on November 22, sources say",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYmlHdGhKd3RFRUNYajhTdlVqdUdrckt5RmtIZEltNjE0OTVPMDhaSS1DTFlGQTU5Z19LRFpLRmpXdVJkcVpRY19iLU40eXpEWUhYdDNjMXhfRkJqckxleW8tY25rOVJFTzlGeGVaUTlwb1M1NVBXSzQwSG9hX2VQR1JiMVhXYk1mdG01ei1nR1ZmOFY5RWpnejVHRkJSa2RVTHRLeURHS3hCSHJMcGluWG1fQWNjS19wTy1RejVTWE5BMW8?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T19:17:56Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
   {
    "id": "a0ad28f8b025b0a9",
    "title": "EXCLUSIVE: Armani heirs consider buying small slice of fashion house in stake sale, sources say",
@@ -82,7 +98,7 @@
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc3J0S0xqNTNYYzc4Mk93My1JZmFKb2swU3pRZktCZHFWQkFNRUk5MklBbFpHeUhlbDhQdVp3MGx1NEhJRFl6aGlzaFNSRi1zT0NVYllvU29FRDdfVXVnUWEyT1I2TjlVTTVIR3pnekc1U3RxbHNqMl85eEx4eG1pRzl6UmYtZ3Zyb0ZmcjYxRExOUUh5dk8tN3lOQQ?oc=5",
    "source": "Bloomberg.com",
    "tier": 1,
-   "published_utc": "2026-11-27T18:51:37Z",
+   "published_utc": "2026-11-27T18:51:53Z",
    "tickers": [
     "NVDA"
    ],
@@ -104,6 +120,22 @@
     "deal"
    ],
    "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "a628d6d44d92ebff",
+   "title": "OpenAI countersues Apple for stealing trade secrets, FT reports",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0FibW0xZFFBUlJ2MGJkd0NEcWZtRzkzUkdWcFl1VnlRN2dRMkpjWHpKVXlIekttSno1b1RMeWxJN2dtU0ZlS085Y1ZqTkpfM2Jaci13RUdMNFVPOWtqRldaazVrX25mMExUSkU0SmJRcHJsdnZxMWJXU05MNXFzc211YzlXNzMwRTVUM1k1MW5RQTdHbnRpU1p6Y2hQMFE0UnVBSk45eHg?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T18:42:20Z",
+   "tickers": [
+    "AAPL"
+   ],
+   "cats": [],
+   "score": 4,
    "link_is_redirect": true,
    "sec_filing": false
   },
@@ -169,22 +201,6 @@
    "cats": [],
    "score": 1,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "a628d6d44d92ebff",
-   "title": "OpenAI countersues Apple for stealing trade secrets, FT reports",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0FibW0xZFFBUlJ2MGJkd0NEcWZtRzkzUkdWcFl1VnlRN2dRMkpjWHpKVXlIekttSno1b1RMeWxJN2dtU0ZlS085Y1ZqTkpfM2Jaci13RUdMNFVPOWtqRldaazVrX25mMExUSkU0SmJRcHJsdnZxMWJXU05MNXFzc211YzlXNzMwRTVUM1k1MW5RQTdHbnRpU1p6Y2hQMFE0UnVBSk45eHg?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T18:29:43Z",
-   "tickers": [
-    "AAPL"
-   ],
-   "cats": [],
-   "score": 4,
-   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -396,22 +412,6 @@
     "incident"
    ],
    "score": 5,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "ca8a12fbb7f0f16f",
-   "title": "EXCLUSIVE: Russian military flotilla bound for Libya turns around after warship sunk on Nov 22, sources says",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYmlHdGhKd3RFRUNYajhTdlVqdUdrckt5RmtIZEltNjE0OTVPMDhaSS1DTFlGQTU5Z19LRFpLRmpXdVJkcVpRY19iLU40eXpEWUhYdDNjMXhfRkJqckxleW8tY25rOVJFTzlGeGVaUTlwb1M1NVBXSzQwSG9hX2VQR1JiMVhXYk1mdG01ei1nR1ZmOFY5RWpnejVHRkJSa2RVTHRLeURHS3hCSHJMcGluWG1fQWNjS19wTy1RejVTWE5BMW8?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T17:55:53Z",
-   "tickers": [],
-   "cats": [
-    "scoop"
-   ],
-   "score": 4,
    "link_is_redirect": true,
    "sec_filing": false
   },
@@ -2065,7 +2065,7 @@
   },
   {
    "id": "76402cdab7271688",
-   "title": "市场传闻：黑客入侵由 微软 、亚马逊、甲骨文和Alphabet提供支持的美国空军云平台",
+   "title": "市场传闻：黑客入侵由微软、 亚马逊 、甲骨文和Alphabet提供支持的美国空军云平台",
    "summary": "",
    "link": "https://news.futunn.com/post/1005853439?futusource=news_search_searchnews&src=39",
    "source": "futu",
@@ -3675,22 +3675,6 @@
    ],
    "cats": [],
    "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "76fd5ae4032d5bb1",
-   "title": "EQT Healthcare Growth to acquire majority stake in specialty European pharmaceutical business, Kelso Pharma",
-   "summary": "Kelso Pharma is a fast-growing specialty pharmaceutical group with a portfolio of approximately 14 medicines, mainly for endocrine, gastrointestinal and central nervous system conditions The company has built a commercial platform in the UK, with a growing presence across Europe and an...",
-   "link": "https://www.prnewswire.com/news-releases/eqt-healthcare-growth-to-acquire-majority-stake-in-specialty-european-pharmaceutical-business-kelso-pharma-302951594.html",
-   "source": "PR Newswire",
-   "tier": 0,
-   "published_utc": "2026-11-27T07:20:00Z",
-   "tickers": [],
-   "cats": [
-    "mna"
-   ],
-   "score": 2,
    "link_is_redirect": false,
    "sec_filing": false
   }
