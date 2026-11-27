@@ -1,16 +1,32 @@
 {
- "updated_utc": "2026-11-27T23:31:14.372416Z",
+ "updated_utc": "2026-11-27T23:40:50.456963Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 788,
-  "new": 0,
-  "candidates": 14,
+  "fetched": 794,
+  "new": 1,
+  "candidates": 15,
   "judged": 0,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "694d5e8b547f3a75",
+   "title": "Meta 因AI代理Muse的用户条款受英国监管审视",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005883253?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T23:38:46Z",
+   "tickers": [
+    "META"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "9877b61dc68f0636",
    "title": "Exclusive | Inside the Scramble to Avert Conflict With Russia in the Baltic",
@@ -3117,39 +3133,6 @@
    ],
    "cats": [],
    "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "9b44e6438cd8faf4",
-   "title": "Deutsche Boerse wins EU antitrust approval for Allfunds acquisition",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ2wwa3NCVGlMa3dWeXIxbm5lTEdhdWFJOWJFckt3YjlPVW9HT0x3cndqcXhseHIyZHJadGNzWVV2TmV1aENaaXliYmtvNjZTS21FRmppV3NSTXhNME9jSGxWN0lSSy1CS3p0TTI4bmhTcGNTTnMxejVoR3ZBZUxLQ19rNFpPVmlCb0JwSThsQnJzQ084NXZnZmpIVy1CTERHQXlzNHJyV0I0ZGVtR1hkQmFmdkNSSmc?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T11:36:47Z",
-   "tickers": [],
-   "cats": [
-    "mna",
-    "reg"
-   ],
-   "score": 7,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "3edc289b6e242534",
-   "title": "Turkey Spent Nearly $700 Million to Host Failed Climate Summit",
-   "summary": "Turkey spent nearly $700 million to host the COP31 climate summit, according to people familiar with the expenditure, only for the United Nations gathering to end without an overarching agreement after a fractious closing session.",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-27/turkey-spent-nearly-700-million-to-host-failed-climate-summit",
-   "source": "BBG",
-   "tier": 1,
-   "published_utc": "2026-11-27T11:36:34Z",
-   "tickers": [],
-   "cats": [
-    "scoop"
-   ],
-   "score": 4,
    "link_is_redirect": false,
    "sec_filing": false
   }
