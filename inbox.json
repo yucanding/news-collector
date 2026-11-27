@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-27T20:40:52.144887Z",
+ "updated_utc": "2026-11-27T20:50:50.109812Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
@@ -24,6 +24,22 @@
     "reg"
    ],
    "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "9877b61dc68f0636",
+   "title": "Exclusive | Inside the Scramble to Avert Conflict With Russia in the Baltic",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWXU1WDdhS2huZHA0c0owNzRTTVpyZklia2VLbWNUMk1nWk52TFlieHdwZ2dNSEZ5LUdKTl83WU9iWkhwTHFWVHg4RkpudTM3WjlFa1lzbnY5YThqOTVyNU11cThCWWp0aTJGeU1wTVM5akVzeWRuQzMyaTROaDVXREdTOHRsQ0luM3VKME9DODhRZFVJLWxZSmEyU1VlbWlmME9YbEVBbGY?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T20:07:24Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
    "link_is_redirect": true,
    "sec_filing": false
   },
@@ -780,22 +796,6 @@
     "deal"
    ],
    "score": 5,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "9877b61dc68f0636",
-   "title": "Exclusive | Inside the Scramble to Avert Conflict With Russia in the Baltic",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWXU1WDdhS2huZHA0c0owNzRTTVpyZklia2VLbWNUMk1nWk52TFlieHdwZ2dNSEZ5LUdKTl83WU9iWkhwTHFWVHg4RkpudTM3WjlFa1lzbnY5YThqOTVyNU11cThCWWp0aTJGeU1wTVM5akVzeWRuQzMyaTROaDVXREdTOHRsQ0luM3VKME9DODhRZFVJLWxZSmEyU1VlbWlmME9YbEVBbGY?oc=5",
-   "source": "WSJ",
-   "tier": 1,
-   "published_utc": "2026-11-27T17:22:31Z",
-   "tickers": [],
-   "cats": [
-    "scoop"
-   ],
-   "score": 4,
    "link_is_redirect": true,
    "sec_filing": false
   },
@@ -3579,70 +3579,6 @@
    ],
    "score": 5,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "36de0cea55cf4b74",
-   "title": "China's Meituan reports Q3 revenue of $17.37 billion",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdjV0U0NJa001S2tFakh2MWh4c0lJbE1fQ2pkUGJ5ODhlcDFMT0h5T2dPcGZHRUo4MGYySE1KTUQ5TXRrNVlwMlJQSlkzTlFIYWFObk9LdVFJZzY3T0lsZUFIamdOQjFUMWhjNWo4NU5oSUpaNER3U2hlYlRiNWVXWGV2LWpLWnEyLUp3amRRM1BfczRyYmxla19nVEpwekxGckNqMEdTSEd6Vzg?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T08:49:44Z",
-   "tickers": [],
-   "cats": [
-    "deal"
-   ],
-   "score": 1,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "49ed8532463659ab",
-   "title": "Trump: 'Market feels very good' about Huang's return as Nvidia CEO",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wV0N6QWFMeHk4Q0ZrZHVUOHZoUnBibW9PRGg0TGlTTHlTemoxb1F5dHUzRmx3dGpTYWU3a3UzT1FoZ0dJMWRwNW9Odk9rUHZs?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T08:46:32Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [],
-   "score": 4,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "9e07936a80bd9973",
-   "title": "Uber Secures Approximately 87% of Delivery Hero Shares Following End of Additional Acceptance Period",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVTVzR1VqTXVtSlVlWnlWMDd1dGlkX1ZfMDVxTXhmai0xTlRzS1RYYV8wazFUbUM2cHFFc0oxZjVyLUR0MjJGQk8zLUxRUlhUOFhkOUpPLUFYQ055bHA0eV9hNTFsZFNZS3ptZ00zSl9nQXcwUm80bGE3TmRheUlSOTRUT0xNMG1tVV9yamR1R1BoODRfV0J5VXo4SjE4RmxnTzlhU19n?oc=5",
-   "source": "Financial Times",
-   "tier": 1,
-   "published_utc": "2026-11-27T08:45:00Z",
-   "tickers": [
-    "UBER"
-   ],
-   "cats": [],
-   "score": 4,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "2d55422b7622be8d",
-   "title": "Uber Secures Approximately 87% of Delivery Hero Shares Following End of Additional Acceptance Period",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQYXVHQjRycWRwN1Y1ek9QazN4QndIY1UtQjZkcVhzQUlqdmtUYnZVSXFIRGVSemJpa3dtaTR0enVoQUtoY0UxVTRyOE42VXZId1V5ZDh1a3JMeFc5WUY2RklfclVPSkdpNFR3a0tIbUl3Z1B0MHRoNmxkR2hYYkRUbUlZeE5ZazVfLVozMVJnRjBHbk1vWWxYMURPTVhVZV9XMEw0X1Y1V2ZUQ1hGQjE2Q3VjUW1Kam92V2t6eWlTVkVFR0xnWGItUWNURE56dGZjcG5EeURiaGR1YUU3ZE1NZ1hGQzl3Z1R2dVdhQw?oc=5",
-   "source": "Business Wire",
-   "tier": 0,
-   "published_utc": "2026-11-27T08:45:00Z",
-   "tickers": [
-    "UBER"
-   ],
-   "cats": [],
-   "score": 3,
-   "link_is_redirect": true,
    "sec_filing": false
   }
  ]
