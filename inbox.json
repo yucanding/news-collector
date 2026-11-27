@@ -1,16 +1,32 @@
 {
- "updated_utc": "2026-11-27T17:01:20.441071Z",
+ "updated_utc": "2026-11-27T17:10:51.619391Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 820,
-  "new": 44,
+  "fetched": 836,
+  "new": 1,
   "candidates": 35,
-  "judged": 11,
+  "judged": 1,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "2fdad17b714d44a2",
+   "title": "Inside China’s $4 Billion Secondhand Luxury Boom",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdFVLSlZUN3JBQlk5a0pMWGR2WGRIWXlpNEp0cG9hdXBCMFYzdmdTWEZfRkZYSDFTeV9nSjhnTFdoWWUtajVtcThzMi1LOHRfVlYxaWlsNzUxQTFGSWpreWY0TzZWc19TOC12MXNnWmtaamRQZjBnVXF4Uy1zbDFMNV9MRmFVekhKQzFfTWc1TkhYRGJ4SUo4aWpBWC1wWXVzcEFHaFN2RTFpcU9WYmc?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T17:06:50Z",
+   "tickers": [],
+   "cats": [
+    "deal"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
   {
    "id": "4027bc5e1963c378",
    "title": "尽管面临人工智能出口和安全审查，芯片股反弹带动 美国超微公司 股价上涨逾2%",
@@ -3620,38 +3636,6 @@
     "supply"
    ],
    "score": 5,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "d80b1869a9aa8737",
-   "title": "台积电 德国晶圆厂预计2027年底投产",
-   "summary": "",
-   "link": "https://news.futunn.com/flash/1005808889?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T05:02:43Z",
-   "tickers": [
-    "TSM"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "527336567089b961",
-   "title": "Trump media group splashes out to woo shareholders before merger vote",
-   "summary": "TMTG expected to pay between $8mn and $13mn in fees plus expenses for proxy solicitation services",
-   "link": "https://www.ft.com/content/10a28fed-3825-4e07-804d-3c80c35229e5?syn-25a6b1a6=1",
-   "source": "FT",
-   "tier": 1,
-   "published_utc": "2026-11-27T05:02:01Z",
-   "tickers": [],
-   "cats": [
-    "mna"
-   ],
-   "score": 6,
    "link_is_redirect": false,
    "sec_filing": false
   }
