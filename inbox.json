@@ -1,18 +1,32 @@
 {
- "updated_utc": "2026-11-27T11:01:23.619682Z",
+ "updated_utc": "2026-11-27T11:10:50.781952Z",
  "window_hours": 12,
  "stale": false,
- "errors": {
-  "gn-supply": "HTTPError: HTTP Error 429: Too Many Requests"
- },
+ "errors": {},
  "counts": {
-  "fetched": 867,
+  "fetched": 883,
   "new": 2,
-  "candidates": 45,
-  "judged": 1,
+  "candidates": 41,
+  "judged": 2,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "746cfd9ad4290a4f",
+   "title": "EXCLUSIVE: Hackers breach US Air Force flagship Cloud One computing platform",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnhWb2oyc2Qta3k0bUhwbGZTcWZMREZ0VU41eVNZWDJZTDlBcmMxZzFrLXlmVGJpUHBRbVdBRlNoQU9lWUlIcVpMcXQwWWpyYVJ2eDJQa1ZvNFU5MUFHLWdpQW1BVloyUW5lTUlVSlFpLXJwVHNLMl9fQnBFTTNnemY4Q0JiUkN3SXFndG1pX1l1TmdySFJDOHJlWC1fMnE3cjlaVFB5M1hWbU0?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T11:03:55Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
   {
    "id": "0d291a27fb828535",
    "title": "ECARX Announces US$20 million Share Repurchase Program",
@@ -26,6 +40,22 @@
    ],
    "cats": [],
    "score": 2,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "23913a32aff6413a",
+   "title": "Burundi Blocks Election Bid by Incumbent President’s Main Rival",
+   "summary": "Burundi’s electoral agency has rejected Agathon Rwasa’s bid for the presidency, removing the main rival for incumbent Evariste Ndayishimiye at presidential elections scheduled for May.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/burundi-blocks-election-bid-by-incumbent-president-s-main-rival",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T10:53:53Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
    "link_is_redirect": false,
    "sec_filing": false
   },
@@ -734,7 +764,7 @@
    "link": "https://news.futunn.com/post/1005834239?futusource=news_search_searchnews&src=39",
    "source": "futu",
    "tier": 3,
-   "published_utc": "2026-11-27T09:02:31Z",
+   "published_utc": "2026-11-27T09:02:00Z",
    "tickers": [
     "NVDA"
    ],
