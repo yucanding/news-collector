@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-27T03:01:29.278034Z",
+  "updated_utc": "2026-11-27T03:10:54.699172Z",
   "window_hours": 12,
   "sources_ok": [
     "terminal",
@@ -9,7 +9,7 @@
   "errors": [],
   "stale": false,
   "counts": {
-    "fetched": 904,
+    "fetched": 938,
     "inbox": 41,
     "new": 1,
     "judged": 0,
@@ -17,13 +17,26 @@
   },
   "items": [
     {
+      "id": "u:fc2171b75d537fb0",
+      "title": "The AI Boom Looks Alive and Well in Asia",
+      "summary": "Stocks are having a wild ride thanks to the Nvidia affair, but AI-linked exports and investment are still driving growth—for now.",
+      "link": "https://www.wsj.com/tech/ai/the-ai-boom-looks-alive-and-well-in-asia-59841697?mod=rss_Technology",
+      "source": "WSJ",
+      "published_utc": "2026-11-27T03:00:00Z",
+      "fetched_utc": "2026-11-27T03:10:54.699172Z",
+      "tickers": [
+        "NVDA"
+      ],
+      "cats": []
+    },
+    {
       "id": "u:3fe01852825dcade",
       "title": "荷兰反对美国 MATCH 法案，拟要求华盛顿不执行对华芯片设备出口限制",
       "summary": "深潮 TechFlow 消息，11 月 27 日，据路透社报道，荷兰贸易部长 Sjoerd Sjoerdsma 11 月 26 日在议会表示，如果美国国会通过《MATCH 法案》，荷兰将要求美国政府不要执行相关限制措施。 该法案拟要求荷兰、日本等美国盟友进一步收紧对华半导体设备出口管制，否则可能面临美国单方面实施的出口限制，涉及阿斯麦（ASML）的浸没式深紫外光刻（DUV）设备。 Sjoerdsma 表示，荷兰正与欧盟委员会、德国及法国协调，争取阻止法案通过，并将评估必要的反制措施。ASML 预计中国市场将占其今年销售额约 20%。 目前该法案仍处于美国国会审议阶段，尚未正式生效。",
       "link": "https://www.techflowpost.com/newsletter/147169/netherlands-opposes-us-match-act-chip-export-restrictions",
       "source": "TechFlow",
       "published_utc": "2026-11-27T02:57:18Z",
-      "fetched_utc": "2026-11-27T03:01:29.278034Z",
+      "fetched_utc": "2026-11-27T03:10:54.699172Z",
       "tickers": [
         "ASML"
       ],
@@ -38,7 +51,7 @@
       "link": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
       "source": "NYT",
       "published_utc": "2026-11-27T02:45:41Z",
-      "fetched_utc": "2026-11-27T03:01:29.278034Z",
+      "fetched_utc": "2026-11-27T03:10:54.699172Z",
       "tickers": [
         "NVDA"
       ],
@@ -51,7 +64,7 @@
       "link": "https://www.techflowpost.com/newsletter/147165/spacex-cuts-nvidia-blackwell-spot-rental-to-10-12-dollars-hour",
       "source": "TechFlow",
       "published_utc": "2026-11-27T02:24:16Z",
-      "fetched_utc": "2026-11-27T03:01:29.278034Z",
+      "fetched_utc": "2026-11-27T03:10:54.699172Z",
       "tickers": [
         "GOOGL",
         "NVDA"
@@ -80,22 +93,9 @@
       "link": "https://www.wsj.com/business/jensen-huang-nvidia-ping-pong-rise-and-fall-bfd13000?mod=pls_whats_news_us_business_f",
       "source": "WSJ",
       "published_utc": "2026-11-27T02:00:00Z",
-      "fetched_utc": "2026-11-27T03:01:29.278034Z",
+      "fetched_utc": "2026-11-27T03:10:54.699172Z",
       "tickers": [
         "NVDA"
-      ],
-      "cats": []
-    },
-    {
-      "id": "u:dd35096085a68abd",
-      "title": "AMD 新 Vulkan 技术为光追游戏“减负”，显存占用最高降约 92%",
-      "summary": "",
-      "link": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?futusource=news_search_searchnews&src=39#/index?id=nesSN2026112709373798cd7f5f&s=b",
-      "source": "futu",
-      "published_utc": "2026-11-27T01:36:34Z",
-      "fetched_utc": "2026-11-27T03:01:29.278034Z",
-      "tickers": [
-        "AMD"
       ],
       "cats": []
     },
@@ -106,7 +106,7 @@
       "link": "https://news.futunn.com/post/1005792255?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-27T01:34:12Z",
-      "fetched_utc": "2026-11-27T03:01:29.278034Z",
+      "fetched_utc": "2026-11-27T03:10:54.699172Z",
       "tickers": [
         "INTC"
       ],
@@ -132,7 +132,7 @@
       "link": "https://www.techflowpost.com/newsletter/147153/google-cloud-open-source-model-distillation-glm-5-2-qwen-3-gemma-3",
       "source": "TechFlow",
       "published_utc": "2026-11-27T01:04:12Z",
-      "fetched_utc": "2026-11-27T03:01:29.278034Z",
+      "fetched_utc": "2026-11-27T03:10:54.699172Z",
       "tickers": [
         "GOOGL"
       ],
@@ -171,7 +171,7 @@
       "link": "https://news.futunn.com/post/1005785946?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-27T00:33:42Z",
-      "fetched_utc": "2026-11-27T03:01:29.278034Z",
+      "fetched_utc": "2026-11-27T03:10:54.699172Z",
       "tickers": [
         "TSM"
       ],
@@ -184,11 +184,26 @@
       "link": "https://www.bloomberg.com/news/articles/2026-11-27/japan-tobacco-shares-climb-on-potential-imperial-brands-takeover",
       "source": "BBG",
       "published_utc": "2026-11-27T00:26:05Z",
-      "fetched_utc": "2026-11-27T03:01:29.278034Z",
+      "fetched_utc": "2026-11-27T03:10:54.699172Z",
       "tickers": [],
       "cats": [
         "mna"
       ]
+    },
+    {
+      "id": "u:dd35096085a68abd",
+      "title": "美国开启假日购物季，考验OpenAI、Meta、谷歌和亚马逊AI购物的时候到了",
+      "summary": "",
+      "link": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?futusource=news_search_searchnews&src=39#/index?id=nesSN2026112708302398cd6776&s=b",
+      "source": "futu",
+      "published_utc": "2026-11-27T00:25:16Z",
+      "fetched_utc": "2026-11-27T03:10:54.699172Z",
+      "tickers": [
+        "AMZN",
+        "GOOGL",
+        "META"
+      ],
+      "cats": []
     },
     {
       "id": "u:8669b1982e3afc91",
@@ -207,10 +222,10 @@
       "id": "u:2e8f3d0714023e49",
       "title": "Trump: will likely talk to Nvidia's Huang shortly",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9869848/Trump-will-likely-talk-to-Nvidias-Huang-shortly.aspx",
+      "link": "https://www.financialjuice.com/News/9869848/Trump-will-likely-talk-to-Nvidias-Huang-shortly.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-26T23:54:38Z",
-      "fetched_utc": "2026-11-27T03:01:29.278034Z",
+      "fetched_utc": "2026-11-27T03:10:54.699172Z",
       "tickers": [
         "NVDA"
       ],
@@ -223,7 +238,7 @@
       "link": "https://news.futunn.com/post/1005782865?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-26T23:15:11Z",
-      "fetched_utc": "2026-11-27T03:01:29.278034Z",
+      "fetched_utc": "2026-11-27T03:10:54.699172Z",
       "tickers": [
         "TSLA"
       ],
@@ -236,7 +251,7 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWGkxbW12bVFpbTIzUE1pWHZ3cm9jSXJnQUVweGU5aFhXaHVTTUlkTzJRQ0dZVTh3aGNoQjl1Mzk0TXMtTUZKQ0psZkh1S3VyZWs4S0tva1V2bFlUUlluVUtsRUpWTUdSOVp4LUtrbF9ieUZhYnoxcU80OWJyQjNtZ20yQm1JUXlfREx4eXNZaHZDQQ?oc=5",
       "source": "google-news:Briefs Finance",
       "published_utc": "2026-11-26T22:32:09Z",
-      "fetched_utc": "2026-11-27T02:50:56.252128Z",
+      "fetched_utc": "2026-11-27T03:10:54.699172Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -250,7 +265,7 @@
       "link": "https://www.bloomberg.com/news/features/2026-11-26/holidays-to-test-ai-shopping-bots-from-google-amazon-meta-and-openai",
       "source": "BBG",
       "published_utc": "2026-11-26T22:00:04Z",
-      "fetched_utc": "2026-11-27T03:01:29.278034Z",
+      "fetched_utc": "2026-11-27T03:10:54.699172Z",
       "tickers": [
         "AMZN",
         "GOOGL",
@@ -262,10 +277,10 @@
       "id": "u:24773cf1d893c97e",
       "title": "Japan's Jera aims to build Anthropic and Meta data centers near power plants - Nikkei $META",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9869800/Japans-Jera-aims-to-build-Anthropic-and-Meta-data-centers-near-power-plants---Nikkei-META.aspx",
+      "link": "https://www.financialjuice.com/News/9869800/Japans-Jera-aims-to-build-Anthropic-and-Meta-data-centers-near-power-plants---Nikkei-META.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-26T21:56:45Z",
-      "fetched_utc": "2026-11-27T03:01:29.278034Z",
+      "fetched_utc": "2026-11-27T03:10:54.699172Z",
       "tickers": [
         "META"
       ],
@@ -275,10 +290,10 @@
       "id": "u:22a7f568d1ea07d7",
       "title": "Jera Global CEO and Chair: The energy group is in discussions with Amazon, Microsoft, and Google - Nikkei. $GOOGL $AMZN $MSFT",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9869799/Jera-Global-CEO-and-Chair-The-energy-group-is-in-discussions-with-Amazon-Microsoft-and-Google---Nikkei-GOOGL-AMZN-MSFT.aspx",
+      "link": "https://www.financialjuice.com/News/9869799/Jera-Global-CEO-and-Chair-The-energy-group-is-in-discussions-with-Amazon-Microsoft-and-Google---Nikkei-GOOGL-AMZN-MSFT.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-26T21:56:10Z",
-      "fetched_utc": "2026-11-27T03:01:29.278034Z",
+      "fetched_utc": "2026-11-27T03:10:54.699172Z",
       "tickers": [
         "AMZN",
         "GOOGL",
@@ -293,7 +308,7 @@
       "link": "https://www.bloomberg.com/news/newsletters/2026-11-26/japan-tobacco-altria-explore-imperial-brands-takeover",
       "source": "BBG",
       "published_utc": "2026-11-26T21:33:59Z",
-      "fetched_utc": "2026-11-27T03:01:29.278034Z",
+      "fetched_utc": "2026-11-27T03:10:54.699172Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -306,7 +321,7 @@
       "link": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html",
       "source": "NYT",
       "published_utc": "2026-11-26T21:25:16Z",
-      "fetched_utc": "2026-11-27T03:01:29.278034Z",
+      "fetched_utc": "2026-11-27T03:10:54.699172Z",
       "tickers": [
         "NVDA"
       ],
@@ -333,7 +348,7 @@
       "link": "https://news.futunn.com/post/1005775850?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-26T19:45:05Z",
-      "fetched_utc": "2026-11-27T03:01:29.278034Z",
+      "fetched_utc": "2026-11-27T03:10:54.699172Z",
       "tickers": [
         "AAPL",
         "AMZN"
@@ -347,7 +362,7 @@
       "link": "https://news.futunn.com/post/1005775446?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-26T19:30:08Z",
-      "fetched_utc": "2026-11-27T03:01:29.278034Z",
+      "fetched_utc": "2026-11-27T03:10:54.699172Z",
       "tickers": [
         "TSLA"
       ],
@@ -413,7 +428,7 @@
       "link": "https://www.wsj.com/business/deals/altria-considering-possible-offer-for-imperial-brands-7cef494b?mod=pls_whats_news_us_business_f",
       "source": "WSJ",
       "published_utc": "2026-11-26T17:58:00Z",
-      "fetched_utc": "2026-11-27T03:01:29.278034Z",
+      "fetched_utc": "2026-11-27T03:10:54.699172Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -439,7 +454,7 @@
       "link": "https://www.ft.com/content/696e99b0-f6d1-4a1a-95b0-f68de88520d9?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss",
       "source": "FT",
       "published_utc": "2026-11-26T17:46:48Z",
-      "fetched_utc": "2026-11-27T03:01:29.278034Z",
+      "fetched_utc": "2026-11-27T03:10:54.699172Z",
       "tickers": [],
       "cats": [
         "mna"
@@ -452,7 +467,7 @@
       "link": "https://www.wsj.com/tech/nvidia-tells-partners-to-pause-shipments-to-southeast-asia-5b791cb0?mod=rss_Technology",
       "source": "WSJ",
       "published_utc": "2026-11-26T17:06:00Z",
-      "fetched_utc": "2026-11-27T03:01:29.278034Z",
+      "fetched_utc": "2026-11-27T03:10:54.699172Z",
       "tickers": [
         "NVDA"
       ],
@@ -465,7 +480,7 @@
       "link": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html",
       "source": "CNBC",
       "published_utc": "2026-11-26T17:04:54Z",
-      "fetched_utc": "2026-11-27T03:01:29.278034Z",
+      "fetched_utc": "2026-11-27T03:10:54.699172Z",
       "tickers": [
         "NVDA"
       ],
@@ -480,7 +495,7 @@
       "link": "https://news.futunn.com/post/1005769732?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-26T16:45:24Z",
-      "fetched_utc": "2026-11-27T03:01:29.278034Z",
+      "fetched_utc": "2026-11-27T03:10:54.699172Z",
       "tickers": [
         "MSFT"
       ],
@@ -493,7 +508,7 @@
       "link": "https://news.futunn.com/post/1005769371?futusource=news_search_searchnews&src=39",
       "source": "futu",
       "published_utc": "2026-11-26T16:30:29Z",
-      "fetched_utc": "2026-11-27T03:01:29.278034Z",
+      "fetched_utc": "2026-11-27T03:10:54.699172Z",
       "tickers": [
         "GM",
         "TSLA"
@@ -507,7 +522,7 @@
       "link": "https://www.techflowpost.com/newsletter/147129/sap-considers-10000-layoffs-in-restructuring",
       "source": "TechFlow",
       "published_utc": "2026-11-26T16:27:16Z",
-      "fetched_utc": "2026-11-27T03:01:29.278034Z",
+      "fetched_utc": "2026-11-27T03:10:54.699172Z",
       "tickers": [
         "INTC"
       ],
@@ -520,7 +535,7 @@
       "link": "https://www.techflowpost.com/newsletter/147127/nvidia-asks-partners-to-pause-shipments-to-southeast-asia",
       "source": "TechFlow",
       "published_utc": "2026-11-26T16:07:19Z",
-      "fetched_utc": "2026-11-27T03:01:29.278034Z",
+      "fetched_utc": "2026-11-27T03:10:54.699172Z",
       "tickers": [
         "NVDA"
       ],
@@ -530,10 +545,10 @@
       "id": "u:e97143c171fa12e4",
       "title": "Chip sellers have told neoclouds they won't supply Nvidia chips if any of the computing capacity will be rented to Chinese companies - CNBC. $NVDA",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9869618/Chip-sellers-have-told-neoclouds-they-wont-supply-Nvidia-chips-if-any-of-the-computing-capacity-will-be-rented-to-Chinese-companies---CNBC-NVDA.aspx",
+      "link": "https://www.financialjuice.com/News/9869618/Chip-sellers-have-told-neoclouds-they-wont-supply-Nvidia-chips-if-any-of-the-computing-capacity-will-be-rented-to-Chinese-companies---CNBC-NVDA.aspx?xy=rss",
       "source": "FinancialJuice",
       "published_utc": "2026-11-26T16:05:39Z",
-      "fetched_utc": "2026-11-27T03:01:29.278034Z",
+      "fetched_utc": "2026-11-27T03:10:54.699172Z",
       "tickers": [
         "NVDA"
       ],
@@ -546,24 +561,11 @@
       "link": "https://www.axios.com/2026/11/26/musk-spacex-shares-trump-accounts",
       "source": "Axios",
       "published_utc": "2026-11-26T15:54:15Z",
-      "fetched_utc": "2026-11-27T03:01:29.278034Z",
+      "fetched_utc": "2026-11-27T03:10:54.699172Z",
       "tickers": [
         "DELL"
       ],
       "cats": []
-    },
-    {
-      "id": "u:f9a70f66d1fc1f73",
-      "title": "Bawag’s €1.6 Billion PTSB Deal Rejected by Irish High Court",
-      "summary": "The Irish High Court declined to approve Bawag Group AG’s takeover of Irish lender Permanent TSB Group Holdings Plc, saying that the Austrian bank must also seek approval of minority shareholders.",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-26/irish-high-court-refuses-to-approve-bawag-s-ptsb-deal",
-      "source": "BBG",
-      "published_utc": "2026-11-26T15:09:23Z",
-      "fetched_utc": "2026-11-26T22:40:54.447232Z",
-      "tickers": [],
-      "cats": [
-        "mna"
-      ]
     }
   ]
 }
