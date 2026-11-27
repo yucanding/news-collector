@@ -1,32 +1,152 @@
 {
- "updated_utc": "2026-11-27T13:21:37.574443Z",
+ "updated_utc": "2026-11-27T13:31:14.186582Z",
  "window_hours": 12,
  "stale": false,
- "errors": {
-  "gn-kuo-en": "HTTPError: HTTP Error 503: Service Unavailable",
-  "gn-kuo-zh": "HTTPError: HTTP Error 503: Service Unavailable",
-  "gn-t1-exclusive": "HTTPError: HTTP Error 503: Service Unavailable",
-  "gn-t1-mna": "HTTPError: HTTP Error 503: Service Unavailable",
-  "gn-wires": "HTTPError: HTTP Error 503: Service Unavailable",
-  "gn-short": "HTTPError: HTTP Error 503: Service Unavailable",
-  "gn-supply": "HTTPError: HTTP Error 503: Service Unavailable"
- },
+ "errors": {},
  "counts": {
-  "fetched": 742,
-  "new": 0,
-  "candidates": 56,
-  "judged": 0,
+  "fetched": 877,
+  "new": 7,
+  "candidates": 60,
+  "judged": 4,
   "pushed": 0
  },
  "items": [
   {
-   "id": "59049db6b7768cde",
-   "title": "Exclusive | Swiss Bourse to Launch IPO Academy in Bid to Encourage European Listings",
+   "id": "5a3821cbc10eb72e",
+   "title": "AWS re:Invent大会下周来袭！ 亚马逊 ( AMZN .US)公开答辩，AI变现叙事迎来“验证窗口”",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVlRCT294bXVBblotT1NYMkZacExkM1hyS3htRTZ6UWdzSGxZVmdJMEhKbGRFS3hRT1dsbDdINUEzY1RYdUxDQ3Awa1QwZzVPeG93QS00UjVlb1R1NWZrTmFDSFNNUW5vRE5GWHVqVFFGLUl0WENuelRJNld4VGpSNkJ4R1ppbnhZTEtTUHV5WTFZNlZXaU54cEtXQnJfR2N1MVNfTXBXSGt6c2Nha3c?oc=5",
+   "link": "https://news.futunn.com/post/1005857585?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T13:30:38Z",
+   "tickers": [
+    "AMZN"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "033ce298bb7293da",
+   "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
+   "summary": "The extreme market gyrations and the drama surrounding Nvidia this past week have highlighted the dilemma facing Federal Reserve Chairman Kevin Warsh.",
+   "link": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
+   "source": "CNBC",
+   "tier": 2,
+   "published_utc": "2026-11-27T13:29:43Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 3,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "96996baee78b5eeb",
+   "title": "Fragrance Giants Handed $630 Million in EU, U.K. Antitrust Fines",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOREthVklBaU80NGJRNFJTX3ozbGFmeTY5WDhTVVlZR09fa1J0LUk0ZUs4cWh5OVlScXJsOWxMV01maFlyZkl3ZHpid3J1WlYzYVlqeVRIUXVZbno0WnAtWUw2UjZwZjEtVVJrd2RONzdYTG5lMENRQnJqRkNhdkpQdjZuZEtXWDlPcVFGeDJHZVlxM2kzQVhydU5aTHB5TWNEbDZrY0lOZC1qOGJiNkFKNg?oc=5",
    "source": "WSJ",
    "tier": 1,
-   "published_utc": "2026-11-27T13:06:49Z",
+   "published_utc": "2026-11-27T13:28:36Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "d8ba03a8c90da73e",
+   "title": "The EU weighs tighter export controls to prevent battery waste going to China - FT.",
+   "summary": "",
+   "link": "https://www.financialjuice.com/News/9870623/The-EU-weighs-tighter-export-controls-to-prevent-battery-waste-going-to-China---FT.aspx?xy=rss",
+   "source": "FinancialJuice",
+   "tier": 3,
+   "published_utc": "2026-11-27T13:28:05Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 2,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "812e6178d6772deb",
+   "title": "Airline Norse Atlantic's Norwegian operating unit declares bankruptcy",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZjF6SXBzRmpCeHczaU9VZnNGczNjcWtlMXNCMUFrTUxfbUViN3cxUXpPbFU0YVRTQzU0aEY5MGdLY1hnU2I1R21jd2tYNnIyLVVLeEtoSEY2WjZKNTE0QkdLWWFzcmkySGFYUWE4Vmh3OVpzLWJ3V25LX18zSUJ4TS1TcExrVFFoUUVvOS13NmF1dUZJWVo1S2hLRlZaNmMzTWh1dDFsTHpXUzlzN2lWQ01sc1VVR0hOUzlZSTJ3?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T13:18:19Z",
+   "tickers": [],
+   "cats": [
+    "incident"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "37d9c8aeba7572bc",
+   "title": "Czech lower house approves windfall tax on refineries",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOUZlQzhOdlJaT2pkWWdHWm9wbFE3UVFYOURGS3Q5R2NpTEZyMmRLY3cxZHRSa3pwNHVSWXlTTkYweDZ5V1NMcDNqNHhjZkZ6MjNVbHJIREpBdkhna2hOUTZVNFZ6SDJOdmNxR1RscDhaNURwZFpvc0dqeF94eUxFeWV3TWF3R05OM1RjeFpIbXFZWmhYdF8wVTNtbC1oVEV2cjY5UA?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T13:18:09Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "9332f1c21a8068d3",
+   "title": "Budget Airline Norse Atlantic’s Local Unit Files for Bankruptcy",
+   "summary": "Norse Atlantic ASA’s Norwegian subsidiary filed for bankruptcy protection after the budget airline couldn’t secure short-term financing fast enough to save the struggling business.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/budget-airline-norse-atlantic-s-local-unit-files-for-bankruptcy",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T13:10:53Z",
+   "tickers": [],
+   "cats": [
+    "incident"
+   ],
+   "score": 5,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "d5f4c0bb0b02da38",
+   "title": "Budget Airline Norse Atlantic’s Local Unit Files for Bankruptcy",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDVJSkhEbVhQVXhUT3N2LVBlZ3R1OGdmT0JEWXNMMVdrNWdlR1h1bEd3SzI1WlVVM1FweFYza2ZiMmt4Vkc5Vl96N3VSd3Q0aV9mTUk5QWZwd0NiWXpUNG9xWHh2aHlUUEpONExXUTNyZHM4YjVRUXYyLXBRV3ZWc2xqZk40cnpBLVBUaG0yckxrazBxenJ6bUxUaFRQN2lheTYyZUlKTkJNa2pxeWJPamdsVE0?oc=5",
+   "source": "Bloomberg.com",
+   "tier": 1,
+   "published_utc": "2026-11-27T13:10:53Z",
+   "tickers": [],
+   "cats": [
+    "incident"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "4cceaa6b72dfd22a",
+   "title": "EXCLUSIVE: Global fashion brands shift orders from Bangladesh to India amid unrest",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQWJhaVBEcEFiX2hwb0lHanFvdTJncnpwM3JVMEh6WTUxSmhaWjV6MHcwdGJueHd5M1pmcVB2VG9UbGxKbzlseklNR2FjNHFWMlFLbmxLQkxxeXptM1VWUVRkWngxS2dwNTVWTng2NXcyUlo4NHM5OFM3NWNsNUY2WkdJblJmcVFRaVV4X1IweXZQWUJya01ZVi1qc19IVjF1OGEtQU9aVDd0eW5xYnBkQkxhcWg0dHFUWEwyYzlPdkdqZw?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T13:04:32Z",
    "tickers": [],
    "cats": [
     "scoop"
@@ -49,6 +169,22 @@
    "cats": [],
    "score": 2,
    "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "59049db6b7768cde",
+   "title": "Exclusive | Swiss Bourse to Launch IPO Academy in Bid to Encourage European Listings",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVlRCT294bXVBblotT1NYMkZacExkM1hyS3htRTZ6UWdzSGxZVmdJMEhKbGRFS3hRT1dsbDdINUEzY1RYdUxDQ3Awa1QwZzVPeG93QS00UjVlb1R1NWZrTmFDSFNNUW5vRE5GWHVqVFFGLUl0WENuelRJNld4VGpSNkJ4R1ppbnhZTEtTUHV5WTFZNlZXaU54cEtXQnJfR2N1MVNfTXBXSGt6c2Nha3c?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T13:03:00Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -358,7 +494,7 @@
   },
   {
    "id": "28616023bd7313bb",
-   "title": "Deutsche Boerse’s €5.3 billion Allfunds Bid Gets EU Approval",
+   "title": "Deutsche Boerse’s €5.3 billion Allfunds Deal Gets EU Approval",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS0RzR3hybnJfQVRzQXRkU0hxMXpjRFkyYkRMVVVKY2M0QWxZTlh6MEduRUpwTHlSblE0aHFwaVBQM0FPNXM5TDRCR3NiU1ZVWkpPaGZjMktvMEV3TUhaRktaWm9GZURKQUJGei1QQkh3emU0cEM1WW5XRGlPNng2SVY3UWROa1VzbVNqd2xHNGpqbDdaalVwSTdKa3p1ME5iT0VsNDdXVlVJQTJjNXBnSw?oc=5",
    "source": "Bloomberg.com",
@@ -424,18 +560,18 @@
    "sec_filing": false
   },
   {
-   "id": "4cceaa6b72dfd22a",
-   "title": "EXCLUSIVE: Global fashion brands shift orders from Bangladesh to India amid unrest",
+   "id": "e1aa3ea51102fc8c",
+   "title": "Explainer: What is Modi's automated takedown law, which has embroiled Meta in a political storm?",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQWJhaVBEcEFiX2hwb0lHanFvdTJncnpwM3JVMEh6WTUxSmhaWjV6MHcwdGJueHd5M1pmcVB2VG9UbGxKbzlseklNR2FjNHFWMlFLbmxLQkxxeXptM1VWUVRkWngxS2dwNTVWTng2NXcyUlo4NHM5OFM3NWNsNUY2WkdJblJmcVFRaVV4X1IweXZQWUJya01ZVi1qc19IVjF1OGEtQU9aVDd0eW5xYnBkQkxhcWg0dHFUWEwyYzlPdkdqZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVTZ2bTRUanBuNS1mNExCQzNNSHlnNmhab0pKZjNQM0JhbS1GUEpnaV80UWVzb0JZMkR1RE0wYk03djRVdmdGY0I1ZkF6S3RBOW53Y0dKNU15b1hXTlQ0SlhKYTE3RzBkUUtVMnR1NEtpRk1UclhZcFpOR1VnX2JCeHFDQ291bnZUaWZoU1BuT3Z1NFFWdTlBVHFZMWRnUmg3aGxFRXVpN0Q3Vnl3Qm1UUFQ3Y25XY3BlRmFtaDM1WF95NEVucWR3N2dyVks?oc=5",
    "source": "Reuters",
    "tier": 1,
-   "published_utc": "2026-11-27T12:19:31Z",
-   "tickers": [],
-   "cats": [
-    "scoop"
+   "published_utc": "2026-11-27T12:11:37Z",
+   "tickers": [
+    "META"
    ],
-   "score": 4,
+   "cats": [],
+   "score": 0,
    "link_is_redirect": true,
    "sec_filing": false
   },
@@ -599,22 +735,6 @@
    ],
    "score": 5,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "e1aa3ea51102fc8c",
-   "title": "Explainer: What is Modi's automated takedown law, which has embroiled Meta in a political storm?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVTZ2bTRUanBuNS1mNExCQzNNSHlnNmhab0pKZjNQM0JhbS1GUEpnaV80UWVzb0JZMkR1RE0wYk03djRVdmdGY0I1ZkF6S3RBOW53Y0dKNU15b1hXTlQ0SlhKYTE3RzBkUUtVMnR1NEtpRk1UclhZcFpOR1VnX2JCeHFDQ291bnZUaWZoU1BuT3Z1NFFWdTlBVHFZMWRnUmg3aGxFRXVpN0Q3Vnl3Qm1UUFQ3Y25XY3BlRmFtaDM1WF95NEVucWR3N2dyVks?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T11:57:46Z",
-   "tickers": [
-    "META"
-   ],
-   "cats": [],
-   "score": 0,
-   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -1741,22 +1861,6 @@
    ],
    "score": 4,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "96996baee78b5eeb",
-   "title": "Fragrance Giants Handed $630 Million in EU, U.K. Antitrust Fines",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOREthVklBaU80NGJRNFJTX3ozbGFmeTY5WDhTVVlZR09fa1J0LUk0ZUs4cWh5OVlScXJsOWxMV01maFlyZkl3ZHpid3J1WlYzYVlqeVRIUXVZbno0WnAtWUw2UjZwZjEtVVJrd2RONzdYTG5lMENRQnJqRkNhdkpQdjZuZEtXWDlPcVFGeDJHZVlxM2kzQVhydU5aTHB5TWNEbDZrY0lOZC1qOGJiNkFKNg?oc=5",
-   "source": "WSJ",
-   "tier": 1,
-   "published_utc": "2026-11-27T08:58:33Z",
-   "tickers": [],
-   "cats": [
-    "reg"
-   ],
-   "score": 5,
-   "link_is_redirect": true,
    "sec_filing": false
   },
   {
