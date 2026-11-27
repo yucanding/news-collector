@@ -1,16 +1,65 @@
 {
- "updated_utc": "2026-11-27T09:50:46.546608Z",
+ "updated_utc": "2026-11-27T10:01:21.467060Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 881,
+  "fetched": 867,
   "new": 4,
-  "candidates": 37,
-  "judged": 4,
+  "candidates": 38,
+  "judged": 2,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "af6204394a724cc4",
+   "title": "英特尔 （ INTC ）异动期权指南：AI芯片板块集体回暖，反弹能否延续？",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005839418?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T09:58:52Z",
+   "tickers": [
+    "INTC"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "326fd24e6df8ca53",
+   "title": "每日期权前瞻 | 美光科技盘前涨7.43%，下修2027年DRAM价预期，仍看好美光； 英伟达 盘前涨4.5%，隐含波动率达新高",
+   "summary": "",
+   "link": "https://q.futunn.com/feed/117687799251348?futusource=news_search_searchnews",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T09:55:04Z",
+   "tickers": [
+    "MU",
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "5efed34aac750677",
+   "title": "Kospi Rout Wipes $151 Billion From Korea Pension Fund’s Assets",
+   "summary": "South Korea’s National Pension Service saw its assets shrink by about 202 trillion won ($151.4 billion) in the third quarter as a stock-market retreat eroded some of the out-sized gains accumulated earlier this year.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/kospi-rout-wipes-151-billion-from-korea-pension-fund-s-assets",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T09:53:15Z",
+   "tickers": [],
+   "cats": [
+    "deal"
+   ],
+   "score": 5,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "2fa9d9b8e6b624de",
    "title": "New Tariffs on China Risk Undermining Trade Truce With U.S.",
@@ -41,6 +90,22 @@
    ],
    "score": 4,
    "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "c505e2fa7b58360e",
+   "title": "Modi’s Government to Revive Plan to Expand India’s Parliament",
+   "summary": "Prime Minister Narendra Modi’s administration is reviving an ambitious plan to expand the size of India’s parliament, people familiar with the matter said, after an earlier attempt was defeated when opposition parties joined forces against it.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/modi-s-government-to-revive-plan-to-expand-india-s-parliament",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T09:43:30Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": false,
    "sec_filing": false
   },
   {
@@ -2202,92 +2267,6 @@
     "reg"
    ],
    "score": 5,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "97a06297ba440ac0",
-   "title": "Holidays to Test AI Shopping Bots From Google, Amazon, Meta and OpenAI",
-   "summary": "Google, Amazon, Meta and OpenAI all want to help pick your holiday gifts. Whose advice will shoppers take?",
-   "link": "https://www.bloomberg.com/news/features/2026-11-26/holidays-to-test-ai-shopping-bots-from-google-amazon-meta-and-openai",
-   "source": "BBG",
-   "tier": 1,
-   "published_utc": "2026-11-26T22:00:04Z",
-   "tickers": [
-    "AMZN",
-    "GOOGL",
-    "META"
-   ],
-   "cats": [],
-   "score": 4,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "aa2d2c3930076573",
-   "title": "Japan's Jera aims to build Anthropic and Meta data centers near power plants - Nikkei $META",
-   "summary": "",
-   "link": "https://www.financialjuice.com/News/9869800/Japans-Jera-aims-to-build-Anthropic-and-Meta-data-centers-near-power-plants---Nikkei-META.aspx?xy=rss",
-   "source": "FinancialJuice",
-   "tier": 3,
-   "published_utc": "2026-11-26T21:56:45Z",
-   "tickers": [
-    "META"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "e90f20d9bb36e31a",
-   "title": "Japan's Jera aims to build Anthropic and Meta data centers near power plants - Nikkei $META",
-   "summary": "",
-   "link": "https://www.financialjuice.com/News/9869800/Japans-Jera-aims-to-build-Anthropic-and-Meta-data-centers-near-power-plants---Nikkei-META.aspx",
-   "source": "FinancialJuice",
-   "tier": 3,
-   "published_utc": "2026-11-26T21:56:45Z",
-   "tickers": [
-    "META"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "68eeef1a4893ce50",
-   "title": "Jera Global CEO and Chair: The energy group is in discussions with Amazon, Microsoft, and Google - Nikkei. $GOOGL $AMZN $MSFT",
-   "summary": "",
-   "link": "https://www.financialjuice.com/News/9869799/Jera-Global-CEO-and-Chair-The-energy-group-is-in-discussions-with-Amazon-Microsoft-and-Google---Nikkei-GOOGL-AMZN-MSFT.aspx?xy=rss",
-   "source": "FinancialJuice",
-   "tier": 3,
-   "published_utc": "2026-11-26T21:56:10Z",
-   "tickers": [
-    "AMZN",
-    "GOOGL",
-    "MSFT"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "990b9fc697542797",
-   "title": "Jera Global CEO and Chair: The energy group is in discussions with Amazon, Microsoft, and Google - Nikkei. $GOOGL $AMZN $MSFT",
-   "summary": "",
-   "link": "https://www.financialjuice.com/News/9869799/Jera-Global-CEO-and-Chair-The-energy-group-is-in-discussions-with-Amazon-Microsoft-and-Google---Nikkei-GOOGL-AMZN-MSFT.aspx",
-   "source": "FinancialJuice",
-   "tier": 3,
-   "published_utc": "2026-11-26T21:56:10Z",
-   "tickers": [
-    "AMZN",
-    "GOOGL",
-    "MSFT"
-   ],
-   "cats": [],
-   "score": 1,
    "link_is_redirect": false,
    "sec_filing": false
   }
