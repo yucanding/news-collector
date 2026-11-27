@@ -1,16 +1,80 @@
 {
- "updated_utc": "2026-11-27T18:01:24.518604Z",
+ "updated_utc": "2026-11-27T18:10:46.851508Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 818,
-  "new": 1,
-  "candidates": 20,
-  "judged": 0,
+  "fetched": 822,
+  "new": 2,
+  "candidates": 22,
+  "judged": 1,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "6f8c1186502ba9d1",
+   "title": "Exclusive | MLB Launches Legal Action Against Its Players—Before the Lockout Even Begins",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Fcnd3cEd0aEp3Q3cwQ0FCTW9tWFlNU1VrQnF2RDlvbUhhNzlrN0VIOUNFN0xoT1JYZkNEZGNzV0t1emdGWlpZSzlsZE5wUFhnX21nVGowY1BjWUwtNWZpOUxmYVFjcDVmaWJ2VHBaV3JsQ0ExaXJVLTlocEY0RDg?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T18:08:13Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "439cc7b3d446bd05",
+   "title": "Form 144 | 苹果 ( AAPL .US)高管拟出售5.5万股股份，价值约1,959.43万美元",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005872955?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T18:08:04Z",
+   "tickers": [
+    "AAPL"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "a012d3a680c5401c",
+   "title": "Exclusive | Bayer Signals Next Pharma Deals Might Target More Midstage Assets",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT19Hd2hkcmE0VHpmalE3RTlNVVoxS05YcGFKUVdlVkRxR0Rwam1PT2NHdlNNdjFKUTdVSGw5Yk01ZC1PTDFJQjBlX1U2X0Y4OFJia2xweTJvTnRHNnc3R3I5TmJDdkFKUzdVNDBkSVVNVXJWQ3M2eXdPVGpUMW1ZWUNmOFlEV1lSR3dqbTJWNC1MRTAyOHQxc3dwbXRSeEpZd0s4OVVsbkZFYXJZ?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T17:58:27Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "e1aa3ea51102fc8c",
+   "title": "Explainer: What is Modi's automated takedown law, which has embroiled Meta in a political storm?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVTZ2bTRUanBuNS1mNExCQzNNSHlnNmhab0pKZjNQM0JhbS1GUEpnaV80UWVzb0JZMkR1RE0wYk03djRVdmdGY0I1ZkF6S3RBOW53Y0dKNU15b1hXTlQ0SlhKYTE3RzBkUUtVMnR1NEtpRk1UclhZcFpOR1VnX2JCeHFDQ291bnZUaWZoU1BuT3Z1NFFWdTlBVHFZMWRnUmg3aGxFRXVpN0Q3Vnl3Qm1UUFQ3Y25XY3BlRmFtaDM1WF95NEVucWR3N2dyVks?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T17:53:52Z",
+   "tickers": [
+    "META"
+   ],
+   "cats": [],
+   "score": 0,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
   {
    "id": "44ff058bfd04f7a4",
    "title": "Inside China’s $4 Billion Secondhand Luxury Boom",
@@ -105,6 +169,22 @@
    "sec_filing": false
   },
   {
+   "id": "9877b61dc68f0636",
+   "title": "Exclusive | Inside the Scramble to Avert Conflict With Russia in the Baltic",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWXU1WDdhS2huZHA0c0owNzRTTVpyZklia2VLbWNUMk1nWk52TFlieHdwZ2dNSEZ5LUdKTl83WU9iWkhwTHFWVHg4RkpudTM3WjlFa1lzbnY5YThqOTVyNU11cThCWWp0aTJGeU1wTVM5akVzeWRuQzMyaTROaDVXREdTOHRsQ0luM3VKME9DODhRZFVJLWxZSmEyU1VlbWlmME9YbEVBbGY?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T17:22:31Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
    "id": "c821ddcb430dfda5",
    "title": "Ruko Launches F11PRO 2 Plus (RC4), Bringing an Upgraded Aerial Photography Experience with a 5.5-Inch Touchscreen Controller",
    "summary": "HONG KONG, Nov. 27, 2026 /PRNewswire/ -- Ruko is excited to announce the launch of its latest drone, the F11PRO 2 Plus (RC4), now available on Amazon. Designed to deliver an upgraded aerial photography experience, the new drone features an integrated 5.5-inch touchscreen remote...",
@@ -121,6 +201,22 @@
    "sec_filing": false
   },
   {
+   "id": "2fdad17b714d44a2",
+   "title": "Inside China’s $4 Billion Secondhand Luxury Boom",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdFVLSlZUN3JBQlk5a0pMWGR2WGRIWXlpNEp0cG9hdXBCMFYzdmdTWEZfRkZYSDFTeV9nSjhnTFdoWWUtajVtcThzMi1LOHRfVlYxaWlsNzUxQTFGSWpreWY0TzZWc19TOC12MXNnWmtaamRQZjBnVXF4Uy1zbDFMNV9MRmFVekhKQzFfTWc1TkhYRGJ4SUo4aWpBWC1wWXVzcEFHaFN2RTFpcU9WYmc?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T17:13:32Z",
+   "tickers": [],
+   "cats": [
+    "deal"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
    "id": "e2f87ba808574b4f",
    "title": "Inside China’s $4 Billion Secondhand Luxury Boom",
    "summary": "Watch WSJ’s Hannah Miao explore one of China’s biggest resale megastores to understand what’s behind the country’s shifting consumer habits.",
@@ -134,22 +230,6 @@
    ],
    "score": 5,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "2fdad17b714d44a2",
-   "title": "Inside China’s $4 Billion Secondhand Luxury Boom",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdFVLSlZUN3JBQlk5a0pMWGR2WGRIWXlpNEp0cG9hdXBCMFYzdmdTWEZfRkZYSDFTeV9nSjhnTFdoWWUtajVtcThzMi1LOHRfVlYxaWlsNzUxQTFGSWpreWY0TzZWc19TOC12MXNnWmtaamRQZjBnVXF4Uy1zbDFMNV9MRmFVekhKQzFfTWc1TkhYRGJ4SUo4aWpBWC1wWXVzcEFHaFN2RTFpcU9WYmc?oc=5",
-   "source": "WSJ",
-   "tier": 1,
-   "published_utc": "2026-11-27T17:06:50Z",
-   "tickers": [],
-   "cats": [
-    "deal"
-   ],
-   "score": 5,
-   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -1371,22 +1451,6 @@
    "sec_filing": false
   },
   {
-   "id": "e1aa3ea51102fc8c",
-   "title": "Explainer: What is Modi's automated takedown law, which has embroiled Meta in a political storm?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVTZ2bTRUanBuNS1mNExCQzNNSHlnNmhab0pKZjNQM0JhbS1GUEpnaV80UWVzb0JZMkR1RE0wYk03djRVdmdGY0I1ZkF6S3RBOW53Y0dKNU15b1hXTlQ0SlhKYTE3RzBkUUtVMnR1NEtpRk1UclhZcFpOR1VnX2JCeHFDQ291bnZUaWZoU1BuT3Z1NFFWdTlBVHFZMWRnUmg3aGxFRXVpN0Q3Vnl3Qm1UUFQ3Y25XY3BlRmFtaDM1WF95NEVucWR3N2dyVks?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T12:54:55Z",
-   "tickers": [
-    "META"
-   ],
-   "cats": [],
-   "score": 0,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
    "id": "e8a1c1a02ba5aded",
    "title": "埃隆·马斯克旗下的SpaceX将 英伟达 Blackwell GPU租赁费率最高下调35%，而Anthropic可能不再续签H200协议：报道",
    "summary": "",
@@ -1644,22 +1708,6 @@
    "sec_filing": false
   },
   {
-   "id": "6f8c1186502ba9d1",
-   "title": "Exclusive | MLB Launches Legal Action Against Its Players—Before the Lockout Even Begins",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Fcnd3cEd0aEp3Q3cwQ0FCTW9tWFlNU1VrQnF2RDlvbUhhNzlrN0VIOUNFN0xoT1JYZkNEZGNzV0t1emdGWlpZSzlsZE5wUFhnX21nVGowY1BjWUwtNWZpOUxmYVFjcDVmaWJ2VHBaV3JsQ0ExaXJVLTlocEY0RDg?oc=5",
-   "source": "WSJ",
-   "tier": 1,
-   "published_utc": "2026-11-27T12:25:53Z",
-   "tickers": [],
-   "cats": [
-    "scoop"
-   ],
-   "score": 4,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
    "id": "76402cdab7271688",
    "title": "市场传闻：黑客入侵由 微软 、亚马逊、甲骨文和Alphabet提供支持的美国空军云平台",
    "summary": "",
@@ -1838,22 +1886,6 @@
    ],
    "score": 5,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "9877b61dc68f0636",
-   "title": "Exclusive | Inside the Scramble to Avert Conflict With Russia in the Baltic",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWXU1WDdhS2huZHA0c0owNzRTTVpyZklia2VLbWNUMk1nWk52TFlieHdwZ2dNSEZ5LUdKTl83WU9iWkhwTHFWVHg4RkpudTM3WjlFa1lzbnY5YThqOTVyNU11cThCWWp0aTJGeU1wTVM5akVzeWRuQzMyaTROaDVXREdTOHRsQ0luM3VKME9DODhRZFVJLWxZSmEyU1VlbWlmME9YbEVBbGY?oc=5",
-   "source": "WSJ",
-   "tier": 1,
-   "published_utc": "2026-11-27T11:57:15Z",
-   "tickers": [],
-   "cats": [
-    "scoop"
-   ],
-   "score": 4,
-   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -3564,38 +3596,6 @@
    ],
    "cats": [],
    "score": 2,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "80cacb02bb0e0fbe",
-   "title": "Sanofi CEO got to work on $41 billion Insmed deal straight after taking office",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObU1CTWI1cG1XTE9pbkN0cEl4NGFSYVFkalA1bVRsZ2xBVDhwa1lSbFBJUEJubXdSVnlKOTE5UVB3NHhFREZGUnlIMk1pU1RCdHUwWXhGdDJka2cxVEUyaVNPN3dmV2VudGlxWTJpM2NNTmhRNmJiNjVGNkpsZzZTbWFZNlpWc19sYTNNc1VDN1NRMzJESGlYZWVpeU5fdFZMTC1DZWdzZzIzQS1BTFJkVG5sOA?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T06:03:00Z",
-   "tickers": [],
-   "cats": [
-    "deal"
-   ],
-   "score": 5,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "a687ef92b963cfdf",
-   "title": "EXCLUSIVE: US pushed Venezuela, Iraq to consider leaving OPEC, sources say",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeVZ6VDRqcUU2ZDJ1UWdyUmYwNXRPMHAzR0pjRk8zLTJqYlF6YTVFV1Q5V3ZKV1IzZ0NDN2tKdkNxVmUtSmxpNnBNVmkzRWp5NkZ4SFdkaXZ6Zy1hUlhIUkdOY3ozaWVCLVI3M1FaRE9CQVZacHZ0c0tGM3AtUlFWaVR1Tnp4T084eVFjWDIxbVJQa1F0Z1RQRUdkU0YzdnZWMWJWNHRMT0JiQ1NHeDJF?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T06:02:00Z",
-   "tickers": [],
-   "cats": [
-    "scoop"
-   ],
-   "score": 4,
    "link_is_redirect": true,
    "sec_filing": false
   }
