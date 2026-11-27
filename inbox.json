@@ -1,18 +1,14 @@
 {
- "updated_utc": "2026-11-27T04:40:45.942306Z",
+ "updated_utc": "2026-11-27T04:50:46.443062Z",
  "window_hours": 12,
  "stale": false,
- "errors": {
-  "fda-press": "HTTPError: HTTP Error 404: Not Found",
-  "ftc-press": "HTTPError: HTTP Error 404: Not Found",
-  "gnw-mna": "HTTPError: HTTP Error 403: Forbidden"
- },
+ "errors": {},
  "counts": {
-  "fetched": 845,
-  "new": 2,
+  "fetched": 851,
+  "new": 1,
   "candidates": 23,
-  "judged": 2,
-  "pushed": 1
+  "judged": 0,
+  "pushed": 0
  },
  "items": [
   {
@@ -31,6 +27,22 @@
    ],
    "score": 6,
    "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "7180d295e97b865d",
+   "title": "Qantas Set to Pick Boeing for Bulk of 20 Long-Range Jet Order",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONWM0SG04YnNSNHdpNDhYdklrSjd1TXNHUkRDT2JLWGNyQ2tVcDk3bXF5ZXRaRVhuV0J3NkV3am1VdW03bnVtZ2JWdF9NV256YllmMndrTG9vZFJUaXEtdnkwQ2puSTY1T1Y0eFNiVTdxeU5LZUpza3hVdkp5LTUwak0wX1ppYnFoUkZmUG5NVk40WFlBVkF6c3VIOTZUektxN2htNmlHZmJhbkl1N1FfWmpR?oc=5",
+   "source": "Bloomberg.com",
+   "tier": 1,
+   "published_utc": "2026-11-27T04:29:00Z",
+   "tickers": [
+    "BA"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -1189,22 +1201,6 @@
     "reg"
    ],
    "score": 5,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "c729726852b50834",
-   "title": "如果你在20年前投资了$100购买 微软 股票，那么今天你将拥有这么多",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005769732?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-26T16:45:24Z",
-   "tickers": [
-    "MSFT"
-   ],
-   "cats": [],
-   "score": 1,
    "link_is_redirect": false,
    "sec_filing": false
   }
