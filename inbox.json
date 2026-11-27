@@ -1,14 +1,12 @@
 {
- "updated_utc": "2026-11-27T22:01:17.260408Z",
+ "updated_utc": "2026-11-27T22:10:47.687023Z",
  "window_hours": 12,
  "stale": false,
- "errors": {
-  "gn-t1-mna": "HTTPError: HTTP Error 429: Too Many Requests"
- },
+ "errors": {},
  "counts": {
-  "fetched": 800,
-  "new": 1,
-  "candidates": 29,
+  "fetched": 803,
+  "new": 0,
+  "candidates": 28,
   "judged": 0,
   "pushed": 0
  },
@@ -3509,22 +3507,6 @@
     "mna"
    ],
    "score": 8,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "52dee082e73cd90d",
-   "title": "Novo Nordisk to launch Wegovy pill in Sweden on December 24",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTUVPUEgyRjh0RVE1aTlhc2RLOE92RjZmX0VoXzdhSWF2ZFZTR2RYT1lRbVRrekRTWWNVN0JQTGFPOGQ0Y3lXbzZiT0EzYXRKYXdkTGVscHNmaXJQYXh1VWdmOGd0bXlzak02NmdYOGtuRDFIREZhcENRN0l0aHNKZEl4aXl1bWR0TGJZUW9MNW9tX0V3WEEyZ0V1NGF5c1ViLWlxSGJn?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T10:01:24Z",
-   "tickers": [
-    "NVO"
-   ],
-   "cats": [],
-   "score": 4,
    "link_is_redirect": true,
    "sec_filing": false
   }

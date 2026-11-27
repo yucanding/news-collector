@@ -47,8 +47,8 @@
   "error": null
  },
  "gn-t1-mna": {
-  "fails": 1,
-  "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  "fails": 0,
+  "error": null
  },
  "gn-wires": {
   "fails": 0,
