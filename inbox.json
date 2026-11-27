@@ -1,14 +1,14 @@
 {
- "updated_utc": "2026-11-27T05:31:06.027237Z",
+ "updated_utc": "2026-11-27T05:40:49.578052Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 853,
-  "new": 7,
-  "candidates": 29,
-  "judged": 6,
-  "pushed": 1
+  "fetched": 881,
+  "new": 0,
+  "candidates": 26,
+  "judged": 0,
+  "pushed": 0
  },
  "items": [
   {
@@ -256,22 +256,6 @@
    "sec_filing": false
   },
   {
-   "id": "a4ad02c9fc75a14b",
-   "title": "Two Years After Trump’s Tariff Declaration, Canada Tries to Move On",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaWdwNl9jTnFFSS10Z3BXNVZOWjR6N3ItM3d4MHhIcXZ1TGtyQS03UUV4a0FuYVdMd3FaZ0VVQ09QUTl6d3RDU1RJQW1fcVM3aGZMWURHanZmN3BQanNhT1FVa3Fwb0pUYmtmb3poMm5ZZ0gwelVieGVOQUozVHlXYlkxV1Q4azV5MlNfbEw1T1lSbnFyNndwNjlWUDVBWGFjZkZiUVJLY1dRcU9PU1QwQUZ4V2lnZ3IwNTNGcXMwQldueE5fVWc?oc=5",
-   "source": "Bloomberg.com",
-   "tier": 1,
-   "published_utc": "2026-11-27T04:22:48Z",
-   "tickers": [],
-   "cats": [
-    "reg"
-   ],
-   "score": 5,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
    "id": "8f9a34f99e8b0459",
    "title": "Venture Firm Antler Eyes $100 Billion in Portfolio Value by 2027",
    "summary": "Venture-capital firm Antler wants to grow the value of its portfolio to roughly $100 billion by 2027 as it continues hunting unicorns.",
@@ -298,6 +282,22 @@
    "tickers": [],
    "cats": [
     "deal"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "a4ad02c9fc75a14b",
+   "title": "Two Years After Trump’s Tariff Declaration, Canada Tries to Move On",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaWdwNl9jTnFFSS10Z3BXNVZOWjR6N3ItM3d4MHhIcXZ1TGtyQS03UUV4a0FuYVdMd3FaZ0VVQ09QUTl6d3RDU1RJQW1fcVM3aGZMWURHanZmN3BQanNhT1FVa3Fwb0pUYmtmb3poMm5ZZ0gwelVieGVOQUozVHlXYlkxV1Q4azV5MlNfbEw1T1lSbnFyNndwNjlWUDVBWGFjZkZiUVJLY1dRcU9PU1QwQUZ4V2lnZ3IwNTNGcXMwQldueE5fVWc?oc=5",
+   "source": "Bloomberg.com",
+   "tier": 1,
+   "published_utc": "2026-11-27T04:16:23Z",
+   "tickers": [],
+   "cats": [
+    "reg"
    ],
    "score": 5,
    "link_is_redirect": true,
@@ -1360,22 +1360,6 @@
     "mna"
    ],
    "score": 6,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "d5dc9678654bcbf3",
-   "title": "Major US Trading Partners Respond to Trump’s New Tariffs",
-   "summary": "Get Caught Up.",
-   "link": "https://www.bloomberg.com/news/newsletters/2026-11-26/major-us-trading-partners-respond-to-trump-s-new-tariffs",
-   "source": "BBG",
-   "tier": 1,
-   "published_utc": "2026-11-26T17:38:50Z",
-   "tickers": [],
-   "cats": [
-    "reg"
-   ],
-   "score": 5,
    "link_is_redirect": false,
    "sec_filing": false
   }
