@@ -8,12 +8,12 @@
   "error": null
  },
  "fda-press": {
-  "fails": 7,
+  "fails": 8,
   "error": "HTTPError: HTTP Error 404: Not Found",
   "alerted": "2026-11-27T04:10:48.987202Z"
  },
  "ftc-press": {
-  "fails": 7,
+  "fails": 8,
   "error": "HTTPError: HTTP Error 404: Not Found",
   "alerted": "2026-11-27T04:10:48.987202Z"
  },
@@ -30,8 +30,8 @@
   "error": null
  },
  "gnw-mna": {
-  "fails": 0,
-  "error": null,
+  "fails": 1,
+  "error": "HTTPError: HTTP Error 403: Forbidden",
   "alerted": "2026-11-27T04:10:48.987202Z"
  },
  "gn-kuo-en": {

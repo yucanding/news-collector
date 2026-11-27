@@ -1,19 +1,68 @@
 {
- "updated_utc": "2026-11-27T04:20:48.887883Z",
+ "updated_utc": "2026-11-27T04:31:05.841426Z",
  "window_hours": 12,
  "stale": false,
  "errors": {
   "fda-press": "HTTPError: HTTP Error 404: Not Found",
-  "ftc-press": "HTTPError: HTTP Error 404: Not Found"
+  "ftc-press": "HTTPError: HTTP Error 404: Not Found",
+  "gnw-mna": "HTTPError: HTTP Error 403: Forbidden"
  },
  "counts": {
-  "fetched": 870,
+  "fetched": 844,
   "new": 2,
-  "candidates": 22,
-  "judged": 0,
+  "candidates": 21,
+  "judged": 1,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "a4ad02c9fc75a14b",
+   "title": "Two Years After Trump’s Tariff Declaration, Canada Tries to Move On",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaWdwNl9jTnFFSS10Z3BXNVZOWjR6N3ItM3d4MHhIcXZ1TGtyQS03UUV4a0FuYVdMd3FaZ0VVQ09QUTl6d3RDU1RJQW1fcVM3aGZMWURHanZmN3BQanNhT1FVa3Fwb0pUYmtmb3poMm5ZZ0gwelVieGVOQUozVHlXYlkxV1Q4azV5MlNfbEw1T1lSbnFyNndwNjlWUDVBWGFjZkZiUVJLY1dRcU9PU1QwQUZ4V2lnZ3IwNTNGcXMwQldueE5fVWc?oc=5",
+   "source": "Bloomberg.com",
+   "tier": 1,
+   "published_utc": "2026-11-27T04:22:48Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "8f9a34f99e8b0459",
+   "title": "Venture Firm Antler Eyes $100 Billion in Portfolio Value by 2027",
+   "summary": "Venture-capital firm Antler wants to grow the value of its portfolio to roughly $100 billion by 2027 as it continues hunting unicorns.",
+   "link": "https://www.wsj.com/finance/investing/venture-firm-antler-eyes-100-billion-in-portfolio-value-by-2027-cb405206?mod=rss_markets_main",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T04:21:00Z",
+   "tickers": [],
+   "cats": [
+    "deal"
+   ],
+   "score": 5,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "70265b8b2f8bfcd9",
+   "title": "Venture Firm Antler Eyes $100 Billion in Portfolio Value by 2027",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdDY3ZDl0U2VjSGd6ZU9LdmQ3dWlrcnlYYVdoY0g0WVlZTk1RY2YxX0NVWUYyOVRxR0o0LTg3TlVERUozZkRxV0JTS2hOMl85UGwzQjY1dThUX1lqSEE0RjI0aVJpQnpHSkgtSHFfb1RMYXo0djZ0d0swX3FKZnVJY0VocGZvX0FSRXFTdFZSZHoxOWZva0N5ZVlRMTg5U3NIS3k5VzdGV2o0REZZYmxN?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T04:21:00Z",
+   "tickers": [],
+   "cats": [
+    "deal"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
   {
    "id": "708fb7bedf3f3722",
    "title": "马克·扎克伯格让 Meta 的Muse处理感恩节晚餐，自己则玩游戏：“烤火鸡大获成功”",
@@ -291,22 +340,6 @@
    ],
    "score": 5,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "a4ad02c9fc75a14b",
-   "title": "Two Years After Trump’s Tariff Declaration, Canada Tries to Move On",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaWdwNl9jTnFFSS10Z3BXNVZOWjR6N3ItM3d4MHhIcXZ1TGtyQS03UUV4a0FuYVdMd3FaZ0VVQ09QUTl6d3RDU1RJQW1fcVM3aGZMWURHanZmN3BQanNhT1FVa3Fwb0pUYmtmb3poMm5ZZ0gwelVieGVOQUozVHlXYlkxV1Q4azV5MlNfbEw1T1lSbnFyNndwNjlWUDVBWGFjZkZiUVJLY1dRcU9PU1QwQUZ4V2lnZ3IwNTNGcXMwQldueE5fVWc?oc=5",
-   "source": "Bloomberg.com",
-   "tier": 1,
-   "published_utc": "2026-11-27T02:52:48Z",
-   "tickers": [],
-   "cats": [
-    "reg"
-   ],
-   "score": 5,
-   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -1138,57 +1171,6 @@
    ],
    "cats": [],
    "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "a377d490486f940e",
-   "title": "特斯拉 与通用汽车、法拉利及汽车行业其他公司的对比。",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005769371?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-26T16:30:29Z",
-   "tickers": [
-    "GM",
-    "TSLA"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "f1d66b7fe4bcff9c",
-   "title": "Trump demands investigation into GDP data revisions",
-   "summary": "President Trump called for an investigation into the government's economic statistics on Thursday, alleging without evidence that growth figures released before the midterm elections were deliberately understated. Why it matters: Revisions to GDP are routine and reflect more complete information that becomes available after the initial estimates are published. The allegations could renew concerns about political interference in the production of critical economic data that underpin trillions of dollars in investment decisions and Federal Reserve policy. What they're saying: The Bureau of Economic Analysis on Wednesday substantially revised the third-quarter GDP data, reflecting a 4.3% annualized pace of growth, up from the 3.4% reported less than a week before the midterm elections. Trump ",
-   "link": "https://www.axios.com/2026/11/26/trump-gdp-investigation-economy-statistics",
-   "source": "Axios",
-   "tier": 2,
-   "published_utc": "2026-11-26T16:29:25Z",
-   "tickers": [],
-   "cats": [
-    "reg"
-   ],
-   "score": 4,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "7a5f762411a23fe9",
-   "title": "消息称 SAP 考虑在重组中裁员至少 1 万人",
-   "summary": "深潮 TechFlow 消息，11 月 27 日，据 Solid Intel 消息，软件公司 SAP 考虑在重组过程中裁减至少 1 万个岗位。",
-   "link": "https://www.techflowpost.com/newsletter/147129/sap-considers-10000-layoffs-in-restructuring",
-   "source": "TechFlow",
-   "tier": null,
-   "published_utc": "2026-11-26T16:27:16Z",
-   "tickers": [
-    "INTC"
-   ],
-   "cats": [
-    "scoop"
-   ],
-   "score": 4,
    "link_is_redirect": false,
    "sec_filing": false
   }
