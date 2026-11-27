@@ -1,16 +1,66 @@
 {
- "updated_utc": "2026-11-27T18:50:47.437101Z",
+ "updated_utc": "2026-11-27T19:01:21.409060Z",
  "window_hours": 12,
  "stale": false,
- "errors": {},
+ "errors": {
+  "gn-short": "HTTPError: HTTP Error 429: Too Many Requests"
+ },
  "counts": {
-  "fetched": 828,
-  "new": 1,
-  "candidates": 28,
-  "judged": 1,
+  "fetched": 822,
+  "new": 3,
+  "candidates": 32,
+  "judged": 2,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "db2aeb6e2120b339",
+   "title": "These Stocks Soared the Most During a Wild Week Highlighted by Huang's Return to Nvidia",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005874046?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T18:53:00Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "1654a0ba67e7751d",
+   "title": "Stock Movers: Nvidia, Dollar Tree, Verizon",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc3J0S0xqNTNYYzc4Mk93My1JZmFKb2swU3pRZktCZHFWQkFNRUk5MklBbFpHeUhlbDhQdVp3MGx1NEhJRFl6aGlzaFNSRi1zT0NVYllvU29FRDdfVXVnUWEyT1I2TjlVTTVIR3pnekc1U3RxbHNqMl85eEx4eG1pRzl6UmYtZ3Zyb0ZmcjYxRExOUUh5dk8tN3lOQQ?oc=5",
+   "source": "Bloomberg.com",
+   "tier": 1,
+   "published_utc": "2026-11-27T18:51:37Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "22cd698c61599e6e",
+   "title": "Afreximbank to sign $1.45 billion financing deal for Angola fertiliser plant",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSExkMWU1VWJ1WkNESmRDTkFKVXBYaEhkN1VsLWRLWUtWRE0wQTNhR2dSVzluSXp5dzdRdWFaRGxSYjBUSEY5YVI1X2c4MDBvMjdyUUlGcWNUVmgySlVhUWNxN1g1Vm9tSElzMzJON2RFZVN6d1Nkc2NYTnJ3RlNMZ1gxdWtiZ0c2NVVJcXlsYVdYNzZHODZkYUp6SGxTR2NEa2F4eXdmWUhOSF9SR3FJVjZHeU5JS3NqUkxF?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T18:47:15Z",
+   "tickers": [],
+   "cats": [
+    "deal"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
   {
    "id": "17c7422911504476",
    "title": "随着黄仁勋重返 英伟达 ，美股股指走高，为人工智能交易保驾护航；与此同时，投资者本周纷纷削减成长型资产敞口。",
@@ -365,6 +415,22 @@
    "sec_filing": false
   },
   {
+   "id": "a61c03aa4eb9efb1",
+   "title": "U.K. Regulator Says McCormick Sale of Colman’s Could Address Unilever Foods Merger Concerns",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUUxrNTF0T3pFbVNJeU1tMVJLRWtjc0F0WnktOFA3c0FQRlRsSG5mUWxQUzNoSjBLdldCWnZXSXV4TkZGZ2w3Z3I2elFqZkVvbHdBNG80UEJucmFiZU5lNEFqNUYxRFJPcXVOdDd6TmNUY2plV3dhRG9aeVdYY3JHcG9KbjhNRGJNc19LRFJMSUpXdW5ldzZsVGZ2QWNGcFZiVkxDT1NfYWJKM3NEd0hrYW9lNExUTm5JdE9hLVFWSkNJNkVQR1RlS3J1NlYzMDQ?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T17:32:20Z",
+   "tickers": [],
+   "cats": [
+    "mna"
+   ],
+   "score": 6,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
    "id": "b2105d58844af1fa",
    "title": "Why This Is a Terrible Time for New Tariffs",
    "summary": "",
@@ -640,22 +706,6 @@
    "cats": [],
    "score": 1,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "a61c03aa4eb9efb1",
-   "title": "U.K. Regulator Says McCormick Sale of Colman’s Could Address Unilever Foods Merger Concerns",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUUxrNTF0T3pFbVNJeU1tMVJLRWtjc0F0WnktOFA3c0FQRlRsSG5mUWxQUzNoSjBLdldCWnZXSXV4TkZGZ2w3Z3I2elFqZkVvbHdBNG80UEJucmFiZU5lNEFqNUYxRFJPcXVOdDd6TmNUY2plV3dhRG9aeVdYY3JHcG9KbjhNRGJNc19LRFJMSUpXdW5ldzZsVGZ2QWNGcFZiVkxDT1NfYWJKM3NEd0hrYW9lNExUTm5JdE9hLVFWSkNJNkVQR1RlS3J1NlYzMDQ?oc=5",
-   "source": "WSJ",
-   "tier": 1,
-   "published_utc": "2026-11-27T16:02:19Z",
-   "tickers": [],
-   "cats": [
-    "mna"
-   ],
-   "score": 6,
-   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -1359,7 +1409,7 @@
   },
   {
    "id": "4713e5fefed0a0b0",
-   "title": "英伟达 与铠侠发布AI存储突破，闪迪出现“死亡交叉”",
+   "title": "英伟达与铠侠发布AI存储突破， 闪迪 出现“死亡交叉”",
    "summary": "",
    "link": "https://news.futunn.com/post/1005857934?futusource=news_search_searchnews&src=39",
    "source": "futu",
@@ -3676,56 +3726,6 @@
    "cats": [],
    "score": 1,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "961a0e683c4a3978",
-   "title": "Nvidia’s 31% surge, 20-40% US tariffs on China: 5 figures investors are watching this week",
-   "summary": "After Nvidia shares skyrocketed on Monday, capital markets across the United States and Asia experienced another volatile week, paring gains amid widespread concerns over the AI trade and a new round of US tariffs targeting major economies, including China. Below are five figures that captured market attention this week: Nvidia stock rallies 31 per cent Following Jensen Huang’s return to Nvidia as CEO on Monday, the chipmaker’s stock surged more than 31 per cent – its biggest one-day percentage...",
-   "link": "https://www.scmp.com/business/china-business/article/3375991/nvidias-31-surge-20-40-us-tariffs-china-5-figures-investors-are-watching-week",
-   "source": "SCMP",
-   "tier": null,
-   "published_utc": "2026-11-27T07:00:13Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [
-    "reg"
-   ],
-   "score": 5,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "0f5887f352cca6c0",
-   "title": "EXCLUSIVE: India's election body website flaw exposing voter data fixed after Reuters findings",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ0FJSWdhTk5feHctRGNZY3ZzUzRYT19rSmVWUElSNmJkX25rU1NRc05JTXM3TzRrcTBLRElnaDNxaVFGT1FUVnVaM1R3aUZRbUhBUl94UGJnRHh2WEF4UWVwLUU0T0g4MGVZNjFHMzJjNGdVTDRMSjZwbE5nTGhORURnMldFR1dkTFd4RjhlWFVsVFBPS1lISWd2SjF2Qko5aGIyTFJxWWYxZEU3THpCMU13Smo0aWxhSGIwcU5B?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T06:58:00Z",
-   "tickers": [],
-   "cats": [
-    "scoop"
-   ],
-   "score": 4,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "08ff76eb9323231c",
-   "title": "EXCLUSIVE: India's election body website flaw exposing voter data fixed after Reuters findings",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQmxHYlRsZWJBc0E5YmI5dWJMMlZueVZHY2Z2VnVvRHlFTDdZbnpTVDNHcVBPeG1sczJuMWQ4R3BHU3dBWmVqVlRKOTQ4RzRscm9JdWxkVVZlQU5KMlQ2WThVcTl3dEhGN2s1VDl6ZF9vWGpMNjY5cWUyWG8zWVYyazdXSXhaRVNQUGYzMVJxUXk1bkpfRkNCZkhWZXlkN0VvOHBCaUg5d1YyX3lsMWhveTNYYUlJQQ?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T06:58:00Z",
-   "tickers": [],
-   "cats": [
-    "scoop"
-   ],
-   "score": 4,
-   "link_is_redirect": true,
    "sec_filing": false
   }
  ]
