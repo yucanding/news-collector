@@ -1,16 +1,50 @@
 {
- "updated_utc": "2026-11-27T21:50:53.462190Z",
+ "updated_utc": "2026-11-27T22:01:17.260408Z",
  "window_hours": 12,
  "stale": false,
- "errors": {},
+ "errors": {
+  "gn-t1-mna": "HTTPError: HTTP Error 429: Too Many Requests"
+ },
  "counts": {
-  "fetched": 799,
+  "fetched": 800,
   "new": 1,
-  "candidates": 28,
-  "judged": 2,
+  "candidates": 29,
+  "judged": 0,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "9877b61dc68f0636",
+   "title": "Exclusive | Inside the Scramble to Avert Conflict With Russia in the Baltic",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWXU1WDdhS2huZHA0c0owNzRTTVpyZklia2VLbWNUMk1nWk52TFlieHdwZ2dNSEZ5LUdKTl83WU9iWkhwTHFWVHg4RkpudTM3WjlFa1lzbnY5YThqOTVyNU11cThCWWp0aTJGeU1wTVM5akVzeWRuQzMyaTROaDVXREdTOHRsQ0luM3VKME9DODhRZFVJLWxZSmEyU1VlbWlmME9YbEVBbGY?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T21:54:12Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "e16798d0cd36e267",
+   "title": "AMD Share Price Today",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM0FGSFRuUktHbVpTLXoxcDhfcVZvaHVreWpaQjdyaUZnTy00ZWdvN2lnS196SkpGZHJFcFplWjFEMWZMbnN6ZjJIbktsYlVsRHdNLVR2RkFudVU4Y3VBZnM3UWV6YXdBLU9fV0RsZkNmQ0hZX0poMEpnUEpVdGk3cV9NaXB1YllTc2RnbUV0SWJkWmNkclQ3NS1HbkhQbzYya0VCRQ?oc=5",
+   "source": "JournalArta",
+   "tier": null,
+   "published_utc": "2026-11-27T21:47:10Z",
+   "tickers": [
+    "AMD"
+   ],
+   "cats": [],
+   "score": 2,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
   {
    "id": "624d5d691cef5702",
    "title": "South America eyes $18 billion gas, power integration plan, study says",
@@ -426,22 +460,6 @@
     "mna"
    ],
    "score": 6,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "9877b61dc68f0636",
-   "title": "Exclusive | Inside the Scramble to Avert Conflict With Russia in the Baltic",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWXU1WDdhS2huZHA0c0owNzRTTVpyZklia2VLbWNUMk1nWk52TFlieHdwZ2dNSEZ5LUdKTl83WU9iWkhwTHFWVHg4RkpudTM3WjlFa1lzbnY5YThqOTVyNU11cThCWWp0aTJGeU1wTVM5akVzeWRuQzMyaTROaDVXREdTOHRsQ0luM3VKME9DODhRZFVJLWxZSmEyU1VlbWlmME9YbEVBbGY?oc=5",
-   "source": "WSJ",
-   "tier": 1,
-   "published_utc": "2026-11-27T20:07:24Z",
-   "tickers": [],
-   "cats": [
-    "scoop"
-   ],
-   "score": 4,
    "link_is_redirect": true,
    "sec_filing": false
   },
@@ -3508,121 +3526,6 @@
    "cats": [],
    "score": 4,
    "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "b87a2529c0250685",
-   "title": "48 Hours in Tokyo With an Airline Pilot",
-   "summary": "A Boeing 787 pilot visits some favorite restaurants, a Snoopy museum and a tranquil shrine.",
-   "link": "https://www.nytimes.com/2026/11/27/travel/48-hours-tokyo-layover.html",
-   "source": "NYT",
-   "tier": 1,
-   "published_utc": "2026-11-27T10:00:34Z",
-   "tickers": [
-    "BA"
-   ],
-   "cats": [],
-   "score": 4,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "e9285ef526f47b24",
-   "title": "48 Hours in Tokyo With an Airline Pilot",
-   "summary": "A Boeing 787 pilot visits some favorite restaurants, a Snoopy museum and a tranquil shrine.",
-   "link": "https://www.nytimes.com/2026/11/27/travel/48-hours-in-tokyo-with-an-airline-pilot.html",
-   "source": "NYT",
-   "tier": 1,
-   "published_utc": "2026-11-27T10:00:33Z",
-   "tickers": [
-    "BA"
-   ],
-   "cats": [],
-   "score": 4,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "339770aadc3fcb2d",
-   "title": "The US Is Squandering Its Lead Over China in Aerospace",
-   "summary": "Amid the controversy over whether Nvidia Corp. chips were diverted to China, a House committee has raised another delicate technology-transfer problem that has been going on for years: US and allied aerospace companies helping Beijing advance its production of civilian and military aircraft.",
-   "link": "https://www.bloomberg.com/opinion/articles/2026-11-27/the-us-is-squandering-its-lead-over-china-in-aerospace",
-   "source": "BBG",
-   "tier": 1,
-   "published_utc": "2026-11-27T10:00:24Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [],
-   "score": 4,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "1abc8682fffbd037",
-   "title": "Globalive’s Lacavera Seeks Role in Potential Telus Takeover Process",
-   "summary": "A Canadian telecom entrepreneur who built and sold the country’s fourth-largest wireless carrier is seeking a role in any takeover of Telus Corp., calling on the government to hold an open process for assets that may need to be divested.",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-27/globalive-s-lacavera-seeks-role-in-potential-telus-takeover-process",
-   "source": "BBG",
-   "tier": 1,
-   "published_utc": "2026-11-27T10:00:00Z",
-   "tickers": [
-    "TU"
-   ],
-   "cats": [
-    "mna"
-   ],
-   "score": 8,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "af6204394a724cc4",
-   "title": "英特尔 异动期权指南：AI芯片板块集体回暖，反弹能否延续？",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005839418?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T09:58:00Z",
-   "tickers": [
-    "INTC"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "326fd24e6df8ca53",
-   "title": "每日期权前瞻 | 美光科技盘前涨7.43%，下修2027年DRAM价预期，仍看好美光；英伟达盘前涨4.5%，隐含波动率达新高",
-   "summary": "",
-   "link": "https://q.futunn.com/feed/117687799251348?futusource=news_search_searchnews",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T09:55:04Z",
-   "tickers": [
-    "MU",
-    "NVDA"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "5efed34aac750677",
-   "title": "Kospi Rout Wipes $151 Billion From Korea Pension Fund’s Assets",
-   "summary": "South Korea’s National Pension Service saw its assets shrink by about 202 trillion won ($151.4 billion) in the third quarter as a stock-market retreat eroded some of the out-sized gains accumulated earlier this year.",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-27/kospi-rout-wipes-151-billion-from-korea-pension-fund-s-assets",
-   "source": "BBG",
-   "tier": 1,
-   "published_utc": "2026-11-27T09:53:15Z",
-   "tickers": [],
-   "cats": [
-    "deal"
-   ],
-   "score": 5,
-   "link_is_redirect": false,
    "sec_filing": false
   }
  ]
