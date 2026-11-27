@@ -1,16 +1,32 @@
 {
- "updated_utc": "2026-11-27T20:31:09.079413Z",
+ "updated_utc": "2026-11-27T20:40:52.144887Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 802,
+  "fetched": 807,
   "new": 0,
-  "candidates": 21,
+  "candidates": 19,
   "judged": 0,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "278d046c65ad3c7c",
+   "title": "FTC Imposes Strict Board Restrictions on Beretta’s 25% Stake in Rival Sturm Ruger",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZlBMRWpBSDU0UTZEOGlKR1FZV0RSMW5HQTFqSlNad3dDT2hlSEdNTEpBOW9NQWZaOTAwQkRRZGJUY00xRkhtRzZnZm9SSHBib2ZsZE5idWpHN1VrVmdHbXpsMWtYdVBWRUU4Q3VsZG1nd3dUY29xQkhZLUszNnd6ZmlzdUVFMjBXRHU2OHUxTzZ3YndabUVibk8tRHFYdXV3LWgxMk5nQkItdVdOOEljcGRZOC1KUzRD?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T20:34:53Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
   {
    "id": "19536310fd30eab1",
    "title": "Bots de compras con IA amenazan el dominio de Amazon y Google",
@@ -104,22 +120,6 @@
    "tickers": [],
    "cats": [
     "deal"
-   ],
-   "score": 5,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "278d046c65ad3c7c",
-   "title": "FTC Imposes Strict Board Restrictions on Beretta’s 25% Stake in Rival Sturm Ruger",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZlBMRWpBSDU0UTZEOGlKR1FZV0RSMW5HQTFqSlNad3dDT2hlSEdNTEpBOW9NQWZaOTAwQkRRZGJUY00xRkhtRzZnZm9SSHBib2ZsZE5idWpHN1VrVmdHbXpsMWtYdVBWRUU4Q3VsZG1nd3dUY29xQkhZLUszNnd6ZmlzdUVFMjBXRHU2OHUxTzZ3YndabUVibk8tRHFYdXV3LWgxMk5nQkItdVdOOEljcGRZOC1KUzRD?oc=5",
-   "source": "WSJ",
-   "tier": 1,
-   "published_utc": "2026-11-27T19:20:48Z",
-   "tickers": [],
-   "cats": [
-    "reg"
    ],
    "score": 5,
    "link_is_redirect": true,
@@ -1420,6 +1420,22 @@
    "published_utc": "2026-11-27T14:46:05Z",
    "tickers": [
     "AVGO"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "5c29f81d47fe557c",
+   "title": "AMD 推出RT-MLAS多级加速结构 光追显存占用直降92%",
+   "summary": "",
+   "link": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?futusource=news_search_searchnews&src=39#/index?id=nesSN2026112722482298ceac23&s=b",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T14:45:13Z",
+   "tickers": [
+    "AMD"
    ],
    "cats": [],
    "score": 1,
@@ -3627,23 +3643,6 @@
    "cats": [],
    "score": 3,
    "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "5c29f81d47fe557c",
-   "title": "沃尔玛与 亚马逊 ，究竟谁才是AI时代真正的消费之王？",
-   "summary": "",
-   "link": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?futusource=news_search_searchnews&src=39#/index?id=nesSN2026112717172794e54553&s=b",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T08:32:24Z",
-   "tickers": [
-    "AMZN",
-    "WMT"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
    "sec_filing": false
   }
  ]
