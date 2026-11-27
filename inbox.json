@@ -1,16 +1,32 @@
 {
- "updated_utc": "2026-11-27T21:40:52.716368Z",
+ "updated_utc": "2026-11-27T21:50:53.462190Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 794,
-  "new": 7,
-  "candidates": 25,
-  "judged": 0,
+  "fetched": 799,
+  "new": 1,
+  "candidates": 28,
+  "judged": 2,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "624d5d691cef5702",
+   "title": "South America eyes $18 billion gas, power integration plan, study says",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWEFSUUtzb200WVBQMTJzcHFjc1JQUWw2dmtYTFJ2eER1OU9iLW1qSlhPVjhWVVRpdnVENWtYVnluWW1KUWN0WjdPYW93N3pXYzNlb1dGc2EwNWJ6N3BzQ3BRX0tQQkN1cEZjYkJuTy1ZUDJENy1JR016LXQtckdXUGpRZUVCenkzNkdfM3BSQ2hEY0JCbndCTlZXZHV3UXNaWVdaUGxwTEpWWTE0bF9oMGZXLWR2ajlHbl9B?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T21:37:08Z",
+   "tickers": [],
+   "cats": [
+    "deal"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
   {
    "id": "a02ac7a5d0dbe79c",
    "title": "美股ETF速递 | 2倍做多 SNDK ETF-Tradr交投活跃，今日涨幅最高，上涨30.14%",
@@ -303,7 +319,7 @@
   },
   {
    "id": "469cf3f2a0310548",
-   "title": "Nigeria Targets 50% Rise in Remittances to $1.5 Billion by 2027",
+   "title": "Nigeria Seeks to Boost Remittances to $1.5 Billion by 2027",
    "summary": "Nigeria’s central bank aims to increase remittances from citizens living abroad by 50% next year to boost its foreign-exchange reserves.",
    "link": "https://www.bloomberg.com/news/articles/2026-11-27/nigeria-targets-50-rise-in-remittances-to-1-5-billion-by-2027",
    "source": "BBG",
@@ -378,6 +394,38 @@
     "scoop"
    ],
    "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "a628d6d44d92ebff",
+   "title": "OpenAI countersues Apple for stealing trade secrets",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0FibW0xZFFBUlJ2MGJkd0NEcWZtRzkzUkdWcFl1VnlRN2dRMkpjWHpKVXlIekttSno1b1RMeWxJN2dtU0ZlS085Y1ZqTkpfM2Jaci13RUdMNFVPOWtqRldaazVrX25mMExUSkU0SmJRcHJsdnZxMWJXU05MNXFzc211YzlXNzMwRTVUM1k1MW5RQTdHbnRpU1p6Y2hQMFE0UnVBSk45eHg?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T20:54:40Z",
+   "tickers": [
+    "AAPL"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "a61c03aa4eb9efb1",
+   "title": "U.K. Regulator Says McCormick Sale of Colman’s Could Address Unilever Foods Merger Concerns",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUUxrNTF0T3pFbVNJeU1tMVJLRWtjc0F0WnktOFA3c0FQRlRsSG5mUWxQUzNoSjBLdldCWnZXSXV4TkZGZ2w3Z3I2elFqZkVvbHdBNG80UEJucmFiZU5lNEFqNUYxRFJPcXVOdDd6TmNUY2plV3dhRG9aeVdYY3JHcG9KbjhNRGJNc19LRFJMSUpXdW5ldzZsVGZ2QWNGcFZiVkxDT1NfYWJKM3NEd0hrYW9lNExUTm5JdE9hLVFWSkNJNkVQR1RlS3J1NlYzMDQ?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T20:32:21Z",
+   "tickers": [],
+   "cats": [
+    "mna"
+   ],
+   "score": 6,
    "link_is_redirect": true,
    "sec_filing": false
   },
@@ -539,22 +587,6 @@
    "cats": [
     "scoop"
    ],
-   "score": 4,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "a628d6d44d92ebff",
-   "title": "OpenAI countersues Apple for stealing trade secrets",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0FibW0xZFFBUlJ2MGJkd0NEcWZtRzkzUkdWcFl1VnlRN2dRMkpjWHpKVXlIekttSno1b1RMeWxJN2dtU0ZlS085Y1ZqTkpfM2Jaci13RUdMNFVPOWtqRldaazVrX25mMExUSkU0SmJRcHJsdnZxMWJXU05MNXFzc211YzlXNzMwRTVUM1k1MW5RQTdHbnRpU1p6Y2hQMFE0UnVBSk45eHg?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T19:12:19Z",
-   "tickers": [
-    "AAPL"
-   ],
-   "cats": [],
    "score": 4,
    "link_is_redirect": true,
    "sec_filing": false
@@ -1103,22 +1135,6 @@
    ],
    "score": 5,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "a61c03aa4eb9efb1",
-   "title": "U.K. Regulator Says McCormick Sale of Colman’s Could Address Unilever Foods Merger Concerns",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUUxrNTF0T3pFbVNJeU1tMVJLRWtjc0F0WnktOFA3c0FQRlRsSG5mUWxQUzNoSjBLdldCWnZXSXV4TkZGZ2w3Z3I2elFqZkVvbHdBNG80UEJucmFiZU5lNEFqNUYxRFJPcXVOdDd6TmNUY2plV3dhRG9aeVdYY3JHcG9KbjhNRGJNc19LRFJMSUpXdW5ldzZsVGZ2QWNGcFZiVkxDT1NfYWJKM3NEd0hrYW9lNExUTm5JdE9hLVFWSkNJNkVQR1RlS3J1NlYzMDQ?oc=5",
-   "source": "WSJ",
-   "tier": 1,
-   "published_utc": "2026-11-27T17:32:20Z",
-   "tickers": [],
-   "cats": [
-    "mna"
-   ],
-   "score": 6,
-   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -3606,38 +3622,6 @@
     "deal"
    ],
    "score": 5,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "850644564c78c20c",
-   "title": "India markets regulator examining Tata Steel-APL Apollo deal, sources say",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZWU4cDNsZUk1eHhIcnNRY2VOeHd3ZU5Rc1JrSGlzRzBjZ1hqWW42eThiYU0zbVgtZWZGZnAxOHgtNWtzQnI4eHVZcEJLV0s3TzFwOE1ON3F3Mk5ob2xYeE9TODA1SDRVUkE1c0hobmlacHdwNmRESUFKdElnekxQQ05EYlgybXV1QVJuMGVPTy0wUkxXdGJCNURFYTZtSFIwcXktTVVrX2l2LXZKbWtHRjBUTVdoNkZhU0laRl93Umo3cG8?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T09:43:44Z",
-   "tickers": [],
-   "cats": [
-    "scoop"
-   ],
-   "score": 4,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "c505e2fa7b58360e",
-   "title": "Modi’s Government to Revive Plan to Expand India’s Parliament",
-   "summary": "Prime Minister Narendra Modi’s administration is reviving an ambitious plan to expand the size of India’s parliament, people familiar with the matter said, after an earlier attempt was defeated when opposition parties joined forces against it.",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-27/modi-s-government-to-revive-plan-to-expand-india-s-parliament",
-   "source": "BBG",
-   "tier": 1,
-   "published_utc": "2026-11-27T09:43:30Z",
-   "tickers": [],
-   "cats": [
-    "scoop"
-   ],
-   "score": 4,
    "link_is_redirect": false,
    "sec_filing": false
   }
