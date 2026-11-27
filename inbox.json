@@ -1,16 +1,34 @@
 {
- "updated_utc": "2026-11-27T20:01:21.798947Z",
+ "updated_utc": "2026-11-27T20:10:47.658787Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 806,
-  "new": 1,
-  "candidates": 32,
+  "fetched": 809,
+  "new": 4,
+  "candidates": 34,
   "judged": 1,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "19536310fd30eab1",
+   "title": "Bots de compras con IA amenazan el dominio de Amazon y Google",
+   "summary": "Google, Amazon, Meta y OpenAI compiten por ayudarte a elegir los regalos de Navidad. ¿A quién escucharán los compradores?",
+   "link": "https://www.bloomberg.com/news/features/2026-11-27/bots-de-compras-con-ia-amenazan-el-dominio-de-amazon-y-google",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T20:02:48Z",
+   "tickers": [
+    "AMZN",
+    "GOOGL",
+    "META"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "746cfd9ad4290a4f",
    "title": "EXCLUSIVE Hackers breach US Air Force flagship Cloud One computing platform",
@@ -18,12 +36,28 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnhWb2oyc2Qta3k0bUhwbGZTcWZMREZ0VU41eVNZWDJZTDlBcmMxZzFrLXlmVGJpUHBRbVdBRlNoQU9lWUlIcVpMcXQwWWpyYVJ2eDJQa1ZvNFU5MUFHLWdpQW1BVloyUW5lTUlVSlFpLXJwVHNLMl9fQnBFTTNnemY4Q0JiUkN3SXFndG1pX1l1TmdySFJDOHJlWC1fMnE3cjlaVFB5M1hWbU0?oc=5",
    "source": "Reuters",
    "tier": 1,
-   "published_utc": "2026-11-27T19:49:22Z",
+   "published_utc": "2026-11-27T20:00:10Z",
    "tickers": [],
    "cats": [
     "scoop"
    ],
    "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "719411895a1181ac",
+   "title": "Alphabet Stock Price Holds Near $275 Despite AI Spending Pressures",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOHRsUERPV2JsVDhjTlhCZFE2M2gzWFJQekdaZ29PVC1wR0Qwck8ybjRPZlNkWDZLNmltZF9EVVo3ZGpwdm9CbnVxUFNBNG9oemQzRkpYcGpEX2Exb19TVTR2bGNqNEtKY0ZUWjEwS25GZWtuWkl5ZDhEdFBfazROZWpiYmNMTFFXVmV1d1BwLXE1R3BGR3RubFV0WkRUMXlrNlF2WmxkSQ?oc=5",
+   "source": "JournalArta",
+   "tier": null,
+   "published_utc": "2026-11-27T19:40:33Z",
+   "tickers": [
+    "GOOGL"
+   ],
+   "cats": [],
+   "score": 2,
    "link_is_redirect": true,
    "sec_filing": false
   },
@@ -88,6 +122,22 @@
    ],
    "cats": [],
    "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "61ceeff831264ac0",
+   "title": "Alphabet Stocks Move Lower as Record Credit Spreads Shadow AI Spending",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQd3U1STJHb2dZMXNJelNIS21xV2dwWFF0Zm1OMnFfcG40Y1JiQnE3Qmo2WWhWQ3QycExHUER4ZDF3RGFaVldqMTRFTzNIbHZvYVZ3bkZlQjJoM1RZQmZyM1dlNzZxVEdwNWExbW9wanhkRVNZNDRkV3dJZlpIUXpuTy1mM1pldndLWnpXc2w2SWI2b0EwVkNrYnVQZGJuR1dOa0NUOWFxdEZFYWxvWDhwRmkxd3hQQkJqc1NGaGhYTzczZWdDcU1wcVpn?oc=5",
+   "source": "TradingView",
+   "tier": null,
+   "published_utc": "2026-11-27T19:18:39Z",
+   "tickers": [
+    "GOOGL"
+   ],
+   "cats": [],
+   "score": 2,
    "link_is_redirect": true,
    "sec_filing": false
   },
@@ -166,6 +216,22 @@
    "tickers": [],
    "cats": [
     "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "2fdad17b714d44a2",
+   "title": "Inside China’s $4 Billion Secondhand Luxury Boom",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdFVLSlZUN3JBQlk5a0pMWGR2WGRIWXlpNEp0cG9hdXBCMFYzdmdTWEZfRkZYSDFTeV9nSjhnTFdoWWUtajVtcThzMi1LOHRfVlYxaWlsNzUxQTFGSWpreWY0TzZWc19TOC12MXNnWmtaamRQZjBnVXF4Uy1zbDFMNV9MRmFVekhKQzFfTWc1TkhYRGJ4SUo4aWpBWC1wWXVzcEFHaFN2RTFpcU9WYmc?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T19:00:24Z",
+   "tickers": [],
+   "cats": [
+    "deal"
    ],
    "score": 5,
    "link_is_redirect": true,
@@ -265,22 +331,6 @@
    "cats": [],
    "score": 1,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "2fdad17b714d44a2",
-   "title": "Inside China’s $4 Billion Secondhand Luxury Boom",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdFVLSlZUN3JBQlk5a0pMWGR2WGRIWXlpNEp0cG9hdXBCMFYzdmdTWEZfRkZYSDFTeV9nSjhnTFdoWWUtajVtcThzMi1LOHRfVlYxaWlsNzUxQTFGSWpreWY0TzZWc19TOC12MXNnWmtaamRQZjBnVXF4Uy1zbDFMNV9MRmFVekhKQzFfTWc1TkhYRGJ4SUo4aWpBWC1wWXVzcEFHaFN2RTFpcU9WYmc?oc=5",
-   "source": "WSJ",
-   "tier": 1,
-   "published_utc": "2026-11-27T18:33:45Z",
-   "tickers": [],
-   "cats": [
-    "deal"
-   ],
-   "score": 5,
-   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -484,6 +534,23 @@
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVDlMYVRaRWRJSWFBRHlXRlVWWWZvTVlXZjRrWkgzdGc5UjJlX2JqQ1hkYzg3ck5TVzE4UE9ybVBEWEYtaExwdElaNTI1dWtHNVhmQVFnWHRjV3B1amwzNWNTU19BNXpfbVRaZ0dUbU1EX285bmFQaEhycm1Xc2pEQ1l2Ym5kMk5EdkhLVW1XS3JaOWlaYzFGTjhXU1loYjk2NXhSendJOVlpVkk?oc=5",
    "source": "Bloomberg",
+   "tier": 1,
+   "published_utc": "2026-11-27T18:12:57Z",
+   "tickers": [],
+   "cats": [
+    "mna",
+    "deal"
+   ],
+   "score": 7,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "7c5df144306986a7",
+   "title": "Verizon in Talks to Buy Fidium in $6 Billion Deal, FT Says",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORHNtd2RRTVpMZDFJS3Z1Qk5RZTlnS1NPSzJPUElZSzBZT2hHMXA0RjdzNjRjcnV1OThaeUxVc1pCdk1PYzB1cmFzRnI3c3ZLcnotNmpvS0lXQml1UHRzT0R6bGQwdmJ5bF9sYUFnUG1XZXNLVUUwQ0hjQXpWa2M0VnRXb1ZZYjRsMUF3OWdtOF8waEtnNUtzZ3J1SDJjaUVwVThCSWtWU3h6QmR3UmFBLV9Dc1BGOS1RTUhYMHZOT2ZSeHpVcGNj?oc=5",
+   "source": "Bloomberg.com",
    "tier": 1,
    "published_utc": "2026-11-27T18:12:57Z",
    "tickers": [],
