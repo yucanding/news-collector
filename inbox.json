@@ -1,24 +1,88 @@
 {
- "updated_utc": "2026-11-27T10:01:21.467060Z",
+ "updated_utc": "2026-11-27T10:10:49.351500Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 867,
-  "new": 4,
-  "candidates": 38,
-  "judged": 2,
+  "fetched": 878,
+  "new": 5,
+  "candidates": 43,
+  "judged": 5,
   "pushed": 0
  },
  "items": [
   {
+   "id": "f79f93d15b6abf51",
+   "title": "How to Live Calmly, Despite Stock Market Whiplash",
+   "summary": "Nvidia has been down, up, and down again, and the market has followed. But there’s no need for long-term, diversified investors to alter their course, our columnist says.",
+   "link": "https://www.nytimes.com/2026/11/27/business/nvidia-jensen-huang-trump-markets.html",
+   "source": "NYT",
+   "tier": 1,
+   "published_utc": "2026-11-27T10:02:53Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "52dee082e73cd90d",
+   "title": "Novo Nordisk to launch Wegovy pill in Sweden on December 24",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTUVPUEgyRjh0RVE1aTlhc2RLOE92RjZmX0VoXzdhSWF2ZFZTR2RYT1lRbVRrekRTWWNVN0JQTGFPOGQ0Y3lXbzZiT0EzYXRKYXdkTGVscHNmaXJQYXh1VWdmOGd0bXlzak02NmdYOGtuRDFIREZhcENRN0l0aHNKZEl4aXl1bWR0TGJZUW9MNW9tX0V3WEEyZ0V1NGF5c1ViLWlxSGJn?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T10:01:24Z",
+   "tickers": [
+    "NVO"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "e9285ef526f47b24",
+   "title": "48 Hours in Tokyo With an Airline Pilot",
+   "summary": "A Boeing 787 pilot visits some favorite restaurants, a Snoopy museum and a tranquil shrine.",
+   "link": "https://www.nytimes.com/2026/11/27/travel/48-hours-in-tokyo-with-an-airline-pilot.html",
+   "source": "NYT",
+   "tier": 1,
+   "published_utc": "2026-11-27T10:00:33Z",
+   "tickers": [
+    "BA"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "339770aadc3fcb2d",
+   "title": "The US Is Squandering Its Lead Over China in Aerospace",
+   "summary": "Amid the controversy over whether Nvidia Corp. chips were diverted to China, a House committee has raised another delicate technology-transfer problem that has been going on for years: US and allied aerospace companies helping Beijing advance its production of civilian and military aircraft.",
+   "link": "https://www.bloomberg.com/opinion/articles/2026-11-27/the-us-is-squandering-its-lead-over-china-in-aerospace",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T10:00:24Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
    "id": "af6204394a724cc4",
-   "title": "英特尔 （ INTC ）异动期权指南：AI芯片板块集体回暖，反弹能否延续？",
+   "title": "英特尔 异动期权指南：AI芯片板块集体回暖，反弹能否延续？",
    "summary": "",
    "link": "https://news.futunn.com/post/1005839418?futusource=news_search_searchnews&src=39",
    "source": "futu",
    "tier": 3,
-   "published_utc": "2026-11-27T09:58:52Z",
+   "published_utc": "2026-11-27T09:58:00Z",
    "tickers": [
     "INTC"
    ],
@@ -122,6 +186,22 @@
    ],
    "score": 5,
    "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "23c160ce7a1237b5",
+   "title": "EU to Probe China, Singapore Sustainable Aviation Fuel Imports",
+   "summary": "The European Union is opening an anti-dumping investigation into sustainable aviation fuel imports from China and Singapore, the latest in a series of measures that could restrict access to its single market.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/eu-to-probe-china-singapore-sustainable-aviation-fuel-imports-mwysdbf3",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T09:35:44Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": false,
    "sec_filing": false
   },
   {
