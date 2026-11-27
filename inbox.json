@@ -1,12 +1,12 @@
 {
- "updated_utc": "2026-11-27T06:40:50.081881Z",
+ "updated_utc": "2026-11-27T06:50:49.769062Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 885,
-  "new": 3,
-  "candidates": 28,
+  "fetched": 888,
+  "new": 1,
+  "candidates": 29,
   "judged": 1,
   "pushed": 0
  },
@@ -92,6 +92,22 @@
    "cats": [],
    "score": 1,
    "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "1f5588b222d954b1",
+   "title": "Exclusive | Power Couple Sells San Francisco Compound for $68.3 Million in AI-Fueled Boom",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU2kwQkdPRldySWFZVUdfV0VkZktwN3BHMlZGQ3ItMy1IWUI1NXZTaG81dWhuM0NlMHd6dHVTUk5JcmduNEtTSV9vVnU2ckR6RmpBVU5kbUJxSi1vajU5QUtuQlJaNHJiaExvVlh5d3dyMUVaREdwcTd2blFkTUxlMlZPeS1WXzRYM29TU0RGLTltQjlUX25CMw?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T06:07:58Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -340,22 +356,6 @@
    "sec_filing": false
   },
   {
-   "id": "2f3d1511fa6931ab",
-   "title": "‘A changed man.’ How will Jensen Huang lead Nvidia now?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMmhZNWpCZkQ2NkZfMFNRX3p1TkFPal81d2JibVcxcGgyN2ZBUXlkV1VLZzNtenVOZzlNUW1yM1VVcTFON2dBcTlXZHptMkRESkl0RGVDa0Q0VGhFNnA0eTRNWGY0MUVmRkR2T0lSallESGFhQ0VyQWZzdkZXZWUzYkFQMF8?oc=5",
-   "source": "Financial Times",
-   "tier": 1,
-   "published_utc": "2026-11-27T05:02:05Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [],
-   "score": 4,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
    "id": "527336567089b961",
    "title": "Trump media group splashes out to woo shareholders before merger vote",
    "summary": "TMTG expected to pay between $8mn and $13mn in fees plus expenses for proxy solicitation services",
@@ -434,6 +434,22 @@
    ],
    "score": 7,
    "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "2f3d1511fa6931ab",
+   "title": "‘A changed man.’ How will Jensen Huang lead Nvidia now?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMmhZNWpCZkQ2NkZfMFNRX3p1TkFPal81d2JibVcxcGgyN2ZBUXlkV1VLZzNtenVOZzlNUW1yM1VVcTFON2dBcTlXZHptMkRESkl0RGVDa0Q0VGhFNnA0eTRNWGY0MUVmRkR2T0lSallESGFhQ0VyQWZzdkZXZWUzYkFQMF8?oc=5",
+   "source": "Financial Times",
+   "tier": 1,
+   "published_utc": "2026-11-27T05:00:22Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -1574,22 +1590,6 @@
    ],
    "cats": [],
    "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "b135aadb89bb5f5e",
-   "title": "Julius Meinl Coffee Group completes largest acquisition in its history",
-   "summary": "Investment moves Julius Meinl into the top five HoReCa coffee players in Italy and signals further acquisition appetite VIENNA, Nov. 26, 2026 /PRNewswire/ -- Julius Meinl has completed the acquisition of the businesses of Daroma and Neronobile in Italy, marking the largest acquisition in...",
-   "link": "https://www.prnewswire.com/news-releases/julius-meinl-coffee-group-completes-largest-acquisition-in-its-history-302951331.html",
-   "source": "PR Newswire",
-   "tier": 0,
-   "published_utc": "2026-11-26T18:46:00Z",
-   "tickers": [],
-   "cats": [
-    "mna"
-   ],
-   "score": 2,
    "link_is_redirect": false,
    "sec_filing": false
   }
