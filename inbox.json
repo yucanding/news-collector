@@ -1,16 +1,65 @@
 {
- "updated_utc": "2026-11-27T12:31:07.823042Z",
+ "updated_utc": "2026-11-27T12:40:50.737658Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 886,
-  "new": 5,
-  "candidates": 44,
-  "judged": 3,
+  "fetched": 897,
+  "new": 6,
+  "candidates": 50,
+  "judged": 2,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "8b7fed6bd51d96cb",
+   "title": "奥地利第一储蓄维持 美国超微公司 ( AMD .US)持有评级",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005854012?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T12:32:00Z",
+   "tickers": [
+    "AMD",
+    "SMCI"
+   ],
+   "cats": [],
+   "score": -3,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "e4a38c4b2bf08d04",
+   "title": "盘前期权异动：美光科技盘前上涨5.5%，现最高成交额的看涨期权涨跌幅为+54%，成交量达到10张",
+   "summary": "",
+   "link": "https://news.futunn.com/flash/1005853861?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T12:30:08Z",
+   "tickers": [
+    "MU"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "5d9e8d39a9583188",
+   "title": "盘前期权异动： 闪迪 盘前上涨9.5%",
+   "summary": "",
+   "link": "https://news.futunn.com/flash/1005853862?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T12:30:08Z",
+   "tickers": [
+    "SNDK"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "be3994804cc53407",
    "title": "Jones Soda Co. Announces Proposed Voluntary Delisting from the Canadian Securities Exchange",
@@ -23,6 +72,22 @@
    "cats": [
     "reg"
    ],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "a72cb26a46cc2680",
+   "title": "新加坡与美国谈判维持先进AI芯片供应渠道 副总理：尚未证实 英伟达 暂停东南亚发货",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005853868?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T12:30:00Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
    "score": 1,
    "link_is_redirect": false,
    "sec_filing": false
@@ -76,6 +141,22 @@
    ],
    "score": 5,
    "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "4cceaa6b72dfd22a",
+   "title": "EXCLUSIVE: Global fashion brands shift orders from Bangladesh to India amid unrest",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQWJhaVBEcEFiX2hwb0lHanFvdTJncnpwM3JVMEh6WTUxSmhaWjV6MHcwdGJueHd5M1pmcVB2VG9UbGxKbzlseklNR2FjNHFWMlFLbmxLQkxxeXptM1VWUVRkWngxS2dwNTVWTng2NXcyUlo4NHM5OFM3NWNsNUY2WkdJblJmcVFRaVV4X1IweXZQWUJya01ZVi1qc19IVjF1OGEtQU9aVDd0eW5xYnBkQkxhcWg0dHFUWEwyYzlPdkdqZw?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T12:19:31Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -171,6 +252,22 @@
     "deal"
    ],
    "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "a6fd33e0f02044b7",
+   "title": "India's Modi to revive parliament expansion bill tied to women's quota, sources say",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaGVmSDBaZjd6MF8xcFA3WEZUTEItZ2sxLXVDaDVCbS03YUtRM2NWWGJkMnlLS2dJak11aGRucTJZREc2dE9heUt2bnV5NENmeS11SWRRbUtQaWdUeUpKV2V5VXZRdFRaUlJNUU9VZXpORmZVbGZjeWVKZXlEa3gzOU5Ha09lTERuMU5OSG56c1ljNXpPb0NkeG1Rbnd5aVR2eHFWZUxQU3l5N0lkdGFmb2o4aVlSRXB1dDlGdS1SRQ?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T12:00:50Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
    "link_is_redirect": true,
    "sec_filing": false
   },
@@ -358,6 +455,23 @@
    "sec_filing": false
   },
   {
+   "id": "05194513719a8338",
+   "title": "EXCLUSIVE: Volkswagen drags rivals Mercedes, BMW into $1.2 billion India tax fight",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVmMzM2R4OXZYcTVXODQ1TnFvVldUOGtBQmhhV1lHS29wOThxUmpDRXVBTHhfZDY3d1QxZF9rTmlVTU5PQXhVWDlSdWtTUHBCOTlVbmlRLUhpWW9aTUFURUN5WHhMOGtMV0hHUGY0QjZIbVROOExQNUlMU21YU0hYUktmcGo0RU5DNGl4Uy1RTnBkOEVYV3lSSzZYZ1lfM094U2JJTnhadm43aFlNZGtvb0MxOXFESVk?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T11:45:57Z",
+   "tickers": [],
+   "cats": [
+    "deal",
+    "scoop"
+   ],
+   "score": 6,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
    "id": "f688d6fc44b0b848",
    "title": "Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang",
    "summary": "A pair of Chinese firms installed Nvidia Corp.’s powerful Blackwell semiconductors in a Shanghai data center linked to Alice Huang, the woman at the heart of a controversy surrounding the US chipmaker.",
@@ -538,19 +652,18 @@
    "sec_filing": false
   },
   {
-   "id": "05194513719a8338",
-   "title": "EXCLUSIVE: Volkswagen drags rivals Mercedes, BMW into $1.2 billion India tax fight",
+   "id": "bfdabdd6d88e6490",
+   "title": "OPEC+ set to keep oil production targets steady, sources say",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVmMzM2R4OXZYcTVXODQ1TnFvVldUOGtBQmhhV1lHS29wOThxUmpDRXVBTHhfZDY3d1QxZF9rTmlVTU5PQXhVWDlSdWtTUHBCOTlVbmlRLUhpWW9aTUFURUN5WHhMOGtMV0hHUGY0QjZIbVROOExQNUlMU21YU0hYUktmcGo0RU5DNGl4Uy1RTnBkOEVYV3lSSzZYZ1lfM094U2JJTnhadm43aFlNZGtvb0MxOXFESVk?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdndaSmMtcnZ2OU41SkZNYnNtNlU5ZnRWTFlOamJLb0x6eHRhRHJuQkNMY1oybHlpOUFkRWdncURJcUc0eGZvM2JNZUc4SGdvZG0yeTJFY0llZWJUeGtMRzQxaHFZNmZ0OS1YWFloelk4eDBVenhkQlotREpzR2F1cFgxbkZaT18zRWtGbHd2aTZENWFDMmhKaU13WnpSQkhIaUZGTDZtMFkwa2ZxUjdpTkRfTXRZMkNUcW1FM3hn?oc=5",
    "source": "Reuters",
    "tier": 1,
-   "published_utc": "2026-11-27T11:14:36Z",
+   "published_utc": "2026-11-27T11:13:39Z",
    "tickers": [],
    "cats": [
-    "deal",
     "scoop"
    ],
-   "score": 6,
+   "score": 4,
    "link_is_redirect": true,
    "sec_filing": false
   },
@@ -1085,22 +1198,6 @@
    "cats": [],
    "score": -2,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "bfdabdd6d88e6490",
-   "title": "OPEC+ set to keep oil production targets steady in first quarter, sources say",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdndaSmMtcnZ2OU41SkZNYnNtNlU5ZnRWTFlOamJLb0x6eHRhRHJuQkNMY1oybHlpOUFkRWdncURJcUc0eGZvM2JNZUc4SGdvZG0yeTJFY0llZWJUeGtMRzQxaHFZNmZ0OS1YWFloelk4eDBVenhkQlotREpzR2F1cFgxbkZaT18zRWtGbHd2aTZENWFDMmhKaU13WnpSQkhIaUZGTDZtMFkwa2ZxUjdpTkRfTXRZMkNUcW1FM3hn?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T09:27:44Z",
-   "tickers": [],
-   "cats": [
-    "scoop"
-   ],
-   "score": 0,
-   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -1820,7 +1917,7 @@
   },
   {
    "id": "714c20e52a6b4216",
-   "title": "Michael Burry就人工智能热潮发出严厉警告， 英伟达 、甲骨文和Meta面临债务保险成本飙升",
+   "title": "Michael Burry就人工智能热潮发出严厉警告，英伟达、甲骨文和 Meta 面临债务保险成本飙升",
    "summary": "",
    "link": "https://news.futunn.com/post/1005817017?futusource=news_search_searchnews&src=39",
    "source": "futu",
@@ -2972,38 +3069,6 @@
     "deal"
    ],
    "score": 5,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "a176e49b8f66fcbe",
-   "title": "Japan GPIF to Brief on Every Asset-Mix Review, Not Just Some",
-   "summary": "Japan’s Government Pension Investment Fund is now reporting the results of every review of its strategic asset allocation to its board, rather than only sometimes when deemed necessary.",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-27/japan-gpif-to-brief-on-every-asset-mix-review-not-just-some",
-   "source": "BBG",
-   "tier": 1,
-   "published_utc": "2026-11-27T00:34:44Z",
-   "tickers": [],
-   "cats": [
-    "supply"
-   ],
-   "score": 5,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "fefc3f580ef6f02a",
-   "title": "国金证券：晶圆制造2.0时代， 台积电 竞争优势有望延续",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005785946?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T00:33:42Z",
-   "tickers": [
-    "TSM"
-   ],
-   "cats": [],
-   "score": 1,
    "link_is_redirect": false,
    "sec_filing": false
   }
