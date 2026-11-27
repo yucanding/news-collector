@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-27T03:40:47.960699Z",
+ "updated_utc": "2026-11-27T03:50:48.186027Z",
  "window_hours": 12,
  "stale": false,
  "errors": {
@@ -8,13 +8,29 @@
   "gnw-mna": "HTTPError: HTTP Error 403: Forbidden"
  },
  "counts": {
-  "fetched": 857,
-  "new": 1,
-  "candidates": 22,
-  "judged": 1,
+  "fetched": 864,
+  "new": 2,
+  "candidates": 23,
+  "judged": 0,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "ab2eba938095919c",
+   "title": "暴涨30%后连跌两日， 英伟达 逼近“死亡交叉”",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005804144?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T03:37:56Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "89edd545104a3d81",
    "title": "Bloomberg Daybreak Asia: Stocks Rise, Tariff Reactions",
@@ -29,6 +45,22 @@
    ],
    "score": 5,
    "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "44030b85b06745a2",
+   "title": "亚马逊 巴西15年累计投资超750亿雷亚尔 已建成350个物流中心",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005804163?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T03:30:00Z",
+   "tickers": [
+    "AMZN"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
    "sec_filing": false
   },
   {
