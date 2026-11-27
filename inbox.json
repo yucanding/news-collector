@@ -1,16 +1,32 @@
 {
- "updated_utc": "2026-11-27T23:10:50.658829Z",
+ "updated_utc": "2026-11-27T23:20:57.802674Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 795,
-  "new": 1,
-  "candidates": 32,
+  "fetched": 787,
+  "new": 0,
+  "candidates": 30,
   "judged": 0,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "9877b61dc68f0636",
+   "title": "Exclusive | Inside the Scramble to Avert Conflict With Russia in the Baltic",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWXU1WDdhS2huZHA0c0owNzRTTVpyZklia2VLbWNUMk1nWk52TFlieHdwZ2dNSEZ5LUdKTl83WU9iWkhwTHFWVHg4RkpudTM3WjlFa1lzbnY5YThqOTVyNU11cThCWWp0aTJGeU1wTVM5akVzeWRuQzMyaTROaDVXREdTOHRsQ0luM3VKME9DODhRZFVJLWxZSmEyU1VlbWlmME9YbEVBbGY?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T23:19:19Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
   {
    "id": "ccd37c3bfd11d0db",
    "title": "OpenAI countersues Apple for stealing trade secrets",
@@ -72,6 +88,22 @@
     "scoop"
    ],
    "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "624d5d691cef5702",
+   "title": "South America eyes $18 billion gas, power integration plan, study says",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWEFSUUtzb200WVBQMTJzcHFjc1JQUWw2dmtYTFJ2eER1OU9iLW1qSlhPVjhWVVRpdnVENWtYVnluWW1KUWN0WjdPYW93N3pXYzNlb1dGc2EwNWJ6N3BzQ3BRX0tQQkN1cEZjYkJuTy1ZUDJENy1JR016LXQtckdXUGpRZUVCenkzNkdfM3BSQ2hEY0JCbndCTlZXZHV3UXNaWVdaUGxwTEpWWTE0bF9oMGZXLWR2ajlHbl9B?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T22:37:52Z",
+   "tickers": [],
+   "cats": [
+    "deal"
+   ],
+   "score": 5,
    "link_is_redirect": true,
    "sec_filing": false
   },
@@ -200,22 +232,6 @@
    ],
    "cats": [],
    "score": 2,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "624d5d691cef5702",
-   "title": "South America eyes $18 billion gas, power integration plan, study says",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWEFSUUtzb200WVBQMTJzcHFjc1JQUWw2dmtYTFJ2eER1OU9iLW1qSlhPVjhWVVRpdnVENWtYVnluWW1KUWN0WjdPYW93N3pXYzNlb1dGc2EwNWJ6N3BzQ3BRX0tQQkN1cEZjYkJuTy1ZUDJENy1JR016LXQtckdXUGpRZUVCenkzNkdfM3BSQ2hEY0JCbndCTlZXZHV3UXNaWVdaUGxwTEpWWTE0bF9oMGZXLWR2ajlHbl9B?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T21:37:08Z",
-   "tickers": [],
-   "cats": [
-    "deal"
-   ],
-   "score": 5,
    "link_is_redirect": true,
    "sec_filing": false
   },
@@ -473,22 +489,6 @@
    "cats": [],
    "score": 1,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "9877b61dc68f0636",
-   "title": "Exclusive | Inside the Scramble to Avert Conflict With Russia in the Baltic",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWXU1WDdhS2huZHA0c0owNzRTTVpyZklia2VLbWNUMk1nWk52TFlieHdwZ2dNSEZ5LUdKTl83WU9iWkhwTHFWVHg4RkpudTM3WjlFa1lzbnY5YThqOTVyNU11cThCWWp0aTJGeU1wTVM5akVzeWRuQzMyaTROaDVXREdTOHRsQ0luM3VKME9DODhRZFVJLWxZSmEyU1VlbWlmME9YbEVBbGY?oc=5",
-   "source": "WSJ",
-   "tier": 1,
-   "published_utc": "2026-11-27T21:21:49Z",
-   "tickers": [],
-   "cats": [
-    "scoop"
-   ],
-   "score": 4,
-   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -3217,38 +3217,6 @@
    ],
    "score": 4,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "bfdabdd6d88e6490",
-   "title": "OPEC+ set to keep oil production targets steady, sources say",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdndaSmMtcnZ2OU41SkZNYnNtNlU5ZnRWTFlOamJLb0x6eHRhRHJuQkNMY1oybHlpOUFkRWdncURJcUc0eGZvM2JNZUc4SGdvZG0yeTJFY0llZWJUeGtMRzQxaHFZNmZ0OS1YWFloelk4eDBVenhkQlotREpzR2F1cFgxbkZaT18zRWtGbHd2aTZENWFDMmhKaU13WnpSQkhIaUZGTDZtMFkwa2ZxUjdpTkRfTXRZMkNUcW1FM3hn?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T11:13:39Z",
-   "tickers": [],
-   "cats": [
-    "scoop"
-   ],
-   "score": 4,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "c6da5e553ae750e8",
-   "title": "Kenya Airways plans to raise $1.5 billion from investor in 2027",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOGtpYzNyVXNEamp0S1VGd0plQ0lJSmlsSG51NHZBQU1sRTRKTTdiZEg2bHhhVnRIU2FHY1Jkbzl5QzRVT0dOa0hQVUVwUE8wVXJMNmRHaEkwQ3FQdnN1TGljRVNmS2J6NDJOcWdzZGNoWVAxRDA4UTdwQy15dGpwbU1JTGd0Q2ktVlpHU1BMaVhZSlVSckxvc09DNGJfYmhP?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T11:13:32Z",
-   "tickers": [],
-   "cats": [
-    "deal"
-   ],
-   "score": 5,
-   "link_is_redirect": true,
    "sec_filing": false
   }
  ]
