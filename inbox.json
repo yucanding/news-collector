@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-27T04:01:19.182995Z",
+ "updated_utc": "2026-11-27T04:10:48.987202Z",
  "window_hours": 12,
  "stale": false,
  "errors": {
@@ -8,13 +8,30 @@
   "gnw-mna": "HTTPError: HTTP Error 403: Forbidden"
  },
  "counts": {
-  "fetched": 832,
-  "new": 3,
-  "candidates": 24,
-  "judged": 1,
+  "fetched": 841,
+  "new": 1,
+  "candidates": 23,
+  "judged": 0,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "d7b17b8017f4bff0",
+   "title": "瑞银交易员：可口可乐等防御股动能减弱或为 AI 股筑底信号，但尚未现全面平仓",
+   "summary": "深潮 TechFlow 消息，11 月 27 日，据瑞银（UBS）交易台消息，瑞银股票交易员 Mark Paski 向客户表示，正从拥挤的必选消费防御交易中寻找 AI 股潜在筑底的信号。 Mark Paski 指出，防御板块已出现初步疲态：饮料股开始浮现卖盘，可口可乐（KO）动能减弱，且自 10 月初以来持续走强的可口可乐对英伟达比值（KO/NVDA）近期出现回落。 他表示，若可口可乐、Keurig Dr Pepper（KDP）、宝洁（PG）、高露洁（CL）及沃尔玛（WMT）等防御性标的同步出现实质性抛售，将为风险偏好转向提供更有力证据。不过，瑞银目前尚未观察到防御仓位的大规模平仓，当前仅属早期轮动迹象，尚不足以确认 AI 及半导体股已形成稳固底部。",
+   "link": "https://www.techflowpost.com/newsletter/147181/ubs-traders-coca-cola-defensive-stocks-ai-bottom-signal-no-liquidation",
+   "source": "TechFlow",
+   "tier": null,
+   "published_utc": "2026-11-27T04:04:18Z",
+   "tickers": [
+    "NVDA",
+    "WMT"
+   ],
+   "cats": [],
+   "score": 2,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "1c22eac3fa0b7946",
    "title": "Spirit of recovery: JPMorgan sees fresh upside in liquor giant Kweichow Moutai",
@@ -28,6 +45,22 @@
    ],
    "cats": [],
    "score": 2,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "5c29f81d47fe557c",
+   "title": "纳德拉承认 微软 放缓应届生招聘，AI 时代年轻人的第一份工作更难拿",
+   "summary": "",
+   "link": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?futusource=news_search_searchnews&src=39#/index?id=nesSN20261127115617b69e03b4&s=b",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T03:54:29Z",
+   "tickers": [
+    "MSFT"
+   ],
+   "cats": [],
+   "score": 1,
    "link_is_redirect": false,
    "sec_filing": false
   },
@@ -175,22 +208,6 @@
    "published_utc": "2026-11-27T03:11:00Z",
    "tickers": [
     "SNDK"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "5c29f81d47fe557c",
-   "title": "丹纳赫宣布与 微软 建立战略合作 加速科学仪器智能化升级",
-   "summary": "",
-   "link": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?futusource=news_search_searchnews&src=39#/index?id=nesSN20261127111621a4bbcdeb&s=b",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T03:06:08Z",
-   "tickers": [
-    "MSFT"
    ],
    "cats": [],
    "score": 1,
@@ -1157,38 +1174,6 @@
     "scoop"
    ],
    "score": 4,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "c73447a173c4cb1b",
-   "title": "英伟达要求合作伙伴暂停向东南亚发货",
-   "summary": "深潮 TechFlow 消息，11 月 27 日，据华尔街日报报道，英伟达要求合作伙伴暂停向东南亚发货。华盛顿近期关闭了一个远程访问漏洞，该漏洞曾帮助中国企业使用东南亚地区的算力。",
-   "link": "https://www.techflowpost.com/newsletter/147127/nvidia-asks-partners-to-pause-shipments-to-southeast-asia",
-   "source": "TechFlow",
-   "tier": null,
-   "published_utc": "2026-11-26T16:07:19Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [],
-   "score": 2,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "37781c5f18c6c7e1",
-   "title": "Chip sellers have told neoclouds they won't supply Nvidia chips if any of the computing capacity will be rented to Chinese companies - CNBC. $NVDA",
-   "summary": "",
-   "link": "https://www.financialjuice.com/News/9869618/Chip-sellers-have-told-neoclouds-they-wont-supply-Nvidia-chips-if-any-of-the-computing-capacity-will-be-rented-to-Chinese-companies---CNBC-NVDA.aspx?xy=rss",
-   "source": "FinancialJuice",
-   "tier": 3,
-   "published_utc": "2026-11-26T16:05:39Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [],
-   "score": 1,
    "link_is_redirect": false,
    "sec_filing": false
   }
