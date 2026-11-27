@@ -1,16 +1,48 @@
 {
- "updated_utc": "2026-11-27T22:50:46.961324Z",
+ "updated_utc": "2026-11-27T23:01:20.166661Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 822,
+  "fetched": 803,
   "new": 0,
-  "candidates": 36,
+  "candidates": 34,
   "judged": 0,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "ccd37c3bfd11d0db",
+   "title": "OpenAI countersues Apple for stealing trade secrets",
+   "summary": "The ChatGPT maker also accuses the tech giant of ‘coercing and threatening’ suppliers who work with both companies, as legal battle escalates",
+   "link": "https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4?syn-25a6b1a6=1",
+   "source": "FT",
+   "tier": 1,
+   "published_utc": "2026-11-27T23:00:08Z",
+   "tickers": [
+    "AAPL"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "ca8a12fbb7f0f16f",
+   "title": "EXCLUSIVE: Russian military flotilla bound for Libya turns around after warship sunk on November 22, sources say",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYmlHdGhKd3RFRUNYajhTdlVqdUdrckt5RmtIZEltNjE0OTVPMDhaSS1DTFlGQTU5Z19LRFpLRmpXdVJkcVpRY19iLU40eXpEWUhYdDNjMXhfRkJqckxleW8tY25rOVJFTzlGeGVaUTlwb1M1NVBXSzQwSG9hX2VQR1JiMVhXYk1mdG01ei1nR1ZmOFY5RWpnejVHRkJSa2RVTHRLeURHS3hCSHJMcGluWG1fQWNjS19wTy1RejVTWE5BMW8?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T22:55:47Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
   {
    "id": "202036d9dc1ce9c5",
    "title": "Roundhill Investments Announces ETF Lineup Update",
@@ -25,22 +57,6 @@
    "cats": [],
    "score": 3,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "ca8a12fbb7f0f16f",
-   "title": "EXCLUSIVE: Russian military flotilla bound for Libya turns around after warship sunk on November 22, sources say",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYmlHdGhKd3RFRUNYajhTdlVqdUdrckt5RmtIZEltNjE0OTVPMDhaSS1DTFlGQTU5Z19LRFpLRmpXdVJkcVpRY19iLU40eXpEWUhYdDNjMXhfRkJqckxleW8tY25rOVJFTzlGeGVaUTlwb1M1NVBXSzQwSG9hX2VQR1JiMVhXYk1mdG01ei1nR1ZmOFY5RWpnejVHRkJSa2RVTHRLeURHS3hCSHJMcGluWG1fQWNjS19wTy1RejVTWE5BMW8?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T22:34:08Z",
-   "tickers": [],
-   "cats": [
-    "scoop"
-   ],
-   "score": 4,
-   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -971,22 +987,6 @@
    "cats": [
     "incident"
    ],
-   "score": 4,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "ccd37c3bfd11d0db",
-   "title": "OpenAI countersues Apple for stealing trade secrets",
-   "summary": "The ChatGPT maker also accuses the tech giant of ‘coercing and threatening’ suppliers who work with both companies, as legal battle escalates",
-   "link": "https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4?syn-25a6b1a6=1",
-   "source": "FT",
-   "tier": 1,
-   "published_utc": "2026-11-27T18:20:05Z",
-   "tickers": [
-    "AAPL"
-   ],
-   "cats": [],
    "score": 4,
    "link_is_redirect": false,
    "sec_filing": false
@@ -3266,118 +3266,6 @@
    "cats": [],
    "score": 2,
    "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "ff1052c47766e5b9",
-   "title": "Canada to Put Billions More Toward Tariff-Hit Softwood Lumber Sector",
-   "summary": "Canada unveiled a plan to aid its softwood lumber producers, one of several sectors pummeled by US President Donald Trump’s tariffs.",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-27/canada-to-put-billions-more-toward-tariff-hit-softwood-lumber-sector",
-   "source": "BBG",
-   "tier": 1,
-   "published_utc": "2026-11-27T11:01:00Z",
-   "tickers": [],
-   "cats": [
-    "reg"
-   ],
-   "score": 5,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "7dd2f1dd2aa7dddd",
-   "title": "Trump’s Tariffs Cast New Pall Over Thanksgiving",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQk1uVWtYMllaS0FEN2JHUUtTZDhJalBpV0FHdnQ0UTNYbXlfSWhpMmpJN0YwNWtPU3lZb2RiUFBQM2FES3hwc3B3SXByOTJMdlRyNkFMaFFXbGFlTTVsalo1RXM0c2JkZTV4ZFB5MG9MR3RsLUZoaVY4M2RZV19NT3ZGREZMRzNuSnhJcHJPU0Rlb3E4MmtBSFc0M1dxcVl4Rl9XeDlNRzVtZVRkNndSUTdjbUo3S1VLRklhVllyWXdhaUNEYWM2NE5WUTFQZw?oc=5",
-   "source": "Bloomberg.com",
-   "tier": 1,
-   "published_utc": "2026-11-27T11:00:25Z",
-   "tickers": [],
-   "cats": [
-    "reg"
-   ],
-   "score": 5,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "0d291a27fb828535",
-   "title": "ECARX Announces US$20 million Share Repurchase Program",
-   "summary": "LONDON, Nov. 27, 2026 /PRNewswire/ -- ECARX Holdings Inc. (Nasdaq: ECX) (\"ECARX\" or the \"Company\"), a leading global automotive intelligence business, today announced its board of directors has authorized a share repurchase program under which the Company may repurchase up to US$20...",
-   "link": "https://www.prnewswire.com/news-releases/ecarx-announces-us20-million-share-repurchase-program-302951459.html",
-   "source": "PR Newswire",
-   "tier": 0,
-   "published_utc": "2026-11-27T11:00:00Z",
-   "tickers": [
-    "ECX"
-   ],
-   "cats": [],
-   "score": 2,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "bf4022e95c699841",
-   "title": "India Extends Pakistan Content Ban to First Netflix Series",
-   "summary": "Netflix’s first Pakistani original series may be unavailable in India in the latest fallout from political tensions between the nations after their brief armed conflict last year.",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-27/india-extends-pakistan-content-ban-to-first-netflix-series",
-   "source": "BBG",
-   "tier": 1,
-   "published_utc": "2026-11-27T10:59:12Z",
-   "tickers": [
-    "NFLX"
-   ],
-   "cats": [],
-   "score": 4,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "494769227a61d81d",
-   "title": "India Extends Pakistan Content Ban to First Netflix Series",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVVlnMF9VdUw3VE9Lazh1ZnF6WmRCVWljUngtTEh5RC1rSjZMMXZPOTRqQkV5ZU1nYkI1Y2RwWkNQNW0zNnRGNThpbEhGejdPWVZHQk9vSUNHWUhJVkx5OEZkMHZ5WTB3WXJra2lreEdOTERZa0NwNHRrTDhKSWZhN2E4S2JmME1TNkR1U19WVngxeEtoN1FBcTJ3S1lIREhLQzNEWHlrQ0RZamlHN0E?oc=5",
-   "source": "Bloomberg.com",
-   "tier": 1,
-   "published_utc": "2026-11-27T10:59:12Z",
-   "tickers": [
-    "NFLX"
-   ],
-   "cats": [],
-   "score": 4,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "9325036b799768f9",
-   "title": "India Extends Pakistan Content Ban to First Netflix Series",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzJxNkhfSlBkNVVES3VtV21xcTBZRHFBamVJRXFsZDF5NVEwN0o0d0hmTUMyNkhyNnc1QUxCbXVGTlVHNGF0R2VrZXJ0ZUpMb2Z1Q0ZpeUpvaFlHRHBkN1FsaXFZWU9qdXlsV0VGQ3R0RWJLTWNoRmVwalJPRXlKWkkzbGk3cmYteXVEbXV2UW5xcVhrSEdoQ01PUGgxTzVTN2xSenpHeHN5STl0NlQxOGcwMWd5dmxBMnNqVlhFdnM0dw?oc=5",
-   "source": "Bloomberg.com",
-   "tier": 1,
-   "published_utc": "2026-11-27T10:59:12Z",
-   "tickers": [
-    "NFLX"
-   ],
-   "cats": [],
-   "score": 4,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "23913a32aff6413a",
-   "title": "Burundi Blocks Election Bid by Incumbent President’s Main Rival",
-   "summary": "Burundi’s electoral agency has rejected Agathon Rwasa’s bid for the presidency, removing the main rival for incumbent Evariste Ndayishimiye at presidential elections scheduled for May.",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-27/burundi-blocks-election-bid-by-incumbent-president-s-main-rival",
-   "source": "BBG",
-   "tier": 1,
-   "published_utc": "2026-11-27T10:53:53Z",
-   "tickers": [],
-   "cats": [
-    "reg"
-   ],
-   "score": 5,
-   "link_is_redirect": false,
    "sec_filing": false
   }
  ]
