@@ -1,16 +1,66 @@
 {
- "updated_utc": "2026-11-27T06:31:06.970092Z",
+ "updated_utc": "2026-11-27T06:40:50.081881Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 884,
+  "fetched": 885,
   "new": 3,
-  "candidates": 25,
-  "judged": 0,
+  "candidates": 28,
+  "judged": 1,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "714c20e52a6b4216",
+   "title": "Michael Burry就人工智能热潮发出严厉警告， 英伟达 、甲骨文和Meta面临债务保险成本飙升",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005817017?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T06:31:28Z",
+   "tickers": [
+    "META",
+    "NVDA",
+    "ORCL"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "82db0c6682cb73ea",
+   "title": "路透社：美国政府曾鼓励委内瑞拉和伊拉克考虑退出 OPEC",
+   "summary": "深潮 TechFlow 消息，11 月 27 日，据路透社独家报道，特朗普政府今年早些时候曾鼓励委内瑞拉和伊拉克考虑退出石油输出国组织（OPEC），并阻止委内瑞拉向该组织缴纳年度会费。",
+   "link": "https://www.techflowpost.com/newsletter/147204/us-government-encouraged-venezuela-iraq-to-consider-leaving-opec",
+   "source": "TechFlow",
+   "tier": null,
+   "published_utc": "2026-11-27T06:30:39Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 2,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "0afb26d505312d19",
+   "title": "Thales in exclusive talks to buy controlling stake in laser tech firm Lumibird",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUWx3OUFLZDNDa1BWeXNvS0tMSFZoQlB0RExSRWstOXprSjRNRmljd0w4NlF2M202RUNsTlhuTjJpc3o1RmtrcmdVRnppaUQ2UWdFb0tQdC1DZ1EtYmk2Nk1teVVnZEtlTXhuM2N1cjdkVHNtNGtzOGdVcl9nbVdGSVdOd3J3MnBjWHdabHBXMmFHNjc3Q2pKZFI0OXdCaHF6cm1DNWVkXzlqWnIxX3lKYi1OU2t0TTlTU29CT1gxLXZvRWlTRWhTcEhXbFc?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T06:28:00Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
   {
    "id": "ebbf94131aeb8158",
    "title": "美股夜盘AI链全线狂飙！三倍做多半导体ETF暴涨超17%，闪迪涨超10%，美光、迈威尔涨超7%",
@@ -1540,22 +1590,6 @@
     "mna"
    ],
    "score": 2,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "1beadd7bca17a300",
-   "title": "Trump doubles down on his tariff agenda",
-   "summary": "New import levies on 14 partners defy voters and add to price pressures Donald Trump",
-   "link": "https://www.ft.com/content/17a849f1-7e64-4f56-b756-ccf12662ebff?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss",
-   "source": "FT",
-   "tier": 1,
-   "published_utc": "2026-11-26T18:31:18Z",
-   "tickers": [],
-   "cats": [
-    "reg"
-   ],
-   "score": 5,
    "link_is_redirect": false,
    "sec_filing": false
   }
