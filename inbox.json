@@ -1,16 +1,32 @@
 {
- "updated_utc": "2026-11-27T17:50:47.185285Z",
+ "updated_utc": "2026-11-27T18:01:24.518604Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 833,
-  "new": 2,
-  "candidates": 22,
-  "judged": 2,
+  "fetched": 818,
+  "new": 1,
+  "candidates": 20,
+  "judged": 0,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "44ff058bfd04f7a4",
+   "title": "Inside China’s $4 Billion Secondhand Luxury Boom",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbzVHRDRwRnZ5U05jWElRYktndWdLQmJOOUN0M1R0dTBhcms5cG9yV013d292MzcwWmF5ZXl6bVlYTVpOUDJXbUptYXNhWExWNzVmNm85cTM0MXd2Zl91WW5fQmsyaVZPM3dwVmJOdnl5SnhYZUpzbkFFSEY0Qno2MXJPOTVYVFRDWTMzdHBxUU9PSWJtamgybzVkMUVwYnNEVk1BS3k4Y19tc3VKTVE?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T17:48:24Z",
+   "tickers": [],
+   "cats": [
+    "deal"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
   {
    "id": "0259e5e31bf6b19b",
    "title": "美股盘中：纳指涨约 1.8%，闪迪涨约 13%，英伟达由涨转跌",
@@ -3581,22 +3597,6 @@
    ],
    "score": 4,
    "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "d9b08d35daffad3c",
-   "title": "美银： 台积电 拟布局美国第二座先进晶圆厂，维持买入评级",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005813083?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T05:51:55Z",
-   "tickers": [
-    "TSM"
-   ],
-   "cats": [],
-   "score": -3,
-   "link_is_redirect": false,
    "sec_filing": false
   }
  ]
