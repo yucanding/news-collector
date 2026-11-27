@@ -1,16 +1,32 @@
 {
- "updated_utc": "2026-11-27T07:31:07.577134Z",
+ "updated_utc": "2026-11-27T07:40:47.718019Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
   "fetched": 866,
-  "new": 2,
-  "candidates": 26,
-  "judged": 0,
+  "new": 1,
+  "candidates": 27,
+  "judged": 1,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "a61c03aa4eb9efb1",
+   "title": "U.K. Regulator Says McCormick Sale of Colman’s Could Address Unilever Foods Merger Concerns",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUUxrNTF0T3pFbVNJeU1tMVJLRWtjc0F0WnktOFA3c0FQRlRsSG5mUWxQUzNoSjBLdldCWnZXSXV4TkZGZ2w3Z3I2elFqZkVvbHdBNG80UEJucmFiZU5lNEFqNUYxRFJPcXVOdDd6TmNUY2plV3dhRG9aeVdYY3JHcG9KbjhNRGJNc19LRFJMSUpXdW5ldzZsVGZ2QWNGcFZiVkxDT1NfYWJKM3NEd0hrYW9lNExUTm5JdE9hLVFWSkNJNkVQR1RlS3J1NlYzMDQ?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T07:31:50Z",
+   "tickers": [],
+   "cats": [
+    "mna"
+   ],
+   "score": 6,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
   {
    "id": "a4ad02c9fc75a14b",
    "title": "Two Years After Trump’s Tariff Declaration, Canada Tries to Move On",
