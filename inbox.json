@@ -1,16 +1,48 @@
 {
- "updated_utc": "2026-11-27T13:01:20.200899Z",
+ "updated_utc": "2026-11-27T13:10:51.781210Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 894,
-  "new": 4,
-  "candidates": 54,
-  "judged": 1,
+  "fetched": 886,
+  "new": 5,
+  "candidates": 58,
+  "judged": 3,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "59049db6b7768cde",
+   "title": "Exclusive | Swiss Bourse to Launch IPO Academy in Bid to Encourage European Listings",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVlRCT294bXVBblotT1NYMkZacExkM1hyS3htRTZ6UWdzSGxZVmdJMEhKbGRFS3hRT1dsbDdINUEzY1RYdUxDQ3Awa1QwZzVPeG93QS00UjVlb1R1NWZrTmFDSFNNUW5vRE5GWHVqVFFGLUl0WENuelRJNld4VGpSNkJ4R1ppbnhZTEtTUHV5WTFZNlZXaU54cEtXQnJfR2N1MVNfTXBXSGt6c2Nha3c?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T13:06:49Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "55b1be46c06aa503",
+   "title": "摩根大通研报：小米三季报小幅超预期，仍缺强催化剂，关注汽车欧洲出海",
+   "summary": "深潮 TechFlow 消息，11 月 25 日，据潮向研究，摩根大通分析师 Gokul Hariharan 团队于 2026 年 11 月 25 日发布研报，维持小米集团（1810.HK）「中性」评级及 2027 年 6 月目标价 32.00 港元（较 11 月 24 日收盘价 26.50 港元存在 20.8%潜在上涨空间）。小米 2026 年三季度调整后 EPS 为 0.19 元人民币，小幅跑赢市场一致预期，其中智能手机 ASP 同比大增 40%推动手机毛利率升至 9.2%。 不过，受 DRAM 内存价格持续上涨（预计高位延续至 2028 年上半年）及国内 IoT 需求偏弱拖累，摩根大通预计 2027 年小米核心业务营收仅增长 5%，智能手机出货量微降约 1%。汽车业务成为主要亮点，SkyNomad N90 热销带动四季度交付量预计达 16.5 万辆，且公司在德国设立研发中心并签约八家头部经销商，预计 2027 年下半年启动欧洲交付。",
+   "link": "https://www.techflowpost.com/newsletter/147263/jpmorgan-xiaomi-q3-2026-neutral-tp-32",
+   "source": "TechFlow",
+   "tier": null,
+   "published_utc": "2026-11-27T13:03:25Z",
+   "tickers": [
+    "JPM"
+   ],
+   "cats": [],
+   "score": 2,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "b728f44311302b82",
    "title": "Daewoong Pharmaceutical Unveils PK/PD Model to Guide Dosing of Investigational Autoimmune Drug 'Plodicitinib'",
@@ -28,6 +60,22 @@
    "sec_filing": false
   },
   {
+   "id": "b81880eeb87d1fe7",
+   "title": "He was a Hallmark Greeting Card Typesetter. Now He’s Running the Brand.",
+   "summary": "Darren Abbott is signing deals with Disney and the NFL and airing a record number of Christmas movies. Don’t expect a revamp of the squeaky-clean brand.",
+   "link": "https://www.wsj.com/cmo-today/he-was-a-hallmark-greeting-card-typesetter-now-hes-running-the-brand-81153956?mod=pls_whats_news_us_business_f",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T13:00:00Z",
+   "tickers": [
+    "DIS"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
    "id": "63600f9a4a054d54",
    "title": "盘前期权异动： 美国超微公司 盘前上涨5.1%，现最高成交额的看涨期权涨跌幅为+77%，成交量达到45张",
    "summary": "",
@@ -40,6 +88,22 @@
    ],
    "cats": [],
    "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "32fb2a22e701d3f2",
+   "title": "Centrica Issues Jobs Warning as UK Rejects Deal on Gas Storage",
+   "summary": "Centrica Plc told staff it’s seeking urgent talks with the UK government after the latter rejected a short-term arrangement for supporting its biggest gas storage site this winter, placing jobs at risk.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/centrica-issues-jobs-warning-as-uk-rejects-deal-on-gas-storage",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T12:57:01Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
    "link_is_redirect": false,
    "sec_filing": false
   },
@@ -282,6 +346,22 @@
    ],
    "score": 5,
    "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "28616023bd7313bb",
+   "title": "Deutsche Boerse’s €5.3 billion Allfunds Bid Gets EU Approval",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS0RzR3hybnJfQVRzQXRkU0hxMXpjRFkyYkRMVVVKY2M0QWxZTlh6MEduRUpwTHlSblE0aHFwaVBQM0FPNXM5TDRCR3NiU1ZVWkpPaGZjMktvMEV3TUhaRktaWm9GZURKQUJGei1QQkh3emU0cEM1WW5XRGlPNng2SVY3UWROa1VzbVNqd2xHNGpqbDdaalVwSTdKa3p1ME5iT0VsNDdXVlVJQTJjNXBnSw?oc=5",
+   "source": "Bloomberg.com",
+   "tier": 1,
+   "published_utc": "2026-11-27T12:28:09Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -729,6 +809,22 @@
    "sec_filing": false
   },
   {
+   "id": "b64ef0264dd9a689",
+   "title": "Two Chinese firms installed the high-end NVIDIA Blackwell GPUs at the Shanghai site $NVDA",
+   "summary": "",
+   "link": "https://www.financialjuice.com/News/9870527/Two-Chinese-firms-installed-the-high-end-NVIDIA-Blackwell-GPUs-at-the-Shanghai-site-NVDA.aspx",
+   "source": "FinancialJuice",
+   "tier": 3,
+   "published_utc": "2026-11-27T11:44:10Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
    "id": "9b44e6438cd8faf4",
    "title": "Deutsche Boerse wins EU antitrust approval for Allfunds acquisition",
    "summary": "",
@@ -809,22 +905,6 @@
    ],
    "score": 7,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "28616023bd7313bb",
-   "title": "Deutsche Boerse’s €5.3 billion Allfunds Deal Gets EU Approval",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS0RzR3hybnJfQVRzQXRkU0hxMXpjRFkyYkRMVVVKY2M0QWxZTlh6MEduRUpwTHlSblE0aHFwaVBQM0FPNXM5TDRCR3NiU1ZVWkpPaGZjMktvMEV3TUhaRktaWm9GZURKQUJGei1QQkh3emU0cEM1WW5XRGlPNng2SVY3UWROa1VzbVNqd2xHNGpqbDdaalVwSTdKa3p1ME5iT0VsNDdXVlVJQTJjNXBnSw?oc=5",
-   "source": "Bloomberg.com",
-   "tier": 1,
-   "published_utc": "2026-11-27T11:30:00Z",
-   "tickers": [],
-   "cats": [
-    "reg"
-   ],
-   "score": 5,
-   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -3230,38 +3310,6 @@
    ],
    "cats": [],
    "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "dd743b3e635955a2",
-   "title": "铠侠与 英伟达 将GPU内存扩展至PB级，以支持AI工作负载",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005789246?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T01:10:20Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "bfffeb24feaf09b3",
-   "title": "谷歌云文档显示已支持开源模型蒸馏微调",
-   "summary": "深潮 TechFlow 消息，11 月 27 日，据谷歌云（Google Cloud）Gemini Enterprise Agent Platform 官方文档，该平台已提供开源模型蒸馏微调（Distillation fine-tuning）服务，支持开发者通过 GenAI SDK 指定大型教师模型生成响应，以微调体量更小的学生模型。 文档显示，当前蒸馏微调支持的教师模型为 GLM 5.2 MaaS（zai-org/glm-5.2-maas），支持的学生模型涵盖 Qwen 3 系列（4B、8B、14B、32B）以及 Gemma 3 系列（1B IT、4B IT、12B IT、27B IT）。 谷歌云在文档中介绍，蒸馏微调适用于将强推理教师模型的思维链与复杂多步推理能力迁移至小模型，典型场景包括数学与定量推理，以及科学、医疗等专业领域问答。计费方面，用户需按微调训练 Token 数量付费，并按托管模型（MaaS）定价支付调用教师模型生成响应的 API 费用。",
-   "link": "https://www.techflowpost.com/newsletter/147153/google-cloud-open-source-model-distillation-glm-5-2-qwen-3-gemma-3",
-   "source": "TechFlow",
-   "tier": null,
-   "published_utc": "2026-11-27T01:04:12Z",
-   "tickers": [
-    "GOOGL"
-   ],
-   "cats": [],
-   "score": 2,
    "link_is_redirect": false,
    "sec_filing": false
   }
