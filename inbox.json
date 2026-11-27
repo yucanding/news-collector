@@ -1,19 +1,19 @@
 {
- "updated_utc": "2026-11-27T18:40:47.687007Z",
+ "updated_utc": "2026-11-27T18:50:47.437101Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 818,
-  "new": 4,
-  "candidates": 29,
+  "fetched": 828,
+  "new": 1,
+  "candidates": 28,
   "judged": 1,
   "pushed": 0
  },
  "items": [
   {
    "id": "17c7422911504476",
-   "title": "美国股指上涨，黄仁勋重返 英伟达 为人工智能交易保驾护航，而投资者本周正削减成长型资产敞口。",
+   "title": "随着黄仁勋重返 英伟达 ，美股股指走高，为人工智能交易保驾护航；与此同时，投资者本周纷纷削减成长型资产敞口。",
    "summary": "",
    "link": "https://news.futunn.com/post/1005873722?futusource=news_search_searchnews&src=39",
    "source": "futu",
@@ -73,6 +73,22 @@
    "cats": [],
    "score": 4,
    "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "9771bb308c876ad9",
+   "title": "Trump’s Nvidia intervention has a cost for US stocks",
+   "summary": "Political meddling has already rubbed some of the gloss off the dollar and US Treasuries. Now it is hitting equities Donald Trump",
+   "link": "https://www.ft.com/content/3318a827-bf20-4826-947d-9327381c3c10?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss",
+   "source": "FT",
+   "tier": 1,
+   "published_utc": "2026-11-27T18:26:25Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": false,
    "sec_filing": false
   },
   {
@@ -288,6 +304,22 @@
    "sec_filing": false
   },
   {
+   "id": "44ff058bfd04f7a4",
+   "title": "Inside China’s $4 Billion Secondhand Luxury Boom",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbzVHRDRwRnZ5U05jWElRYktndWdLQmJOOUN0M1R0dTBhcms5cG9yV013d292MzcwWmF5ZXl6bVlYTVpOUDJXbUptYXNhWExWNzVmNm85cTM0MXd2Zl91WW5fQmsyaVZPM3dwVmJOdnl5SnhYZUpzbkFFSEY0Qno2MXJPOTVYVFRDWTMzdHBxUU9PSWJtamgybzVkMUVwYnNEVk1BS3k4Y19tc3VKTVE?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T17:52:12Z",
+   "tickers": [],
+   "cats": [
+    "deal"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
    "id": "a11a11d8f725fdbe",
    "title": "Fan violence at Europa League matches prompts investigations and condemnation",
    "summary": "",
@@ -298,22 +330,6 @@
    "tickers": [],
    "cats": [
     "reg"
-   ],
-   "score": 5,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "44ff058bfd04f7a4",
-   "title": "Inside China’s $4 Billion Secondhand Luxury Boom",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbzVHRDRwRnZ5U05jWElRYktndWdLQmJOOUN0M1R0dTBhcms5cG9yV013d292MzcwWmF5ZXl6bVlYTVpOUDJXbUptYXNhWExWNzVmNm85cTM0MXd2Zl91WW5fQmsyaVZPM3dwVmJOdnl5SnhYZUpzbkFFSEY0Qno2MXJPOTVYVFRDWTMzdHBxUU9PSWJtamgybzVkMUVwYnNEVk1BS3k4Y19tc3VKTVE?oc=5",
-   "source": "WSJ",
-   "tier": 1,
-   "published_utc": "2026-11-27T17:48:24Z",
-   "tickers": [],
-   "cats": [
-    "deal"
    ],
    "score": 5,
    "link_is_redirect": true,
@@ -2498,7 +2514,7 @@
   {
    "id": "ff1052c47766e5b9",
    "title": "Canada to Put Billions More Toward Tariff-Hit Softwood Lumber Sector",
-   "summary": "Canada will unveil a plan to aid its softwood lumber producers, one of several sectors pummeled by US President Donald Trump’s tariffs.",
+   "summary": "Canada unveiled a plan to aid its softwood lumber producers, one of several sectors pummeled by US President Donald Trump’s tariffs.",
    "link": "https://www.bloomberg.com/news/articles/2026-11-27/canada-to-put-billions-more-toward-tariff-hit-softwood-lumber-sector",
    "source": "BBG",
    "tier": 1,
@@ -3710,22 +3726,6 @@
    ],
    "score": 4,
    "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "76a8a7a4f6bf3e3d",
-   "title": "Vietnam Expects to Sign US Trade Deal to Limit Tariff Hit",
-   "summary": "Vietnam expects to sign a trade deal with the US that will result in a significantly lower final tariff rate as the two countries inch closer to a reciprocal trade agreement.",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-27/vietnam-expects-to-sign-us-trade-deal-to-limit-tariff-hit",
-   "source": "BBG",
-   "tier": 1,
-   "published_utc": "2026-11-27T06:44:25Z",
-   "tickers": [],
-   "cats": [
-    "reg"
-   ],
-   "score": 5,
-   "link_is_redirect": false,
    "sec_filing": false
   }
  ]
