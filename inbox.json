@@ -1,16 +1,48 @@
 {
- "updated_utc": "2026-11-27T08:40:46.888800Z",
+ "updated_utc": "2026-11-27T08:50:46.779643Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 853,
-  "new": 2,
-  "candidates": 24,
-  "judged": 0,
-  "pushed": 0
+  "fetched": 860,
+  "new": 4,
+  "candidates": 29,
+  "judged": 2,
+  "pushed": 1
  },
  "items": [
+  {
+   "id": "9e07936a80bd9973",
+   "title": "Uber Secures Approximately 87% of Delivery Hero Shares Following End of Additional Acceptance Period",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVTVzR1VqTXVtSlVlWnlWMDd1dGlkX1ZfMDVxTXhmai0xTlRzS1RYYV8wazFUbUM2cHFFc0oxZjVyLUR0MjJGQk8zLUxRUlhUOFhkOUpPLUFYQ055bHA0eV9hNTFsZFNZS3ptZ00zSl9nQXcwUm80bGE3TmRheUlSOTRUT0xNMG1tVV9yamR1R1BoODRfV0J5VXo4SjE4RmxnTzlhU19n?oc=5",
+   "source": "Financial Times",
+   "tier": 1,
+   "published_utc": "2026-11-27T08:45:00Z",
+   "tickers": [
+    "UBER"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "2d55422b7622be8d",
+   "title": "Uber Secures Approximately 87% of Delivery Hero Shares Following End of Additional Acceptance Period",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQYXVHQjRycWRwN1Y1ek9QazN4QndIY1UtQjZkcVhzQUlqdmtUYnZVSXFIRGVSemJpa3dtaTR0enVoQUtoY0UxVTRyOE42VXZId1V5ZDh1a3JMeFc5WUY2RklfclVPSkdpNFR3a0tIbUl3Z1B0MHRoNmxkR2hYYkRUbUlZeE5ZazVfLVozMVJnRjBHbk1vWWxYMURPTVhVZV9XMEw0X1Y1V2ZUQ1hGQjE2Q3VjUW1Kam92V2t6eWlTVkVFR0xnWGItUWNURE56dGZjcG5EeURiaGR1YUU3ZE1NZ1hGQzl3Z1R2dVdhQw?oc=5",
+   "source": "Business Wire",
+   "tier": 0,
+   "published_utc": "2026-11-27T08:45:00Z",
+   "tickers": [
+    "UBER"
+   ],
+   "cats": [],
+   "score": 3,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
   {
    "id": "5fb8473282eeebf0",
    "title": "彭博社：英伟达恢复黄仁勋首席执行官职务",
@@ -84,7 +116,7 @@
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVGVQZnkyVFhEUG1rQW1qbXlISzVIQ3hSRkxlaTFvVkR2RnBCUllrX09nTTN4Rk5hU2tldjZkUkpXZlllNkZLc2lRWGNjYzFCbEV4eGRMV0ZrZ2ljRS0wT1Naa3hrdzd3V0IwVFg0U1JGTGJ1V3luNlVLX3praTFqSVdIOFRBX0VkaUJObTZHdEdGQmMteTFPMnNPb01KUEx0WjFhUTBDSGV3Rm55UnFlVmlnR2dHQlREMF96azZLRFYxQldQOUp0RS01ZTRJX3ZsZnc?oc=5",
    "source": "Reuters",
    "tier": 1,
-   "published_utc": "2026-11-27T08:18:41Z",
+   "published_utc": "2026-11-27T08:19:44Z",
    "tickers": [],
    "cats": [
     "scoop"
@@ -174,6 +206,39 @@
    "sec_filing": false
   },
   {
+   "id": "a3df21edaed5371b",
+   "title": "亚马逊 与Meta磋商解除Muse封锁，广告与搜索成核心分歧",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005831608?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T08:00:00Z",
+   "tickers": [
+    "AMZN",
+    "META"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "fff0d78471bc9379",
+   "title": "Japan Tobacco Climbs on Potential Imperial Brands Takeover",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUnVvTDRiN0xxaEpYclBWdVdsczVJNkJhM1dMZ3l3WUpySXRmaEJicXVuQm5kUW01MG9qYjFhZUVpa3JZMjllUWZ3N1BaTlZWR0d0ck9XUXF0dXFKeHlELWNIWlV2NVdQc3F5R0tRRGlyb0JmRlRYcE1UMWpLNDdoanFxSTJVeHlEcnZDc1RDcEJQV0tTdjQ1OEx6N2hhZEhTV2Joc2dtQi1FR20tc3dkcWNsY0x3Zw?oc=5",
+   "source": "Bloomberg.com",
+   "tier": 1,
+   "published_utc": "2026-11-27T07:48:00Z",
+   "tickers": [],
+   "cats": [
+    "mna"
+   ],
+   "score": 6,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
    "id": "cdd9e7ab869e537f",
    "title": "Pay Policy at South Africa’s Momentum Passes With 51% Support",
    "summary": "Shareholders in Momentum Group Ltd. narrowly approved the South African insurer’s remuneration policy as new rules give investors in the nation’s firms greater say over compensation.",
@@ -234,6 +299,22 @@
     "mna"
    ],
    "score": 6,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "03bf4afe8fa08087",
+   "title": "Cyberattacks on Tankers Raise Fears of Iranian Disruption to Shipping, Ports",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMG1nckdYQWlZWG5JX04wT0dMWHZnZVdzSndhRk5BcXJLRXpyVUh2UmExdi1MSnBNX19IWDJOWVJQWjhtZlhESkNkRVhILWhXWlV0aGJ1MXZaOGpJZF9GWGtpT194UEtIMzFQSlBTbUdsWEJ5ZVJVN240T20yYUVwa2tkX1B1WEFyRDh1UEZUdkNGUFkwNnBKbE9GaTh2dkFXMnV1TVRnSHJTOC1EQ0l1R1FxWnh1bmotXzhhY05B?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T07:27:21Z",
+   "tickers": [],
+   "cats": [
+    "incident"
+   ],
+   "score": 5,
    "link_is_redirect": true,
    "sec_filing": false
   },
@@ -299,6 +380,22 @@
    "cats": [],
    "score": 1,
    "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "7a64e5d25b7f0ace",
+   "title": "Starbucks Japan’s Enduring Popularity Stands Out Amid Global Struggles",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX3RPWTBOYW0taWZXZlRJZXhqTWN6YUtxVEM5cmc5SDRoRUdrVnk0eVhONGhOdFZ1TnRZbnBCZDlvM183NF9kM01SaE9WVXFWeTR4UVo3MG9fQ2IzbkRjOXVzbGRGOGNDVGRGWlBNbkZNQ2QwNVR2cVlsWWZwRko0LUdld1V1Wi03QkViV0tlSHlpTExaZFhFczd4akV1YV9RR29HZzNnYXl5d29oRVhrbVdyZlFOdTlpdHc?oc=5",
+   "source": "Bloomberg.com",
+   "tier": 1,
+   "published_utc": "2026-11-27T07:06:56Z",
+   "tickers": [
+    "SBUX"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -644,22 +741,6 @@
    "cats": [],
    "score": 4,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "7a64e5d25b7f0ace",
-   "title": "Starbucks Japan’s Enduring Popularity Stands Out Amid Global Struggles",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX3RPWTBOYW0taWZXZlRJZXhqTWN6YUtxVEM5cmc5SDRoRUdrVnk0eVhONGhOdFZ1TnRZbnBCZDlvM183NF9kM01SaE9WVXFWeTR4UVo3MG9fQ2IzbkRjOXVzbGRGOGNDVGRGWlBNbkZNQ2QwNVR2cVlsWWZwRko0LUdld1V1Wi03QkViV0tlSHlpTExaZFhFczd4akV1YV9RR29HZzNnYXl5d29oRVhrbVdyZlFOdTlpdHc?oc=5",
-   "source": "Bloomberg.com",
-   "tier": 1,
-   "published_utc": "2026-11-27T05:42:00Z",
-   "tickers": [
-    "SBUX"
-   ],
-   "cats": [],
-   "score": 4,
-   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -1425,22 +1506,6 @@
     "deal"
    ],
    "score": 7,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "fff0d78471bc9379",
-   "title": "Japan Tobacco Shares Climb on Potential Imperial Brands Takeover",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUnVvTDRiN0xxaEpYclBWdVdsczVJNkJhM1dMZ3l3WUpySXRmaEJicXVuQm5kUW01MG9qYjFhZUVpa3JZMjllUWZ3N1BaTlZWR0d0ck9XUXF0dXFKeHlELWNIWlV2NVdQc3F5R0tRRGlyb0JmRlRYcE1UMWpLNDdoanFxSTJVeHlEcnZDc1RDcEJQV0tTdjQ1OEx6N2hhZEhTV2Joc2dtQi1FR20tc3dkcWNsY0x3Zw?oc=5",
-   "source": "Bloomberg.com",
-   "tier": 1,
-   "published_utc": "2026-11-27T02:03:00Z",
-   "tickers": [],
-   "cats": [
-    "mna"
-   ],
-   "score": 6,
    "link_is_redirect": true,
    "sec_filing": false
   },

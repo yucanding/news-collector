@@ -117,6 +117,17 @@
    "event": "法官发布初步禁令，阻止联邦通信委员会针对迪士尼旗下地方ABC牌照进行目标审查",
    "event_key": "dis|regulatory|fcc",
    "delivery": "ok"
+  },
+  "2d55422b7622be8d": {
+   "utc": "2026-11-27T08:51:55.179642Z",
+   "published_utc": "2026-11-27T08:45:00Z",
+   "title": "Uber Secures Approximately 87% of Delivery Hero Shares Following End of Additional Acceptance Period",
+   "tickers": [
+    "UBER"
+   ],
+   "event": "优步（Uber）在额外接受期结束后已获得 Delivery Hero 约 87% 的股份",
+   "event_key": "uber|mna|delivery_hero",
+   "delivery": "ok"
   }
  },
  "pending": {}
