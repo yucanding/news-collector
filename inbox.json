@@ -1,16 +1,48 @@
 {
- "updated_utc": "2026-11-27T19:20:49.269955Z",
+ "updated_utc": "2026-11-27T19:31:18.663125Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 801,
-  "new": 0,
+  "fetched": 817,
+  "new": 4,
   "candidates": 35,
-  "judged": 0,
+  "judged": 1,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "51e81088132231d8",
+   "title": "Puig agrees to buy 75% stake in perfume group Artessence in deal valuing it at $1.9 billion",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQR0hlSDU3ZzhTM1JDY2MxREZMRjM2NFhQTm5fSG14Zmp0SFQwUFhSSTRtS25rQllOU29QZy1fZ2tmcGlGZU1rOC1FQUkteE8teXg5UUoxTmdCLXM0LUNtT2dZT29CQ1VVMkFianB6SFhQZnFDN0dhaFJ1WU5vTW5Cd0ZrZnpwOFRxQ1c2blJhRkZMcDE0X08wOFlqWllOR3lxdkxqLUM3T1kyM2syUFA2cTFPOThMamtsVmc?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T19:23:43Z",
+   "tickers": [],
+   "cats": [
+    "deal"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "7f14a0857b2e6e30",
+   "title": "Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOajRDYnpkT2kwWEdlR2REeG93cnBZdkdsYmo3dTFmaVp3enZYN3Jid0RYVWZwNXJvcE00OG5FNjdwd0MzQXpFV1gzeUxkdnhxTVNoaGVNRmpnRllMTGY4emNtNW9VYnc4RWZVX0I2WExQNy1Ha21aV0FNWWVUb0FacnFLM01rUWRudjBCdGJpbGxCVUx3dl9KMEtZb0pyYURCTG1iWW5xUmNpaDlnc0lsMVpldmV6QQ?oc=5",
+   "source": "Bloomberg.com",
+   "tier": 1,
+   "published_utc": "2026-11-27T19:18:51Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
   {
    "id": "ca8a12fbb7f0f16f",
    "title": "EXCLUSIVE: Russian military flotilla bound for Libya turns around after warship sunk on November 22, sources say",
@@ -23,6 +55,22 @@
    "cats": [
     "scoop"
    ],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "a628d6d44d92ebff",
+   "title": "OpenAI countersues Apple for stealing trade secrets",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0FibW0xZFFBUlJ2MGJkd0NEcWZtRzkzUkdWcFl1VnlRN2dRMkpjWHpKVXlIekttSno1b1RMeWxJN2dtU0ZlS085Y1ZqTkpfM2Jaci13RUdMNFVPOWtqRldaazVrX25mMExUSkU0SmJRcHJsdnZxMWJXU05MNXFzc211YzlXNzMwRTVUM1k1MW5RQTdHbnRpU1p6Y2hQMFE0UnVBSk45eHg?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T19:12:19Z",
+   "tickers": [
+    "AAPL"
+   ],
+   "cats": [],
    "score": 4,
    "link_is_redirect": true,
    "sec_filing": false
@@ -57,6 +105,22 @@
    "cats": [],
    "score": 4,
    "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "b2105d58844af1fa",
+   "title": "Why This Is a Terrible Time for New Tariffs",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSmY2QkZWVXlnUWxyNmZKSUtCcGNQbnJkWHk1QV9xMDdjUmptZjlIc0dUOGFlMm9oLVlMNWxGVVRYT3lCeEQ4ZW1zaGx2RlJPbURkWDdHdjhJd0RLbDBrRTNud05sUlhvMXpncnF6VTltNXhpSW1ualE4SGFjbUI0RWdwOUE2Mlk?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T19:01:41Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -120,22 +184,6 @@
     "deal"
    ],
    "score": 5,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "a628d6d44d92ebff",
-   "title": "OpenAI countersues Apple for stealing trade secrets, FT reports",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0FibW0xZFFBUlJ2MGJkd0NEcWZtRzkzUkdWcFl1VnlRN2dRMkpjWHpKVXlIekttSno1b1RMeWxJN2dtU0ZlS085Y1ZqTkpfM2Jaci13RUdMNFVPOWtqRldaazVrX25mMExUSkU0SmJRcHJsdnZxMWJXU05MNXFzc211YzlXNzMwRTVUM1k1MW5RQTdHbnRpU1p6Y2hQMFE0UnVBSk45eHg?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T18:42:20Z",
-   "tickers": [
-    "AAPL"
-   ],
-   "cats": [],
-   "score": 4,
    "link_is_redirect": true,
    "sec_filing": false
   },
@@ -252,6 +300,22 @@
    "sec_filing": false
   },
   {
+   "id": "54ceb3be4abc1c86",
+   "title": "OpenAI countersues Apple for stealing trade secrets - FT. $AAPL",
+   "summary": "",
+   "link": "https://www.financialjuice.com/News/9870926/OpenAI-countersues-Apple-for-stealing-trade-secrets---FT-AAPL.aspx",
+   "source": "FinancialJuice",
+   "tier": 3,
+   "published_utc": "2026-11-27T18:23:15Z",
+   "tickers": [
+    "AAPL"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
    "id": "d78a8186010e2900",
    "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
    "summary": "Budget carrier Norse Atlantic filed for bankruptcy Friday, saying it failed to secure funding after soaring fuel costs strained the company's operations.",
@@ -263,6 +327,22 @@
    "cats": [
     "incident"
    ],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "ccd37c3bfd11d0db",
+   "title": "OpenAI countersues Apple for stealing trade secrets",
+   "summary": "The ChatGPT maker also accuses the tech giant of ‘coercing and threatening’ suppliers who work with both companies, as legal battle escalates",
+   "link": "https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4?syn-25a6b1a6=1",
+   "source": "FT",
+   "tier": 1,
+   "published_utc": "2026-11-27T18:20:05Z",
+   "tickers": [
+    "AAPL"
+   ],
+   "cats": [],
    "score": 4,
    "link_is_redirect": false,
    "sec_filing": false
@@ -505,22 +585,6 @@
     "mna"
    ],
    "score": 6,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "b2105d58844af1fa",
-   "title": "Why This Is a Terrible Time for New Tariffs",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSmY2QkZWVXlnUWxyNmZKSUtCcGNQbnJkWHk1QV9xMDdjUmptZjlIc0dUOGFlMm9oLVlMNWxGVVRYT3lCeEQ4ZW1zaGx2RlJPbURkWDdHdjhJd0RLbDBrRTNud05sUlhvMXpncnF6VTltNXhpSW1ualE4SGFjbUI0RWdwOUE2Mlk?oc=5",
-   "source": "WSJ",
-   "tier": 1,
-   "published_utc": "2026-11-27T17:31:41Z",
-   "tickers": [],
-   "cats": [
-    "reg"
-   ],
-   "score": 5,
    "link_is_redirect": true,
    "sec_filing": false
   },
@@ -1599,6 +1663,22 @@
    "sec_filing": false
   },
   {
+   "id": "723b7a12757b7e05",
+   "title": "The EU weighs tighter export controls to prevent battery waste going to China - FT.",
+   "summary": "",
+   "link": "https://www.financialjuice.com/News/9870623/The-EU-weighs-tighter-export-controls-to-prevent-battery-waste-going-to-China---FT.aspx",
+   "source": "FinancialJuice",
+   "tier": 3,
+   "published_utc": "2026-11-27T13:28:05Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 2,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
    "id": "c1f3c275b70d2b6d",
    "title": "EU weighs tighter export controls to prevent battery waste going to China",
    "summary": "‘Black mass’ containing key minerals is often processed abroad and the extracted metals re-exported to Europe",
@@ -2065,7 +2145,7 @@
   },
   {
    "id": "76402cdab7271688",
-   "title": "市场传闻：黑客入侵由微软、 亚马逊 、甲骨文和Alphabet提供支持的美国空军云平台",
+   "title": "市场传闻：黑客入侵由 微软 、亚马逊、甲骨文和Alphabet提供支持的美国空军云平台",
    "summary": "",
    "link": "https://news.futunn.com/post/1005853439?futusource=news_search_searchnews&src=39",
    "source": "futu",
@@ -2376,22 +2456,6 @@
    "cats": [],
    "score": 4,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "7f14a0857b2e6e30",
-   "title": "Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOajRDYnpkT2kwWEdlR2REeG93cnBZdkdsYmo3dTFmaVp3enZYN3Jid0RYVWZwNXJvcE00OG5FNjdwd0MzQXpFV1gzeUxkdnhxTVNoaGVNRmpnRllMTGY4emNtNW9VYnc4RWZVX0I2WExQNy1Ha21aV0FNWWVUb0FacnFLM01rUWRudjBCdGJpbGxCVUx3dl9KMEtZb0pyYURCTG1iWW5xUmNpaDlnc0lsMVpldmV6QQ?oc=5",
-   "source": "Bloomberg.com",
-   "tier": 1,
-   "published_utc": "2026-11-27T11:45:46Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [],
-   "score": 4,
-   "link_is_redirect": true,
    "sec_filing": false
   },
   {
