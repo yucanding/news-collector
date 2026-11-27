@@ -128,6 +128,17 @@
    "event": "优步（Uber）在额外接受期结束后已获得 Delivery Hero 约 87% 的股份",
    "event_key": "uber|mna|delivery_hero",
    "delivery": "ok"
+  },
+  "e2cf9516a6734508": {
+   "utc": "2026-11-27T09:33:56.862271Z",
+   "published_utc": "2026-11-27T09:22:07Z",
+   "title": "SAP seeks to cut sizeable number of jobs, sources say",
+   "tickers": [
+    "SAP"
+   ],
+   "event": "据路透社援引知情人士报道，SAP 正寻求裁减相当数量的工作岗位",
+   "event_key": "sap|management|layoffs",
+   "delivery": "ok"
   }
  },
  "pending": {}
