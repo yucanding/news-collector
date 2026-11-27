@@ -1,16 +1,48 @@
 {
- "updated_utc": "2026-11-27T18:31:08.158833Z",
+ "updated_utc": "2026-11-27T18:40:47.687007Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 822,
-  "new": 5,
-  "candidates": 28,
+  "fetched": 818,
+  "new": 4,
+  "candidates": 29,
   "judged": 1,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "17c7422911504476",
+   "title": "美国股指上涨，黄仁勋重返 英伟达 为人工智能交易保驾护航，而投资者本周正削减成长型资产敞口。",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005873722?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T18:39:02Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "74096bb7b6709422",
+   "title": "OpenAI反诉 苹果 窃取商业机密",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005873589?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T18:31:08Z",
+   "tickers": [
+    "AAPL"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "fb5bd31e3dd12c8e",
    "title": "期权异动午盘速睇： AAPL 、ANT等期权交易激增， AAPL 成交持仓比达625.3",
@@ -25,6 +57,38 @@
    "cats": [],
    "score": 1,
    "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "a628d6d44d92ebff",
+   "title": "OpenAI countersues Apple for stealing trade secrets, FT reports",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0FibW0xZFFBUlJ2MGJkd0NEcWZtRzkzUkdWcFl1VnlRN2dRMkpjWHpKVXlIekttSno1b1RMeWxJN2dtU0ZlS085Y1ZqTkpfM2Jaci13RUdMNFVPOWtqRldaazVrX25mMExUSkU0SmJRcHJsdnZxMWJXU05MNXFzc211YzlXNzMwRTVUM1k1MW5RQTdHbnRpU1p6Y2hQMFE0UnVBSk45eHg?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T18:29:43Z",
+   "tickers": [
+    "AAPL"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "f4179bc3e87f2862",
+   "title": "Verizon in talks over $6 billion deal for Fidium, FT reports",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMG12dXVFaTVOY1I4QnVlelVHenRWT3RKNDA4RWotOXZLSTF0ZThySjZUWlcycnlwNmZ4cjF3SDZIbUdydlJVOWNxNjlqcVBYb3RjcTZSbjNpRkZPZUZBUkxtSWlwVzZENnZIVkNzVFBfTndxc25wN2RobHZSajFLVTlxYVRCcXA3U2FadjlTUS1kNVlOaUVGVlVqUHktUF8yX3pWSmNLY0JKOXAzV2lz?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T18:25:00Z",
+   "tickers": [],
+   "cats": [
+    "deal"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -3661,24 +3725,6 @@
     "reg"
    ],
    "score": 5,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "714c20e52a6b4216",
-   "title": "Michael Burry就人工智能热潮发出严厉警告，英伟达、甲骨文和 Meta 面临债务保险成本飙升",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005817017?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T06:31:28Z",
-   "tickers": [
-    "META",
-    "NVDA",
-    "ORCL"
-   ],
-   "cats": [],
-   "score": 1,
    "link_is_redirect": false,
    "sec_filing": false
   }
