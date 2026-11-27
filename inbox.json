@@ -1,16 +1,84 @@
 {
- "updated_utc": "2026-11-27T05:50:48.159507Z",
+ "updated_utc": "2026-11-27T06:01:33.883033Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 874,
-  "new": 5,
-  "candidates": 31,
-  "judged": 4,
+  "fetched": 872,
+  "new": 4,
+  "candidates": 30,
+  "judged": 3,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "a4ad02c9fc75a14b",
+   "title": "Two Years After Trump’s Tariff Declaration, Canada Tries to Move On",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaWdwNl9jTnFFSS10Z3BXNVZOWjR6N3ItM3d4MHhIcXZ1TGtyQS03UUV4a0FuYVdMd3FaZ0VVQ09QUTl6d3RDU1RJQW1fcVM3aGZMWURHanZmN3BQanNhT1FVa3Fwb0pUYmtmb3poMm5ZZ0gwelVieGVOQUozVHlXYlkxV1Q4azV5MlNfbEw1T1lSbnFyNndwNjlWUDVBWGFjZkZiUVJLY1dRcU9PU1QwQUZ4V2lnZ3IwNTNGcXMwQldueE5fVWc?oc=5",
+   "source": "Bloomberg.com",
+   "tier": 1,
+   "published_utc": "2026-11-27T05:52:48Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "d9b08d35daffad3c",
+   "title": "美银： 台积电 拟布局美国第二座先进晶圆厂，维持买入评级",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005813083?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T05:51:55Z",
+   "tickers": [
+    "TSM"
+   ],
+   "cats": [],
+   "score": -3,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "085f87c9af8e85c4",
+   "title": "Hetero close to securing Indian approval for generic Gilead HIV-prevention drug, sources say",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUFVUZHJFc1VOYjNmSWlnV3EyLUpBd0NMNlVMR2NtVWs0V1ctVTlpNUFnRzJ5V3o2VWhaSzJEbTd3c1BFbzZZZDhrWjVFdFRrZFZNbjFLTHkyT0wyei10a3NNYUlsbWNwQ2hwck03OW4zTzV4SGVWMHVWY1F1aG5kcFpxYVcxVlQta1lQd2VZX1k0dVNlQ2JsRktKTjJHeUpWcEJEZkJ1NjlXRzkxeG0zRTNOTmpVQXJtT1ROY29XNklGWnd2NF8xVU9rTENGdw?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T05:50:00Z",
+   "tickers": [
+    "GILD"
+   ],
+   "cats": [
+    "reg",
+    "scoop"
+   ],
+   "score": 8,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "18c0d29352397e16",
+   "title": "Indonesia considers subsidised fuel price hike as fiscal pressure mounts, sources say",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ3FHY0lKeGNiU2dYNEtfT1JlNFBqZDZVUFMwNHJ0WUI2MllTNF84dFprX1hYcG1oZThOeVoya0VXcnZWS2E0MnBXdUtqaXUzRGg2RGw2RHVmeG42VERkUkl5Y2dIRkF3VjUyeHI2XzlxclN1Nmc2ZjBEZUU5SFNId0FCVEdYVmxPWHBzNlVqeWZsQm9SRHE0eU5TSjNyMll1ZTJzSEp5NUtHMHhJWmg3N1pKTl9fdlBQcEtlRUYzcEpTUmZRbjRMSw?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T05:48:00Z",
+   "tickers": [],
+   "cats": [
+    "supply",
+    "scoop"
+   ],
+   "score": 6,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
   {
    "id": "75cd23f22d1f10e6",
    "title": "Fast cars, big money: Why sportswear races into Formula 1 as sponsorship spending soars 75%",
@@ -189,22 +257,6 @@
    "sec_filing": false
   },
   {
-   "id": "07bfe1daa625c9f0",
-   "title": "The Ellisons’ debt-fuelled takeover of Hollywood",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTEpyYnRsTmhsNENBMGZ1UjYwUExvdDVGa3ExVDd1N1FtLUE5eHlpMFB4aW85WlJsQVRZZkpsYlo1Q2J2SWl3Z0VNVEhTNkpOLWl0UG9wMFJwQ0tIZUUzZ2RqcGdEVEU2b2JBUThocjNkU2RYWmNEQWN2NzVqVkg0NDQ0c24?oc=5",
-   "source": "Financial Times",
-   "tier": 1,
-   "published_utc": "2026-11-27T05:01:14Z",
-   "tickers": [],
-   "cats": [
-    "mna"
-   ],
-   "score": 6,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
    "id": "9119782105847dc5",
    "title": "AI data centre boom piles pressure on stressed US defence sector",
    "summary": "Boeing and leading defence contractors wrestle with ballooning backlogs fuelled by a surge in air travel and military spending",
@@ -234,6 +286,22 @@
    ],
    "score": 5,
    "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "07bfe1daa625c9f0",
+   "title": "The Ellisons’ debt-fuelled takeover of Hollywood",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTEpyYnRsTmhsNENBMGZ1UjYwUExvdDVGa3ExVDd1N1FtLUE5eHlpMFB4aW85WlJsQVRZZkpsYlo1Q2J2SWl3Z0VNVEhTNkpOLWl0UG9wMFJwQ0tIZUUzZ2RqcGdEVEU2b2JBUThocjNkU2RYWmNEQWN2NzVqVkg0NDQ0c24?oc=5",
+   "source": "Financial Times",
+   "tier": 1,
+   "published_utc": "2026-11-27T05:00:31Z",
+   "tickers": [],
+   "cats": [
+    "mna"
+   ],
+   "score": 6,
+   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -352,16 +420,16 @@
    "sec_filing": false
   },
   {
-   "id": "a4ad02c9fc75a14b",
-   "title": "Two Years After Trump’s Tariff Declaration, Canada Tries to Move On",
+   "id": "4e11e4d1ac4126c6",
+   "title": "Coal India unit Mahanadi makes muted debut, valued at $9.6 billion",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaWdwNl9jTnFFSS10Z3BXNVZOWjR6N3ItM3d4MHhIcXZ1TGtyQS03UUV4a0FuYVdMd3FaZ0VVQ09QUTl6d3RDU1RJQW1fcVM3aGZMWURHanZmN3BQanNhT1FVa3Fwb0pUYmtmb3poMm5ZZ0gwelVieGVOQUozVHlXYlkxV1Q4azV5MlNfbEw1T1lSbnFyNndwNjlWUDVBWGFjZkZiUVJLY1dRcU9PU1QwQUZ4V2lnZ3IwNTNGcXMwQldueE5fVWc?oc=5",
-   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZlFJY2VTQW9YYWN4TW9mS2VPOVNPeDN0UmdBYU1mWjFoZXJOMkxXQV9nWmFLNW5IVllOMHp3aVpycVpLTnV4MGg3VzlrX3hBcGtsRjJUNDFaa081S1NkNHdpMjFtS0JUVnhoYWtia3hVTGhmaEtxbWdBbE9GdWd0cnZlNVpPOVZ1blQydHpNNmk2MHZtUEFxYmxGQTc4a1RqRTdVVmJIeHBGZw?oc=5",
+   "source": "Reuters",
    "tier": 1,
-   "published_utc": "2026-11-27T04:16:23Z",
+   "published_utc": "2026-11-27T04:17:00Z",
    "tickers": [],
    "cats": [
-    "reg"
+    "deal"
    ],
    "score": 5,
    "link_is_redirect": true,
@@ -1391,39 +1459,6 @@
     "scoop"
    ],
    "score": 3,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "e4b440d43af7e3e3",
-   "title": "Dow Jones Top Company Headlines at 1 PM ET: Nvidia Tells Partners to Pause Shipments to Southeast Asia | Marlboro ...",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005772844?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-26T18:00:00Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "1f04bbec4bcea4df",
-   "title": "Marlboro Maker Altria Explores Deal for Rival Imperial Brands",
-   "summary": "A takeover of Imperial, which has a market value of around $30 billion, would expand Altria’s global footprint.",
-   "link": "https://www.wsj.com/business/deals/altria-considering-possible-offer-for-imperial-brands-7cef494b?mod=pls_whats_news_us_business_f",
-   "source": "WSJ",
-   "tier": 1,
-   "published_utc": "2026-11-26T17:58:00Z",
-   "tickers": [],
-   "cats": [
-    "mna",
-    "deal"
-   ],
-   "score": 7,
    "link_is_redirect": false,
    "sec_filing": false
   }
