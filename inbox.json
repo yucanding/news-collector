@@ -1,13 +1,13 @@
 {
- "updated_utc": "2026-11-27T08:01:21.754360Z",
+ "updated_utc": "2026-11-27T08:10:50.836159Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 838,
-  "new": 4,
-  "candidates": 27,
-  "judged": 3,
+  "fetched": 851,
+  "new": 0,
+  "candidates": 24,
+  "judged": 0,
   "pushed": 0
  },
  "items": [
@@ -744,8 +744,8 @@
   },
   {
    "id": "8a4fcd5159be1781",
-   "title": "Why Jensen Huang’s ethics breach matters",
-   "summary": "Chief executive’s violation of Nvidia’s code of conduct sets poor example",
+   "title": "What Nvidia’s code of conduct update reveals",
+   "summary": "Letter from Jensen Huang dropped from the company’s messaging on ethics",
    "link": "https://www.ft.com/content/1da49f07-9558-4e37-88e8-cc2088c27a58?syn-25a6b1a6=1",
    "source": "FT",
    "tier": 1,
