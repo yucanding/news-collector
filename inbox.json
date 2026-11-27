@@ -1,16 +1,81 @@
 {
- "updated_utc": "2026-11-27T13:31:14.186582Z",
+ "updated_utc": "2026-11-27T13:40:57.073127Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 877,
+  "fetched": 863,
   "new": 7,
-  "candidates": 60,
-  "judged": 4,
+  "candidates": 65,
+  "judged": 5,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "08e66f895a62079d",
+   "title": "LigaData Brings Data Flare and Barq to Google Cloud Marketplace",
+   "summary": "Regulated enterprises can now buy LigaData's data and governed AI through Google Cloud and run them wherever their data strategy requires, from the cloud to sovereign on-premises environments with LigaData's Barq Citadel. PALO ALTO, Calif., Nov. 27, 2026 /PRNewswire/ -- LigaData, a...",
+   "link": "https://www.prnewswire.com/news-releases/ligadata-brings-data-flare-and-barq-to-google-cloud-marketplace-302950709.html",
+   "source": "PR Newswire",
+   "tier": 0,
+   "published_utc": "2026-11-27T13:37:00Z",
+   "tickers": [
+    "GOOGL"
+   ],
+   "cats": [],
+   "score": 3,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "4713e5fefed0a0b0",
+   "title": "英伟达 与铠侠发布AI存储突破，闪迪出现“死亡交叉”",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005857934?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T13:36:20Z",
+   "tickers": [
+    "NVDA",
+    "SNDK"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "d78a8186010e2900",
+   "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
+   "summary": "Budget carrier Norse Atlantic filed for bankruptcy Friday, saying it failed to secure funding after soaring fuel costs strained the company's operations.",
+   "link": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
+   "source": "CNBC",
+   "tier": 2,
+   "published_utc": "2026-11-27T13:32:10Z",
+   "tickers": [],
+   "cats": [
+    "incident"
+   ],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "37d9c8aeba7572bc",
+   "title": "Czech lower house approves windfall tax on refineries, will hit Orlen",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOUZlQzhOdlJaT2pkWWdHWm9wbFE3UVFYOURGS3Q5R2NpTEZyMmRLY3cxZHRSa3pwNHVSWXlTTkYweDZ5V1NMcDNqNHhjZkZ6MjNVbHJIREpBdkhna2hOUTZVNFZ6SDJOdmNxR1RscDhaNURwZFpvc0dqeF94eUxFeWV3TWF3R05OM1RjeFpIbXFZWmhYdF8wVTNtbC1oVEV2cjY5UA?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T13:31:38Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
   {
    "id": "5a3821cbc10eb72e",
    "title": "AWS re:Invent大会下周来袭！ 亚马逊 ( AMZN .US)公开答辩，AI变现叙事迎来“验证窗口”",
@@ -41,6 +106,22 @@
    "cats": [],
    "score": 3,
    "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "812e6178d6772deb",
+   "title": "Airline Norse Atlantic's Norwegian operating unit declares bankruptcy",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZjF6SXBzRmpCeHczaU9VZnNGczNjcWtlMXNCMUFrTUxfbUViN3cxUXpPbFU0YVRTQzU0aEY5MGdLY1hnU2I1R21jd2tYNnIyLVVLeEtoSEY2WjZKNTE0QkdLWWFzcmkySGFYUWE4Vmh3OVpzLWJ3V25LX18zSUJ4TS1TcExrVFFoUUVvOS13NmF1dUZJWVo1S2hLRlZaNmMzTWh1dDFsTHpXUzlzN2lWQ01sc1VVR0hOUzlZSTJ3?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T13:28:56Z",
+   "tickers": [],
+   "cats": [
+    "incident"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -76,32 +157,32 @@
    "sec_filing": false
   },
   {
-   "id": "812e6178d6772deb",
-   "title": "Airline Norse Atlantic's Norwegian operating unit declares bankruptcy",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZjF6SXBzRmpCeHczaU9VZnNGczNjcWtlMXNCMUFrTUxfbUViN3cxUXpPbFU0YVRTQzU0aEY5MGdLY1hnU2I1R21jd2tYNnIyLVVLeEtoSEY2WjZKNTE0QkdLWWFzcmkySGFYUWE4Vmh3OVpzLWJ3V25LX18zSUJ4TS1TcExrVFFoUUVvOS13NmF1dUZJWVo1S2hLRlZaNmMzTWh1dDFsTHpXUzlzN2lWQ01sc1VVR0hOUzlZSTJ3?oc=5",
-   "source": "Reuters",
+   "id": "94238382387ce95c",
+   "title": "Kenya Airways Hires Adviser to Raise Up to $1.5 Billion Capital",
+   "summary": "Kenya Airways Plc appointed Seabury Group LLC to help the national carrier raise as much as $1.5 billion in long-term capital to fund growth as the airline seeks to restructure its balance sheet.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/kenya-airways-hires-adviser-to-raise-up-to-1-5-billion-capital",
+   "source": "BBG",
    "tier": 1,
-   "published_utc": "2026-11-27T13:18:19Z",
+   "published_utc": "2026-11-27T13:16:40Z",
    "tickers": [],
    "cats": [
-    "incident"
+    "deal"
    ],
    "score": 5,
-   "link_is_redirect": true,
+   "link_is_redirect": false,
    "sec_filing": false
   },
   {
-   "id": "37d9c8aeba7572bc",
-   "title": "Czech lower house approves windfall tax on refineries",
+   "id": "0f5317e0fae442ed",
+   "title": "Kenya Airways Hires Adviser to Raise Up to $1.5 Billion Capital",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOUZlQzhOdlJaT2pkWWdHWm9wbFE3UVFYOURGS3Q5R2NpTEZyMmRLY3cxZHRSa3pwNHVSWXlTTkYweDZ5V1NMcDNqNHhjZkZ6MjNVbHJIREpBdkhna2hOUTZVNFZ6SDJOdmNxR1RscDhaNURwZFpvc0dqeF94eUxFeWV3TWF3R05OM1RjeFpIbXFZWmhYdF8wVTNtbC1oVEV2cjY5UA?oc=5",
-   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd1JfaWVKcUdIYWRhb3FTdXVQbWtTTzdoamRzS3pzcnlMXzBJTWlYUk5ySVh2VjNweVBaalRSV211SDZhR0lJakN4Um5Qd2FsZlpEQTk4Mk9wczdXbFY1YzdZemVlVi1UcFJRcUw4NERwY2U4S192X1BjVkk5SjczcHQtYUJGdV9aelhueEZ0eV9jNDZpQjlSYlZYMEdSRGNIVGNIOGN5RkNFNDFjMDhMVGRsZw?oc=5",
+   "source": "Bloomberg.com",
    "tier": 1,
-   "published_utc": "2026-11-27T13:18:09Z",
+   "published_utc": "2026-11-27T13:16:40Z",
    "tickers": [],
    "cats": [
-    "reg"
+    "deal"
    ],
    "score": 5,
    "link_is_redirect": true,
@@ -136,6 +217,22 @@
     "incident"
    ],
    "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "18ca1a560ac0dbf4",
+   "title": "Poland signs contract with Palantir worth $300 mln over 5 years",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcE9acGJ4ZnNpRGhDSXVvN1lpUWNyQTlJalVfQ25acTN3Q0JuTW9ydHFPb3paNUx4MEQxQUhpSnVfV0xwaEVvblo3NG8xOGtMZHlLdEs0Qi1iSGVhM1RYcVg4ZlhjU0VfYW9ReFk2cU1DdXVWMzVweElzQjkyN0ZZUFZjTDNaZmk4TF9jTnhGZDVDRnRuVWxaaUhxckxQTEJQYVJmTERxRFlGaFpNSGc?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T13:09:45Z",
+   "tickers": [
+    "PLTR"
+   ],
+   "cats": [],
+   "score": 4,
    "link_is_redirect": true,
    "sec_filing": false
   },
@@ -220,6 +317,22 @@
    "sec_filing": false
   },
   {
+   "id": "a11a11d8f725fdbe",
+   "title": "Fan violence at Europa League matches prompts investigations and condemnation",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU3JwR0xYZzBxM1MycGdSMHQ2RUNHdU9EeVBPTkNXRDBkQzhMX0JJblhSM1BFdWwxdzlxenFZLWRtTVc5YkZTQS0tMU9iRTBFS3RRdnZTYmZfMXdYLU9zall1RkJjWDBPVkVaaWFjOEpyOHJjenhyRVM2dFYzUHpVcEp3Yl80T2hQQndLUnZXcHg4bG9qcjh0bWFXWE5kcUZDa0NCUVBPVFpVT1dBakVPeEVmMA?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T12:59:58Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
    "id": "63600f9a4a054d54",
    "title": "盘前期权异动： 美国超微公司 盘前上涨5.1%，现最高成交额的看涨期权涨跌幅为+77%，成交量达到45张",
    "summary": "",
@@ -249,6 +362,22 @@
    ],
    "score": 5,
    "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "e1aa3ea51102fc8c",
+   "title": "Explainer: What is Modi's automated takedown law, which has embroiled Meta in a political storm?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVTZ2bTRUanBuNS1mNExCQzNNSHlnNmhab0pKZjNQM0JhbS1GUEpnaV80UWVzb0JZMkR1RE0wYk03djRVdmdGY0I1ZkF6S3RBOW53Y0dKNU15b1hXTlQ0SlhKYTE3RzBkUUtVMnR1NEtpRk1UclhZcFpOR1VnX2JCeHFDQ291bnZUaWZoU1BuT3Z1NFFWdTlBVHFZMWRnUmg3aGxFRXVpN0Q3Vnl3Qm1UUFQ3Y25XY3BlRmFtaDM1WF95NEVucWR3N2dyVks?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T12:54:55Z",
+   "tickers": [
+    "META"
+   ],
+   "cats": [],
+   "score": 0,
+   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -494,7 +623,7 @@
   },
   {
    "id": "28616023bd7313bb",
-   "title": "Deutsche Boerse’s €5.3 billion Allfunds Deal Gets EU Approval",
+   "title": "Deutsche Boerse’s €5.3 billion Allfunds Bid Gets EU Approval",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS0RzR3hybnJfQVRzQXRkU0hxMXpjRFkyYkRMVVVKY2M0QWxZTlh6MEduRUpwTHlSblE0aHFwaVBQM0FPNXM5TDRCR3NiU1ZVWkpPaGZjMktvMEV3TUhaRktaWm9GZURKQUJGei1QQkh3emU0cEM1WW5XRGlPNng2SVY3UWROa1VzbVNqd2xHNGpqbDdaalVwSTdKa3p1ME5iT0VsNDdXVlVJQTJjNXBnSw?oc=5",
    "source": "Bloomberg.com",
@@ -557,22 +686,6 @@
    ],
    "score": 5,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "e1aa3ea51102fc8c",
-   "title": "Explainer: What is Modi's automated takedown law, which has embroiled Meta in a political storm?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVTZ2bTRUanBuNS1mNExCQzNNSHlnNmhab0pKZjNQM0JhbS1GUEpnaV80UWVzb0JZMkR1RE0wYk03djRVdmdGY0I1ZkF6S3RBOW53Y0dKNU15b1hXTlQ0SlhKYTE3RzBkUUtVMnR1NEtpRk1UclhZcFpOR1VnX2JCeHFDQ291bnZUaWZoU1BuT3Z1NFFWdTlBVHFZMWRnUmg3aGxFRXVpN0Q3Vnl3Qm1UUFQ3Y25XY3BlRmFtaDM1WF95NEVucWR3N2dyVks?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T12:11:37Z",
-   "tickers": [
-    "META"
-   ],
-   "cats": [],
-   "score": 0,
-   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -3391,22 +3504,6 @@
    ],
    "score": 5,
    "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "f37c503bb233c30d",
-   "title": "英特尔 下一代芯片，提前曝光",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005792255?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T01:34:12Z",
-   "tickers": [
-    "INTC"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
    "sec_filing": false
   }
  ]
