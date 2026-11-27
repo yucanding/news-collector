@@ -943,22 +943,31 @@ def resolve_google_url(url):
 
 
 def format_push(dec, item):
+    """统一推送格式：每行一个字段，emoji + 字段名 + 内容。Telegram 只收这种新闻推送。"""
     esc = html_mod.escape
+    # 新闻
+    event = esc(str(dec.get("event") or "")[:300])
+    update = "【进展】" if dec.get("is_update") is True else ""
+    lines = [f"🚨 新闻：{update}{event}"]
+    # 公司
     tickers = " ".join(f"${t}" for t in clean_tickers(dec, item))
+    lines.append(f"🏢 公司：{tickers or '—'}")
+    # 方向：行首用中性 emoji（🧭，利好利空不变），文末用方向 emoji（利好 📈，利空 📉）
+    direction = str(dec.get("direction") or "")
+    dir_emoji = "📈" if direction == "利好" else "📉"
+    lines.append(f"🧭 方向：{esc(direction)} {dir_emoji}")
+    # 时间（ET）
+    lines.append(f"🕐 时间：{et_str(item['published_utc'])} ET")
+    # 来源：名字必须是可点击的链接
     source = str(dec.get("source_name") or "").strip()
     if not source or re.search(r"futu|富途|terminal|google", source, re.I):
         source = item["source"]
+    note = ""
     if item["tier"] == 3:
-        source += "（转述，非原始出处）"
+        note = "（转述，非原始出处）"
     elif "news.google.com" in item["link"]:
-        source += "（Google News 链接）"
-    update = "【进展】" if dec.get("is_update") is True else ""
-    lines = [f"🚨{update}{esc(str(dec.get('event'))[:300])}",
-             f"{esc(tickers)} {esc(str(dec.get('direction')))}".strip()]
-    if dec.get("reason"):
-        lines.append(esc(str(dec["reason"])[:300]))
-    lines.append(f'来源：<a href="{esc(item["link"], quote=True)}">{esc(source)}</a>'
-                 f"｜美东 {et_str(item['published_utc'])}")
+        note = "（Google News 链接）"
+    lines.append(f'🔗 来源：<a href="{esc(item["link"], quote=True)}">{esc(source)}</a>{esc(note)}')
     return "\n".join(lines)
 
 
