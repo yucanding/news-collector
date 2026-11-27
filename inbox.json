@@ -1,16 +1,32 @@
 {
- "updated_utc": "2026-11-27T09:31:08.016222Z",
+ "updated_utc": "2026-11-27T09:40:48.452412Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 862,
-  "new": 3,
-  "candidates": 36,
-  "judged": 2,
-  "pushed": 1
+  "fetched": 871,
+  "new": 1,
+  "candidates": 34,
+  "judged": 0,
+  "pushed": 0
  },
  "items": [
+  {
+   "id": "7dd2f1dd2aa7dddd",
+   "title": "Trump’s Tariffs Cast New Pall Over Thanksgiving",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQk1uVWtYMllaS0FEN2JHUUtTZDhJalBpV0FHdnQ0UTNYbXlfSWhpMmpJN0YwNWtPU3lZb2RiUFBQM2FES3hwc3B3SXByOTJMdlRyNkFMaFFXbGFlTTVsalo1RXM0c2JkZTV4ZFB5MG9MR3RsLUZoaVY4M2RZV19NT3ZGREZMRzNuSnhJcHJPU0Rlb3E4MmtBSFc0M1dxcVl4Rl9XeDlNRzVtZVRkNndSUTdjbUo3S1VLRklhVllyWXdhaUNEYWM2NE5WUTFQZw?oc=5",
+   "source": "Bloomberg.com",
+   "tier": 1,
+   "published_utc": "2026-11-27T09:30:24Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
   {
    "id": "443cf95d5471e3a7",
    "title": "Cheetah Mobile To Report Third Quarter 2026 Financial Results on December 4, 2026",
@@ -25,6 +41,22 @@
    "cats": [],
    "score": -2,
    "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "bfdabdd6d88e6490",
+   "title": "OPEC+ set to keep oil production targets steady in first quarter, sources say",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdndaSmMtcnZ2OU41SkZNYnNtNlU5ZnRWTFlOamJLb0x6eHRhRHJuQkNMY1oybHlpOUFkRWdncURJcUc0eGZvM2JNZUc4SGdvZG0yeTJFY0llZWJUeGtMRzQxaHFZNmZ0OS1YWFloelk4eDBVenhkQlotREpzR2F1cFgxbkZaT18zRWtGbHd2aTZENWFDMmhKaU13WnpSQkhIaUZGTDZtMFkwa2ZxUjdpTkRfTXRZMkNUcW1FM3hn?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T09:27:44Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 0,
+   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -449,22 +481,6 @@
    ],
    "score": 4,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "7dd2f1dd2aa7dddd",
-   "title": "Trump’s Tariffs Cast New Pall Over Thanksgiving",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQk1uVWtYMllaS0FEN2JHUUtTZDhJalBpV0FHdnQ0UTNYbXlfSWhpMmpJN0YwNWtPU3lZb2RiUFBQM2FES3hwc3B3SXByOTJMdlRyNkFMaFFXbGFlTTVsalo1RXM0c2JkZTV4ZFB5MG9MR3RsLUZoaVY4M2RZV19NT3ZGREZMRzNuSnhJcHJPU0Rlb3E4MmtBSFc0M1dxcVl4Rl9XeDlNRzVtZVRkNndSUTdjbUo3S1VLRklhVllyWXdhaUNEYWM2NE5WUTFQZw?oc=5",
-   "source": "Bloomberg.com",
-   "tier": 1,
-   "published_utc": "2026-11-27T08:00:24Z",
-   "tickers": [],
-   "cats": [
-    "reg"
-   ],
-   "score": 5,
-   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -2206,22 +2222,6 @@
    ],
    "cats": [],
    "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "abf1b368ed95c399",
-   "title": "Japan Tobacco, Altria Explore Imperial Brands Takeover",
-   "summary": "Get caught up.",
-   "link": "https://www.bloomberg.com/news/newsletters/2026-11-26/japan-tobacco-altria-explore-imperial-brands-takeover",
-   "source": "BBG",
-   "tier": 1,
-   "published_utc": "2026-11-26T21:33:59Z",
-   "tickers": [],
-   "cats": [
-    "mna"
-   ],
-   "score": 6,
    "link_is_redirect": false,
    "sec_filing": false
   }
