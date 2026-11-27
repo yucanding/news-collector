@@ -1,16 +1,48 @@
 {
- "updated_utc": "2026-11-27T08:50:46.779643Z",
+ "updated_utc": "2026-11-27T09:01:25.832297Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 860,
-  "new": 4,
-  "candidates": 29,
-  "judged": 2,
-  "pushed": 1
+  "fetched": 859,
+  "new": 1,
+  "candidates": 27,
+  "judged": 1,
+  "pushed": 0
  },
  "items": [
+  {
+   "id": "96996baee78b5eeb",
+   "title": "Fragrance Giants Handed $630 Million in EU, U.K. Antitrust Fines",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOREthVklBaU80NGJRNFJTX3ozbGFmeTY5WDhTVVlZR09fa1J0LUk0ZUs4cWh5OVlScXJsOWxMV01maFlyZkl3ZHpid3J1WlYzYVlqeVRIUXVZbno0WnAtWUw2UjZwZjEtVVJrd2RONzdYTG5lMENRQnJqRkNhdkpQdjZuZEtXWDlPcVFGeDJHZVlxM2kzQVhydU5aTHB5TWNEbDZrY0lOZC1qOGJiNkFKNg?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T08:58:33Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "a4ad02c9fc75a14b",
+   "title": "Two Years After Trump’s Tariff Declaration, Canada Tries to Move On",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaWdwNl9jTnFFSS10Z3BXNVZOWjR6N3ItM3d4MHhIcXZ1TGtyQS03UUV4a0FuYVdMd3FaZ0VVQ09QUTl6d3RDU1RJQW1fcVM3aGZMWURHanZmN3BQanNhT1FVa3Fwb0pUYmtmb3poMm5ZZ0gwelVieGVOQUozVHlXYlkxV1Q4azV5MlNfbEw1T1lSbnFyNndwNjlWUDVBWGFjZkZiUVJLY1dRcU9PU1QwQUZ4V2lnZ3IwNTNGcXMwQldueE5fVWc?oc=5",
+   "source": "Bloomberg.com",
+   "tier": 1,
+   "published_utc": "2026-11-27T08:52:48Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
   {
    "id": "9e07936a80bd9973",
    "title": "Uber Secures Approximately 87% of Delivery Hero Shares Following End of Additional Acceptance Period",
@@ -313,22 +345,6 @@
    "tickers": [],
    "cats": [
     "incident"
-   ],
-   "score": 5,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "a4ad02c9fc75a14b",
-   "title": "Two Years After Trump’s Tariff Declaration, Canada Tries to Move On",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaWdwNl9jTnFFSS10Z3BXNVZOWjR6N3ItM3d4MHhIcXZ1TGtyQS03UUV4a0FuYVdMd3FaZ0VVQ09QUTl6d3RDU1RJQW1fcVM3aGZMWURHanZmN3BQanNhT1FVa3Fwb0pUYmtmb3poMm5ZZ0gwelVieGVOQUozVHlXYlkxV1Q4azV5MlNfbEw1T1lSbnFyNndwNjlWUDVBWGFjZkZiUVJLY1dRcU9PU1QwQUZ4V2lnZ3IwNTNGcXMwQldueE5fVWc?oc=5",
-   "source": "Bloomberg.com",
-   "tier": 1,
-   "published_utc": "2026-11-27T07:22:48Z",
-   "tickers": [],
-   "cats": [
-    "reg"
    ],
    "score": 5,
    "link_is_redirect": true,
