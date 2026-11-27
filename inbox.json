@@ -1,16 +1,32 @@
 {
- "updated_utc": "2026-11-27T17:20:48.658957Z",
+ "updated_utc": "2026-11-27T17:31:07.584044Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 825,
+  "fetched": 822,
   "new": 1,
-  "candidates": 29,
+  "candidates": 26,
   "judged": 0,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "c821ddcb430dfda5",
+   "title": "Ruko Launches F11PRO 2 Plus (RC4), Bringing an Upgraded Aerial Photography Experience with a 5.5-Inch Touchscreen Controller",
+   "summary": "HONG KONG, Nov. 27, 2026 /PRNewswire/ -- Ruko is excited to announce the launch of its latest drone, the F11PRO 2 Plus (RC4), now available on Amazon. Designed to deliver an upgraded aerial photography experience, the new drone features an integrated 5.5-inch touchscreen remote...",
+   "link": "https://www.prnewswire.com/news-releases/ruko-launches-f11pro-2-plus-rc4-bringing-an-upgraded-aerial-photography-experience-with-a-5-5-inch-touchscreen-controller-302946828.html",
+   "source": "PR Newswire",
+   "tier": 0,
+   "published_utc": "2026-11-27T17:21:00Z",
+   "tickers": [
+    "AMZN"
+   ],
+   "cats": [],
+   "score": -1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "e2f87ba808574b4f",
    "title": "Inside China’s $4 Billion Secondhand Luxury Boom",
@@ -3587,23 +3603,6 @@
     "reg"
    ],
    "score": 5,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "13f5e8b0b1be965f",
-   "title": "Poor Regulation of $500 Billion Sand Trade Raises Construction Safety Concerns",
-   "summary": "An investigation into the uneven regulation and enforcement of a $500 billion industry raises questions about safety, the environment, and the law.",
-   "link": "https://www.bloomberg.com/features/2026-sand-mining/",
-   "source": "BBG",
-   "tier": 1,
-   "published_utc": "2026-11-27T05:22:20Z",
-   "tickers": [],
-   "cats": [
-    "reg",
-    "deal"
-   ],
-   "score": 6,
    "link_is_redirect": false,
    "sec_filing": false
   }
