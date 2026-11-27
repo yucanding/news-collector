@@ -1,16 +1,48 @@
 {
- "updated_utc": "2026-11-27T20:50:50.109812Z",
+ "updated_utc": "2026-11-27T21:01:21.478987Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 807,
-  "new": 0,
-  "candidates": 19,
+  "fetched": 801,
+  "new": 1,
+  "candidates": 16,
   "judged": 0,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "adb371be7d2a7229",
+   "title": "Quantum Space to Hold Financial Update Call",
+   "summary": "Management to host investor webcast on November 30, 2026, at 8:30 a.m. ET ROCKVILLE, Md., Nov. 27, 2026 /PRNewswire/ -- Quantum Space, Inc. (NYSE: QSPC) (the \"Company\" or \"Quantum Space\"), a company developing the next generation of advanced maneuverable spacecraft for national security,...",
+   "link": "https://www.prnewswire.com/news-releases/quantum-space-to-hold-financial-update-call-302951919.html",
+   "source": "PR Newswire",
+   "tier": 0,
+   "published_utc": "2026-11-27T20:59:00Z",
+   "tickers": [
+    "QSPC"
+   ],
+   "cats": [],
+   "score": 2,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "746cfd9ad4290a4f",
+   "title": "EXCLUSIVE: Hackers breach US Air Force flagship Cloud One computing platform",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnhWb2oyc2Qta3k0bUhwbGZTcWZMREZ0VU41eVNZWDJZTDlBcmMxZzFrLXlmVGJpUHBRbVdBRlNoQU9lWUlIcVpMcXQwWWpyYVJ2eDJQa1ZvNFU5MUFHLWdpQW1BVloyUW5lTUlVSlFpLXJwVHNLMl9fQnBFTTNnemY4Q0JiUkN3SXFndG1pX1l1TmdySFJDOHJlWC1fMnE3cjlaVFB5M1hWbU0?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T20:56:01Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
   {
    "id": "278d046c65ad3c7c",
    "title": "FTC Imposes Strict Board Restrictions on Beretta’s 25% Stake in Rival Sturm Ruger",
@@ -59,22 +91,6 @@
    "cats": [],
    "score": 4,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "746cfd9ad4290a4f",
-   "title": "EXCLUSIVE Hackers breach US Air Force flagship Cloud One computing platform",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnhWb2oyc2Qta3k0bUhwbGZTcWZMREZ0VU41eVNZWDJZTDlBcmMxZzFrLXlmVGJpUHBRbVdBRlNoQU9lWUlIcVpMcXQwWWpyYVJ2eDJQa1ZvNFU5MUFHLWdpQW1BVloyUW5lTUlVSlFpLXJwVHNLMl9fQnBFTTNnemY4Q0JiUkN3SXFndG1pX1l1TmdySFJDOHJlWC1fMnE3cjlaVFB5M1hWbU0?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T20:00:10Z",
-   "tickers": [],
-   "cats": [
-    "scoop"
-   ],
-   "score": 4,
-   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -3562,22 +3578,6 @@
     "reg"
    ],
    "score": 4,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "343decfe943c2fe5",
-   "title": "South Africa Top Court Clears Key Hurdles for Health-Plan Revamp",
-   "summary": "South Africa’s top court rejected two challenges to legislation underpinning the government’s planned overhaul of the healthcare system, removing a major legal obstacle to the program.",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-27/south-africa-top-court-clears-key-hurdles-for-health-plan-revamp",
-   "source": "BBG",
-   "tier": 1,
-   "published_utc": "2026-11-27T08:58:14Z",
-   "tickers": [],
-   "cats": [
-    "reg"
-   ],
-   "score": 5,
    "link_is_redirect": false,
    "sec_filing": false
   }
