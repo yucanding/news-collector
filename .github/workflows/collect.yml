@@ -8,6 +8,11 @@ name: News collector + Gemini push
 # 触发：只留 workflow_dispatch，由 cron-job.org dispatch（Hot/Day/Night/Sat
 # 四个任务，照抄 CMS 任务的 POST dispatches 配置）。GitHub 原生 schedule
 # 已证实不可靠，故不在此排期，避免重复运行。
+#
+# v4.1 变化（相对 v3 的 yml）：
+#  - 新增 SEC_CONTACT_EMAIL（SEC 8-K 源必需；不配则跳过 8-K 源与 SEC RSS）
+#  - “看一眼 inbox”不再读 d['sources_ok']（v4/v4.1 的 inbox.json 里没有这个字段）
+#  - git add 增加 health.json / decisions.jsonl / sec_cik.json（跨轮持久化必需）
 on:
   workflow_dispatch:
 
@@ -27,6 +32,7 @@ jobs:
       GEMINI_MODEL: ${{ secrets.GEMINI_MODEL }}
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      SEC_CONTACT_EMAIL: ${{ secrets.SEC_CONTACT_EMAIL }}
     steps:
       - name: 拉取代码
         uses: actions/checkout@v4
@@ -36,14 +42,15 @@ jobs:
 
       - name: 看一眼 inbox
         run: |
-          python3 -c "import json; d=json.load(open('inbox.json')); print('inbox:', d['counts'], 'sources_ok:', d['sources_ok'], 'errors:', d['errors'])"
+          python3 -c "import json; d=json.load(open('inbox.json')); print('inbox:', d['counts'], 'errors:', d['errors'])"
 
       # 有变化才提交；提交失败不报错，下次运行会重试
-      - name: 提交 inbox / seen / pushed / judged
+      - name: 提交 inbox / seen / pushed / judged / health / decisions / sec_cik
         run: |
           git config user.name "news-collector-bot"
           git config user.email "news-collector-bot@users.noreply.github.com"
           git pull --rebase || true
-          git add inbox.json seen.json pushed.json judged.json
+          git add inbox.json seen.json pushed.json judged.json health.json
+          git add decisions.jsonl sec_cik.json 2>/dev/null || true
           git diff --cached --quiet || git commit -m "collector: update inbox + pushes [skip ci]"
           git push || echo "push 失败，下次运行重试"
