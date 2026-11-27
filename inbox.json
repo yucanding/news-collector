@@ -1,16 +1,81 @@
 {
- "updated_utc": "2026-11-27T09:10:49.908092Z",
+ "updated_utc": "2026-11-27T09:20:49.830989Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 841,
-  "new": 7,
-  "candidates": 30,
-  "judged": 0,
+  "fetched": 866,
+  "new": 6,
+  "candidates": 34,
+  "judged": 1,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "ea2117bdc5712717",
+   "title": "SAP 疑遭 AI 代理入侵，称无客户信息泄露",
+   "summary": "深潮 TechFlow 消息，11 月 27 日，据韩联社报道，德国《明镜》周刊 26 日（当地时间）报道称，欧洲最大软件企业 SAP 发生疑似遭人工智能（AI）代理入侵的网络安全事件。据报道，SAP 在内部通知中表示，已发现可疑活动，正迅速采取措施保护系统环境和客户，目前没有客户信息泄露的迹象。SAP 以“花岗岩项目”为名处理该安全事件，并提醒员工不要对外告知此事。 《明镜》援引消息人士称，攻击者窃取 SAP 员工的认证令牌后，篡改并复制了开源开发平台 GitHub 上的 SAP 相关源代码。GitHub 是开发者存储和共享源代码的云端协作平台，其运营方微软本月早些时候曾警告，利用 AI 渗透测试工具 Artex 攻击 GitHub 的案例正在增加。总部位于德国瓦尔多夫的 SAP 是开发企业资源计划（ERP）系统的全球软件企业，按市值计在欧洲同行业中排名第一。",
+   "link": "https://www.techflowpost.com/newsletter/147217/sap-suspected-ai-agent-breach-no-customer-data-leaked",
+   "source": "TechFlow",
+   "tier": null,
+   "published_utc": "2026-11-27T09:19:32Z",
+   "tickers": [
+    "MSFT"
+   ],
+   "cats": [],
+   "score": 2,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "8f34eb534f21be2f",
+   "title": "美股异动｜谷歌A盘前涨近3%，Gemini 4 Neon刷新付费API创首日使用量纪录",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005836570?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T09:17:39Z",
+   "tickers": [
+    "GOOGL"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "a30ce3856f08944d",
+   "title": "特斯拉 股东大会在即！马斯克逾3万亿美元商业帝国即将成形？",
+   "summary": "",
+   "link": "https://q.futunn.com/feed/117687644258308?futusource=news_search_searchnews",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T09:15:39Z",
+   "tickers": [
+    "TSLA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "18f8245801ce2890",
+   "title": "美股AI芯片概念股盘前集体上涨，AMD涨超6%， 英伟达 涨超4%",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005835605?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T09:13:07Z",
+   "tickers": [
+    "AMD",
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "128454fc2220fdb6",
    "title": "热门板块速睇：美股盘前半导体精选走强，美光科技领涨",
@@ -129,6 +194,22 @@
    "sec_filing": false
   },
   {
+   "id": "343decfe943c2fe5",
+   "title": "South Africa Top Court Clears Key Hurdles for Health-Plan Revamp",
+   "summary": "South Africa’s top court rejected two challenges to legislation underpinning the government’s planned overhaul of the healthcare system, removing a major legal obstacle to the program.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/south-africa-top-court-clears-key-hurdles-for-health-plan-revamp",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T08:58:14Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
    "id": "a4ad02c9fc75a14b",
    "title": "Two Years After Trump’s Tariff Declaration, Canada Tries to Move On",
    "summary": "",
@@ -141,6 +222,22 @@
     "reg"
    ],
    "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "36de0cea55cf4b74",
+   "title": "China's Meituan reports Q3 revenue of $17.37 billion",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdjV0U0NJa001S2tFakh2MWh4c0lJbE1fQ2pkUGJ5ODhlcDFMT0h5T2dPcGZHRUo4MGYySE1KTUQ5TXRrNVlwMlJQSlkzTlFIYWFObk9LdVFJZzY3T0lsZUFIamdOQjFUMWhjNWo4NU5oSUpaNER3U2hlYlRiNWVXWGV2LWpLWnEyLUp3amRRM1BfczRyYmxla19nVEpwekxGckNqMEdTSEd6Vzg?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T08:49:44Z",
+   "tickers": [],
+   "cats": [
+    "deal"
+   ],
+   "score": 1,
    "link_is_redirect": true,
    "sec_filing": false
   },
@@ -1837,7 +1934,7 @@
   {
    "id": "17e87f76f70f0334",
    "title": "Japan Tobacco Climbs on Potential Imperial Brands Takeover",
-   "summary": "Japan Tobacco Inc. shares rose on news that it is exploring a potential takeover of Imperial Brands Plc with Altria Group Inc., a move that could help the Japanese cigarette maker fill a large earnings hole left by the recent seizure of its Russian assets.",
+   "summary": "Japan Tobacco Inc. shares rose on news that it’s exploring a potential takeover of Imperial Brands Plc with Altria Group Inc., a move that would help the Japanese cigarette maker fill a large earnings hole left by the recent seizure of its Russian assets.",
    "link": "https://www.bloomberg.com/news/articles/2026-11-27/japan-tobacco-shares-climb-on-potential-imperial-brands-takeover",
    "source": "BBG",
    "tier": 1,
@@ -2093,22 +2190,6 @@
    ],
    "cats": [],
    "score": 4,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "d3edc7a187c9a130",
-   "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
-   "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
-   "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
-   "source": "CNBC",
-   "tier": 2,
-   "published_utc": "2026-11-26T21:13:17Z",
-   "tickers": [],
-   "cats": [
-    "reg"
-   ],
-   "score": 0,
    "link_is_redirect": false,
    "sec_filing": false
   }
