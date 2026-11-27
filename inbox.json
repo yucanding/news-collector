@@ -1,16 +1,128 @@
 {
- "updated_utc": "2026-11-27T12:40:50.737658Z",
+ "updated_utc": "2026-11-27T12:50:48.987563Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 897,
-  "new": 6,
-  "candidates": 50,
-  "judged": 2,
+  "fetched": 892,
+  "new": 10,
+  "candidates": 57,
+  "judged": 5,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "e8a1c1a02ba5aded",
+   "title": "埃隆·马斯克旗下的SpaceX将 英伟达 Blackwell GPU租赁费率最高下调35%，而Anthropic可能不再续签H200协议：报道",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005854892?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T12:49:29Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "afdd7334957a51ad",
+   "title": "波兰与 Palantir 签 3 亿美元 AI 国防协议",
+   "summary": "深潮 TechFlow 消息，11 月 27 日，据 Bloomberg Technology 报道，波兰国防部于周五与 Palantir Technologies 签署协议，采购其名为 Maven Smart System 的军事决策支持软件，用于分析战场数据。波兰国防部长 Wladyslaw Kosiniak-Kamysz 表示，这份为期五年的协议估值约 3 亿美元。 报道称，该软件已被北约和美军使用，波兰此举与部分欧洲盟友寻求减少关键防务能力对美国技术依赖的做法不同。",
+   "link": "https://www.techflowpost.com/newsletter/147258/poland-palantir-signs-300-million-ai-defense-deal",
+   "source": "TechFlow",
+   "tier": null,
+   "published_utc": "2026-11-27T12:48:48Z",
+   "tickers": [
+    "PLTR"
+   ],
+   "cats": [],
+   "score": 2,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "850029ccfe89fa4a",
+   "title": "Allstate Joins Growing List of Companies Hit by Tech Outages",
+   "summary": "The multiday outage has left customers struggling to reach the insurer during one of the year’s busiest travel weeks.",
+   "link": "https://www.wsj.com/finance/allstate-joins-growing-list-of-companies-hit-by-tech-outages-77dbb488?mod=rss_markets_main",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T12:48:00Z",
+   "tickers": [],
+   "cats": [
+    "incident"
+   ],
+   "score": 5,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "dff6e91787908f80",
+   "title": "CAE announces successful completion of consent solicitation targeting its 5.541% Series 1 Senior Unsecured Notes",
+   "summary": "MONTREAL, Nov. 27, 2026 /PRNewswire/ -- (Nasdaq: CAE) (TSX: CAE) – CAE Inc. (\"CAE\" or the \"Company\") announced today that, in connection with its previously announced consent and proxy solicitation with respect to its 5.541% Series 1 Senior Unsecured Notes due June 12, 2028 (the \"Notes\"),...",
+   "link": "https://www.prnewswire.com/news-releases/cae-announces-successful-completion-of-consent-solicitation-targeting-its-5-541-series-1-senior-unsecured-notes-302951739.html",
+   "source": "PR Newswire",
+   "tier": 0,
+   "published_utc": "2026-11-27T12:48:00Z",
+   "tickers": [
+    "CAE"
+   ],
+   "cats": [],
+   "score": 2,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "d08526fc1e965b2a",
+   "title": "Allstate Joins Growing List of Companies Hit by Tech Outages",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYlBHa3I5N09lYlBzWVhCdEVzemJ0STJmcnIzYkpiOWVFVExmTEhVcXBPYUxnQjhabm9rSzhlcERiZ3l2QWt6RkpYM3lac1RySlBVUmMyRHpEdlpYa2h0eUNFLTNEWXl0aDMzU2VodUh4VFZKUUNYS1dvT1ZIUmwtTFlUeG1GMXRmX19jZ0hJVFp3akgzQk9yYjNoOEd4QQ?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T12:48:00Z",
+   "tickers": [],
+   "cats": [
+    "incident"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "9e30e929369ca36d",
+   "title": "The Week in Numbers: Trump tariff salvo, stocks soar on Jensen's return",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1nSzA3cHIwT0hjck5TV05TR083aGJtTU0ydF9pN2V6M19XMmhBNWQ5bjc1Wl9wZXpRSW9Jc3M2VVVBSEpyZk55ZVk2dkJGZmFhSDF2aHdXd055X3BsZElwWXpjQUNqQnFia0xENjhWQjNMbmJDS3ZhOHVR?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T12:47:23Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "b780165680f2974b",
+   "title": "Exclusive | Lundbeck, Top Antidepressant Maker, Weighs Move Into Psychedelics",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRXNIeWNiTjd5M2pqRzVLMDZvT2dZSXAxd0dkX29ld0hKX3J0bFl6S2lxMzJ4OVpseVVZYmQ3Y0Jtcy1TNVBTSHEwYnViYl9uNFFFdHh2UTNCd0VpNS1NcGxyUFZzbk9rQzJiV3RnUWdQb1JrQl9TSDVxYlZfWDlPR2ZUcWZtLWV2enc5Qk14OVJwVHVybWZORGVUeHRrZ2JwMHVYeTlRRlYzZw?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T12:43:00Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
   {
    "id": "8b7fed6bd51d96cb",
    "title": "奥地利第一储蓄维持 美国超微公司 ( AMD .US)持有评级",
@@ -61,6 +173,22 @@
    "sec_filing": false
   },
   {
+   "id": "b92d818d4d211537",
+   "title": "Poland Signs $300 Million Palantir Deal to Use AI for Defense",
+   "summary": "Poland will use artificial intelligence-based software from Palantir Technologies Inc. to analyze battlefield data, bucking a push by some European allies to reduce their reliance on US technology for critical defense capabilities.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/poland-signs-300-million-palantir-deal-to-use-ai-for-defense",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T12:30:04Z",
+   "tickers": [
+    "PLTR"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
    "id": "be3994804cc53407",
    "title": "Jones Soda Co. Announces Proposed Voluntary Delisting from the Canadian Securities Exchange",
    "summary": "SEATTLE, Nov. 27, 2026 /PRNewswire/ -- Jones Soda Co. (CSE: JSDA) (OTCQB: JSDA) (\"Jones Soda\" or the \"Company\") announces that it has applied to voluntarily delist its common shares from the Canadian Securities Exchange (\"CSE\"). The proposed delisting is subject to CSE approval, and the...",
@@ -89,6 +217,22 @@
    ],
    "cats": [],
    "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "7de1e35cabf406b5",
+   "title": "Namibia to Bring in Private Partners for $2.9 Billion Rail Build",
+   "summary": "Namibia plans to invite private companies to develop a proposed $2.9 billion railway linking the region’s coal and copper mines to its main port, as the country seeks to strengthen its position as a regional logistics hub.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/namibia-to-bring-in-private-partners-for-2-9-billion-rail-build",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T12:29:36Z",
+   "tickers": [],
+   "cats": [
+    "deal"
+   ],
+   "score": 5,
    "link_is_redirect": false,
    "sec_filing": false
   },
@@ -455,6 +599,22 @@
    "sec_filing": false
   },
   {
+   "id": "746cfd9ad4290a4f",
+   "title": "EXCLUSIVE: Hackers breach US Air Force flagship Cloud One computing platform",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnhWb2oyc2Qta3k0bUhwbGZTcWZMREZ0VU41eVNZWDJZTDlBcmMxZzFrLXlmVGJpUHBRbVdBRlNoQU9lWUlIcVpMcXQwWWpyYVJ2eDJQa1ZvNFU5MUFHLWdpQW1BVloyUW5lTUlVSlFpLXJwVHNLMl9fQnBFTTNnemY4Q0JiUkN3SXFndG1pX1l1TmdySFJDOHJlWC1fMnE3cjlaVFB5M1hWbU0?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T11:46:24Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
    "id": "05194513719a8338",
    "title": "EXCLUSIVE: Volkswagen drags rivals Mercedes, BMW into $1.2 billion India tax fight",
    "summary": "",
@@ -518,22 +678,6 @@
    ],
    "score": 2,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "746cfd9ad4290a4f",
-   "title": "EXCLUSIVE: Hackers breach US Air Force flagship Cloud One computing platform",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnhWb2oyc2Qta3k0bUhwbGZTcWZMREZ0VU41eVNZWDJZTDlBcmMxZzFrLXlmVGJpUHBRbVdBRlNoQU9lWUlIcVpMcXQwWWpyYVJ2eDJQa1ZvNFU5MUFHLWdpQW1BVloyUW5lTUlVSlFpLXJwVHNLMl9fQnBFTTNnemY4Q0JiUkN3SXFndG1pX1l1TmdySFJDOHJlWC1fMnE3cjlaVFB5M1hWbU0?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T11:38:02Z",
-   "tickers": [],
-   "cats": [
-    "scoop"
-   ],
-   "score": 4,
-   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -752,6 +896,22 @@
    "title": "India Extends Pakistan Content Ban to First Netflix Series",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVVlnMF9VdUw3VE9Lazh1ZnF6WmRCVWljUngtTEh5RC1rSjZMMXZPOTRqQkV5ZU1nYkI1Y2RwWkNQNW0zNnRGNThpbEhGejdPWVZHQk9vSUNHWUhJVkx5OEZkMHZ5WTB3WXJra2lreEdOTERZa0NwNHRrTDhKSWZhN2E4S2JmME1TNkR1U19WVngxeEtoN1FBcTJ3S1lIREhLQzNEWHlrQ0RZamlHN0E?oc=5",
+   "source": "Bloomberg.com",
+   "tier": 1,
+   "published_utc": "2026-11-27T10:59:12Z",
+   "tickers": [
+    "NFLX"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "9325036b799768f9",
+   "title": "India Extends Pakistan Content Ban to First Netflix Series",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzJxNkhfSlBkNVVES3VtV21xcTBZRHFBamVJRXFsZDF5NVEwN0o0d0hmTUMyNkhyNnc1QUxCbXVGTlVHNGF0R2VrZXJ0ZUpMb2Z1Q0ZpeUpvaFlHRHBkN1FsaXFZWU9qdXlsV0VGQ3R0RWJLTWNoRmVwalJPRXlKWkkzbGk3cmYteXVEbXV2UW5xcVhrSEdoQ01PUGgxTzVTN2xSenpHeHN5STl0NlQxOGcwMWd5dmxBMnNqVlhFdnM0dw?oc=5",
    "source": "Bloomberg.com",
    "tier": 1,
    "published_utc": "2026-11-27T10:59:12Z",
@@ -3053,22 +3213,6 @@
    ],
    "cats": [],
    "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "a9b4a2b4652be59f",
-   "title": "Singapore Wealth Firm Farro Plans Hong Kong Office With 20 Hires",
-   "summary": "Singapore-based multi-family office Farro Capital is expanding to Hong Kong, with a plan to hire 20 staff and manage an additional $1 billion in the city within 18 months.",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-27/singapore-wealth-firm-farro-plans-hong-kong-office-with-20-hires",
-   "source": "BBG",
-   "tier": 1,
-   "published_utc": "2026-11-27T00:50:40Z",
-   "tickers": [],
-   "cats": [
-    "deal"
-   ],
-   "score": 5,
    "link_is_redirect": false,
    "sec_filing": false
   }
