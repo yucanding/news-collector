@@ -1,16 +1,48 @@
 {
- "updated_utc": "2026-11-27T12:50:48.987563Z",
+ "updated_utc": "2026-11-27T13:01:20.200899Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 892,
-  "new": 10,
-  "candidates": 57,
-  "judged": 5,
+  "fetched": 894,
+  "new": 4,
+  "candidates": 54,
+  "judged": 1,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "b728f44311302b82",
+   "title": "Daewoong Pharmaceutical Unveils PK/PD Model to Guide Dosing of Investigational Autoimmune Drug 'Plodicitinib'",
+   "summary": "- Research findings presented at the Korean Society for Clinical Pharmacology and Therapeutics… Aiming to complete the Phase 1 trial in the first quarter of 2027 - Developed a \"Population Pharmacokinetics and Pharmacodynamics (PopPK-PD) Model\" based on clinical data from 44 healthy adults...",
+   "link": "https://www.prnewswire.com/news-releases/daewoong-pharmaceutical-unveils-pkpd-model-to-guide-dosing-of-investigational-autoimmune-drug-plodicitinib-302951415.html",
+   "source": "PR Newswire",
+   "tier": 0,
+   "published_utc": "2026-11-27T13:00:00Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "63600f9a4a054d54",
+   "title": "盘前期权异动： 美国超微公司 盘前上涨5.1%，现最高成交额的看涨期权涨跌幅为+77%，成交量达到45张",
+   "summary": "",
+   "link": "https://news.futunn.com/flash/1005855454?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T12:59:15Z",
+   "tickers": [
+    "SMCI"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "e8a1c1a02ba5aded",
    "title": "埃隆·马斯克旗下的SpaceX将 英伟达 Blackwell GPU租赁费率最高下调35%，而Anthropic可能不再续签H200协议：报道",
@@ -89,6 +121,22 @@
    ],
    "score": 5,
    "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "460aeb9fdd0bb8c5",
+   "title": "Ofwat Warns Thames Water Rescue Decision Remains Months Away",
+   "summary": "The UK’s water regulator has warned it is still months away from making a decision on whether to approve a rescue of Thames Water by its creditors.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/ofwat-warns-thames-water-rescue-decision-remains-months-away",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T12:47:58Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": false,
    "sec_filing": false
   },
   {
@@ -583,22 +631,6 @@
    "sec_filing": false
   },
   {
-   "id": "0b644b90cf76c3dd",
-   "title": "Two Chinese firms installed the high-end NVIDIA Blackwell GPUs at the Shanghai site $NVDA",
-   "summary": "",
-   "link": "https://www.financialjuice.com/News/9870527/Two-Chinese-firms-installed-the-high-end-NVIDIA-Blackwell-GPUs-at-the-Shanghai-site-NVDA.aspx?xy=rss",
-   "source": "FinancialJuice",
-   "tier": 3,
-   "published_utc": "2026-11-27T11:47:10Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
    "id": "746cfd9ad4290a4f",
    "title": "EXCLUSIVE: Hackers breach US Air Force flagship Cloud One computing platform",
    "summary": "",
@@ -677,6 +709,22 @@
     "scoop"
    ],
    "score": 2,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "0b644b90cf76c3dd",
+   "title": "Two Chinese firms installed the high-end NVIDIA Blackwell GPUs at the Shanghai site $NVDA",
+   "summary": "",
+   "link": "https://www.financialjuice.com/News/9870527/Two-Chinese-firms-installed-the-high-end-NVIDIA-Blackwell-GPUs-at-the-Shanghai-site-NVDA.aspx?xy=rss",
+   "source": "FinancialJuice",
+   "tier": 3,
+   "published_utc": "2026-11-27T11:44:10Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 1,
    "link_is_redirect": false,
    "sec_filing": false
   },
@@ -824,6 +872,23 @@
     "deal"
    ],
    "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "443bde6e3814d189",
+   "title": "Broadcom Sinks 15% in a Week to a 52-Week Low as Google Reportedly Cuts TPU Orders. Is the Selling Overdone?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY21NdWE0N0Zfc3prRUJYUFBKUEFBeWRTR0RUUXEyeWVCLXFmREs4elJfU0RZejVyYjJOU1R3Z2NVc3dOVC1SUHk1anpSYWlCUzVBekNlQ2NpRVNzT0NKNmxGdmFqZ1FKQ0FRMGFjMEVVbmJzWVk0cTA3el9SR0NOY0tLT29GaVZRdXBMSE9hWUJzak8yS0pmOWVIOE9kaFFPTi1TeTI5d0FZYlExd282TEFhVlNHWFhFZlVXWi1JUG41aWNVOThMWHJIVQ?oc=5",
+   "source": "TIKR.com",
+   "tier": null,
+   "published_utc": "2026-11-27T11:03:45Z",
+   "tickers": [
+    "AVGO",
+    "GOOGL"
+   ],
+   "cats": [],
+   "score": 2,
    "link_is_redirect": true,
    "sec_filing": false
   },
@@ -1574,7 +1639,7 @@
   },
   {
    "id": "408bdbdd01f8a2ce",
-   "title": "英伟达 ( NVDA .US)GTC大会首次落地华盛顿！黄仁勋深陷调查风暴恐缺席 AI增长新蓝图及国家战略价值成核心议题",
+   "title": "英伟达 GTC大会首次落地华盛顿！黄仁勋深陷调查风暴恐缺席，AI增长新蓝图及国家战略价值成核心议题",
    "summary": "",
    "link": "https://news.futunn.com/post/1005834239?futusource=news_search_searchnews&src=39",
    "source": "futu",
@@ -3197,22 +3262,6 @@
    ],
    "cats": [],
    "score": 2,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "6aba2d4088a38f91",
-   "title": "股价回调背后暗藏新催化，物理AI或成 英伟达 下一个重磅增长故事",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005786301?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T01:00:00Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [],
-   "score": 1,
    "link_is_redirect": false,
    "sec_filing": false
   }
