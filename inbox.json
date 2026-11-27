@@ -1,13 +1,13 @@
 {
- "updated_utc": "2026-11-27T04:50:46.443062Z",
+ "updated_utc": "2026-11-27T05:01:18.971350Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 851,
+  "fetched": 848,
   "new": 1,
-  "candidates": 23,
-  "judged": 0,
+  "candidates": 21,
+  "judged": 1,
   "pushed": 0
  },
  "items": [
@@ -226,6 +226,22 @@
    "cats": [],
    "score": 1,
    "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "48433b90fb2da3f8",
+   "title": "EU's Von der Leyen: 'Wide support' for $49 billion Ukraine loan plan",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HNVN3eGZPamtWLXNqdGNhWHBXTGN4NklaRUdKSVFUTVk0djgtTGU1Mm9oTVBpWTlHYkNtbGl0NVNhZkthVDBEQXk2ZS1sRGxZeHhTV0ZYTzhieEZTQVlLVmVIYXRoVHM?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T03:33:45Z",
+   "tickers": [],
+   "cats": [
+    "deal"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
    "sec_filing": false
   },
   {
