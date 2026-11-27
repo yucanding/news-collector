@@ -1,16 +1,64 @@
 {
- "updated_utc": "2026-11-27T05:10:50.958144Z",
+ "updated_utc": "2026-11-27T05:20:52.715877Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 844,
-  "new": 4,
-  "candidates": 25,
-  "judged": 4,
+  "fetched": 870,
+  "new": 3,
+  "candidates": 24,
+  "judged": 1,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "aacb037ad239532b",
+   "title": "“FSD就是现实版《侠盗猎车手》”：埃隆·马斯克表示，随着新版FSD更新带来类似电子游戏的驾驶视野， 特斯拉 汽车拥有“超越人类的视觉”",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005810238?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T05:17:31Z",
+   "tickers": [
+    "TSLA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "103d6d5f50da5d0b",
+   "title": "Australia Orders LNG Exporters Reserve Some Gas to Plug Shortages at Home",
+   "summary": "Australia will require liquefied natural gas exporters to reserve up to a fifth of their shipments for the domestic market to help lower power bills for local households and businesses.",
+   "link": "https://www.wsj.com/finance/commodities-futures/australia-orders-lng-exporters-reserve-some-gas-to-plug-shortages-at-home-72d6fe9b?mod=rss_markets_main",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T05:14:00Z",
+   "tickers": [],
+   "cats": [
+    "supply"
+   ],
+   "score": 5,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "d80b1869a9aa8737",
+   "title": "台积电 德国晶圆厂预计2027年底投产",
+   "summary": "",
+   "link": "https://news.futunn.com/flash/1005808889?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T05:02:43Z",
+   "tickers": [
+    "TSM"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "2f3d1511fa6931ab",
    "title": "‘A changed man.’ How will Jensen Huang lead Nvidia now?",
@@ -1214,22 +1262,6 @@
     "reg"
    ],
    "score": 5,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "62e815755aefba69",
-   "title": "Julius Meinl Coffee Group completes largest acquisition in its history",
-   "summary": "Investment moves Julius Meinl into the top five HoReCa coffee players in Italy and signals further acquisition appetite VIENNA, Nov. 26, 2026 /PRNewswire/ -- Julius Meinl has completed the acquisition of the businesses of Daroma and Neronobile in Italy, marking the largest acquisition in...",
-   "link": "https://www.prnewswire.com/news-releases/julius-meinl-coffee-group-completes-largest-acquisition-in-its-history-302951333.html",
-   "source": "PR Newswire",
-   "tier": 0,
-   "published_utc": "2026-11-26T17:16:00Z",
-   "tickers": [],
-   "cats": [
-    "mna"
-   ],
-   "score": 2,
    "link_is_redirect": false,
    "sec_filing": false
   }
