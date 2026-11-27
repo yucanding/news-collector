@@ -8,11 +8,11 @@
   "error": null
  },
  "fda-press": {
-  "fails": 4,
+  "fails": 5,
   "error": "HTTPError: HTTP Error 404: Not Found"
  },
  "ftc-press": {
-  "fails": 4,
+  "fails": 5,
   "error": "HTTPError: HTTP Error 404: Not Found"
  },
  "prn-finance": {
@@ -28,7 +28,7 @@
   "error": null
  },
  "gnw-mna": {
-  "fails": 4,
+  "fails": 5,
   "error": "HTTPError: HTTP Error 403: Forbidden"
  },
  "gn-kuo-en": {

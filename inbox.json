@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-27T03:50:48.186027Z",
+ "updated_utc": "2026-11-27T04:01:19.182995Z",
  "window_hours": 12,
  "stale": false,
  "errors": {
@@ -8,13 +8,51 @@
   "gnw-mna": "HTTPError: HTTP Error 403: Forbidden"
  },
  "counts": {
-  "fetched": 864,
-  "new": 2,
-  "candidates": 23,
-  "judged": 0,
+  "fetched": 832,
+  "new": 3,
+  "candidates": 24,
+  "judged": 1,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "1c22eac3fa0b7946",
+   "title": "Spirit of recovery: JPMorgan sees fresh upside in liquor giant Kweichow Moutai",
+   "summary": "Kweichow Moutai has won a rare vote of confidence from Wall Street, with JPMorgan Chase upgrading the Chinese baijiu giant that has been struggling with slowing growth in recent years. The US bank raised its recommendation on Kweichow Moutai’s Shanghai-listed shares to overweight from neutral and set a price target of 1,800 yuan, according to analyst Jessie Xu. The target implies an upside of about 20 per cent from current levels. The upgrade marks a reversal in JPMorgan’s stance. Xu had...",
+   "link": "https://www.scmp.com/business/china-business/article/3375983/spirit-recovery-jpmorgan-sees-fresh-upside-liquor-giant-kweichow-moutai",
+   "source": "SCMP",
+   "tier": null,
+   "published_utc": "2026-11-27T04:00:23Z",
+   "tickers": [
+    "JPM"
+   ],
+   "cats": [],
+   "score": 2,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "6b00cb2101f67d17",
+   "title": "高盛研报：AI 投资周期能否持续取决于大客户 ROI，超大规模云厂商 ROIC 仍望超 15%",
+   "summary": "深潮 TechFlow 消息，11 月 27 日，高盛发布题为《什么将决定 AI 投资周期的持续性》的研报，从新云厂商风险与超大规模云厂商回报两方面剖析当前 AI 资本开支周期。 知名投资人 Chamath Palihapitiya 在报告中指出，新云厂商（Neoclouds）面临类似航空公司的结构性错配：以短期、投机性收入对应长期固定负债，其当前算力利用率约 70% 至 75%，低于 80% 至 85% 的盈亏平衡线，叠加硬件升级周期与模型效率提升，经营压力加大。他还提到，数据中心电力基建落地慢于预期，目前几乎没有企业将每股收益（EPS）增长归因于 AI，未来 18 个月最核心的观察指标是大型终端客户能否兑现真实投资回报率（ROI），以及行业能否从「按百万 Token 收费」转向「按结果收费」。 高盛分析师 Eric Sheridan 则相对乐观。他表示，高盛测算显示，即便不将积压订单 100% 转化，超大规模云厂商（Hyperscalers）的投资资本回报率（ROIC）仍有望超过 15%。微软与亚马逊已就 ROIC 给出详细说明，Alphabet 表示其 ROIC 远高于资本成本，Meta 也正受益于 AI 驱动的广告变现加速。",
+   "link": "https://www.techflowpost.com/newsletter/147180/goldman-sachs-ai-investment-cycle-roi-hyperscale-cloud-roic-exceeds-15-percent",
+   "source": "TechFlow",
+   "tier": null,
+   "published_utc": "2026-11-27T03:54:22Z",
+   "tickers": [
+    "AMZN",
+    "GOOGL",
+    "GS",
+    "META",
+    "MSFT"
+   ],
+   "cats": [
+    "deal"
+   ],
+   "score": 5,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "ab2eba938095919c",
    "title": "暴涨30%后连跌两日， 英伟达 逼近“死亡交叉”",
@@ -309,6 +347,22 @@
    "title": "Apple rumoured to be working on a large foldable iPad with a 20-inch display.",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYmhsV2t5VG9OczlQd2NlNDNEMEc1N2ZZUW5sZnR5dWxUY0N0bEItNVk5T0QwVkRVaWlKQVVjSVhLcURzczJtRDFucHpYN25WUU51MmxYY0VyMGJiT1g3V0M5ckp2NXJDSldXcExmQXFkVTl3VC1IRVM4SEFnN1E0MkVjejJFclZwYUJ2djlJem4zcE9EMEYwdk5mTUk?oc=5",
+   "source": "HardwareZone",
+   "tier": null,
+   "published_utc": "2026-11-27T02:14:11Z",
+   "tickers": [
+    "AAPL"
+   ],
+   "cats": [],
+   "score": 2,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "02cf88d24edc1cc8",
+   "title": "Apple rumoured to be working on a large foldable iPad with a 20-inch display.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVF9yT1RMT3Axd0dMTm1oVW5ZUGpPbURGbXp6M00tQ2lrcXFfNENOelVSeWthVGt6R2YxSDFBRF96aWxvNFluQlFURmM4bFJVM0p5UExsdUs2OGJqbnZmVFB1NXlYRVY3ODRGMVRnbldJanNXTk55VVhQcjVSMlZpa0ZoQ096aVBaLVU1bm1zb3FrWDdjZFVPa1Bwd3BDMDFMRHc2dkFNT0haSUFlTnRMcm5fNA?oc=5",
    "source": "HardwareZone",
    "tier": null,
    "published_utc": "2026-11-27T02:14:11Z",
@@ -1135,24 +1189,6 @@
    ],
    "cats": [],
    "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "21c37fb463bf09a8",
-   "title": "Musk makes $18 billion SpaceX stock pledge for every kid in America",
-   "summary": "Elon Musk on Wednesday pledged two SpaceX shares for every child in America, doubling an offer he made just last month. Why it matters: The $18 billion-plus giveaway roughly triples Michael Dell's once record-breaking Trump accounts gift . What they're saying: \" Every child in America will receive two SpaceX shares, one from the company and one from me personally,\" he said in a post to X. On Oct. 19, he promised that every child would receive one share next year, adding it would be the \"first of many.\" By the numbers: With about 72 million minors in the U.S. per Census estimates, and at SpaceX's closing price Wednesday, the gift would be worth around $18.35 billion. Musk owns billions of SpaceX shares, and the company has billions of shares outstanding, so the giveaway likely wouldn't have",
-   "link": "https://www.axios.com/2026/11/26/musk-spacex-shares-trump-accounts",
-   "source": "Axios",
-   "tier": 2,
-   "published_utc": "2026-11-26T15:54:15Z",
-   "tickers": [
-    "DELL"
-   ],
-   "cats": [
-    "deal"
-   ],
-   "score": 6,
    "link_is_redirect": false,
    "sec_filing": false
   }
