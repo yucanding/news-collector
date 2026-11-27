@@ -59,8 +59,8 @@
   "error": null
  },
  "gn-supply": {
-  "fails": 0,
-  "error": null
+  "fails": 1,
+  "error": "HTTPError: HTTP Error 429: Too Many Requests"
  },
  "gemini": {
   "fails": 0,

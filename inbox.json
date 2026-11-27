@@ -1,16 +1,51 @@
 {
- "updated_utc": "2026-11-27T10:50:50.913005Z",
+ "updated_utc": "2026-11-27T11:01:23.619682Z",
  "window_hours": 12,
  "stale": false,
- "errors": {},
+ "errors": {
+  "gn-supply": "HTTPError: HTTP Error 429: Too Many Requests"
+ },
  "counts": {
-  "fetched": 876,
-  "new": 5,
-  "candidates": 46,
-  "judged": 3,
+  "fetched": 867,
+  "new": 2,
+  "candidates": 45,
+  "judged": 1,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "0d291a27fb828535",
+   "title": "ECARX Announces US$20 million Share Repurchase Program",
+   "summary": "LONDON, Nov. 27, 2026 /PRNewswire/ -- ECARX Holdings Inc. (Nasdaq: ECX) (\"ECARX\" or the \"Company\"), a leading global automotive intelligence business, today announced its board of directors has authorized a share repurchase program under which the Company may repurchase up to US$20...",
+   "link": "https://www.prnewswire.com/news-releases/ecarx-announces-us20-million-share-repurchase-program-302951459.html",
+   "source": "PR Newswire",
+   "tier": 0,
+   "published_utc": "2026-11-27T11:00:00Z",
+   "tickers": [
+    "ECX"
+   ],
+   "cats": [],
+   "score": 2,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "05194513719a8338",
+   "title": "EXCLUSIVE: Volkswagen drags rivals Mercedes, BMW into $1.2 billion India tax fight",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVmMzM2R4OXZYcTVXODQ1TnFvVldUOGtBQmhhV1lHS29wOThxUmpDRXVBTHhfZDY3d1QxZF9rTmlVTU5PQXhVWDlSdWtTUHBCOTlVbmlRLUhpWW9aTUFURUN5WHhMOGtMV0hHUGY0QjZIbVROOExQNUlMU21YU0hYUktmcGo0RU5DNGl4Uy1RTnBkOEVYV3lSSzZYZ1lfM094U2JJTnhadm43aFlNZGtvb0MxOXFESVk?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T10:50:41Z",
+   "tickers": [],
+   "cats": [
+    "deal",
+    "scoop"
+   ],
+   "score": 6,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
   {
    "id": "c8fad648d583ac09",
    "title": "X Financial Reports Third Quarter 2026 Unaudited Financial Results",
@@ -2508,38 +2543,6 @@
     "TSLA"
    ],
    "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "d2310e728ada2a62",
-   "title": "Let’s keep doing lunch: Hong Kong exchange leans towards keeping noon break, sources say",
-   "summary": "Lunch is likely to remain on the menu for Hong Kong stock brokers, as the city’s bourse operator leans towards extending trading hours at either end of the day while keeping the market’s traditional mid-day break intact, according to multiple sources. Hong Kong Exchanges and Clearing (HKEX) will not highlight the idea of cancelling the current hour-long noon break when it issues a discussion paper on its operating hours as early as next week, sources with knowledge of the matter told the South...",
-   "link": "https://www.scmp.com/business/markets/article/3375915/lets-keep-doing-lunch-hong-kong-exchange-leans-towards-keeping-noon-break-sources-say",
-   "source": "SCMP",
-   "tier": null,
-   "published_utc": "2026-11-26T23:00:10Z",
-   "tickers": [],
-   "cats": [
-    "scoop"
-   ],
-   "score": 2,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "5f6933976c8dbf3a",
-   "title": "Gene Solutions' SPOT-MAS 10 Receives Class C IVD Registration from Singapore's HSA for Blood-Based Multi-Cancer Screening",
-   "summary": "SINGAPORE, Nov. 26, 2026 /PRNewswire/ -- Gene Solutions today announced that Singapore's Health Sciences Authority (HSA) has approved the registration application of SPOT-MAS 10 as a Class C in vitro diagnostic (IVD) medical device. Based on the Singapore Medical Device Register records...",
-   "link": "https://www.prnewswire.com/news-releases/gene-solutions-spot-mas-10-receives-class-c-ivd-registration-from-singapores-hsa-for-blood-based-multi-cancer-screening-302951232.html",
-   "source": "PR Newswire",
-   "tier": 0,
-   "published_utc": "2026-11-26T23:00:00Z",
-   "tickers": [],
-   "cats": [
-    "reg"
-   ],
    "score": 1,
    "link_is_redirect": false,
    "sec_filing": false
