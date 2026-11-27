@@ -1,20 +1,51 @@
 {
- "updated_utc": "2026-11-27T04:10:48.987202Z",
+ "updated_utc": "2026-11-27T04:20:48.887883Z",
  "window_hours": 12,
  "stale": false,
  "errors": {
   "fda-press": "HTTPError: HTTP Error 404: Not Found",
-  "ftc-press": "HTTPError: HTTP Error 404: Not Found",
-  "gnw-mna": "HTTPError: HTTP Error 403: Forbidden"
+  "ftc-press": "HTTPError: HTTP Error 404: Not Found"
  },
  "counts": {
-  "fetched": 841,
-  "new": 1,
-  "candidates": 23,
+  "fetched": 870,
+  "new": 2,
+  "candidates": 22,
   "judged": 0,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "708fb7bedf3f3722",
+   "title": "马克·扎克伯格让 Meta 的Muse处理感恩节晚餐，自己则玩游戏：“烤火鸡大获成功”",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005806544?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T04:13:05Z",
+   "tickers": [
+    "META"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "bfc4da374f462e74",
+   "title": "新兴云服务商被告知须二选一：选择 英伟达 芯片还是中国客户",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005806381?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T04:11:20Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "d7b17b8017f4bff0",
    "title": "瑞银交易员：可口可乐等防御股动能减弱或为 AI 股筑底信号，但尚未现全面平仓",
@@ -1154,22 +1185,6 @@
    "tickers": [
     "INTC"
    ],
-   "cats": [
-    "scoop"
-   ],
-   "score": 4,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "92af4d644382b8bf",
-   "title": "SAP Weighs Cutting at Least 10,000 Positions in AI Restructuring",
-   "summary": "SAP SE is preparing a plan to eliminate at least 10,000 positions to transform its software business for the artificial intelligence era, according to people familiar with the matter.",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring",
-   "source": "BBG",
-   "tier": 1,
-   "published_utc": "2026-11-26T16:15:48Z",
-   "tickers": [],
    "cats": [
     "scoop"
    ],
