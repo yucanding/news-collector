@@ -1,16 +1,50 @@
 {
- "updated_utc": "2026-11-27T06:50:49.769062Z",
+ "updated_utc": "2026-11-27T07:01:20.318017Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 888,
-  "new": 1,
-  "candidates": 29,
-  "judged": 1,
+  "fetched": 847,
+  "new": 3,
+  "candidates": 25,
+  "judged": 3,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "961a0e683c4a3978",
+   "title": "Nvidia’s 31% surge, 20-40% US tariffs on China: 5 figures investors are watching this week",
+   "summary": "After Nvidia shares skyrocketed on Monday, capital markets across the United States and Asia experienced another volatile week, paring gains amid widespread concerns over the AI trade and a new round of US tariffs targeting major economies, including China. Below are five figures that captured market attention this week: Nvidia stock rallies 31 per cent Following Jensen Huang’s return to Nvidia as CEO on Monday, the chipmaker’s stock surged more than 31 per cent – its biggest one-day percentage...",
+   "link": "https://www.scmp.com/business/china-business/article/3375991/nvidias-31-surge-20-40-us-tariffs-china-5-figures-investors-are-watching-week",
+   "source": "SCMP",
+   "tier": null,
+   "published_utc": "2026-11-27T07:00:13Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "76a8a7a4f6bf3e3d",
+   "title": "Vietnam Expects to Sign US Trade Deal to Limit Tariff Hit",
+   "summary": "Vietnam expects to sign a trade deal with the US that will result in a significantly lower final tariff rate as the two countries inch closer to a reciprocal trade agreement.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/vietnam-expects-to-sign-us-trade-deal-to-limit-tariff-hit",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T06:44:25Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "714c20e52a6b4216",
    "title": "Michael Burry就人工智能热潮发出严厉警告， 英伟达 、甲骨文和Meta面临债务保险成本飙升",
@@ -75,6 +109,22 @@
    ],
    "cats": [],
    "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "2a6a9c21aabb16da",
+   "title": "India-US Trade Deal Talks Close to Culmination, Goyal Says",
+   "summary": "India’s trade deal negotiations with the US are “close to culmination,” Commerce and Industry Minister Piyush Goyal said, days after Washington unveiled a tariff proposal that increases the pressure on New Delhi to reach an agreement.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/india-us-trade-deal-talks-close-to-culmination-goyal-says",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T06:19:10Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
    "link_is_redirect": false,
    "sec_filing": false
   },
@@ -372,6 +422,22 @@
    "sec_filing": false
   },
   {
+   "id": "07bfe1daa625c9f0",
+   "title": "The Ellisons’ debt-fuelled takeover of Hollywood",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTEpyYnRsTmhsNENBMGZ1UjYwUExvdDVGa3ExVDd1N1FtLUE5eHlpMFB4aW85WlJsQVRZZkpsYlo1Q2J2SWl3Z0VNVEhTNkpOLWl0UG9wMFJwQ0tIZUUzZ2RqcGdEVEU2b2JBUThocjNkU2RYWmNEQWN2NzVqVkg0NDQ0c24?oc=5",
+   "source": "Financial Times",
+   "tier": 1,
+   "published_utc": "2026-11-27T05:01:14Z",
+   "tickers": [],
+   "cats": [
+    "mna"
+   ],
+   "score": 6,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
    "id": "9119782105847dc5",
    "title": "AI data centre boom piles pressure on stressed US defence sector",
    "summary": "Boeing and leading defence contractors wrestle with ballooning backlogs fuelled by a surge in air travel and military spending",
@@ -401,22 +467,6 @@
    ],
    "score": 5,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "07bfe1daa625c9f0",
-   "title": "The Ellisons’ debt-fuelled takeover of Hollywood",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTEpyYnRsTmhsNENBMGZ1UjYwUExvdDVGa3ExVDd1N1FtLUE5eHlpMFB4aW85WlJsQVRZZkpsYlo1Q2J2SWl3Z0VNVEhTNkpOLWl0UG9wMFJwQ0tIZUUzZ2RqcGdEVEU2b2JBUThocjNkU2RYWmNEQWN2NzVqVkg0NDQ0c24?oc=5",
-   "source": "Financial Times",
-   "tier": 1,
-   "published_utc": "2026-11-27T05:00:31Z",
-   "tickers": [],
-   "cats": [
-    "mna"
-   ],
-   "score": 6,
-   "link_is_redirect": true,
    "sec_filing": false
   },
   {
