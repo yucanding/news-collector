@@ -1,12 +1,12 @@
 {
- "updated_utc": "2026-11-27T20:20:46.493101Z",
+ "updated_utc": "2026-11-27T20:31:09.079413Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 808,
+  "fetched": 802,
   "new": 0,
-  "candidates": 27,
+  "candidates": 21,
   "judged": 0,
   "pushed": 0
  },
@@ -290,7 +290,7 @@
    "title": "Stock Movers: Nvidia, Dollar Tree, Verizon",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc3J0S0xqNTNYYzc4Mk93My1JZmFKb2swU3pRZktCZHFWQkFNRUk5MklBbFpHeUhlbDhQdVp3MGx1NEhJRFl6aGlzaFNSRi1zT0NVYllvU29FRDdfVXVnUWEyT1I2TjlVTTVIR3pnekc1U3RxbHNqMl85eEx4eG1pRzl6UmYtZ3Zyb0ZmcjYxRExOUUh5dk8tN3lOQQ?oc=5",
-   "source": "Bloomberg.com",
+   "source": "Bloomberg",
    "tier": 1,
    "published_utc": "2026-11-27T18:51:53Z",
    "tickers": [
@@ -3644,72 +3644,6 @@
    "cats": [],
    "score": 1,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "5fb8473282eeebf0",
-   "title": "彭博社：英伟达恢复黄仁勋首席执行官职务",
-   "summary": "深潮 TechFlow 消息，11 月 27 日，据彭博社报道，英伟达恢复黄仁勋的首席执行官职务，推动科技股上涨。不过，这一变化并未消除市场对人工智能交易的担忧。",
-   "link": "https://www.techflowpost.com/newsletter/147212/bloomberg-nvidia-reinstates-jensen-huang-as-ceo",
-   "source": "TechFlow",
-   "tier": null,
-   "published_utc": "2026-11-27T08:31:04Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [],
-   "score": 2,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "2b71c72920dcfd3e",
-   "title": "黄仁勋回归后，力挺董事会的 英伟达 VP旧帖翻车：曾与Anthropic CEO在百度共事，Anthropic再被推上风口",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005829932?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T08:30:54Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "12327c9e5d5a7176",
-   "title": "Jensen Huang is back at Nvidia, but the US still needs a plan B",
-   "summary": "Jensen Huang is back at Nvidia, and investors have delivered their verdict. After the board reinstated him on November 23, shares rose 31.5 per cent. US President Donald Trump welcomed the decision, linking Huang’s leadership to the prosperity of the American economy. The board said meetings with Huang had satisfied it about his candour and ability to lead. Input from senior US officials reassured directors that his return posed no national security risk. The independent investigation into...",
-   "link": "https://www.scmp.com/opinion/world-opinion/article/3375731/jensen-huang-back-nvidia-us-still-needs-plan-b",
-   "source": "SCMP",
-   "tier": null,
-   "published_utc": "2026-11-27T08:30:07Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [
-    "reg"
-   ],
-   "score": 5,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "ce2e79d13f04ce24",
-   "title": "Watch Nvidia, AI Fears Jolt Markets: Market Snapshot",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQUpKdll3YnRTeXhYejFpMFNxZEJnRk5KWEZJN0RISXB0Y3JHcVM4YlY4dnF3djFFeTNlRXZER2tPYXBONFYwcUhNY3FGQU9QWEpqMzgtNDhxc0VqbXE2QTVCR0Q1WVFyZ0ExSVM4azhiRVRrQkl2RDNWWUFOakRrVG5mMlA4VW56NGJ1SzVFdmpwcmRneE5UbWdWS1lsNkJH?oc=5",
-   "source": "Bloomberg.com",
-   "tier": 1,
-   "published_utc": "2026-11-27T08:29:12Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [],
-   "score": 4,
-   "link_is_redirect": true,
    "sec_filing": false
   }
  ]
