@@ -1,16 +1,96 @@
 {
- "updated_utc": "2026-11-27T12:01:20.935039Z",
+ "updated_utc": "2026-11-27T12:10:50.228423Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 893,
+  "fetched": 889,
   "new": 6,
-  "candidates": 41,
-  "judged": 3,
+  "candidates": 45,
+  "judged": 2,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "165d0baa014b475f",
+   "title": "英伟达 Blackwell 芯片现身上海数据中心",
+   "summary": "深潮 TechFlow 消息，11 月 27 日，据 Bloomberg Technology 报道，两家中国公司将英伟达（Nvidia）的 Blackwell 半导体安装在上海一个与 Alice Huang 有关联的数据中心。据 11 月提交给中国监管机构的文件所列序列号，长三角项目安装的设备包括一台 GB300 NVL72 机架，属于英伟达最强产品之一。 根据彭博新闻查阅的贷款方文件，上海硕曜将该硬件作为抵押，从上海创新银行获得 9600 万元人民币（约合 1400 万美元）贷款。",
+   "link": "https://www.techflowpost.com/newsletter/147254/nvidia-blackwell-chips-appear-in-shanghai-data-center",
+   "source": "TechFlow",
+   "tier": null,
+   "published_utc": "2026-11-27T12:09:23Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 2,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "689d639053611178",
+   "title": "黄仁勋下周赴国会接受问询： 英伟达 ( NVDA .US)重返聚光灯下，AI板块迎来压力测试",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005852418?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T12:08:36Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "d9f898747c455188",
+   "title": "Vance and Rubio learn the price of loyalty to Trump",
+   "summary": "JD Vance and Marco Rubio are the Republicans most likely to run to succeed President Trump . But the past few weeks have shown how saddled each would be by decisions he made against their advice. Why it matters: Trump's unpopularity cost Republicans their congressional majorities. The Iran war and now the Jensen Huang imbroglio show how hard it'd be for Vance or Rubio to run on their own terms. The big picture: The problem isn't just that Vance and Rubio disagreed with Trump — it's that the two episodes cut to the core of their political identities. Vice President Vance has cast himself as a new-generation, anti-interventionist Republican who's wary of trying to solve the world's problems and has broken with GOP orthodoxy of unequivocal support for Israel. He made the case against going to",
+   "link": "https://www.axios.com/2026/11/27/vance-rubio-trump-downside-2028",
+   "source": "Axios",
+   "tier": 2,
+   "published_utc": "2026-11-27T12:06:15Z",
+   "tickers": [
+    "JD"
+   ],
+   "cats": [],
+   "score": 3,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "e3f0417b9e05ef7d",
+   "title": "Exclusive | Aschenbrenner’s Situational Awareness Tells Investors It Lost 65% in Third Quarter",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUXgxcE1tNTdoYWR4Vld1UWtPeHRadlE1T1RrbXlBbUJad01lVGZZU2ljYURrcXNCY3QzcGQ1RUlxM1Q1Mk1YVTh1dnpGcGxFYlNUSHRZY0NYRWdzNnZzb2g5UURNWEtDQnZBbTNjSUZyRVdsSExOU2otY2FGVnhIYXVadkE1LTFyVGNOU3RFMDhpc0RBNGNURUM0cHA0eVZMSzkyTmpuR2hfaGZSRGQ3cUdVRWtnS1VFTFlGNWJSRHFhZ2JTelE?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T12:06:10Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 0,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "8a8dcff339c93fdd",
+   "title": "Doomsday Prepping Goes Mainstream, and Costco Spies an Opportunity",
+   "summary": "It’s dehydrated pasta Alfredo, canned beans and gochujang-flavored Spam.",
+   "link": "https://www.bloomberg.com/news/newsletters/2026-11-27/doomsday-prepping-goes-mainstream-and-costco-spies-an-opportunity",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T12:00:01Z",
+   "tickers": [
+    "COST"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "2f05227480ca1e01",
    "title": "Wigiwork Flips Tech Hiring: Engineers Set Their Price, AI Matches the Company, No Agency Commission",
@@ -43,6 +123,22 @@
    ],
    "score": 5,
    "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "e1aa3ea51102fc8c",
+   "title": "Explainer: What is Modi's automated takedown law, which has embroiled Meta in a political storm?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVTZ2bTRUanBuNS1mNExCQzNNSHlnNmhab0pKZjNQM0JhbS1GUEpnaV80UWVzb0JZMkR1RE0wYk03djRVdmdGY0I1ZkF6S3RBOW53Y0dKNU15b1hXTlQ0SlhKYTE3RzBkUUtVMnR1NEtpRk1UclhZcFpOR1VnX2JCeHFDQ291bnZUaWZoU1BuT3Z1NFFWdTlBVHFZMWRnUmg3aGxFRXVpN0Q3Vnl3Qm1UUFQ3Y25XY3BlRmFtaDM1WF95NEVucWR3N2dyVks?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T11:57:46Z",
+   "tickers": [
+    "META"
+   ],
+   "cats": [],
+   "score": 0,
+   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -2841,22 +2937,6 @@
     "mna"
    ],
    "score": 6,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "c7f94d9041415d0c",
-   "title": "特朗普：黄仁勋很高兴重返 英伟达 开启“第二个任期”",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005784597?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T00:08:00Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [],
-   "score": 1,
    "link_is_redirect": false,
    "sec_filing": false
   }
