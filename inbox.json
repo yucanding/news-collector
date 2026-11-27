@@ -1,16 +1,66 @@
 {
- "updated_utc": "2026-11-27T08:20:48.053071Z",
+ "updated_utc": "2026-11-27T08:31:09.917576Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 850,
-  "new": 1,
-  "candidates": 21,
-  "judged": 0,
+  "fetched": 809,
+  "new": 4,
+  "candidates": 23,
+  "judged": 4,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "12327c9e5d5a7176",
+   "title": "Jensen Huang is back at Nvidia, but the US still needs a plan B",
+   "summary": "Jensen Huang is back at Nvidia, and investors have delivered their verdict. After the board reinstated him on November 23, shares rose 31.5 per cent. US President Donald Trump welcomed the decision, linking Huang’s leadership to the prosperity of the American economy. The board said meetings with Huang had satisfied it about his candour and ability to lead. Input from senior US officials reassured directors that his return posed no national security risk. The independent investigation into...",
+   "link": "https://www.scmp.com/opinion/world-opinion/article/3375731/jensen-huang-back-nvidia-us-still-needs-plan-b",
+   "source": "SCMP",
+   "tier": null,
+   "published_utc": "2026-11-27T08:30:07Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "ce2e79d13f04ce24",
+   "title": "Watch Nvidia, AI Fears Jolt Markets: Market Snapshot",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQUpKdll3YnRTeXhYejFpMFNxZEJnRk5KWEZJN0RISXB0Y3JHcVM4YlY4dnF3djFFeTNlRXZER2tPYXBONFYwcUhNY3FGQU9QWEpqMzgtNDhxc0VqbXE2QTVCR0Q1WVFyZ0ExSVM4azhiRVRrQkl2RDNWWUFOakRrVG5mMlA4VW56NGJ1SzVFdmpwcmRneE5UbWdWS1lsNkJH?oc=5",
+   "source": "Bloomberg.com",
+   "tier": 1,
+   "published_utc": "2026-11-27T08:29:12Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "c2cd5c6954b8639b",
+   "title": "Vietnamese partners of Trump Organization plan Trump Tower in Hanoi, sources say",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVGVQZnkyVFhEUG1rQW1qbXlISzVIQ3hSRkxlaTFvVkR2RnBCUllrX09nTTN4Rk5hU2tldjZkUkpXZlllNkZLc2lRWGNjYzFCbEV4eGRMV0ZrZ2ljRS0wT1Naa3hrdzd3V0IwVFg0U1JGTGJ1V3luNlVLX3praTFqSVdIOFRBX0VkaUJObTZHdEdGQmMteTFPMnNPb01KUEx0WjFhUTBDSGV3Rm55UnFlVmlnR2dHQlREMF96azZLRFYxQldQOUp0RS01ZTRJX3ZsZnc?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T08:18:41Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
   {
    "id": "e7637103d829ed4f",
    "title": "American-Led Consortium Announces Agreement to Acquire LUKOIL International’s Global Energy Portfolio",
@@ -25,6 +75,22 @@
    ],
    "score": 2,
    "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "5e1444786ebf0f45",
+   "title": "Iran, Turkey Extend Natural Gas Deal Amid US Pressure on Tehran",
+   "summary": "Turkey extended its long-term natural gas import contract with Iran, according to people familiar with the matter, securing a key source of income for Tehran as the US puts the Islamic Republic’s economy under pressure.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/iran-turkey-extend-natural-gas-deal-amid-us-pressure-on-tehran",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T08:11:53Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": false,
    "sec_filing": false
   },
   {
@@ -303,7 +369,7 @@
   },
   {
    "id": "714c20e52a6b4216",
-   "title": "Michael Burry就人工智能热潮发出严厉警告， 英伟达 、甲骨文和Meta面临债务保险成本飙升",
+   "title": "Michael Burry就人工智能热潮发出严厉警告，英伟达、甲骨文和 Meta 面临债务保险成本飙升",
    "summary": "",
    "link": "https://news.futunn.com/post/1005817017?futusource=news_search_searchnews&src=39",
    "source": "futu",
