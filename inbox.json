@@ -1,16 +1,48 @@
 {
- "updated_utc": "2026-11-27T07:40:47.718019Z",
+ "updated_utc": "2026-11-27T07:50:48.511030Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 866,
-  "new": 1,
-  "candidates": 27,
+  "fetched": 858,
+  "new": 3,
+  "candidates": 24,
   "judged": 1,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "e003937361f1ef1e",
+   "title": "Norse Atlantic says lessors terminate aircraft agreements",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUFZ5amdzZG00RTRadGk1NlNDb0JFeTNseGJid3dwNWtNTFBvaVQ1LVdnSUs1Rkk3Uy1tTlNDVVBmMkRkV1QxU3lGcHR2ZzU0bG9PMlM4OXphZHpVVVBXNS14WnRNX2xsWEZrSXV4TjRHUlZFWUlEYldEY1NFZlRqa2xjNUE2T0l5cWJ3MTU4aGo3Qk91WVcwdHdtZWdkTEZ2bWdnUGxrVHdOYmZ4ZDVMOGtWc2U5S2ZuM1FjRQ?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T07:39:00Z",
+   "tickers": [],
+   "cats": [
+    "deal"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "9acc14338a3ab661",
+   "title": "日本发电巨头JERA正与Anthropic、 微软 等科技巨头洽谈在发电厂附近建设数据中心",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005823252?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T07:38:00Z",
+   "tickers": [
+    "MSFT"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "a61c03aa4eb9efb1",
    "title": "U.K. Regulator Says McCormick Sale of Colman’s Could Address Unilever Foods Merger Concerns",
@@ -146,6 +178,22 @@
    "title": "EXCLUSIVE: India's election body website flaw exposing voter data fixed after Reuters findings",
    "summary": "",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ0FJSWdhTk5feHctRGNZY3ZzUzRYT19rSmVWUElSNmJkX25rU1NRc05JTXM3TzRrcTBLRElnaDNxaVFGT1FUVnVaM1R3aUZRbUhBUl94UGJnRHh2WEF4UWVwLUU0T0g4MGVZNjFHMzJjNGdVTDRMSjZwbE5nTGhORURnMldFR1dkTFd4RjhlWFVsVFBPS1lISWd2SjF2Qko5aGIyTFJxWWYxZEU3THpCMU13Smo0aWxhSGIwcU5B?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T06:58:00Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "08ff76eb9323231c",
+   "title": "EXCLUSIVE: India's election body website flaw exposing voter data fixed after Reuters findings",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQmxHYlRsZWJBc0E5YmI5dWJMMlZueVZHY2Z2VnVvRHlFTDdZbnpTVDNHcVBPeG1sczJuMWQ4R3BHU3dBWmVqVlRKOTQ4RzRscm9JdWxkVVZlQU5KMlQ2WThVcTl3dEhGN2s1VDl6ZF9vWGpMNjY5cWUyWG8zWVYyazdXSXhaRVNQUGYzMVJxUXk1bkpfRkNCZkhWZXlkN0VvOHBCaUg5d1YyX3lsMWhveTNYYUlJQQ?oc=5",
    "source": "Reuters",
    "tier": 1,
    "published_utc": "2026-11-27T06:58:00Z",
@@ -1413,7 +1461,7 @@
   {
    "id": "17e87f76f70f0334",
    "title": "Japan Tobacco Climbs on Potential Imperial Brands Takeover",
-   "summary": "Japan Tobacco Inc. shares gained after news that the cigarette maker is exploring a potential takeover of Imperial Brands Plc with Altria Group Inc.",
+   "summary": "Japan Tobacco Inc. shares rose on news that it is exploring a potential takeover of Imperial Brands Plc with Altria Group Inc., a move that could help the Japanese cigarette maker fill a large earnings hole left by the recent seizure of its Russian assets.",
    "link": "https://www.bloomberg.com/news/articles/2026-11-27/japan-tobacco-shares-climb-on-potential-imperial-brands-takeover",
    "source": "BBG",
    "tier": 1,
@@ -1699,23 +1747,6 @@
    "tickers": [
     "AMZN",
     "WMT"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "56ea2bd200b955f5",
-   "title": "感恩节购物正转向移动端。 苹果 和亚马逊或将从$44亿的趋势中受益",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005775850?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-26T19:45:05Z",
-   "tickers": [
-    "AAPL",
-    "AMZN"
    ],
    "cats": [],
    "score": 1,
