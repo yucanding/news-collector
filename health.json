@@ -8,11 +8,11 @@
   "error": null
  },
  "fda-press": {
-  "fails": 1,
+  "fails": 2,
   "error": "HTTPError: HTTP Error 404: Not Found"
  },
  "ftc-press": {
-  "fails": 1,
+  "fails": 2,
   "error": "HTTPError: HTTP Error 404: Not Found"
  },
  "prn-finance": {
@@ -28,7 +28,7 @@
   "error": null
  },
  "gnw-mna": {
-  "fails": 1,
+  "fails": 2,
   "error": "HTTPError: HTTP Error 403: Forbidden"
  },
  "gn-kuo-en": {
@@ -68,6 +68,14 @@
   "error": null
  },
  "config": {
+  "fails": 0,
+  "error": null
+ },
+ "sec-press": {
+  "fails": 0,
+  "error": null
+ },
+ "sec-8k": {
   "fails": 0,
   "error": null
  }

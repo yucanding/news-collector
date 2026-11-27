@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-27T03:20:48.270983Z",
+ "updated_utc": "2026-11-27T03:31:05.327915Z",
  "window_hours": 12,
  "stale": false,
  "errors": {
@@ -8,13 +8,29 @@
   "gnw-mna": "HTTPError: HTTP Error 403: Forbidden"
  },
  "counts": {
-  "fetched": 839,
-  "new": 67,
-  "candidates": 19,
-  "judged": 8,
-  "pushed": 1
+  "fetched": 864,
+  "new": 2,
+  "candidates": 22,
+  "judged": 2,
+  "pushed": 0
  },
  "items": [
+  {
+   "id": "660e55b55274dc5d",
+   "title": "Trump: 'Market feels very good' about Huang's return as Nvidia CEO",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XbVFpb2oxYzkzN0xRaDhhYlVjbU0wTHhISkowOGhuMVYwQTF1WU9GTDZsanpnZmM2TXdvdkxMMTZyTHY1QmM1aG1uSThHUGZoOUhkWGRnTzZDRi1RMG5qNHBlbkUtMXM?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T03:28:14Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
   {
    "id": "1beddbd64d94f572",
    "title": "特斯拉 （ TSLA ）技术分析丨2026年11月27日",
@@ -80,6 +96,23 @@
    "sec_filing": false
   },
   {
+   "id": "5c29f81d47fe557c",
+   "title": "微软 Win11 推送问题驱动，部分英特尔 NUC 设备 Defender 直接报警",
+   "summary": "",
+   "link": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?futusource=news_search_searchnews&src=39#/index?id=nesSN202611271108509749be31&s=b",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T03:00:19Z",
+   "tickers": [
+    "INTC",
+    "MSFT"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
    "id": "fc2171b75d537fb0",
    "title": "The AI Boom Looks Alive and Well in Asia",
    "summary": "Stocks are having a wild ride thanks to the Nvidia affair, but AI-linked exports and investment are still driving growth—for now.",
@@ -108,6 +141,22 @@
    ],
    "cats": [],
    "score": 2,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "5480aef5bb16866c",
+   "title": "Japan’s Upper House Rejects Motion Against Scandal Hit Minister",
+   "summary": "Japan’s upper house failed to pass a no-confidence motion against Prime Minister Sanae Takaichi’s education minister, providing some breathing space for her as she tries to push a sales tax cut bill through parliament in time for its planned April roll-out.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/japan-s-upper-house-rejects-motion-against-scandal-hit-minister",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T02:54:21Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
    "link_is_redirect": false,
    "sec_filing": false
   },
@@ -463,24 +512,6 @@
     "mna"
    ],
    "score": 6,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "5c29f81d47fe557c",
-   "title": "微软 M365大宕机后启动“红色警戒”",
-   "summary": "",
-   "link": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?futusource=news_search_searchnews&src=39#/index?id=nesSN20261127090028b69dbe94&s=b",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T00:21:51Z",
-   "tickers": [
-    "MSFT"
-   ],
-   "cats": [
-    "incident"
-   ],
-   "score": 4,
    "link_is_redirect": false,
    "sec_filing": false
   },
@@ -1075,39 +1106,6 @@
     "deal"
    ],
    "score": 6,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "3392fef02dc59382",
-   "title": "IoT Market worth $1,004.24 billion by 2032 - Report by MarketsandMarkets™",
-   "summary": "DELRAY BEACH, Fla., Nov. 26, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the IoT Market is projected to grow from USD 606.29 billion in 2026 to USD 1,004.24 billion by 2032, at a compound annual growth rate (CAGR) of 8.8% during the same period. Browse 300 market data Tables and...",
-   "link": "https://www.prnewswire.com/news-releases/iot-market-worth-1-004-24-billion-by-2032--report-by-marketsandmarkets-302951183.html",
-   "source": "PR Newswire",
-   "tier": 0,
-   "published_utc": "2026-11-26T15:31:00Z",
-   "tickers": [],
-   "cats": [
-    "deal"
-   ],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "5bf30e4ab1ac908e",
-   "title": "Alphabet与Meta Platforms、Reddit以及互动媒体与服务行业其他公司的对比。",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005766781?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-26T15:30:56Z",
-   "tickers": [
-    "GOOGL",
-    "META"
-   ],
-   "cats": [],
-   "score": 1,
    "link_is_redirect": false,
    "sec_filing": false
   }
