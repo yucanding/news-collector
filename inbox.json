@@ -1,16 +1,48 @@
 {
- "updated_utc": "2026-11-27T07:01:20.318017Z",
+ "updated_utc": "2026-11-27T07:10:50.363912Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 847,
+  "fetched": 839,
   "new": 3,
-  "candidates": 25,
-  "judged": 3,
+  "candidates": 26,
+  "judged": 2,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "5f727dd29e5c2c68",
+   "title": "A 股创业板指收涨 11.61%，创 2024 年 10 月 8 日以来最大单日涨幅",
+   "summary": "深潮 TechFlow 消息，11 月 27 日，A 股收盘，创业板指收涨 11.61%，创 2024 年 10 月 8 日以来最大单日涨幅，上证指数收涨 3.73%；半导体、CPO、光刻机、算力等科技板块全线爆发；沪深京三市近 5400 股上涨，超 400 股涨停。",
+   "link": "https://www.techflowpost.com/newsletter/147206/chi-next-index-up-11-61-largest-single-day-since-oct-8-2024",
+   "source": "TechFlow",
+   "tier": null,
+   "published_utc": "2026-11-27T07:05:24Z",
+   "tickers": [],
+   "cats": [
+    "deal"
+   ],
+   "score": 3,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "374e6d539c774d98",
+   "title": "“脱胎换骨的他”：复职后的黄仁勋将如何带领 英伟达 ？",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005819636?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T07:02:00Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "961a0e683c4a3978",
    "title": "Nvidia’s 31% surge, 20-40% US tariffs on China: 5 figures investors are watching this week",
@@ -27,6 +59,22 @@
    ],
    "score": 5,
    "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "0f5887f352cca6c0",
+   "title": "EXCLUSIVE: India's election body website flaw exposing voter data fixed after Reuters findings",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ0FJSWdhTk5feHctRGNZY3ZzUzRYT19rSmVWUElSNmJkX25rU1NRc05JTXM3TzRrcTBLRElnaDNxaVFGT1FUVnVaM1R3aUZRbUhBUl94UGJnRHh2WEF4UWVwLUU0T0g4MGVZNjFHMzJjNGdVTDRMSjZwbE5nTGhORURnMldFR1dkTFd4RjhlWFVsVFBPS1lISWd2SjF2Qko5aGIyTFJxWWYxZEU3THpCMU13Smo0aWxhSGIwcU5B?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T06:58:00Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": true,
    "sec_filing": false
   },
   {
