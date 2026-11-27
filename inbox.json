@@ -1,16 +1,32 @@
 {
- "updated_utc": "2026-11-27T21:31:08.075341Z",
+ "updated_utc": "2026-11-27T21:40:52.716368Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 800,
-  "new": 10,
-  "candidates": 20,
-  "judged": 1,
+  "fetched": 794,
+  "new": 7,
+  "candidates": 25,
+  "judged": 0,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "a02ac7a5d0dbe79c",
+   "title": "美股ETF速递 | 2倍做多 SNDK ETF-Tradr交投活跃，今日涨幅最高，上涨30.14%",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005878202?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T21:30:05Z",
+   "tickers": [
+    "SNDK"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "4860f9d3dce25276",
    "title": "英伟达 期权聚焦：11月27日成交381.08万张，未平仓合约2,071.63万张",
@@ -149,6 +165,102 @@
    "published_utc": "2026-11-27T21:30:00Z",
    "tickers": [
     "SNDK"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "45ce7edc3bf17bcb",
+   "title": "微软 期权聚焦：11月27日成交29.61万张，未平仓合约352.71万张",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005878164?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T21:30:00Z",
+   "tickers": [
+    "MSFT"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "0e2dd7412d2b9b29",
+   "title": "谷歌-C 期权聚焦：11月27日成交15.05万张，未平仓合约194.56万张",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005878212?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T21:30:00Z",
+   "tickers": [
+    "GOOGL"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "9f89ce79cd007471",
+   "title": "Meta Platforms期权聚焦：11月27日成交40.85万张，未平仓合约272.2万张",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005878160?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T21:30:00Z",
+   "tickers": [
+    "META"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "1200ada3b5383d5e",
+   "title": "2倍做多 TSLA ETF-Direxion期权聚焦：11月27日成交11.85万张，未平仓合约110.78万张",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005878292?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T21:30:00Z",
+   "tickers": [
+    "TSLA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "bac2935dbb9ffea3",
+   "title": "博通 期权聚焦：11月27日成交19.88万张，未平仓合约249.91万张",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005878209?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T21:30:00Z",
+   "tickers": [
+    "AVGO"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "f90e5c4681b18422",
+   "title": "台积电 期权聚焦：11月27日成交9.66万张，未平仓合约207.15万张",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005878231?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T21:30:00Z",
+   "tickers": [
+    "TSM"
    ],
    "cats": [],
    "score": 1,
@@ -3526,38 +3638,6 @@
     "scoop"
    ],
    "score": 4,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "dc4f511e6ed83986",
-   "title": "Italian ex-police chief drawn into mafia probe defends his record in suicide note",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNXzNoWXdZSE01MnRVdVc5MXBKN2ZQYnQ4dTg3ei1vLUlYSkwyUlFBNmx1RjZ5T3pQSUJWVXJjLXdqN1h0bkF1aVV5NDVUalpjcWhYNHhyMk02c1otNFJSZkJ1NXVaaDNoM3Y3Q2tNTkg5dlFmUms1RDQ4RjJnXzRKclU0b0tNX3JFN0wxUnRDZGMxVXhoT3U5X2FXVU9JaWZxMEtxalVnNnZoajk0TXExM1I1Y0R3Mml0YWRQMA?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T09:37:52Z",
-   "tickers": [],
-   "cats": [
-    "reg"
-   ],
-   "score": 5,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "23c160ce7a1237b5",
-   "title": "EU to Probe China, Singapore Sustainable Aviation Fuel Imports",
-   "summary": "The European Union is opening an anti-dumping investigation into sustainable aviation fuel imports from China and Singapore, the latest in a series of measures that could restrict access to its single market.",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-27/eu-to-probe-china-singapore-sustainable-aviation-fuel-imports-mwysdbf3",
-   "source": "BBG",
-   "tier": 1,
-   "published_utc": "2026-11-27T09:35:44Z",
-   "tickers": [],
-   "cats": [
-    "reg"
-   ],
-   "score": 5,
    "link_is_redirect": false,
    "sec_filing": false
   }
