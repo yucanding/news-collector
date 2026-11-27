@@ -1,16 +1,32 @@
 {
- "updated_utc": "2026-11-27T10:10:49.351500Z",
+ "updated_utc": "2026-11-27T10:20:49.464618Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 878,
-  "new": 5,
-  "candidates": 43,
-  "judged": 5,
+  "fetched": 867,
+  "new": 1,
+  "candidates": 44,
+  "judged": 2,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "dab4faa57d68f50b",
+   "title": "Jensen Huang Is Back, and So Is His Plaque at Denny’s",
+   "summary": "The chain said it had restored a plaque honoring Mr. Huang above a booth in San Jose, Calif., where he is said to have developed the idea for Nvidia.",
+   "link": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html",
+   "source": "NYT",
+   "tier": 1,
+   "published_utc": "2026-11-27T10:15:14Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "f79f93d15b6abf51",
    "title": "How to Live Calmly, Despite Stock Market Whiplash",
@@ -364,6 +380,22 @@
    "cats": [],
    "score": 1,
    "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "e5b2cdcabcc14bc1",
+   "title": "EXCLUSIVE: Global brands shift hundreds of millions in orders from Bangladesh to India amid unrest",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcVhoVXVubGp1bk52dUFmd2p1NVdJQzNwaXRBTm5TWXdEZXNHTmNlUmIwLXMyWlBMdVByV3RKRFFkV19UVzNCV3UydGgwUjhXMlBES1lFbkxvQndUSkpRXy1RU3k5TmxJOHhHSjZYOWcyNFM0cW95N0twYjJyVU9BZlY2cTVEU2dsNkx0MTFXRXNya0t3alBPN2FnUDgyTUxkUzlUTTN1c21BR19HeDNzZWhOTEFWS2JYNEl1OVdad1dna21acnI4TDhuRDdUWk5EeWk4?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T09:14:18Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": true,
    "sec_filing": false
   },
   {
