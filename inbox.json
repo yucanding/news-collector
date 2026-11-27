@@ -1,16 +1,64 @@
 {
- "updated_utc": "2026-11-27T18:20:49.883485Z",
+ "updated_utc": "2026-11-27T18:31:08.158833Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 815,
-  "new": 6,
-  "candidates": 24,
-  "judged": 2,
+  "fetched": 822,
+  "new": 5,
+  "candidates": 28,
+  "judged": 1,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "fb5bd31e3dd12c8e",
+   "title": "期权异动午盘速睇： AAPL 、ANT等期权交易激增， AAPL 成交持仓比达625.3",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005873460?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T18:30:01Z",
+   "tickers": [
+    "AAPL"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "b51fb4e8edfa8eba",
+   "title": "OpenAI countersues Apple for stealing trade secrets - FT. $AAPL",
+   "summary": "",
+   "link": "https://www.financialjuice.com/News/9870926/OpenAI-countersues-Apple-for-stealing-trade-secrets---FT-AAPL.aspx?xy=rss",
+   "source": "FinancialJuice",
+   "tier": 3,
+   "published_utc": "2026-11-27T18:23:15Z",
+   "tickers": [
+    "AAPL"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "d78a8186010e2900",
+   "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
+   "summary": "Budget carrier Norse Atlantic filed for bankruptcy Friday, saying it failed to secure funding after soaring fuel costs strained the company's operations.",
+   "link": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
+   "source": "CNBC",
+   "tier": 2,
+   "published_utc": "2026-11-27T18:20:32Z",
+   "tickers": [],
+   "cats": [
+    "incident"
+   ],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "82b18448b2e4a709",
    "title": "埃隆·马斯克将停产Cybertruck： 特斯拉 电动汽车的二手市场需求升温",
@@ -60,6 +108,23 @@
    ],
    "score": 7,
    "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "1205fd8a3e3d4da0",
+   "title": "Verizon in Talks to Buy Fidium in $6 Billion Deal, FT Says",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVDlMYVRaRWRJSWFBRHlXRlVWWWZvTVlXZjRrWkgzdGc5UjJlX2JqQ1hkYzg3ck5TVzE4UE9ybVBEWEYtaExwdElaNTI1dWtHNVhmQVFnWHRjV3B1amwzNWNTU19BNXpfbVRaZ0dUbU1EX285bmFQaEhycm1Xc2pEQ1l2Ym5kMk5EdkhLVW1XS3JaOWlaYzFGTjhXU1loYjk2NXhSendJOVlpVkk?oc=5",
+   "source": "Bloomberg.com",
+   "tier": 1,
+   "published_utc": "2026-11-27T18:12:57Z",
+   "tickers": [],
+   "cats": [
+    "mna",
+    "deal"
+   ],
+   "score": 7,
+   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -159,6 +224,22 @@
    "sec_filing": false
   },
   {
+   "id": "a11a11d8f725fdbe",
+   "title": "Fan violence at Europa League matches prompts investigations and condemnation",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU3JwR0xYZzBxM1MycGdSMHQ2RUNHdU9EeVBPTkNXRDBkQzhMX0JJblhSM1BFdWwxdzlxenFZLWRtTVc5YkZTQS0tMU9iRTBFS3RRdnZTYmZfMXdYLU9zall1RkJjWDBPVkVaaWFjOEpyOHJjenhyRVM2dFYzUHpVcEp3Yl80T2hQQndLUnZXcHg4bG9qcjh0bWFXWE5kcUZDa0NCUVBPVFpVT1dBakVPeEVmMA?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T17:51:48Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
    "id": "44ff058bfd04f7a4",
    "title": "Inside China’s $4 Billion Secondhand Luxury Boom",
    "summary": "",
@@ -201,6 +282,22 @@
    ],
    "score": 5,
    "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "b2105d58844af1fa",
+   "title": "Why This Is a Terrible Time for New Tariffs",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSmY2QkZWVXlnUWxyNmZKSUtCcGNQbnJkWHk1QV9xMDdjUmptZjlIc0dUOGFlMm9oLVlMNWxGVVRYT3lCeEQ4ZW1zaGx2RlJPbURkWDdHdjhJd0RLbDBrRTNud05sUlhvMXpncnF6VTltNXhpSW1ualE4SGFjbUI0RWdwOUE2Mlk?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T17:31:41Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -294,22 +391,6 @@
    "tickers": [],
    "cats": [
     "deal"
-   ],
-   "score": 5,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "a11a11d8f725fdbe",
-   "title": "Fan violence at Europa League matches prompts investigations and condemnation",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU3JwR0xYZzBxM1MycGdSMHQ2RUNHdU9EeVBPTkNXRDBkQzhMX0JJblhSM1BFdWwxdzlxenFZLWRtTVc5YkZTQS0tMU9iRTBFS3RRdnZTYmZfMXdYLU9zall1RkJjWDBPVkVaaWFjOEpyOHJjenhyRVM2dFYzUHpVcEp3Yl80T2hQQndLUnZXcHg4bG9qcjh0bWFXWE5kcUZDa0NCUVBPVFpVT1dBakVPeEVmMA?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T17:06:00Z",
-   "tickers": [],
-   "cats": [
-    "reg"
    ],
    "score": 5,
    "link_is_redirect": true,
@@ -1053,6 +1134,22 @@
    "sec_filing": false
   },
   {
+   "id": "ce9f6bb3595dd81e",
+   "title": "Power Outages, Flood Risks Linger as Storm Leaves East Coast",
+   "summary": "More than 400,000 homes and businesses along the East Coast are without power after an explosive storm uprooted trees in Queens and Manhattan and inundated commuter rail lines in New Jersey on Thanksgiving Day.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/dangerous-nor-easter-storm-triggers-widespread-power-outages",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T14:20:06Z",
+   "tickers": [],
+   "cats": [
+    "incident"
+   ],
+   "score": 5,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
    "id": "c3056b7349a9e65c",
    "title": "美光科技股价今日为何飙升？",
    "summary": "",
@@ -1097,22 +1194,6 @@
     "reg"
    ],
    "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "d78a8186010e2900",
-   "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
-   "summary": "Budget carrier Norse Atlantic filed for bankruptcy Friday, saying it failed to secure funding after soaring fuel costs strained the company's operations.",
-   "link": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
-   "source": "CNBC",
-   "tier": 2,
-   "published_utc": "2026-11-27T13:58:19Z",
-   "tickers": [],
-   "cats": [
-    "incident"
-   ],
-   "score": 4,
    "link_is_redirect": false,
    "sec_filing": false
   },
@@ -3599,38 +3680,6 @@
    "cats": [],
    "score": 1,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "82db0c6682cb73ea",
-   "title": "路透社：美国政府曾鼓励委内瑞拉和伊拉克考虑退出 OPEC",
-   "summary": "深潮 TechFlow 消息，11 月 27 日，据路透社独家报道，特朗普政府今年早些时候曾鼓励委内瑞拉和伊拉克考虑退出石油输出国组织（OPEC），并阻止委内瑞拉向该组织缴纳年度会费。",
-   "link": "https://www.techflowpost.com/newsletter/147204/us-government-encouraged-venezuela-iraq-to-consider-leaving-opec",
-   "source": "TechFlow",
-   "tier": null,
-   "published_utc": "2026-11-27T06:30:39Z",
-   "tickers": [],
-   "cats": [
-    "scoop"
-   ],
-   "score": 2,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "0afb26d505312d19",
-   "title": "Thales in exclusive talks to buy controlling stake in laser tech firm Lumibird",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUWx3OUFLZDNDa1BWeXNvS0tMSFZoQlB0RExSRWstOXprSjRNRmljd0w4NlF2M202RUNsTlhuTjJpc3o1RmtrcmdVRnppaUQ2UWdFb0tQdC1DZ1EtYmk2Nk1teVVnZEtlTXhuM2N1cjdkVHNtNGtzOGdVcl9nbVdGSVdOd3J3MnBjWHdabHBXMmFHNjc3Q2pKZFI0OXdCaHF6cm1DNWVkXzlqWnIxX3lKYi1OU2t0TTlTU29CT1gxLXZvRWlTRWhTcEhXbFc?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T06:28:00Z",
-   "tickers": [],
-   "cats": [
-    "scoop"
-   ],
-   "score": 4,
-   "link_is_redirect": true,
    "sec_filing": false
   }
  ]
