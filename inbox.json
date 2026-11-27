@@ -1,13 +1,13 @@
 {
- "updated_utc": "2026-11-27T22:40:58.047618Z",
+ "updated_utc": "2026-11-27T22:50:46.961324Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 816,
-  "new": 3,
-  "candidates": 35,
-  "judged": 2,
+  "fetched": 822,
+  "new": 0,
+  "candidates": 36,
+  "judged": 0,
   "pushed": 0
  },
  "items": [
@@ -25,6 +25,22 @@
    "cats": [],
    "score": 3,
    "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "ca8a12fbb7f0f16f",
+   "title": "EXCLUSIVE: Russian military flotilla bound for Libya turns around after warship sunk on November 22, sources say",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYmlHdGhKd3RFRUNYajhTdlVqdUdrckt5RmtIZEltNjE0OTVPMDhaSS1DTFlGQTU5Z19LRFpLRmpXdVJkcVpRY19iLU40eXpEWUhYdDNjMXhfRkJqckxleW8tY25rOVJFTzlGeGVaUTlwb1M1NVBXSzQwSG9hX2VQR1JiMVhXYk1mdG01ei1nR1ZmOFY5RWpnejVHRkJSa2RVTHRLeURHS3hCSHJMcGluWG1fQWNjS19wTy1RejVTWE5BMW8?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T22:34:08Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -700,22 +716,6 @@
    ],
    "cats": [],
    "score": 2,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "ca8a12fbb7f0f16f",
-   "title": "EXCLUSIVE: Russian military flotilla bound for Libya turns around after warship sunk on November 22, sources say",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYmlHdGhKd3RFRUNYajhTdlVqdUdrckt5RmtIZEltNjE0OTVPMDhaSS1DTFlGQTU5Z19LRFpLRmpXdVJkcVpRY19iLU40eXpEWUhYdDNjMXhfRkJqckxleW8tY25rOVJFTzlGeGVaUTlwb1M1NVBXSzQwSG9hX2VQR1JiMVhXYk1mdG01ei1nR1ZmOFY5RWpnejVHRkJSa2RVTHRLeURHS3hCSHJMcGluWG1fQWNjS19wTy1RejVTWE5BMW8?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T19:17:56Z",
-   "tickers": [],
-   "cats": [
-    "scoop"
-   ],
-   "score": 4,
    "link_is_redirect": true,
    "sec_filing": false
   },
@@ -3378,54 +3378,6 @@
    ],
    "score": 5,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "c8fad648d583ac09",
-   "title": "X Financial Reports Third Quarter 2026 Unaudited Financial Results",
-   "summary": "SHENZHEN, China, Nov. 27, 2026 /PRNewswire/ -- X Financial (NYSE: XYF), a leading Chinese fintech platform, today announced its unaudited financial results for the third quarter ended September 30, 2026. This press release should be read in conjunction with the Company's Report on Form...",
-   "link": "https://www.prnewswire.com/news-releases/x-financial-reports-third-quarter-2026-unaudited-financial-results-302951437.html",
-   "source": "PR Newswire",
-   "tier": 0,
-   "published_utc": "2026-11-27T10:50:00Z",
-   "tickers": [
-    "XYF"
-   ],
-   "cats": [],
-   "score": -2,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "47927c3f359919c3",
-   "title": "在经历数月的监管延迟后， 特斯拉 将于12月15日迎来欧盟关于自动驾驶技术的关键投票：以下是这家由埃隆·马斯克领导的电动汽车巨头所需面对的情况",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005845080?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T10:45:48Z",
-   "tickers": [
-    "TSLA"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "6a92e77616bed84c",
-   "title": "Eni bets on Latin American growth with Argentina LNG project approval imminent",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWnJIWTA1WTRhQnpqSU9uRGFDeE9vS3FFNnM4UmI5anpUYS13cFBXRzNlUDllY1RwZTlVT05kOEMyaFdURktlV2lFd05RVlhqS2VpY1hYbFkyTGpjUFZVLWhKb01EX19Qa0ZSUS1PUHdGaGtqQ2JlWjZFSlJhNUxJd1JuTFl3ZC1mc0ZyMkM4Zm96UnloZGdfd3pWcmQ0VUlFZmYyYmNHcDV1ek5NQ0NsMDV5bDRTektuYmZKY1pKS1dZUUhLRUE?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T10:45:43Z",
-   "tickers": [],
-   "cats": [
-    "reg"
-   ],
-   "score": 5,
-   "link_is_redirect": true,
    "sec_filing": false
   }
  ]
