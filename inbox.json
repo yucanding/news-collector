@@ -1,24 +1,833 @@
 {
- "updated_utc": "2026-11-27T13:51:22.929838Z",
+ "updated_utc": "2026-11-27T17:01:20.441071Z",
  "window_hours": 12,
  "stale": false,
- "errors": {
-  "gn-kuo-en": "HTTPError: HTTP Error 429: Too Many Requests",
-  "gn-kuo-zh": "HTTPError: HTTP Error 503: Service Unavailable",
-  "gn-t1-exclusive": "HTTPError: HTTP Error 429: Too Many Requests",
-  "gn-t1-mna": "HTTPError: HTTP Error 429: Too Many Requests",
-  "gn-wires": "HTTPError: HTTP Error 503: Service Unavailable",
-  "gn-short": "HTTPError: HTTP Error 503: Service Unavailable",
-  "gn-supply": "HTTPError: HTTP Error 503: Service Unavailable"
- },
+ "errors": {},
  "counts": {
-  "fetched": 742,
-  "new": 5,
-  "candidates": 59,
-  "judged": 2,
+  "fetched": 820,
+  "new": 44,
+  "candidates": 35,
+  "judged": 11,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "4027bc5e1963c378",
+   "title": "尽管面临人工智能出口和安全审查，芯片股反弹带动 美国超微公司 股价上涨逾2%",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005869613?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T16:48:16Z",
+   "tickers": [
+    "SMCI"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "47692aa92a4ba334",
+   "title": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
+   "summary": "AI shopping agents from OpenAI, Meta, Google and Instinct promise to help users shop, but they're hitting roadblocks at Amazon and other retailers.",
+   "link": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html",
+   "source": "CNBC",
+   "tier": 2,
+   "published_utc": "2026-11-27T16:43:14Z",
+   "tickers": [
+    "AMZN",
+    "GOOGL",
+    "META"
+   ],
+   "cats": [],
+   "score": 3,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "dc2c5f67bd6acc09",
+   "title": "Vertex Pharma falls after FDA extends review of kidney disease drug",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX293bHdtY3RNdVhHV2o5Y1lFRmYyY3F0M0pHa2lTWTRmY0VsR0tKZmZLWWdxazVtelZjZ2ZHTzc1NUhPTDE5OWJLZ1lJcVRCaWFmQTBaVUlTcEdtWlowb1FpWFdjTUxTaXhWR1Nhdy1yNnJ4d0tmU2R1QXNDZ3dkR3J4ZldHUVFNZXlNRURfczFUNC1JeG1wRk5jaUlRU0RvbmZoVVZUQlRfOU80Z2dtQTV1MHJLa3BC?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T16:36:54Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "e3f0417b9e05ef7d",
+   "title": "Exclusive | Aschenbrenner’s Situational Awareness Tells Investors It Lost 65% in Third Quarter",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUXgxcE1tNTdoYWR4Vld1UWtPeHRadlE1T1RrbXlBbUJad01lVGZZU2ljYURrcXNCY3QzcGQ1RUlxM1Q1Mk1YVTh1dnpGcGxFYlNUSHRZY0NYRWdzNnZzb2g5UURNWEtDQnZBbTNjSUZyRVdsSExOU2otY2FGVnhIYXVadkE1LTFyVGNOU3RFMDhpc0RBNGNURUM0cHA0eVZMSzkyTmpuR2hfaGZSRGQ3cUdVRWtnS1VFTFlGNWJSRHFhZ2JTelE?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T16:36:10Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 0,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "a96f1fe3fd7bbe3c",
+   "title": "Lupin Announces U.S. FDA Approval and Launch of Sitagliptin Tablets, USP in the United States",
+   "summary": "MUMBAI, India and NAPLES, Fla., Nov. 27, 2026 /PRNewswire/ -- Global pharmaceutical leader Lupin Limited (Lupin) (BSE: 500257) (NSE: LUPIN) (REUTERS: LUPIN.BO) (BLOOMBERG: LPCIN) today announced that following the approval from the U.S. Food and Drug Administration (U.S. FDA) for its...",
+   "link": "https://www.prnewswire.com/news-releases/lupin-announces-us-fda-approval-and-launch-of-sitagliptin-tablets-usp-in-the-united-states-302951831.html",
+   "source": "PR Newswire",
+   "tier": 0,
+   "published_utc": "2026-11-27T16:34:00Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "4706b5a3e320fa37",
+   "title": "Broadcom Loses $191 Billion After Report Of Google TPU Order Cuts",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZjFkQjFZNHpEQngyTnUyQk1lOTVZNnRDdVV0U0ZzTlhCX0tXNWZrclhuOTFjY0xIdlhISVVaa2x0a3FVdXgtU2p4YkI0cjB3YXJkTk41WDA2UFpSaXRXT0k0V01UZnVlM3dRRFJYMXVKbXZlWDBkamFkakVkcW5ucnhaaDcxV0VvZGVLXzhYd3d2QQ?oc=5",
+   "source": "Dataconomy",
+   "tier": null,
+   "published_utc": "2026-11-27T16:27:52Z",
+   "tickers": [
+    "AVGO",
+    "GOOGL"
+   ],
+   "cats": [
+    "supply",
+    "deal"
+   ],
+   "score": 6,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "3843ed2488a04db2",
+   "title": "Wave of cyber incidents rattles western economies",
+   "summary": "UK Department for Work and Pensions, Fifa and the US Treasury among institutions hit by outages as concerns grow over threat from AI",
+   "link": "https://www.ft.com/content/6ab1172b-4f27-49f5-ad53-b384df82da77?syn-25a6b1a6=1",
+   "source": "FT",
+   "tier": 1,
+   "published_utc": "2026-11-27T16:19:21Z",
+   "tickers": [],
+   "cats": [
+    "incident"
+   ],
+   "score": 5,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "2fa9d9b8e6b624de",
+   "title": "New Tariffs on China Risk Undermining Trade Truce With U.S.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUcwQ3JjLUlNWjhSZnFuYWMzVEFGd0RMR2lZT2VmWUdBejNHckpxbWFSb0lsTUNuTzktdm9qTk94eTgxMXFRQkplOTdZZkFDSEVaUkVZcWFfb1lEMTNEVzFHd013bXhoRFU4ajZjOTB0UXFhM1FacVliRVdqcFY5dG11UURVYmFZang5ZEpaZEVCazhBMjFz?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T16:17:53Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "4244c24115240bca",
+   "title": "Altice International, Creditors Discuss Debt Cut of About 40%",
+   "summary": "Altice International and its creditors are making progress on a restructuring that would include a debt cut of about 40%, and possibly more, with lenders taking control from billionaire Patrick Drahi, according to people familiar with the matter.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/altice-international-creditors-discuss-debt-cut-of-about-40",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T16:07:27Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "7970d438780fec11",
+   "title": "亚马逊 股价周五为何飙升？",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005868304?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T16:07:01Z",
+   "tickers": [
+    "AMZN"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "a61c03aa4eb9efb1",
+   "title": "U.K. Regulator Says McCormick Sale of Colman’s Could Address Unilever Foods Merger Concerns",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUUxrNTF0T3pFbVNJeU1tMVJLRWtjc0F0WnktOFA3c0FQRlRsSG5mUWxQUzNoSjBLdldCWnZXSXV4TkZGZ2w3Z3I2elFqZkVvbHdBNG80UEJucmFiZU5lNEFqNUYxRFJPcXVOdDd6TmNUY2plV3dhRG9aeVdYY3JHcG9KbjhNRGJNc19LRFJMSUpXdW5ldzZsVGZ2QWNGcFZiVkxDT1NfYWJKM3NEd0hrYW9lNExUTm5JdE9hLVFWSkNJNkVQR1RlS3J1NlYzMDQ?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T16:02:19Z",
+   "tickers": [],
+   "cats": [
+    "mna"
+   ],
+   "score": 6,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "6c68c1a3f2cebc12",
+   "title": "黄仁勋出席国会听证会， 英伟达 股价或将经历剧烈波动：Dan Ives称“全球都在关注”",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005867895?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T16:00:13Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "3fb04883e46967b5",
+   "title": "Nvidia’s Scandal Is Splintering Into Multiple Global Plotlines",
+   "summary": "The fallout from the scandal is splintering into multiple narratives with global consequences.",
+   "link": "https://www.bloomberg.com/opinion/newsletters/2026-11-27/nvidia-s-scandal-is-splintering-into-multiple-global-plotlines",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T16:00:01Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "d3edc7a187c9a130",
+   "title": "Trump demands probe into 'record setting error' after third-quarter GDP data gets massive revision higher",
+   "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
+   "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+   "source": "CNBC",
+   "tier": 2,
+   "published_utc": "2026-11-27T15:52:00Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 0,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "80996d6f1a88e6b3",
+   "title": "市场传闻：Anthropic、 Meta 及其他科技巨头正与JERA洽谈在东京地区建设数据中心",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005867550?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T15:50:28Z",
+   "tickers": [
+    "META"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "13dc456d9d67b2b4",
+   "title": "热门板块速睇：美股盘中存储概念走强， 闪迪 领涨",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005867244?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T15:50:01Z",
+   "tickers": [
+    "SNDK"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "fdca7b7636c78ddd",
+   "title": "文件披露 特斯拉 寻求收购EMAG，股价随之上涨：究竟发生了什么？",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005867253?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T15:49:46Z",
+   "tickers": [
+    "TSLA"
+   ],
+   "cats": [
+    "mna"
+   ],
+   "score": 5,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "96ec0765b5d57a07",
+   "title": "美股存储股涨幅扩大， 闪迪 涨14%",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005867504?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T15:49:45Z",
+   "tickers": [
+    "SNDK"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "33f0522385c99df1",
+   "title": "MDA SPACE COMPLETES ACQUISITION OF BLUE CANYON TECHNOLOGIES",
+   "summary": "TORONTO, Nov. 27, 2026 /PRNewswire/ -- MDA Space Ltd. (TSX: MDA) (NYSE: MDA) (the \"Company\"), a trusted mission partner to the rapidly expanding global defence and space industry, today announced that it has completed its previously announced acquisition of Blue Canyon Technologies (BCT)...",
+   "link": "https://www.prnewswire.com/news-releases/mda-space-completes-acquisition-of-blue-canyon-technologies-302951817.html",
+   "source": "PR Newswire",
+   "tier": 0,
+   "published_utc": "2026-11-27T15:49:00Z",
+   "tickers": [
+    "MDA"
+   ],
+   "cats": [
+    "mna"
+   ],
+   "score": 6,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "7ffde1932a21e317",
+   "title": "苹果 在美国智能手机市场份额达57%，逆势上扬，但分析师警告假日季需求可能疲软",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005867115?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T15:46:05Z",
+   "tickers": [
+    "AAPL"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "6ee988cd8dbc8e9a",
+   "title": "Hemostats Market worth $4.24 billion by 2031 - Exclusive Report by MarketsandMarkets™",
+   "summary": "DELRAY BEACH, Fla., Nov. 27, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Hemostats Market is projected to reach USD 4.24 billion by 2031 from USD 3.11 billion in 2026, at a CAGR of 6.4% during the forecast period. Browse 198 market data Tables and 51 Figures spread through...",
+   "link": "https://www.prnewswire.com/news-releases/hemostats-market-worth-4-24-billion-by-2031---exclusive-report-by-marketsandmarkets-302951683.html",
+   "source": "PR Newswire",
+   "tier": 0,
+   "published_utc": "2026-11-27T15:45:00Z",
+   "tickers": [],
+   "cats": [
+    "deal",
+    "scoop"
+   ],
+   "score": 2,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "53904cb317e145df",
+   "title": "Meta 股价上涨：发生了什么？",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005866711?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T15:39:43Z",
+   "tickers": [
+    "META"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "1cd376eb75319673",
+   "title": "美国超微公司 如何与英伟达、博通以及半导体和半导体设备行业的其他公司相比。",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005866178?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T15:30:40Z",
+   "tickers": [
+    "AVGO",
+    "NVDA",
+    "SMCI"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "126f7e56f07c800f",
+   "title": "Digital PCR (dPCR) and Real-time PCR (qPCR) Market worth $15.42 billion by 2031 - Exclusive Report by MarketsandMarkets™",
+   "summary": "DELRAY BEACH, Fla., Nov. 27, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Digital PCR (dPCR) and Real-time PCR (qPCR) Market is projected to reach USD 15.42 billion by 2031 from USD 10.53 billion in 2026, at a CAGR of 7.9 % during the forecast period. Browse 588 market data...",
+   "link": "https://www.prnewswire.com/news-releases/digital-pcr-dpcr-and-real-time-pcr-qpcr-market-worth-15-42-billion-by-2031---exclusive-report-by-marketsandmarkets-302951678.html",
+   "source": "PR Newswire",
+   "tier": 0,
+   "published_utc": "2026-11-27T15:30:00Z",
+   "tickers": [],
+   "cats": [
+    "deal",
+    "scoop"
+   ],
+   "score": 2,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "aa5e78480702db50",
+   "title": "为何 闪迪 股价在AI芯片抛售潮后大幅上涨？",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005866148?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T15:29:28Z",
+   "tickers": [
+    "SNDK"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "e7637103d829ed4f",
+   "title": "American-Led Consortium Announces Agreement to Acquire LUKOIL International’s Global Energy Portfolio",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUWFJVTZuY1NsNm5Oc0tQM2VZSElGb3VzbmFaY0cwZjhQS29kRGdnNURlOWFadGhCVW8yX3dfX3ZabWpUM0JWd05sUVg3dnFhdUpURE5QNUx3ZURfNDRKNVk0SjBaQ005dUVWdTFGZDlrUF9aSGltNE5qcGVWWHlOcEgyTGd3bUJ0ZW9sdm16Uk94NHBLUUtGRVlJam9vX2FvNDdUTDZTV1p1aW1ZMGtpRlE3YW9RRzViVkdiOHNsZW52QXYwYU5VM2dTLTBpNlp6OVhYWEVXdU5Tdm43TkFnaTczZVF3Tm5kYzZrbjZB?oc=5",
+   "source": "Business Wire",
+   "tier": 0,
+   "published_utc": "2026-11-27T15:28:46Z",
+   "tickers": [],
+   "cats": [
+    "mna"
+   ],
+   "score": 2,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "b64064c9c04f1a88",
+   "title": "Brazil's Lula to tap VP Alckmin as public security minister, sources say",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT1pjYldpR1NGYWZpa2F2YnAxZURtOG1oUm1ScVZPS1VOVjM0RFB4Z2ZpOUM2cjVsVFdhV3hYTGo4Y2ROMGcwRXl1UFJLQl9zVVl3QnZFOGwxaDBxbExCSE9UWExSQTdmUlpVUUVWYmFxbjh4dzJ2QzZ6VGhVN0xQRFRMTWNXMlZQYjVNaWJhNG9zYXAtN1VnQUlIdUNLeWlJblhIQWh4dmVIcUdxX3FKYUh2RkpPQQ?oc=5",
+   "source": "Reuters",
+   "tier": 1,
+   "published_utc": "2026-11-27T15:19:43Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "1f5588b222d954b1",
+   "title": "Exclusive | Power Couple Sells San Francisco Compound for $68.3 Million in AI-Fueled Boom",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU2kwQkdPRldySWFZVUdfV0VkZktwN3BHMlZGQ3ItMy1IWUI1NXZTaG81dWhuM0NlMHd6dHVTUk5JcmduNEtTSV9vVnU2ckR6RmpBVU5kbUJxSi1vajU5QUtuQlJaNHJiaExvVlh5d3dyMUVaREdwcTd2blFkTUxlMlZPeS1WXzRYM29TU0RGLTltQjlUX25CMw?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T15:19:34Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "3a40869aab492a20",
+   "title": "Gas Sensor Market worth $3.78 billion by 2035 - Exclusive Report by MarketsandMarkets™",
+   "summary": "DELRAY BEACH, Fla., Nov. 27, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the global gas sensor market is projected to grow from USD 1.98 billion in 2026 to USD 3.78 billion by 2035, registering a CAGR of 7.5%. Browse 180 market data Tables and 90 Figures spread through 300 Pages...",
+   "link": "https://www.prnewswire.com/news-releases/gas-sensor-market-worth-3-78-billion-by-2035---exclusive-report-by-marketsandmarkets-302951657.html",
+   "source": "PR Newswire",
+   "tier": 0,
+   "published_utc": "2026-11-27T15:15:00Z",
+   "tickers": [],
+   "cats": [
+    "deal",
+    "scoop"
+   ],
+   "score": 2,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "42069f3b4ce10481",
+   "title": "智利反垄断机构寻求对苹果处以 8000 万美元罚款",
+   "summary": "深潮 TechFlow 消息，11 月 27 日，智利竞争监管机构（FNE）周五向该国反垄断法院提出请求，要求对苹果 (AAPL.O) 公司处以约 8000 万美元的罚款，并责令其采取整改措施，理由是苹果滥用了其在 iOS 操作系统市场的主导地位。 该监管机构表示，至少自 2019 年以来，这家美国科技公司在 iOS 平台上的应用分发以及数字商品应用内支付领域限制了竞争。FNE 在社交平台上表示，此次寻求的罚款金额相当于苹果在调查期间与违规行为相关的产品线及服务销售额的 30%。(金十)",
+   "link": "https://www.techflowpost.com/newsletter/147278/chile-antitrust-agency-seeks-80-million-dollar-fine-against-apple",
+   "source": "TechFlow",
+   "tier": null,
+   "published_utc": "2026-11-27T15:14:31Z",
+   "tickers": [
+    "AAPL"
+   ],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "4e3a6d9fd72ab3aa",
+   "title": "美股异动 | 标普将AA评级列入负面观察 英伟达 ( NVDA .US)高开低走跌逾2%",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005865531?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T15:14:23Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": -3,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "29a769c7bc06b307",
+   "title": "Broadcom Faces a Wall Street Reality Check Ahead of December 9 Earnings",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUUlGcUNpX2dYWjQyWkY0b1AwZ3VOaGg0eVZUaW1tZVB6VWNSVmpKcXFINFpPanVwMGNwWlpSZC1kUDMtZTJsTFVyOHRzZ2JKTU5XUDk5Y0szdWFFSXA2elcwVlc0MGN5Zk9nRE5zNjBQZEh3dHlZT244QW5lZmtiSmFyaElUTkNsaXJtdkJmcHdRdUR2cmdSR1pCNy13bEE5Y2hsa2ZxRmEtbGtsa2xaU1h2VnZ0MjIyRjA4YU9jMWlENGNSMWNIZWNlOVNibVBCWGppYXFqQXBMRUU?oc=5",
+   "source": "ad-hoc-news.de",
+   "tier": null,
+   "published_utc": "2026-11-27T15:13:35Z",
+   "tickers": [
+    "AVGO"
+   ],
+   "cats": [],
+   "score": -2,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "d36d05c4c246afe4",
+   "title": "Vitol Clashes With Mozambican Fuel Buyers Over Price Hikes",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOGRlNFlJUGZPU3B1QkNiWE1maFF2NXJ6V2UtQ2xFZVNCNWpVdXU5eFJ6eTRSMmlXR251SzlfQVJqV3VBSHdmUnM2R1VYZk1Gb0R0MnZ4NEMwZ2pJWnpodjZrU2Y3QmwxZVpFQlo2OHFRbEpxWHFvazcyVldYNnp4aU1SdUxQVHR3NFUyb1lHMW5oLVFFNW50T2hycGhEc0VXdlF3T3dUV2xCelNnWWc?oc=5",
+   "source": "Bloomberg.com",
+   "tier": 1,
+   "published_utc": "2026-11-27T15:13:35Z",
+   "tickers": [],
+   "cats": [
+    "supply"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "ee13739f4a3f1882",
+   "title": "智利反垄断机构寻求对 苹果 处以8000万美元罚款",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005865001?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T15:11:29Z",
+   "tickers": [
+    "AAPL"
+   ],
+   "cats": [
+    "reg"
+   ],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "bdd600352d410517",
+   "title": "From Jobs to Jensen: tech’s metamorphosis",
+   "summary": "The Nvidia saga is part of a bigger, stranger story about Silicon Valley’s political transformation",
+   "link": "https://www.ft.com/content/5b10a0e6-aad6-403b-9f2e-23b5ca78897d",
+   "source": "FT",
+   "tier": 1,
+   "published_utc": "2026-11-27T15:10:17Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "c6c7cb420cc06bb4",
+   "title": "System Integration Services Market worth $802.09 billion by 2031 - Report by MarketsandMarkets™",
+   "summary": "DELRAY BEACH, Fla., Nov. 27, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the System Integration Services Market is expanding rapidly, with a projected market size rising from about USD 590.41 billion in 2026 to USD 802.09 billion by 2031, for a CAGR of 6.3%. Browse 250 market...",
+   "link": "https://www.prnewswire.com/news-releases/system-integration-services-market-worth-802-09-billion-by-2031--report-by-marketsandmarkets-302951628.html",
+   "source": "PR Newswire",
+   "tier": 0,
+   "published_utc": "2026-11-27T15:01:00Z",
+   "tickers": [],
+   "cats": [
+    "deal"
+   ],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "ebac997bc070402a",
+   "title": "随着空头向9月峰值靠拢， 英伟达 空头持仓上升",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005863735?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T15:00:27Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "3bafe491179d3096",
+   "title": "美股光通信概念股集体上涨，迈威尔科技、 博通 涨超2%",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005862542?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T14:46:05Z",
+   "tickers": [
+    "AVGO"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "af14a7f11a177908",
+   "title": "美股加密股多数高开，纳指涨 1.58%",
+   "summary": "深潮 TechFlow 消息，11 月 27 日，据 Bitget 数据，美股开盘三大股指集体高开：道琼斯工业指数高开 0.55%，标普 500 指数高开 1.11%，纳斯达克综合指数高开 1.58%。 七巨头全部高开，其中 Meta、特斯拉均高开 2.94%，亚马逊高开 2.46%，谷歌 A 高开 2.22%，微软高开 1.95%，英伟达高开 1.77%，苹果高开 0.80%。 加密概念股跳空更为明显：Strategy（MSTR）高开 5.77%，Coinbase（COIN）高开 4.55%，Circle（CRCL）高开 4.31%。Galaxy Digital（GLXY）高开 8.82%。 板块方面，科技板块高开 2.07%，领涨主要行业；必需消费、医疗板块小幅低开。跳空超过 5% 的知名个股还包括 Marvell、ARM、蔚来、Nebius、Rocket Lab 等。今日为感恩节后交易日，市场将提早收盘。",
+   "link": "https://www.techflowpost.com/newsletter/147273/us-stocks-open-three-major-indices-rise-nasdaq-up-1-58",
+   "source": "TechFlow",
+   "tier": null,
+   "published_utc": "2026-11-27T14:41:21Z",
+   "tickers": [
+    "AAPL",
+    "AMZN",
+    "ARM",
+    "COIN",
+    "GOOGL",
+    "META",
+    "MRVL",
+    "MSFT",
+    "MSTR",
+    "NBIS",
+    "NIO",
+    "NVDA",
+    "TSLA"
+   ],
+   "cats": [],
+   "score": 2,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "1b26337aaae5851a",
+   "title": "美股三大股指高开，大型科技股普涨",
+   "summary": "深潮 TechFlow 消息，11 月 27 日，据 Bitget 行情，美股开盘，三大股指高开，道指涨 0.93%，标普 500 指数涨 1.18%，纳指涨 1.58%。大型科技股普遍上涨，英伟达 (NVDA.O) 涨 1.6%，Anthropic(ANT.O) 涨超 2%。",
+   "link": "https://www.techflowpost.com/newsletter/147270/us-stocks-three-major-indices-open-higher-large-tech-stocks-surge",
+   "source": "TechFlow",
+   "tier": null,
+   "published_utc": "2026-11-27T14:32:53Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 2,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "248801e110dab831",
+   "title": "美光科技与英伟达、博通以及半导体和半导体设备行业的其他公司相比表现如何。",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005861062?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T14:30:35Z",
+   "tickers": [
+    "AVGO",
+    "MU",
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "ac8f902b8ae57434",
+   "title": "美股开市：三大指数高开，纳指涨超1.5%， 英特尔 涨近4%",
+   "summary": "",
+   "link": "https://news.futunn.com/flash/1005861035?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T14:30:00Z",
+   "tickers": [
+    "INTC"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "84e4723ea85ed7a8",
+   "title": "SpaceX或凭借AI数据中心年入$500亿。 英伟达 的最大客户应予以关注",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005860969?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T14:28:03Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "40e13ea069452baa",
+   "title": "27 ans de savoir-faire en technologie mobile : le smartphone TCL P80 Ultra lauréat des prix 2027 de l'innovation du salon CES (Consumer Electronics Show)",
+   "summary": "LAS VEGAS, 27 novembre 2026 /PRNewswire/ -- TCL Mobile, la marque experte des smartphones, forte de 27 ans d'expérience en ingénierie mobile, a annoncé que le TCL P80 Ultra avait été nommé lauréat des CES Innovation Awards® 2027 dans la catégorie « Appareils mobiles, accessoires et...",
+   "link": "https://www.prnewswire.com/news-releases/27-ans-de-savoir-faire-en-technologie-mobile--le-smartphone-tcl-p80-ultra-laureat-des-prix-2027-de-linnovation-du-salon-ces-consumer-electronics-show-302951790.html",
+   "source": "PR Newswire",
+   "tier": 0,
+   "published_utc": "2026-11-27T14:24:00Z",
+   "tickers": [
+    "CAT"
+   ],
+   "cats": [],
+   "score": 3,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "c3056b7349a9e65c",
+   "title": "美光科技股价今日为何飙升？",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005859504?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T14:01:33Z",
+   "tickers": [
+    "MU"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "c67aec96ba5e0c78",
+   "title": "存储芯片股强势反弹， 闪迪 股价飙升两位数",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005859352?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T14:00:13Z",
+   "tickers": [
+    "SNDK"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "51ab73830e82c1d7",
+   "title": "Mediwhale Announces First FDA 510(k) Clearance for Its Retinal-AI Cardiovascular Risk Assessment Software",
+   "summary": "SEOUL, South Korea, Nov. 27, 2026 /PRNewswire/ -- Mediwhale, an AI healthcare company that uses noninvasive retinal imaging to assess the risk of cardiometabolic diseases, today announced that it has received U.S. Food and Drug Administration (FDA) 510(k) clearance for Dr. Noon CVD, its...",
+   "link": "https://www.prnewswire.com/news-releases/mediwhale-announces-first-fda-510k-clearance-for-its-retinal-ai-cardiovascular-risk-assessment-software-302951428.html",
+   "source": "PR Newswire",
+   "tier": 0,
+   "published_utc": "2026-11-27T14:00:00Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "d78a8186010e2900",
+   "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
+   "summary": "Budget carrier Norse Atlantic filed for bankruptcy Friday, saying it failed to secure funding after soaring fuel costs strained the company's operations.",
+   "link": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
+   "source": "CNBC",
+   "tier": 2,
+   "published_utc": "2026-11-27T13:58:19Z",
+   "tickers": [],
+   "cats": [
+    "incident"
+   ],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "232e7025e2483b85",
+   "title": "Amore Italy Announces Major 2027 Expansion with Free Airfare, $12,000 Luxury Villa Upgrades",
+   "summary": "Following a sold-out fall 2026 season, Amore Italy unveils expanded private-driver tours, exclusive luxury villa accommodations, and an exciting Black Friday promotion. LINCOLN, Neb., Nov. 27, 2026 /PRNewswire/ -- Amore Italy (AmoreItaly.com), a Nebraska based, luxury travel company...",
+   "link": "https://www.prnewswire.com/news-releases/amore-italy-announces-major-2027-expansion-with-free-airfare-12-000-luxury-villa-upgrades-302950861.html",
+   "source": "PR Newswire",
+   "tier": 0,
+   "published_utc": "2026-11-27T13:53:00Z",
+   "tickers": [],
+   "cats": [
+    "scoop"
+   ],
+   "score": -4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "4de63b4bddb98d16",
    "title": "11月25日报道，铠侠与 英伟达 合作，利用SSD扩展有效高带宽内存容量",
@@ -101,22 +910,6 @@
    "sec_filing": false
   },
   {
-   "id": "d78a8186010e2900",
-   "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
-   "summary": "Budget carrier Norse Atlantic filed for bankruptcy Friday, saying it failed to secure funding after soaring fuel costs strained the company's operations.",
-   "link": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
-   "source": "CNBC",
-   "tier": 2,
-   "published_utc": "2026-11-27T13:32:10Z",
-   "tickers": [],
-   "cats": [
-    "incident"
-   ],
-   "score": 4,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
    "id": "37d9c8aeba7572bc",
    "title": "Czech lower house approves windfall tax on refineries, will hit Orlen",
    "summary": "",
@@ -134,12 +927,12 @@
   },
   {
    "id": "5a3821cbc10eb72e",
-   "title": "AWS re:Invent大会下周来袭！ 亚马逊 ( AMZN .US)公开答辩，AI变现叙事迎来“验证窗口”",
+   "title": "AWS re:Invent大会下周来袭！ 亚马逊 公开答辩，AI变现叙事迎来“验证窗口”",
    "summary": "",
    "link": "https://news.futunn.com/post/1005857585?futusource=news_search_searchnews&src=39",
    "source": "futu",
    "tier": 3,
-   "published_utc": "2026-11-27T13:30:38Z",
+   "published_utc": "2026-11-27T13:30:00Z",
    "tickers": [
     "AMZN"
    ],
@@ -631,7 +1424,7 @@
   },
   {
    "id": "b92d818d4d211537",
-   "title": "Poland Signs $300 Million Palantir Deal to Use AI for Defense",
+   "title": "Poland Signs $300 Million Palantir Deal to Use AI in Defense",
    "summary": "Poland will use artificial intelligence-based software from Palantir Technologies Inc. to analyze battlefield data, bucking a push by some European allies to reduce their reliance on US technology for critical defense capabilities.",
    "link": "https://www.bloomberg.com/news/articles/2026-11-27/poland-signs-300-million-palantir-deal-to-use-ai-for-defense",
    "source": "BBG",
@@ -806,22 +1599,6 @@
    "cats": [],
    "score": 3,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "e3f0417b9e05ef7d",
-   "title": "Exclusive | Aschenbrenner’s Situational Awareness Tells Investors It Lost 65% in Third Quarter",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUXgxcE1tNTdoYWR4Vld1UWtPeHRadlE1T1RrbXlBbUJad01lVGZZU2ljYURrcXNCY3QzcGQ1RUlxM1Q1Mk1YVTh1dnpGcGxFYlNUSHRZY0NYRWdzNnZzb2g5UURNWEtDQnZBbTNjSUZyRVdsSExOU2otY2FGVnhIYXVadkE1LTFyVGNOU3RFMDhpc0RBNGNURUM0cHA0eVZMSzkyTmpuR2hfaGZSRGQ3cUdVRWtnS1VFTFlGNWJSRHFhZ2JTelE?oc=5",
-   "source": "WSJ",
-   "tier": 1,
-   "published_utc": "2026-11-27T12:06:10Z",
-   "tickers": [],
-   "cats": [
-    "scoop"
-   ],
-   "score": 0,
-   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -1058,7 +1835,7 @@
   },
   {
    "id": "f688d6fc44b0b848",
-   "title": "Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang",
+   "title": "Nvidia Blackwell Tech Used at China Site Tied to Alice Huang",
    "summary": "A pair of Chinese firms installed Nvidia Corp.’s powerful Blackwell semiconductors in a Shanghai data center linked to Alice Huang, the woman at the heart of a controversy surrounding the US chipmaker.",
    "link": "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang",
    "source": "BBG",
@@ -1266,6 +2043,22 @@
    ],
    "score": 5,
    "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "9ea8dff0ba3e4a9d",
+   "title": "微软 想让电脑上的WiFi更安全，但代价是什么？",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005859920?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T11:09:52Z",
+   "tickers": [
+    "MSFT"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
    "sec_filing": false
   },
   {
@@ -1624,6 +2417,22 @@
    "sec_filing": false
   },
   {
+   "id": "b87a2529c0250685",
+   "title": "48 Hours in Tokyo With an Airline Pilot",
+   "summary": "A Boeing 787 pilot visits some favorite restaurants, a Snoopy museum and a tranquil shrine.",
+   "link": "https://www.nytimes.com/2026/11/27/travel/48-hours-tokyo-layover.html",
+   "source": "NYT",
+   "tier": 1,
+   "published_utc": "2026-11-27T10:00:34Z",
+   "tickers": [
+    "BA"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
    "id": "e9285ef526f47b24",
    "title": "48 Hours in Tokyo With an Airline Pilot",
    "summary": "A Boeing 787 pilot visits some favorite restaurants, a Snoopy museum and a tranquil shrine.",
@@ -1691,7 +2500,7 @@
   },
   {
    "id": "326fd24e6df8ca53",
-   "title": "每日期权前瞻 | 美光科技盘前涨7.43%，下修2027年DRAM价预期，仍看好美光； 英伟达 盘前涨4.5%，隐含波动率达新高",
+   "title": "每日期权前瞻 | 美光科技盘前涨7.43%，下修2027年DRAM价预期，仍看好美光；英伟达盘前涨4.5%，隐含波动率达新高",
    "summary": "",
    "link": "https://q.futunn.com/feed/117687799251348?futusource=news_search_searchnews",
    "source": "futu",
@@ -1720,22 +2529,6 @@
    ],
    "score": 5,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "2fa9d9b8e6b624de",
-   "title": "New Tariffs on China Risk Undermining Trade Truce With U.S.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUcwQ3JjLUlNWjhSZnFuYWMzVEFGd0RMR2lZT2VmWUdBejNHckpxbWFSb0lsTUNuTzktdm9qTk94eTgxMXFRQkplOTdZZkFDSEVaUkVZcWFfb1lEMTNEVzFHd013bXhoRFU4ajZjOTB0UXFhM1FacVliRVdqcFY5dG11UURVYmFZang5ZEpaZEVCazhBMjFz?oc=5",
-   "source": "WSJ",
-   "tier": 1,
-   "published_utc": "2026-11-27T09:45:18Z",
-   "tickers": [],
-   "cats": [
-    "reg"
-   ],
-   "score": 5,
-   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -1916,7 +2709,7 @@
   },
   {
    "id": "18f8245801ce2890",
-   "title": "美股AI芯片概念股盘前集体上涨，AMD涨超6%， 英伟达 涨超4%",
+   "title": "美股AI芯片概念股盘前集体上涨， AMD 涨超6%，英伟达涨超4%",
    "summary": "",
    "link": "https://news.futunn.com/post/1005835605?futusource=news_search_searchnews&src=39",
    "source": "futu",
@@ -2129,6 +2922,23 @@
    "sec_filing": false
   },
   {
+   "id": "5c29f81d47fe557c",
+   "title": "沃尔玛与 亚马逊 ，究竟谁才是AI时代真正的消费之王？",
+   "summary": "",
+   "link": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?futusource=news_search_searchnews&src=39#/index?id=nesSN2026112717172794e54553&s=b",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T08:32:24Z",
+   "tickers": [
+    "AMZN",
+    "WMT"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
    "id": "5fb8473282eeebf0",
    "title": "彭博社：英伟达恢复黄仁勋首席执行官职务",
    "summary": "深潮 TechFlow 消息，11 月 27 日，据彭博社报道，英伟达恢复黄仁勋的首席执行官职务，推动科技股上涨。不过，这一变化并未消除市场对人工智能交易的担忧。",
@@ -2191,22 +3001,6 @@
    ],
    "cats": [],
    "score": 4,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "e7637103d829ed4f",
-   "title": "American-Led Consortium Announces Agreement to Acquire LUKOIL International’s Global Energy Portfolio",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUWFJVTZuY1NsNm5Oc0tQM2VZSElGb3VzbmFaY0cwZjhQS29kRGdnNURlOWFadGhCVW8yX3dfX3ZabWpUM0JWd05sUVg3dnFhdUpURE5QNUx3ZURfNDRKNVk0SjBaQ005dUVWdTFGZDlrUF9aSGltNE5qcGVWWHlOcEgyTGd3bUJ0ZW9sdm16Uk94NHBLUUtGRVlJam9vX2FvNDdUTDZTV1p1aW1ZMGtpRlE3YW9RRzViVkdiOHNsZW52QXYwYU5VM2dTLTBpNlp6OVhYWEVXdU5Tdm43TkFnaTczZVF3Tm5kYzZrbjZB?oc=5",
-   "source": "Business Wire",
-   "tier": 0,
-   "published_utc": "2026-11-27T08:29:04Z",
-   "tickers": [],
-   "cats": [
-    "mna"
-   ],
-   "score": 2,
    "link_is_redirect": true,
    "sec_filing": false
   },
@@ -2277,8 +3071,8 @@
   },
   {
    "id": "16d23b7b19c79a52",
-   "title": "Nasdaq Futures Rally as Traders Pile Into Battered AI Stocks",
-   "summary": "US stock futures rose, indicating the market is poised to rebound as dip buyers scoop up beaten down technology shares.",
+   "title": "US Stocks Rebound as Traders Pile Into Battered Tech Shares",
+   "summary": "US stocks rallied Friday, capping a week of whiplash as dip buyers scooped up some beaten down technology shares despite lingering worries about the sustainability of the artificial-intelligence boom.",
    "link": "https://www.bloomberg.com/news/articles/2026-11-27/us-stocks-set-to-bounce-as-risk-appetite-returns-after-holiday",
    "source": "BBG",
    "tier": 1,
@@ -2353,22 +3147,6 @@
    "cats": [],
    "score": 1,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "a61c03aa4eb9efb1",
-   "title": "U.K. Regulator Says McCormick Sale of Colman’s Could Address Unilever Foods Merger Concerns",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUUxrNTF0T3pFbVNJeU1tMVJLRWtjc0F0WnktOFA3c0FQRlRsSG5mUWxQUzNoSjBLdldCWnZXSXV4TkZGZ2w3Z3I2elFqZkVvbHdBNG80UEJucmFiZU5lNEFqNUYxRFJPcXVOdDd6TmNUY2plV3dhRG9aeVdYY3JHcG9KbjhNRGJNc19LRFJMSUpXdW5ldzZsVGZ2QWNGcFZiVkxDT1NfYWJKM3NEd0hrYW9lNExUTm5JdE9hLVFWSkNJNkVQR1RlS3J1NlYzMDQ?oc=5",
-   "source": "WSJ",
-   "tier": 1,
-   "published_utc": "2026-11-27T07:31:50Z",
-   "tickers": [],
-   "cats": [
-    "mna"
-   ],
-   "score": 6,
-   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -2649,22 +3427,6 @@
    "sec_filing": false
   },
   {
-   "id": "1f5588b222d954b1",
-   "title": "Exclusive | Power Couple Sells San Francisco Compound for $68.3 Million in AI-Fueled Boom",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU2kwQkdPRldySWFZVUdfV0VkZktwN3BHMlZGQ3ItMy1IWUI1NXZTaG81dWhuM0NlMHd6dHVTUk5JcmduNEtTSV9vVnU2ckR6RmpBVU5kbUJxSi1vajU5QUtuQlJaNHJiaExvVlh5d3dyMUVaREdwcTd2blFkTUxlMlZPeS1WXzRYM29TU0RGLTltQjlUX25CMw?oc=5",
-   "source": "WSJ",
-   "tier": 1,
-   "published_utc": "2026-11-27T06:07:58Z",
-   "tickers": [],
-   "cats": [
-    "scoop"
-   ],
-   "score": 4,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
    "id": "80cacb02bb0e0fbe",
    "title": "Sanofi CEO got to work on $41 billion Insmed deal straight after taking office",
    "summary": "",
@@ -2890,691 +3652,6 @@
     "mna"
    ],
    "score": 6,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "07bfe1daa625c9f0",
-   "title": "The Ellisons’ debt-fuelled takeover of Hollywood",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTEpyYnRsTmhsNENBMGZ1UjYwUExvdDVGa3ExVDd1N1FtLUE5eHlpMFB4aW85WlJsQVRZZkpsYlo1Q2J2SWl3Z0VNVEhTNkpOLWl0UG9wMFJwQ0tIZUUzZ2RqcGdEVEU2b2JBUThocjNkU2RYWmNEQWN2NzVqVkg0NDQ0c24?oc=5",
-   "source": "Financial Times",
-   "tier": 1,
-   "published_utc": "2026-11-27T05:01:14Z",
-   "tickers": [],
-   "cats": [
-    "mna"
-   ],
-   "score": 6,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "9119782105847dc5",
-   "title": "AI data centre boom piles pressure on stressed US defence sector",
-   "summary": "Boeing and leading defence contractors wrestle with ballooning backlogs fuelled by a surge in air travel and military spending",
-   "link": "https://www.ft.com/content/76143592-b1c8-42d2-bf4c-17aa87255467?syn-25a6b1a6=1",
-   "source": "FT",
-   "tier": 1,
-   "published_utc": "2026-11-27T05:01:01Z",
-   "tickers": [
-    "BA"
-   ],
-   "cats": [],
-   "score": 4,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "e36cd851a2c57934",
-   "title": "Singapore Talking to US to Keep AI Chip Access, Deputy PM Says",
-   "summary": "Singapore is in talks with the US to retain access to advanced semiconductors, Deputy Prime Minister Gan Kim Yong said, after Washington tightened restrictions on chip exports to the Southeast Asian nation.",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-27/singapore-talking-to-us-to-keep-ai-chip-access-deputy-pm-says",
-   "source": "BBG",
-   "tier": 1,
-   "published_utc": "2026-11-27T05:00:51Z",
-   "tickers": [],
-   "cats": [
-    "reg"
-   ],
-   "score": 5,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "7a090042ad3bce71",
-   "title": "The Ellisons’ debt-fuelled takeover of Hollywood",
-   "summary": "The billionaire family has pushed credit markets to their limits with $87bn in obligations",
-   "link": "https://www.ft.com/content/627323de-7ad0-4600-97c6-daac931c7ee1?syn-25a6b1a6=1",
-   "source": "FT",
-   "tier": 1,
-   "published_utc": "2026-11-27T05:00:31Z",
-   "tickers": [],
-   "cats": [
-    "mna",
-    "deal"
-   ],
-   "score": 7,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "2f3d1511fa6931ab",
-   "title": "‘A changed man.’ How will Jensen Huang lead Nvidia now?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMmhZNWpCZkQ2NkZfMFNRX3p1TkFPal81d2JibVcxcGgyN2ZBUXlkV1VLZzNtenVOZzlNUW1yM1VVcTFON2dBcTlXZHptMkRESkl0RGVDa0Q0VGhFNnA0eTRNWGY0MUVmRkR2T0lSallESGFhQ0VyQWZzdkZXZWUzYkFQMF8?oc=5",
-   "source": "Financial Times",
-   "tier": 1,
-   "published_utc": "2026-11-27T05:00:22Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [],
-   "score": 4,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "8a4fcd5159be1781",
-   "title": "What Nvidia’s code of conduct update reveals",
-   "summary": "Letter from Jensen Huang dropped from the company’s messaging on ethics",
-   "link": "https://www.ft.com/content/1da49f07-9558-4e37-88e8-cc2088c27a58?syn-25a6b1a6=1",
-   "source": "FT",
-   "tier": 1,
-   "published_utc": "2026-11-27T05:00:13Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [],
-   "score": 4,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "b1b06026b967f025",
-   "title": "EU Plans New Funds to Help Replace US War-Fighting Capabilities",
-   "summary": "The European Union is preparing tens of billions of euros in new loans and grants to replace US war-fighting capabilities as the continent pushes to cut its reliance on Washington, people familiar with the matter said.",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-27/eu-plans-new-funds-to-help-replace-us-war-fighting-capabilities",
-   "source": "BBG",
-   "tier": 1,
-   "published_utc": "2026-11-27T05:00:00Z",
-   "tickers": [],
-   "cats": [
-    "scoop"
-   ],
-   "score": 4,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "1e1697cf7f46a29e",
-   "title": "Qantas Set to Pick Boeing for Bulk of 20 Long-Range Jet Order",
-   "summary": "Qantas Airways Ltd. plans to award the bulk of its next order of about 20 long-range jets to Boeing Co., according to people familiar with the matter.",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-27/qantas-set-to-pick-boeing-for-bulk-of-20-long-range-jet-order",
-   "source": "BBG",
-   "tier": 1,
-   "published_utc": "2026-11-27T04:29:38Z",
-   "tickers": [
-    "BA"
-   ],
-   "cats": [
-    "scoop"
-   ],
-   "score": 6,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "7180d295e97b865d",
-   "title": "Qantas Set to Pick Boeing for Bulk of 20 Long-Range Jet Order",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONWM0SG04YnNSNHdpNDhYdklrSjd1TXNHUkRDT2JLWGNyQ2tVcDk3bXF5ZXRaRVhuV0J3NkV3am1VdW03bnVtZ2JWdF9NV256YllmMndrTG9vZFJUaXEtdnkwQ2puSTY1T1Y0eFNiVTdxeU5LZUpza3hVdkp5LTUwak0wX1ppYnFoUkZmUG5NVk40WFlBVkF6c3VIOTZUektxN2htNmlHZmJhbkl1N1FfWmpR?oc=5",
-   "source": "Bloomberg.com",
-   "tier": 1,
-   "published_utc": "2026-11-27T04:29:00Z",
-   "tickers": [
-    "BA"
-   ],
-   "cats": [],
-   "score": 4,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "8f9a34f99e8b0459",
-   "title": "Venture Firm Antler Eyes $100 Billion in Portfolio Value by 2027",
-   "summary": "Venture-capital firm Antler wants to grow the value of its portfolio to roughly $100 billion by 2027 as it continues hunting unicorns.",
-   "link": "https://www.wsj.com/finance/investing/venture-firm-antler-eyes-100-billion-in-portfolio-value-by-2027-cb405206?mod=rss_markets_main",
-   "source": "WSJ",
-   "tier": 1,
-   "published_utc": "2026-11-27T04:21:00Z",
-   "tickers": [],
-   "cats": [
-    "deal"
-   ],
-   "score": 5,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "70265b8b2f8bfcd9",
-   "title": "Venture Firm Antler Eyes $100 Billion in Portfolio Value by 2027",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdDY3ZDl0U2VjSGd6ZU9LdmQ3dWlrcnlYYVdoY0g0WVlZTk1RY2YxX0NVWUYyOVRxR0o0LTg3TlVERUozZkRxV0JTS2hOMl85UGwzQjY1dThUX1lqSEE0RjI0aVJpQnpHSkgtSHFfb1RMYXo0djZ0d0swX3FKZnVJY0VocGZvX0FSRXFTdFZSZHoxOWZva0N5ZVlRMTg5U3NIS3k5VzdGV2o0REZZYmxN?oc=5",
-   "source": "WSJ",
-   "tier": 1,
-   "published_utc": "2026-11-27T04:21:00Z",
-   "tickers": [],
-   "cats": [
-    "deal"
-   ],
-   "score": 5,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "4e11e4d1ac4126c6",
-   "title": "Coal India unit Mahanadi makes muted debut, valued at $9.6 billion",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZlFJY2VTQW9YYWN4TW9mS2VPOVNPeDN0UmdBYU1mWjFoZXJOMkxXQV9nWmFLNW5IVllOMHp3aVpycVpLTnV4MGg3VzlrX3hBcGtsRjJUNDFaa081S1NkNHdpMjFtS0JUVnhoYWtia3hVTGhmaEtxbWdBbE9GdWd0cnZlNVpPOVZ1blQydHpNNmk2MHZtUEFxYmxGQTc4a1RqRTdVVmJIeHBGZw?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T04:17:00Z",
-   "tickers": [],
-   "cats": [
-    "deal"
-   ],
-   "score": 5,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "4c021f8aa2537e43",
-   "title": "[News] TSMC Affiliate GUC Reportedly Lands Tesla AI5 ASIC Project; 3nm Constraints May Limit Near-Term Ramp-Up",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQanR4RFRjUEo4d1BPeEFEMXhHWnJlWGZQU3JFaUJOd081TUN3ODU3QVIyU0N2SDMzMGsyOUVfbEx3bGQ4OF8wZ0dObm5Ia2JDRkc0T1ZxdllOYmtMTG50cUstWGg1RG9ORDZKUGhjcTU0TVJoTjl6ckNRTWJ4TEtFSGltM2U3UlJaVDRuWGI5bDlveEpTX3J3TzI5N29TazE1cnRLeFNTcml2MTJvMFB3UERmdEtxWkhNMUwtYmJPTDBMVmFhVWRYRm5SUzU4c0RXMFJMV1V0SGVNOHFMQVQ4dVc4YUVQZk5VWl9ERVdYZw?oc=5",
-   "source": "TrendForce",
-   "tier": 2,
-   "published_utc": "2026-11-27T04:13:39Z",
-   "tickers": [
-    "TSLA"
-   ],
-   "cats": [],
-   "score": 3,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "708fb7bedf3f3722",
-   "title": "马克·扎克伯格让 Meta 的Muse处理感恩节晚餐，自己则玩游戏：“烤火鸡大获成功”",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005806544?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T04:13:05Z",
-   "tickers": [
-    "META"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "bfc4da374f462e74",
-   "title": "新兴云服务商被告知须二选一：选择 英伟达 芯片还是中国客户",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005806381?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T04:11:20Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "d7b17b8017f4bff0",
-   "title": "瑞银交易员：可口可乐等防御股动能减弱或为 AI 股筑底信号，但尚未现全面平仓",
-   "summary": "深潮 TechFlow 消息，11 月 27 日，据瑞银（UBS）交易台消息，瑞银股票交易员 Mark Paski 向客户表示，正从拥挤的必选消费防御交易中寻找 AI 股潜在筑底的信号。 Mark Paski 指出，防御板块已出现初步疲态：饮料股开始浮现卖盘，可口可乐（KO）动能减弱，且自 10 月初以来持续走强的可口可乐对英伟达比值（KO/NVDA）近期出现回落。 他表示，若可口可乐、Keurig Dr Pepper（KDP）、宝洁（PG）、高露洁（CL）及沃尔玛（WMT）等防御性标的同步出现实质性抛售，将为风险偏好转向提供更有力证据。不过，瑞银目前尚未观察到防御仓位的大规模平仓，当前仅属早期轮动迹象，尚不足以确认 AI 及半导体股已形成稳固底部。",
-   "link": "https://www.techflowpost.com/newsletter/147181/ubs-traders-coca-cola-defensive-stocks-ai-bottom-signal-no-liquidation",
-   "source": "TechFlow",
-   "tier": null,
-   "published_utc": "2026-11-27T04:04:18Z",
-   "tickers": [
-    "NVDA",
-    "WMT"
-   ],
-   "cats": [],
-   "score": 2,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "1c22eac3fa0b7946",
-   "title": "Spirit of recovery: JPMorgan sees fresh upside in liquor giant Kweichow Moutai",
-   "summary": "Kweichow Moutai has won a rare vote of confidence from Wall Street, with JPMorgan Chase upgrading the Chinese baijiu giant that has been struggling with slowing growth in recent years. The US bank raised its recommendation on Kweichow Moutai’s Shanghai-listed shares to overweight from neutral and set a price target of 1,800 yuan, according to analyst Jessie Xu. The target implies an upside of 24 per cent from the current level. The upgrade marks a reversal in JPMorgan’s stance. Xu had maintained...",
-   "link": "https://www.scmp.com/business/china-business/article/3375983/spirit-recovery-jpmorgan-sees-fresh-upside-liquor-giant-kweichow-moutai",
-   "source": "SCMP",
-   "tier": null,
-   "published_utc": "2026-11-27T04:00:23Z",
-   "tickers": [
-    "JPM"
-   ],
-   "cats": [],
-   "score": 2,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "7112d6d75dd023f1",
-   "title": "SoftBank Group’s ¥1 Trillion Retail Bond Shows More Credit Risk",
-   "summary": "SoftBank Group Corp.’s rising credit risk is starting to show up in its ¥1 trillion ($6.3 billion) retail bond, which had remained relatively resilient even as its overseas bond spreads widened sharply.",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-27/softbank-group-s-1-trillion-retail-bond-shows-more-credit-risk",
-   "source": "BBG",
-   "tier": 1,
-   "published_utc": "2026-11-27T03:56:58Z",
-   "tickers": [],
-   "cats": [
-    "deal"
-   ],
-   "score": 5,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "6b00cb2101f67d17",
-   "title": "高盛研报：AI 投资周期能否持续取决于大客户 ROI，超大规模云厂商 ROIC 仍望超 15%",
-   "summary": "深潮 TechFlow 消息，11 月 27 日，高盛发布题为《什么将决定 AI 投资周期的持续性》的研报，从新云厂商风险与超大规模云厂商回报两方面剖析当前 AI 资本开支周期。 知名投资人 Chamath Palihapitiya 在报告中指出，新云厂商（Neoclouds）面临类似航空公司的结构性错配：以短期、投机性收入对应长期固定负债，其当前算力利用率约 70% 至 75%，低于 80% 至 85% 的盈亏平衡线，叠加硬件升级周期与模型效率提升，经营压力加大。他还提到，数据中心电力基建落地慢于预期，目前几乎没有企业将每股收益（EPS）增长归因于 AI，未来 18 个月最核心的观察指标是大型终端客户能否兑现真实投资回报率（ROI），以及行业能否从「按百万 Token 收费」转向「按结果收费」。 高盛分析师 Eric Sheridan 则相对乐观。他表示，高盛测算显示，即便不将积压订单 100% 转化，超大规模云厂商（Hyperscalers）的投资资本回报率（ROIC）仍有望超过 15%。微软与亚马逊已就 ROIC 给出详细说明，Alphabet 表示其 ROIC 远高于资本成本，Meta 也正受益于 AI 驱动的广告变现加速。",
-   "link": "https://www.techflowpost.com/newsletter/147180/goldman-sachs-ai-investment-cycle-roi-hyperscale-cloud-roic-exceeds-15-percent",
-   "source": "TechFlow",
-   "tier": null,
-   "published_utc": "2026-11-27T03:54:22Z",
-   "tickers": [
-    "AMZN",
-    "GOOGL",
-    "GS",
-    "META",
-    "MSFT"
-   ],
-   "cats": [
-    "deal"
-   ],
-   "score": 5,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "75ea06731e068363",
-   "title": "苹果 美国市占增至57%！机构：高端机保持韧性而大众机萎缩趋势明年将延续",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005804998?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T03:54:00Z",
-   "tickers": [
-    "AAPL"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "5c29f81d47fe557c",
-   "title": "微软 承认 Win11 原生应用开发存在不足，WinUI 手写组件迟到约 4 年",
-   "summary": "",
-   "link": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?futusource=news_search_searchnews&src=39#/index?id=nesSN2026112712023198cdb6f9&s=b",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T03:45:05Z",
-   "tickers": [
-    "MSFT"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "ab2eba938095919c",
-   "title": "暴涨30%后连跌两日， 英伟达 逼近“死亡交叉”",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005804144?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T03:37:56Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "48433b90fb2da3f8",
-   "title": "EU's Von der Leyen: 'Wide support' for $49 billion Ukraine loan plan",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HNVN3eGZPamtWLXNqdGNhWHBXTGN4NklaRUdKSVFUTVk0djgtTGU1Mm9oTVBpWTlHYkNtbGl0NVNhZkthVDBEQXk2ZS1sRGxZeHhTV0ZYTzhieEZTQVlLVmVIYXRoVHM?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T03:33:45Z",
-   "tickers": [],
-   "cats": [
-    "deal"
-   ],
-   "score": 5,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "89edd545104a3d81",
-   "title": "Bloomberg Daybreak Asia: Stocks Rise, Tariff Reactions",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPelhGel9RcnVjYklZSXcwNUhHTGprZ0phc1NCTW1ueW9JS1VHX1d6Unc4MnhVdm8yQnlqUkZEXzd3d3oxMkVFdi1MQjNNWjcydmlGTXAyV2oxbjNmNFlRa21zeXpmdGlkd0ZKcklYcWV0RzZFV1lWTnBoR0VJeTY4ZGp3Q1IwZUgtcG5zYWhQa2plMURhU053dWs3MEE3MUxTdHdnclA3NllCSUVj?oc=5",
-   "source": "Bloomberg.com",
-   "tier": 1,
-   "published_utc": "2026-11-27T03:33:07Z",
-   "tickers": [],
-   "cats": [
-    "reg"
-   ],
-   "score": 5,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "44030b85b06745a2",
-   "title": "亚马逊 巴西15年累计投资超750亿雷亚尔 已建成350个物流中心",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005804163?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T03:30:00Z",
-   "tickers": [
-    "AMZN"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "660e55b55274dc5d",
-   "title": "Trump: 'Market feels very good' about Huang's return as Nvidia CEO",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XbVFpb2oxYzkzN0xRaDhhYlVjbU0wTHhISkowOGhuMVYwQTF1WU9GTDZsanpnZmM2TXdvdkxMMTZyTHY1QmM1aG1uSThHUGZoOUhkWGRnTzZDRi1RMG5qNHBlbkUtMXM?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T03:28:14Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [],
-   "score": 4,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "1beddbd64d94f572",
-   "title": "特斯拉 （ TSLA ）技术分析丨2026年11月27日",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005794552?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T03:11:00Z",
-   "tickers": [
-    "TSLA"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "e572df573bc3cd6b",
-   "title": "台积电 （ TSM ）技术分析丨2026年11月27日",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005794517?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T03:11:00Z",
-   "tickers": [
-    "TSM"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "1469a141cad8a0ca",
-   "title": "美光科技（ MU ）技术分析丨2026年11月27日",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005794344?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T03:11:00Z",
-   "tickers": [
-    "MU"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "9cbf2e7e7a3ff800",
-   "title": "闪迪 （ SNDK ）技术分析丨2026年11月27日",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005794319?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T03:11:00Z",
-   "tickers": [
-    "SNDK"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "fc2171b75d537fb0",
-   "title": "The AI Boom Looks Alive and Well in Asia",
-   "summary": "Stocks are having a wild ride thanks to the Nvidia affair, but AI-linked exports and investment are still driving growth—for now.",
-   "link": "https://www.wsj.com/tech/ai/the-ai-boom-looks-alive-and-well-in-asia-59841697?mod=rss_Technology",
-   "source": "WSJ",
-   "tier": 1,
-   "published_utc": "2026-11-27T03:00:00Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [],
-   "score": 4,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "3fe01852825dcade",
-   "title": "荷兰反对美国 MATCH 法案，拟要求华盛顿不执行对华芯片设备出口限制",
-   "summary": "深潮 TechFlow 消息，11 月 27 日，据路透社报道，荷兰贸易部长 Sjoerd Sjoerdsma 11 月 26 日在议会表示，如果美国国会通过《MATCH 法案》，荷兰将要求美国政府不要执行相关限制措施。 该法案拟要求荷兰、日本等美国盟友进一步收紧对华半导体设备出口管制，否则可能面临美国单方面实施的出口限制，涉及阿斯麦（ASML）的浸没式深紫外光刻（DUV）设备。 Sjoerdsma 表示，荷兰正与欧盟委员会、德国及法国协调，争取阻止法案通过，并将评估必要的反制措施。ASML 预计中国市场将占其今年销售额约 20%。 目前该法案仍处于美国国会审议阶段，尚未正式生效。",
-   "link": "https://www.techflowpost.com/newsletter/147169/netherlands-opposes-us-match-act-chip-export-restrictions",
-   "source": "TechFlow",
-   "tier": null,
-   "published_utc": "2026-11-27T02:57:18Z",
-   "tickers": [
-    "ASML"
-   ],
-   "cats": [],
-   "score": 2,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "5480aef5bb16866c",
-   "title": "Japan’s Upper House Rejects Motion Against Scandal Hit Minister",
-   "summary": "Japan’s upper house failed to pass a no-confidence motion against Prime Minister Sanae Takaichi’s education minister, providing some breathing space for her as she tries to push a sales tax cut bill through parliament in time for its planned April roll-out.",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-27/japan-s-upper-house-rejects-motion-against-scandal-hit-minister",
-   "source": "BBG",
-   "tier": 1,
-   "published_utc": "2026-11-27T02:54:21Z",
-   "tickers": [],
-   "cats": [
-    "reg"
-   ],
-   "score": 5,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "4d746651cf06a1a0",
-   "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
-   "summary": "The shipping halt, which hit four countries, follows a new U.S. rule that would require licenses for companies in the countries to buy advanced A.I. chips.",
-   "link": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
-   "source": "NYT",
-   "tier": 1,
-   "published_utc": "2026-11-27T02:45:41Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [],
-   "score": 4,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "504450735dd7eeb1",
-   "title": "Nifty’s Sharp November Rally Gives India’s IPO Hopefuls a Tailwind",
-   "summary": "Firms have raised about $18.6 billion through IPOs this year, with a flurry of deals expected in December.",
-   "link": "https://www.bloomberg.com/news/newsletters/2026-11-27/nifty-s-sharp-november-rally-gives-india-s-ipo-hopefuls-a-tailwind",
-   "source": "BBG",
-   "tier": 1,
-   "published_utc": "2026-11-27T02:30:22Z",
-   "tickers": [],
-   "cats": [
-    "deal"
-   ],
-   "score": 5,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "cc8d291778e6f3df",
-   "title": "Philippines' trade deficit widens to a record $6.9 billion in October",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUm1LcXZYU3FPbVZuWlpvYjdyYWpTNVBxVi1NaEZSU1M2YnNQTk9IMGVfOGpCazRuNmF6dHBIOXIxR0dOOWRTaHA2aVhFYW5Yd3VHRE5mZEZEcEVodEg3T3pPa2R5QWlwdjdPNDhpakh5Q2QxTVBCTWw3ZzhEZVUzRjJYZm1tZW81aFA1TkpaMEtOcFZTcFRNS2I4WklhN096TWEyZFIwYjNNVDQ?oc=5",
-   "source": "Reuters",
-   "tier": 1,
-   "published_utc": "2026-11-27T02:27:00Z",
-   "tickers": [],
-   "cats": [
-    "deal"
-   ],
-   "score": 5,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "0ba2e7b98367acec",
-   "title": "SpaceX 下调英伟达 Blackwell 现货租金至每小时 10 至 12 美元",
-   "summary": "深潮 TechFlow 消息，11 月 27 日，据 The Information 援引半导体研究机构 SemiAnalysis 数据报道，SpaceX 已将小规模英伟达 Blackwell GPU 集群的现货租赁价格，从每块 GPU 每小时约 15 至 15.5 美元下调至 10 至 12 美元，降幅约为 20% 至 35%。 报道指出，调整后的现货报价已与 SpaceX 向 Anthropic、Google 等大客户出租大规模 GPU 集群的长期协议价基本持平，意味着面向中小买家的短租稀缺溢价正在消退。 不过分析同时强调，此次调价主要发生在 SpaceX 的小规模现货短租市场，不宜据此直接推演为整个 AI 算力租赁市场的全面跌价。随着谷歌等科技巨头自研 AI 芯片产能逐步释放，市场对算力供需格局的关注正在升温。",
-   "link": "https://www.techflowpost.com/newsletter/147165/spacex-cuts-nvidia-blackwell-spot-rental-to-10-12-dollars-hour",
-   "source": "TechFlow",
-   "tier": null,
-   "published_utc": "2026-11-27T02:24:16Z",
-   "tickers": [
-    "GOOGL",
-    "NVDA"
-   ],
-   "cats": [],
-   "score": 2,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "7ffd9ab2409f2bdd",
-   "title": "亚马逊 盯上站外商品，电商平台开始争夺买家的第一站",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005801634?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T02:20:00Z",
-   "tickers": [
-    "AMZN"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "02cf88d24edc1cc8",
-   "title": "Apple rumoured to be working on a large foldable iPad with a 20-inch display.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVF9yT1RMT3Axd0dMTm1oVW5ZUGpPbURGbXp6M00tQ2lrcXFfNENOelVSeWthVGt6R2YxSDFBRF96aWxvNFluQlFURmM4bFJVM0p5UExsdUs2OGJqbnZmVFB1NXlYRVY3ODRGMVRnbldJanNXTk55VVhQcjVSMlZpa0ZoQ096aVBaLVU1bm1zb3FrWDdjZFVPa1Bwd3BDMDFMRHc2dkFNT0haSUFlTnRMcm5fNA?oc=5",
-   "source": "HardwareZone",
-   "tier": null,
-   "published_utc": "2026-11-27T02:14:11Z",
-   "tickers": [
-    "AAPL"
-   ],
-   "cats": [],
-   "score": 2,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "e4f96c0963ef2e32",
-   "title": "JPMorgan, BlackRock Bid for Slice of $543 Billion Singapore Fund",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPenB3UVNnVVFGc2lIMi1sZmF5NkRBdXMyWmltS3dSSnVQNmtjUUJjLWdvdW5uMXZ3dGJKbzBQTGFUV3BWNFFOQTZqSmpUNzhtUTByNzhDNDdLZEJ0RTlSMEt3ZVpNSmxFWnlJQm1TaWE0VV9JbnFQZkp0SmliSTBVcDVQMDUzckZoNXh5WERRMTh6WE9mREc1UHBjczc4TnRxWFpnRDdYTmlIem51TGhPVVM4MjZlMDg?oc=5",
-   "source": "Bloomberg.com",
-   "tier": 1,
-   "published_utc": "2026-11-27T02:07:00Z",
-   "tickers": [
-    "JPM"
-   ],
-   "cats": [
-    "deal"
-   ],
-   "score": 7,
-   "link_is_redirect": true,
-   "sec_filing": false
-  },
-  {
-   "id": "7b8209165f6cbfbd",
-   "title": "The Savvy Showmanship That Helps Jensen Huang Always Come Out on Top",
-   "summary": "As a longtime friend of the Nvidia CEO puts it, “Jensen will always pull a rabbit out of a hat.”",
-   "link": "https://www.wsj.com/business/jensen-huang-nvidia-ping-pong-rise-and-fall-bfd13000?mod=pls_whats_news_us_business_f",
-   "source": "WSJ",
-   "tier": 1,
-   "published_utc": "2026-11-27T02:00:00Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [],
-   "score": 4,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "62dd9ad5e0f9ad10",
-   "title": "Dow Jones Top Company Headlines at 9 PM ET: Nvidia Tells Partners to Pause Shipments to Southeast Asia | Marlboro ...",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005793326?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-27T02:00:00Z",
-   "tickers": [
-    "NVDA"
-   ],
-   "cats": [],
-   "score": 1,
    "link_is_redirect": false,
    "sec_filing": false
   }

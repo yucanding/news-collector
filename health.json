@@ -35,32 +35,32 @@
   "alerted": "2026-11-27T04:10:48.987202Z"
  },
  "gn-kuo-en": {
-  "fails": 1,
-  "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  "fails": 0,
+  "error": null
  },
  "gn-kuo-zh": {
-  "fails": 1,
-  "error": "HTTPError: HTTP Error 503: Service Unavailable"
+  "fails": 0,
+  "error": null
  },
  "gn-t1-exclusive": {
-  "fails": 1,
-  "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  "fails": 0,
+  "error": null
  },
  "gn-t1-mna": {
-  "fails": 1,
-  "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  "fails": 0,
+  "error": null
  },
  "gn-wires": {
-  "fails": 1,
-  "error": "HTTPError: HTTP Error 503: Service Unavailable"
+  "fails": 0,
+  "error": null
  },
  "gn-short": {
-  "fails": 1,
-  "error": "HTTPError: HTTP Error 503: Service Unavailable"
+  "fails": 0,
+  "error": null
  },
  "gn-supply": {
-  "fails": 1,
-  "error": "HTTPError: HTTP Error 503: Service Unavailable"
+  "fails": 0,
+  "error": null
  },
  "gemini": {
   "fails": 0,
