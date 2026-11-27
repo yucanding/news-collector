@@ -1,16 +1,80 @@
 {
- "updated_utc": "2026-11-27T05:40:49.578052Z",
+ "updated_utc": "2026-11-27T05:50:48.159507Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 881,
-  "new": 0,
-  "candidates": 26,
-  "judged": 0,
+  "fetched": 874,
+  "new": 5,
+  "candidates": 31,
+  "judged": 4,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "75cd23f22d1f10e6",
+   "title": "Fast cars, big money: Why sportswear races into Formula 1 as sponsorship spending soars 75%",
+   "summary": "Nike, Adidas and Puma are betting big on Formula 1 as the sport's cultural influence grows and younger audiences fuel its appeal.",
+   "link": "https://www.cnbc.com/2026/11/27/nike-formula-1-sportswear-brands-sponsorship-adidas-puma.html",
+   "source": "CNBC",
+   "tier": 2,
+   "published_utc": "2026-11-27T05:46:04Z",
+   "tickers": [
+    "NKE"
+   ],
+   "cats": [],
+   "score": 3,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "80103fa248e93404",
+   "title": "Starbucks Japan Success Endures Despite Struggles in China, Korea",
+   "summary": "Also, some Japanese are turning to pen and paper for cybersecurity.",
+   "link": "https://www.bloomberg.com/news/newsletters/2026-11-27/starbucks-japan-success-endures-despite-struggles-in-china-korea",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T05:42:58Z",
+   "tickers": [
+    "SBUX"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "7a64e5d25b7f0ace",
+   "title": "Starbucks Japan’s Enduring Popularity Stands Out Amid Global Struggles",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX3RPWTBOYW0taWZXZlRJZXhqTWN6YUtxVEM5cmc5SDRoRUdrVnk0eVhONGhOdFZ1TnRZbnBCZDlvM183NF9kM01SaE9WVXFWeTR4UVo3MG9fQ2IzbkRjOXVzbGRGOGNDVGRGWlBNbkZNQ2QwNVR2cVlsWWZwRko0LUdld1V1Wi03QkViV0tlSHlpTExaZFhFczd4akV1YV9RR29HZzNnYXl5d29oRVhrbVdyZlFOdTlpdHc?oc=5",
+   "source": "Bloomberg.com",
+   "tier": 1,
+   "published_utc": "2026-11-27T05:42:00Z",
+   "tickers": [
+    "SBUX"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
+   "id": "4ce28eb68b8d789f",
+   "title": "How Xi’s Crackdown Brought Down Shanghai’s Rising Political Star",
+   "summary": "Chen Jining had the resume to climb to greater heights. A graft probe ended his ascent.",
+   "link": "https://www.bloomberg.com/news/newsletters/2026-11-27/how-xi-s-crackdown-brought-down-shanghai-s-rising-political-star",
+   "source": "BBG",
+   "tier": 1,
+   "published_utc": "2026-11-27T05:41:07Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
   {
    "id": "13f5e8b0b1be965f",
    "title": "Poor Regulation of $500 Billion Sand Trade Raises Construction Safety Concerns",
@@ -435,6 +499,22 @@
     "deal"
    ],
    "score": 5,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "75ea06731e068363",
+   "title": "苹果 美国市占增至57%！机构：高端机保持韧性而大众机萎缩趋势明年将延续",
+   "summary": "",
+   "link": "https://news.futunn.com/post/1005804998?futusource=news_search_searchnews&src=39",
+   "source": "futu",
+   "tier": 3,
+   "published_utc": "2026-11-27T03:54:00Z",
+   "tickers": [
+    "AAPL"
+   ],
+   "cats": [],
+   "score": 1,
    "link_is_redirect": false,
    "sec_filing": false
   },
@@ -1344,22 +1424,6 @@
     "deal"
    ],
    "score": 7,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "01837aea79fc3164",
-   "title": "Altria explores takeover bid for Imperial Brands",
-   "summary": "Deal would remove another of the UK’s large listed companies from the London stock market Oliver Barnes",
-   "link": "https://www.ft.com/content/696e99b0-f6d1-4a1a-95b0-f68de88520d9?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss",
-   "source": "FT",
-   "tier": 1,
-   "published_utc": "2026-11-26T17:46:48Z",
-   "tickers": [],
-   "cats": [
-    "mna"
-   ],
-   "score": 6,
    "link_is_redirect": false,
    "sec_filing": false
   }
