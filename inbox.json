@@ -1,16 +1,32 @@
 {
- "updated_utc": "2026-11-27T07:10:50.363912Z",
+ "updated_utc": "2026-11-27T07:20:49.140326Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 839,
-  "new": 3,
-  "candidates": 26,
-  "judged": 2,
+  "fetched": 880,
+  "new": 1,
+  "candidates": 24,
+  "judged": 1,
   "pushed": 0
  },
  "items": [
+  {
+   "id": "2fa9d9b8e6b624de",
+   "title": "New Tariffs on China Risk Undermining Trade Truce With U.S.",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUcwQ3JjLUlNWjhSZnFuYWMzVEFGd0RMR2lZT2VmWUdBejNHckpxbWFSb0lsTUNuTzktdm9qTk94eTgxMXFRQkplOTdZZkFDSEVaUkVZcWFfb1lEMTNEVzFHd013bXhoRFU4ajZjOTB0UXFhM1FacVliRVdqcFY5dG11UURVYmFZang5ZEpaZEVCazhBMjFz?oc=5",
+   "source": "WSJ",
+   "tier": 1,
+   "published_utc": "2026-11-27T07:13:41Z",
+   "tickers": [],
+   "cats": [
+    "reg"
+   ],
+   "score": 5,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
   {
    "id": "5f727dd29e5c2c68",
    "title": "A 股创业板指收涨 11.61%，创 2024 年 10 月 8 日以来最大单日涨幅",
@@ -1668,23 +1684,6 @@
    "published_utc": "2026-11-26T19:30:08Z",
    "tickers": [
     "TSLA"
-   ],
-   "cats": [],
-   "score": 1,
-   "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "accc325b65121838",
-   "title": "谷歌的 亚马逊 盲点：Gemini 推荐 亚马逊 的频率高于任何其他零售商，但从不提供链接",
-   "summary": "",
-   "link": "https://news.futunn.com/post/1005775097?futusource=news_search_searchnews&src=39",
-   "source": "futu",
-   "tier": 3,
-   "published_utc": "2026-11-26T19:20:07Z",
-   "tickers": [
-    "AMZN",
-    "GOOGL"
    ],
    "cats": [],
    "score": 1,
