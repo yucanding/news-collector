@@ -1,13 +1,13 @@
 {
- "updated_utc": "2026-11-27T06:20:52.326640Z",
+ "updated_utc": "2026-11-27T06:31:06.970092Z",
  "window_hours": 12,
  "stale": false,
  "errors": {},
  "counts": {
-  "fetched": 899,
+  "fetched": 884,
   "new": 3,
-  "candidates": 29,
-  "judged": 1,
+  "candidates": 25,
+  "judged": 0,
   "pushed": 0
  },
  "items": [
@@ -161,6 +161,22 @@
    "sec_filing": false
   },
   {
+   "id": "7a64e5d25b7f0ace",
+   "title": "Starbucks Japan’s Enduring Popularity Stands Out Amid Global Struggles",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX3RPWTBOYW0taWZXZlRJZXhqTWN6YUtxVEM5cmc5SDRoRUdrVnk0eVhONGhOdFZ1TnRZbnBCZDlvM183NF9kM01SaE9WVXFWeTR4UVo3MG9fQ2IzbkRjOXVzbGRGOGNDVGRGWlBNbkZNQ2QwNVR2cVlsWWZwRko0LUdld1V1Wi03QkViV0tlSHlpTExaZFhFczd4akV1YV9RR29HZzNnYXl5d29oRVhrbVdyZlFOdTlpdHc?oc=5",
+   "source": "Bloomberg.com",
+   "tier": 1,
+   "published_utc": "2026-11-27T05:45:09Z",
+   "tickers": [
+    "SBUX"
+   ],
+   "cats": [],
+   "score": 4,
+   "link_is_redirect": true,
+   "sec_filing": false
+  },
+  {
    "id": "80103fa248e93404",
    "title": "Starbucks Japan Success Endures Despite Struggles in China, Korea",
    "summary": "Also, some Japanese are turning to pen and paper for cybersecurity.",
@@ -174,22 +190,6 @@
    "cats": [],
    "score": 4,
    "link_is_redirect": false,
-   "sec_filing": false
-  },
-  {
-   "id": "7a64e5d25b7f0ace",
-   "title": "Starbucks Japan’s Enduring Popularity Stands Out Amid Global Struggles",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX3RPWTBOYW0taWZXZlRJZXhqTWN6YUtxVEM5cmc5SDRoRUdrVnk0eVhONGhOdFZ1TnRZbnBCZDlvM183NF9kM01SaE9WVXFWeTR4UVo3MG9fQ2IzbkRjOXVzbGRGOGNDVGRGWlBNbkZNQ2QwNVR2cVlsWWZwRko0LUdld1V1Wi03QkViV0tlSHlpTExaZFhFczd4akV1YV9RR29HZzNnYXl5d29oRVhrbVdyZlFOdTlpdHc?oc=5",
-   "source": "Bloomberg.com",
-   "tier": 1,
-   "published_utc": "2026-11-27T05:42:00Z",
-   "tickers": [
-    "SBUX"
-   ],
-   "cats": [],
-   "score": 4,
-   "link_is_redirect": true,
    "sec_filing": false
   },
   {
@@ -1231,6 +1231,22 @@
    "sec_filing": false
   },
   {
+   "id": "5f315d38838285d5",
+   "title": "Trump: will likely talk to Nvidia's Huang shortly",
+   "summary": "",
+   "link": "https://www.financialjuice.com/News/9869848/Trump-will-likely-talk-to-Nvidias-Huang-shortly.aspx",
+   "source": "FinancialJuice",
+   "tier": 3,
+   "published_utc": "2026-11-26T23:54:38Z",
+   "tickers": [
+    "NVDA"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
    "id": "45c55b110fdf3f05",
    "title": "日本电力公司JERA据悉同Anthropic、 Meta 等科技巨头洽谈数据中心事宜",
    "summary": "",
@@ -1345,10 +1361,44 @@
    "sec_filing": false
   },
   {
+   "id": "e90f20d9bb36e31a",
+   "title": "Japan's Jera aims to build Anthropic and Meta data centers near power plants - Nikkei $META",
+   "summary": "",
+   "link": "https://www.financialjuice.com/News/9869800/Japans-Jera-aims-to-build-Anthropic-and-Meta-data-centers-near-power-plants---Nikkei-META.aspx",
+   "source": "FinancialJuice",
+   "tier": 3,
+   "published_utc": "2026-11-26T21:56:45Z",
+   "tickers": [
+    "META"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
    "id": "68eeef1a4893ce50",
    "title": "Jera Global CEO and Chair: The energy group is in discussions with Amazon, Microsoft, and Google - Nikkei. $GOOGL $AMZN $MSFT",
    "summary": "",
    "link": "https://www.financialjuice.com/News/9869799/Jera-Global-CEO-and-Chair-The-energy-group-is-in-discussions-with-Amazon-Microsoft-and-Google---Nikkei-GOOGL-AMZN-MSFT.aspx?xy=rss",
+   "source": "FinancialJuice",
+   "tier": 3,
+   "published_utc": "2026-11-26T21:56:10Z",
+   "tickers": [
+    "AMZN",
+    "GOOGL",
+    "MSFT"
+   ],
+   "cats": [],
+   "score": 1,
+   "link_is_redirect": false,
+   "sec_filing": false
+  },
+  {
+   "id": "990b9fc697542797",
+   "title": "Jera Global CEO and Chair: The energy group is in discussions with Amazon, Microsoft, and Google - Nikkei. $GOOGL $AMZN $MSFT",
+   "summary": "",
+   "link": "https://www.financialjuice.com/News/9869799/Jera-Global-CEO-and-Chair-The-energy-group-is-in-discussions-with-Amazon-Microsoft-and-Google---Nikkei-GOOGL-AMZN-MSFT.aspx",
    "source": "FinancialJuice",
    "tier": 3,
    "published_utc": "2026-11-26T21:56:10Z",
